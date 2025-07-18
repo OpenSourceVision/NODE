@@ -1,0 +1,18 @@
+{
+  "name": "node-proxy-classifier",
+  "version": "1.0.0",
+  "description": "智能节点分类器：从URL拉取代理节点，自动去重并按协议分类输出",
+  "main": "smart-enhanced.js",
+  "scripts": {
+    "start": "node smart-enhanced.js",
+    "clean": "rimraf out/* raw/*"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "yaml": "^2.3.4",
+    "fs-extra": "^11.2.0"
+  },
+  "keywords": ["proxy", "node", "classifier"],
+  "author": "",
+  "license": "MIT"
+}

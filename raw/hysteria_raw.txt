@@ -1,0 +1,124 @@
+proxies:
+  - name: 甜瓜🍈013
+    type: hysteria
+    server: 176.32.35.226
+    port: 62003
+    auth_str: dongtaiwang.com
+    protocol: udp
+    up: "11"
+    down: "55"
+    skip-cert-verify: true
+    alpn:
+      - h3
+  - name: 糖醋鱼🐟6
+    type: hysteria
+    server: 185.22.155.71
+    port: 10803
+    auth_str: dongtaiwang.com
+    protocol: udp
+    up: "1000"
+    down: "1000"
+    skip-cert-verify: true
+    alpn:
+      - h3
+  - name: 🐻6
+    type: hysteria
+    server: 51.159.226.1
+    port: 14241
+    auth_str: dongtaiwang.com
+    protocol: udp
+    up: "100"
+    down: "100"
+    skip-cert-verify: true
+    alpn:
+      - h3
+  - alpn:
+      - h3
+    auth_str: dongtaiwang.com
+    down: "1000"
+    name: 🇷🇺RU_1 |673KB/s
+    obfs: ""
+    port: 10803
+    protocol: ""
+    server: 185.22.155.71
+    skip-cert-verify: true
+    sni: www.bing.com
+    type: hysteria
+    up: "1000"
+    auth-str: dongtaiwang.com
+  - alpn:
+      - h3
+    auth_str: dongtaiwang.com
+    down: "50"
+    name: 🇺🇸US_2 |2.8MB/s
+    obfs: ""
+    port: 11512
+    protocol: ""
+    server: 108.181.24.77
+    skip-cert-verify: true
+    sni: apple.com
+    type: hysteria
+    up: "10"
+    auth-str: dongtaiwang.com
+  - alpn:
+      - h3
+    auth_str: dongtaiwang.com
+    down: "50"
+    name: 🇺🇸US_3 |2.6MB/s
+    obfs: ""
+    port: 17549
+    protocol: ""
+    server: 208.87.243.151
+    skip-cert-verify: true
+    sni: www.bing.com
+    type: hysteria
+    up: "10"
+    auth-str: dongtaiwang.com
+  - alpn:
+      - h3
+    auth_str: dongtaiwang.com
+    down: "100"
+    name: 🇺🇸US_4 |2.6MB/s
+    obfs: ""
+    port: 40528
+    protocol: ""
+    server: 208.87.243.187
+    skip-cert-verify: true
+    sni: apple.com
+    type: hysteria
+    up: "100"
+    auth-str: dongtaiwang.com
+  - alpn:
+      - h3
+    auth_str: dongtaiwang.com
+    down: "55"
+    name: ❓Other_1 |2.1MB/s
+    obfs: ""
+    port: 46938
+    protocol: ""
+    server: 195.154.200.178
+    skip-cert-verify: true
+    sni: apple.com
+    type: hysteria
+    up: "11"
+    auth-str: dongtaiwang.com
+  - type: hysteria
+    url: hysteria://185.22.155.71:10803?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&alpn=h3&recv_window=230686720&recv_window_conn=57671680&peer=apple.com&protocol=udp&udp=true&fastopen=1#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E6%B3%BD%E5%88%97%E8%AF%BA%E6%A0%BC%E5%8B%92%2001
+    protocol: hysteria
+    originalUrl: hysteria://185.22.155.71:10803?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&alpn=h3&recv_window=230686720&recv_window_conn=57671680&peer=apple.com&protocol=udp&udp=true&fastopen=1#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E6%B3%BD%E5%88%97%E8%AF%BA%E6%A0%BC%E5%8B%92%2001
+  - type: hysteria
+    url: hysteria://176.32.35.226:62003?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&obfsParam=undefined&peer=apple.com&protocol=udp&udp=true&fastopen=1#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E8%8E%AB%E6%96%AF%E7%A7%91%2004
+    protocol: hysteria
+    originalUrl: hysteria://176.32.35.226:62003?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&obfsParam=undefined&peer=apple.com&protocol=udp&udp=true&fastopen=1#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E8%8E%AB%E6%96%AF%E7%A7%91%2004
+  - type: hysteria
+    url: hysteria://208.87.243.151:17549?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&alpn=h3&recv_window=230686720&recv_window_conn=57671680&peer=www.bing.com&protocol=udp&udp=true&fastopen=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%B4%9B%E6%9D%89%E7%9F%B6%2001
+    protocol: hysteria
+    originalUrl: hysteria://208.87.243.151:17549?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&alpn=h3&recv_window=230686720&recv_window_conn=57671680&peer=www.bing.com&protocol=udp&udp=true&fastopen=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%B4%9B%E6%9D%89%E7%9F%B6%2001
+  - type: hysteria
+    url: hysteria://208.87.243.187:40528?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&alpn=h3&recv_window=23068672&recv_window_conn=5767168&peer=apple.com&protocol=udp&udp=true&fastopen=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%B4%9B%E6%9D%89%E7%9F%B6%2002
+    protocol: hysteria
+    originalUrl: hysteria://208.87.243.187:40528?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&alpn=h3&recv_window=23068672&recv_window_conn=5767168&peer=apple.com&protocol=udp&udp=true&fastopen=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%B4%9B%E6%9D%89%E7%9F%B6%2002
+  - type: hysteria
+    url: hysteria://108.181.24.77:11512?auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=11512&obfs=&protocol=udp&fastopen=1&peer=apple.com&udp=true#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%B4%9B%E6%9D%89%E7%9F%B6%2005
+    protocol: hysteria
+    originalUrl: hysteria://108.181.24.77:11512?auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=11512&obfs=&protocol=udp&fastopen=1&peer=apple.com&udp=true#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%B4%9B%E6%9D%89%E7%9F%B6%2005

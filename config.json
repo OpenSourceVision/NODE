@@ -1,0 +1,27 @@
+{
+  "network": {
+    "timeout": 45000,
+    "retries": 3,
+    "maxRedirects": 5,
+    "ignoreSSLErrors": true
+  },
+  "output": {
+    "directory": "out",
+    "saveRawFiles": true,
+    "base64Encode": true
+  },
+  "parsing": {
+    "supportedProtocols": [
+      "ss", "ssr", "vmess", "vless", "trojan",
+      "hysteria", "hysteria2", "tuic", "wireguard",
+      "socks5", "socks4"
+    ],
+    "skipComments": true,
+    "skipEmptyLines": true
+  },
+  "logging": {
+    "level": "info",
+    "showProgress": true,
+    "saveLog": false
+  }
+}

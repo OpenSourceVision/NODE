@@ -1,0 +1,73 @@
+proxies:
+  - name: 黄焖鸡008
+    type: ss
+    server: pr.fastsoonlink.com
+    port: 40030
+    cipher: chacha20-ietf-poly1305
+    password: 7905a32b-012c-4711-89e2-73b6713eca75
+    udp: true
+    skip-cert-verify: true
+    tfo: false
+  - name: 圆🚪射🐔004
+    type: ss
+    server: switcher-nick-croquet.freesocks.work
+    port: 443
+    cipher: chacha20-ietf-poly1305
+    password: 9tqhMdIrTkgQ46PvhyAtMH
+    udp: true
+    skip-cert-verify: true
+    tfo: false
+  - name: 水星024
+    type: ss
+    server: 103.186.154.26
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+    skip-cert-verify: true
+    tfo: false
+  - name: 企鹅🐧003
+    type: ss
+    server: 103.186.154.36
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+    skip-cert-verify: true
+    tfo: false
+  - name: 🐦人007
+    type: ss
+    server: 103.186.155.30
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+    skip-cert-verify: true
+    tfo: false
+  - name: 日杂
+    type: ss
+    server: 103.163.218.2
+    port: 989
+    cipher: aes-256-cfb
+    password: f8f7aCzcPKbsF8p3
+    udp: true
+    skip-cert-verify: true
+    tfo: false
+  - name: 西瓜🍉005
+    type: ss
+    server: 152.53.2.128
+    port: 34045
+    cipher: aes-256-gcm
+    password: TG:@Enkelte_notif&&TG:@Notif_Chat
+    udp: true
+    skip-cert-verify: true
+    tfo: false
+  - name: 圆🚪射🐔030
+    type: ss
+    server: aio.unlimited.biz.id
+    port: 443
+    cipher: none
+    password: f282b878-8711-45a1-8c69-5564172123c1
+    udp: true
+    skip-cert-verify: true
+    tfo: false
