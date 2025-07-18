@@ -181,21 +181,32 @@ function parseNodes(data) {
         
         for (const line of lines) {
             const trimmedLine = line.trim();
-            if (trimmedLine && 
-                (!config.parsing?.skipComments || (!trimmedLine.startsWith('#') && !trimmedLine.startsWith('//')))) {
-                
-                const supportedProtocols = config.parsing?.supportedProtocols || [
-                    'ss', 'ssr', 'vmess', 'vless', 'trojan', 'hysteria', 'hysteria2', 'tuic', 'wireguard'
-                ];
-                
-                const protocolPrefixes = supportedProtocols.map(p => `${p}://`);
-                
-                if (protocolPrefixes.some(prefix => trimmedLine.startsWith(prefix))) {
-                    const parsedNode = parseProxyUrl(trimmedLine);
-                    if (parsedNode) {
-                        nodes.push(parsedNode);
-                        lineNodeCount++;
-                    }
+            
+            // 跳过空行和Git合并冲突标记
+            if (!trimmedLine || 
+                trimmedLine.startsWith('<<<<<<<') || 
+                trimmedLine.startsWith('=======') || 
+                trimmedLine.startsWith('>>>>>>>')) {
+                continue;
+            }
+            
+            // 跳过注释行（如果配置了跳过注释）
+            if (config.parsing?.skipComments && 
+                (trimmedLine.startsWith('#') || trimmedLine.startsWith('//'))) {
+                continue;
+            }
+            
+            const supportedProtocols = config.parsing?.supportedProtocols || [
+                'ss', 'ssr', 'vmess', 'vless', 'trojan', 'hysteria', 'hysteria2', 'tuic', 'wireguard'
+            ];
+            
+            const protocolPrefixes = supportedProtocols.map(p => `${p}://`);
+            
+            if (protocolPrefixes.some(prefix => trimmedLine.startsWith(prefix))) {
+                const parsedNode = parseProxyUrl(trimmedLine);
+                if (parsedNode) {
+                    nodes.push(parsedNode);
+                    lineNodeCount++;
                 }
             }
         }
@@ -503,13 +514,15 @@ async function saveDeduplicatedNodes(classifiedNodes) {
             let content = '';
             
             if (nodes.length > 0) {
+                let lines = [];
+                
                 if (typeof nodes[0] === 'string') {
-                    content = nodes.join('\n');
+                    lines = nodes;
                 } else if (nodes[0].url) {
-                    content = nodes.map(node => node.url).join('\n');
+                    lines = nodes.map(node => node.url);
                 } else {
                     // 对于YAML格式的节点，转换为URI格式
-                    const uriNodes = nodes.map(node => {
+                    lines = nodes.map(node => {
                         // 如果节点有完整的URI信息，直接返回
                         if (node.originalUrl) {
                             return node.originalUrl;
@@ -524,9 +537,18 @@ async function saveDeduplicatedNodes(classifiedNodes) {
                         // 如果转换失败，保持YAML格式
                         return yaml.stringify(node).trim();
                     }).filter(uri => uri && uri.trim());
-                    
-                    content = uriNodes.join('\n');
                 }
+                
+                // 过滤空行和Git冲突标记，确保输出文件没有空行
+                const filteredLines = lines
+                    .filter(line => line != null && line !== undefined)
+                    .map(line => String(line).trim())
+                    .filter(line => line && 
+                            !line.startsWith('<<<<<<<') && 
+                            !line.startsWith('=======') && 
+                            !line.startsWith('>>>>>>>'));
+                
+                content = filteredLines.join('\n');
             }
             
             // 保存URI格式文件
@@ -580,7 +602,16 @@ async function saveAllNodesFile(classifiedNodes) {
     
     if (allNodes.length > 0) {
         try {
-            const content = allNodes.join('\n');
+            // 过滤空行和Git冲突标记，确保输出文件没有空行
+            const filteredNodes = allNodes
+                .filter(line => line != null && line !== undefined)
+                .map(line => String(line).trim())
+                .filter(line => line && 
+                        !line.startsWith('<<<<<<<') && 
+                        !line.startsWith('=======') && 
+                        !line.startsWith('>>>>>>>'));
+            
+            const content = filteredNodes.join('\n');
             
             // 保存URI格式文件
             const filepath = path.join(outDir, 'all.txt');
