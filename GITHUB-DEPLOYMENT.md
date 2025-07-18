@@ -44,6 +44,15 @@ urls:
 2. 点击 "Actions" 标签页
 3. 如果首次使用，点击 "I understand my workflows, go ahead and enable them"
 
+### 5. 配置仓库权限
+
+确保 GitHub Actions 有足够的权限：
+1. 进入仓库的 "Settings" 页面
+2. 点击左侧菜单的 "Actions" → "General"
+3. 在 "Workflow permissions" 部分选择 "Read and write permissions"
+4. 勾选 "Allow GitHub Actions to create and approve pull requests"
+5. 点击 "Save" 保存设置
+
 ## ⚙️ 运行方式
 
 ### 自动运行
@@ -128,9 +137,13 @@ schedule:
 - 确认网络连接正常
 - 检查配置文件中的协议支持列表
 
-**问题 3：提交失败**
-- 确保仓库有写入权限
-- 检查 GitHub Token 权限设置
+**问题 3：提交失败（403 错误）**
+- 检查仓库的 Actions 权限设置：
+  - 进入 Settings → Actions → General
+  - 选择 "Read and write permissions"
+  - 勾选 "Allow GitHub Actions to create and approve pull requests"
+- 确保您是仓库的所有者或有写入权限
+- 如果是 Fork 的仓库，确保在您自己的账户下
 
 ### 调试步骤
 

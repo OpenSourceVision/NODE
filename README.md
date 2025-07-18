@@ -105,7 +105,8 @@ npm run clean
 
 ### 📖 详细部署指南
 
-查看 [GitHub 部署指南](GITHUB-DEPLOYMENT.md) 获取完整的部署和配置说明。
+- 查看 [GitHub 部署指南](GITHUB-DEPLOYMENT.md) 获取完整的部署和配置说明
+- 查看 [故障排除指南](TROUBLESHOOTING.md) 解决常见问题
 
 ## 注意事项
 

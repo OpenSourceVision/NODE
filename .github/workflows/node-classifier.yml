@@ -13,6 +13,11 @@ on:
       - 'config.json'
       - 'smart-enhanced.js'
 
+# 添加必要的权限
+permissions:
+  contents: write
+  actions: read
+
 jobs:
   classify-nodes:
     runs-on: ubuntu-latest
@@ -47,7 +52,11 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add out/ raw/
-        git diff --staged --quiet || git commit -m "自动更新节点分类 - $(date '+%Y-%m-%d %H:%M:%S')"
-        git push
+        if ! git diff --staged --quiet; then
+          git commit -m "自动更新节点分类 - $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
+        else
+          echo "没有文件变更，跳过提交"
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
