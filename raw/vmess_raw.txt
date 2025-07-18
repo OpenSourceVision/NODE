@@ -11,12 +11,12 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 863641212150092025071821305661533.fr.chibaba.filegear-sg.me
+        Host: 679543099157832025071822051498759.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305661533.fr.chibaba.filegear-sg.me
+      Host: 2025071822051498759.fr.chibaba.filegear-sg.me
       headers:
-        Host: 201554292491362025071821305661533.fr.chibaba.filegear-sg.me
+        Host: 802470470113412025071822051498759.fr.chibaba.filegear-sg.me
   - name: 2免费节点-法国
     type: vmess
     server: 104.25.241.131
@@ -29,12 +29,12 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 706852954886482025071821305645857.fr.chibaba.filegear-sg.me
+        Host: 44356328124382025071822051453331.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305645857.fr.chibaba.filegear-sg.me
+      Host: 2025071822051453331.fr.chibaba.filegear-sg.me
       headers:
-        Host: 433521897774802025071821305645857.fr.chibaba.filegear-sg.me
+        Host: 778056154267332025071822051453331.fr.chibaba.filegear-sg.me
   - name: 3免费节点-法国
     type: vmess
     server: 162.159.134.233
@@ -47,12 +47,12 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 965202826100982025071821305647351.fr.chibaba.filegear-sg.me
+        Host: 401496337147352025071822051491395.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305647351.fr.chibaba.filegear-sg.me
+      Host: 2025071822051491395.fr.chibaba.filegear-sg.me
       headers:
-        Host: 213241808913402025071821305647351.fr.chibaba.filegear-sg.me
+        Host: 166080485493572025071822051491395.fr.chibaba.filegear-sg.me
   - name: 4免费节点-法国
     type: vmess
     server: 172.66.0.248
@@ -65,12 +65,12 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 611190479356932025071821305620254.fr.chibaba.filegear-sg.me
+        Host: 677949622374992025071822051496877.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305620254.fr.chibaba.filegear-sg.me
+      Host: 2025071822051496877.fr.chibaba.filegear-sg.me
       headers:
-        Host: 108799973786112025071821305620254.fr.chibaba.filegear-sg.me
+        Host: 437135796485912025071822051496877.fr.chibaba.filegear-sg.me
   - name: 5免费节点-法国
     type: vmess
     server: 172.67.70.104
@@ -83,12 +83,12 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 829646540609262025071821305687686.fr.chibaba.filegear-sg.me
+        Host: 280767146659102025071822051483282.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305687686.fr.chibaba.filegear-sg.me
+      Host: 2025071822051483282.fr.chibaba.filegear-sg.me
       headers:
-        Host: 148760916786802025071821305687686.fr.chibaba.filegear-sg.me
+        Host: 696326519438882025071822051483282.fr.chibaba.filegear-sg.me
   - name: 6免费节点-法国
     type: vmess
     server: 104.22.24.100
@@ -101,12 +101,12 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 938232436472032025071821305681629.fr.chibaba.filegear-sg.me
+        Host: 396810893848072025071822051434509.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305681629.fr.chibaba.filegear-sg.me
+      Host: 2025071822051434509.fr.chibaba.filegear-sg.me
       headers:
-        Host: 107123509577612025071821305681629.fr.chibaba.filegear-sg.me
+        Host: 821330182377682025071822051434509.fr.chibaba.filegear-sg.me
   - name: 7免费节点-法国
     type: vmess
     server: 172.67.255.57
@@ -119,12 +119,12 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 587410645994882025071821305684107.fr.chibaba.filegear-sg.me
+        Host: 417392118351752025071822051461222.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305684107.fr.chibaba.filegear-sg.me
+      Host: 2025071822051461222.fr.chibaba.filegear-sg.me
       headers:
-        Host: 290241257388562025071821305684107.fr.chibaba.filegear-sg.me
+        Host: 500666518352025071822051461222.fr.chibaba.filegear-sg.me
   - name: 8免费节点-法国
     type: vmess
     server: 104.25.136.155
@@ -137,12 +137,12 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 458850379518402025071821305638606.fr.chibaba.filegear-sg.me
+        Host: 923290984433862025071822051441369.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305638606.fr.chibaba.filegear-sg.me
+      Host: 2025071822051441369.fr.chibaba.filegear-sg.me
       headers:
-        Host: 532527655630152025071821305638606.fr.chibaba.filegear-sg.me
+        Host: 716524717522372025071822051441369.fr.chibaba.filegear-sg.me
   - name: 9免费节点-法国
     type: vmess
     server: 172.66.3.216
@@ -155,12 +155,12 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 640460289849612025071821305665710.fr.chibaba.filegear-sg.me
+        Host: 108667510107572025071822051481472.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305665710.fr.chibaba.filegear-sg.me
+      Host: 2025071822051481472.fr.chibaba.filegear-sg.me
       headers:
-        Host: 844591614205882025071821305665710.fr.chibaba.filegear-sg.me
+        Host: 382232972299932025071822051481472.fr.chibaba.filegear-sg.me
   - name: 10免费节点-法国
     type: vmess
     server: 104.24.28.238
@@ -173,15 +173,15 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 382444826614972025071821305641226.fr.chibaba.filegear-sg.me
+        Host: 319549697635252025071822051492329.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305641226.fr.chibaba.filegear-sg.me
+      Host: 2025071822051492329.fr.chibaba.filegear-sg.me
       headers:
-        Host: 507810763300542025071821305641226.fr.chibaba.filegear-sg.me
+        Host: 306829803646472025071822051492329.fr.chibaba.filegear-sg.me
   - name: 11免费节点-法国
     type: vmess
-    server: 172.67.197.120
+    server: 172.64.94.134
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -191,15 +191,15 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 390622705953062025071821305662603.fr.chibaba.filegear-sg.me
+        Host: 217901757662372025071822051494515.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305662603.fr.chibaba.filegear-sg.me
+      Host: 2025071822051494515.fr.chibaba.filegear-sg.me
       headers:
-        Host: 837545203966482025071821305662603.fr.chibaba.filegear-sg.me
+        Host: 63241328701032025071822051494515.fr.chibaba.filegear-sg.me
   - name: 12免费节点-法国
     type: vmess
-    server: 172.67.185.213
+    server: 172.67.32.208
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -209,15 +209,15 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 776748270944402025071821305667081.fr.chibaba.filegear-sg.me
+        Host: 675308790896032025071822051453036.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305667081.fr.chibaba.filegear-sg.me
+      Host: 2025071822051453036.fr.chibaba.filegear-sg.me
       headers:
-        Host: 386976934857162025071821305667081.fr.chibaba.filegear-sg.me
+        Host: 288847781656462025071822051453036.fr.chibaba.filegear-sg.me
   - name: 13免费节点-法国
     type: vmess
-    server: 172.67.46.166
+    server: 104.21.42.178
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -227,15 +227,15 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 623066563761182025071821305635028.fr.chibaba.filegear-sg.me
+        Host: 262765428449552025071822051442766.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305635028.fr.chibaba.filegear-sg.me
+      Host: 2025071822051442766.fr.chibaba.filegear-sg.me
       headers:
-        Host: 268178639898982025071821305635028.fr.chibaba.filegear-sg.me
+        Host: 242761534582512025071822051442766.fr.chibaba.filegear-sg.me
   - name: 14免费节点-法国
     type: vmess
-    server: 172.67.128.128
+    server: 172.67.13.74
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -245,15 +245,15 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 768098544528572025071821305626911.fr.chibaba.filegear-sg.me
+        Host: 902124683774762025071822051413069.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305626911.fr.chibaba.filegear-sg.me
+      Host: 2025071822051413069.fr.chibaba.filegear-sg.me
       headers:
-        Host: 834869212727802025071821305626911.fr.chibaba.filegear-sg.me
+        Host: 557043436589362025071822051413069.fr.chibaba.filegear-sg.me
   - name: 15免费节点-法国
     type: vmess
-    server: 172.67.186.232
+    server: 172.67.75.4
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -263,15 +263,15 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 423509072482272025071821305682144.fr.chibaba.filegear-sg.me
+        Host: 249222642262932025071822051456013.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305682144.fr.chibaba.filegear-sg.me
+      Host: 2025071822051456013.fr.chibaba.filegear-sg.me
       headers:
-        Host: 837237559295512025071821305682144.fr.chibaba.filegear-sg.me
+        Host: 611027124898912025071822051456013.fr.chibaba.filegear-sg.me
   - name: 16免费节点-法国-V6
     type: vmess
-    server: 2606:4700:18:13ea:b6aa:898c:588:8e39
+    server: 2606:4700:8ca9:b83c:74e:aaf4:8790:f994
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -281,15 +281,15 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 314166858842562025071821305662204.fr.chibaba.filegear-sg.me
+        Host: 225750722926682025071822051423263.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305662204.fr.chibaba.filegear-sg.me
+      Host: 2025071822051423263.fr.chibaba.filegear-sg.me
       headers:
-        Host: 349229128865082025071821305662204.fr.chibaba.filegear-sg.me
+        Host: 579303231125502025071822051423263.fr.chibaba.filegear-sg.me
   - name: 17免费节点-法国-V6
     type: vmess
-    server: 2606:4700:8dea:de8d:699c:76bb:7879:fc7b
+    server: 2606:4700:90ce:f717:f57f:3c0b:265a:3ad5
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -299,15 +299,15 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 466353764703932025071821305650895.fr.chibaba.filegear-sg.me
+        Host: 317495172224652025071822051467422.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305650895.fr.chibaba.filegear-sg.me
+      Host: 2025071822051467422.fr.chibaba.filegear-sg.me
       headers:
-        Host: 787487688692902025071821305650895.fr.chibaba.filegear-sg.me
+        Host: 835491068618942025071822051467422.fr.chibaba.filegear-sg.me
   - name: 18免费节点-法国-V6
     type: vmess
-    server: 2606:4700:90d8:b76d:8aed:e8a6:e41:3db0
+    server: 2606:4700:3019:258a:dfc0:f2d3:dd8e:b8bc
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -317,15 +317,15 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 493013497816502025071821305624079.fr.chibaba.filegear-sg.me
+        Host: 995378936770852025071822051450451.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305624079.fr.chibaba.filegear-sg.me
+      Host: 2025071822051450451.fr.chibaba.filegear-sg.me
       headers:
-        Host: 214683336341452025071821305624079.fr.chibaba.filegear-sg.me
+        Host: 484756282087502025071822051450451.fr.chibaba.filegear-sg.me
   - name: 19免费节点-法国-V6
     type: vmess
-    server: 2606:4700:18:e5ae:86a8:395a:9201:1a44
+    server: 2606:4700:3019:90ea:2550:de7d:32f8:a942
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -335,15 +335,15 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 323380320875472025071821305620100.fr.chibaba.filegear-sg.me
+        Host: 923700648663572025071822051464670.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305620100.fr.chibaba.filegear-sg.me
+      Host: 2025071822051464670.fr.chibaba.filegear-sg.me
       headers:
-        Host: 79216007069332025071821305620100.fr.chibaba.filegear-sg.me
+        Host: 281739629221252025071822051464670.fr.chibaba.filegear-sg.me
   - name: 20免费节点-法国-V6
     type: vmess
-    server: 2606:4700:18:e5ae:86a8:395a:9201:1a44
+    server: 2606:4700:3019:90ea:2550:de7d:32f8:a942
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -353,12 +353,12 @@ proxies:
     ws-opts:
       path: /index.html
       headers:
-        Host: 400096438517792025071821305637248.fr.chibaba.filegear-sg.me
+        Host: 732372374726452025071822051427176.fr.chibaba.filegear-sg.me
     ws-path: /index.html
     ws-headers:
-      Host: 2025071821305637248.fr.chibaba.filegear-sg.me
+      Host: 2025071822051427176.fr.chibaba.filegear-sg.me
       headers:
-        Host: 130680361969592025071821305637248.fr.chibaba.filegear-sg.me
+        Host: 731044975416782025071822051427176.fr.chibaba.filegear-sg.me
   - name: 1免费节点-悉尼
     type: vmess
     server: 104.19.211.13
@@ -371,12 +371,12 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 128753397141212025071821305653770.s15.chibaba.filegear-sg.me
+        Host: 376111004830422025071822051418687.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305653770.s15.chibaba.filegear-sg.me
+      Host: 2025071822051418687.s15.chibaba.filegear-sg.me
       headers:
-        Host: 767817875492332025071821305653770.s15.chibaba.filegear-sg.me
+        Host: 181936095603632025071822051418687.s15.chibaba.filegear-sg.me
   - name: 2免费节点-悉尼
     type: vmess
     server: 104.25.241.131
@@ -389,12 +389,12 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 505920502006982025071821305667845.s15.chibaba.filegear-sg.me
+        Host: 504303915259752025071822051418508.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305667845.s15.chibaba.filegear-sg.me
+      Host: 2025071822051418508.s15.chibaba.filegear-sg.me
       headers:
-        Host: 830781824568632025071821305667845.s15.chibaba.filegear-sg.me
+        Host: 492547133545942025071822051418508.s15.chibaba.filegear-sg.me
   - name: 3免费节点-悉尼
     type: vmess
     server: 162.159.134.233
@@ -407,12 +407,12 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 300342872430722025071821305682919.s15.chibaba.filegear-sg.me
+        Host: 474816996003242025071822051434065.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305682919.s15.chibaba.filegear-sg.me
+      Host: 2025071822051434065.s15.chibaba.filegear-sg.me
       headers:
-        Host: 642787071322572025071821305682919.s15.chibaba.filegear-sg.me
+        Host: 801007538118892025071822051434065.s15.chibaba.filegear-sg.me
   - name: 4免费节点-悉尼
     type: vmess
     server: 172.66.0.248
@@ -425,12 +425,12 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 911906835096562025071821305643283.s15.chibaba.filegear-sg.me
+        Host: 29595812731752025071822051481274.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305643283.s15.chibaba.filegear-sg.me
+      Host: 2025071822051481274.s15.chibaba.filegear-sg.me
       headers:
-        Host: 927434013488952025071821305643283.s15.chibaba.filegear-sg.me
+        Host: 722232602689002025071822051481274.s15.chibaba.filegear-sg.me
   - name: 5免费节点-悉尼
     type: vmess
     server: 172.67.70.104
@@ -443,12 +443,12 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 832705251870892025071821305623944.s15.chibaba.filegear-sg.me
+        Host: 957801391334652025071822051452723.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305623944.s15.chibaba.filegear-sg.me
+      Host: 2025071822051452723.s15.chibaba.filegear-sg.me
       headers:
-        Host: 835621453625232025071821305623944.s15.chibaba.filegear-sg.me
+        Host: 269168375180372025071822051452723.s15.chibaba.filegear-sg.me
   - name: 6免费节点-悉尼
     type: vmess
     server: 104.22.24.100
@@ -461,12 +461,12 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 523496406563232025071821305681410.s15.chibaba.filegear-sg.me
+        Host: 525782600400132025071822051433841.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305681410.s15.chibaba.filegear-sg.me
+      Host: 2025071822051433841.s15.chibaba.filegear-sg.me
       headers:
-        Host: 960810198001902025071821305681410.s15.chibaba.filegear-sg.me
+        Host: 632132203596022025071822051433841.s15.chibaba.filegear-sg.me
   - name: 7免费节点-悉尼
     type: vmess
     server: 172.67.255.57
@@ -479,12 +479,12 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 288645296088222025071821305663629.s15.chibaba.filegear-sg.me
+        Host: 443649306021972025071822051493604.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305663629.s15.chibaba.filegear-sg.me
+      Host: 2025071822051493604.s15.chibaba.filegear-sg.me
       headers:
-        Host: 659100117866622025071821305663629.s15.chibaba.filegear-sg.me
+        Host: 523075425554232025071822051493604.s15.chibaba.filegear-sg.me
   - name: 8免费节点-悉尼
     type: vmess
     server: 104.25.136.155
@@ -497,12 +497,12 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 379286022350632025071821305662534.s15.chibaba.filegear-sg.me
+        Host: 782205203989942025071822051441145.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305662534.s15.chibaba.filegear-sg.me
+      Host: 2025071822051441145.s15.chibaba.filegear-sg.me
       headers:
-        Host: 760400277319632025071821305662534.s15.chibaba.filegear-sg.me
+        Host: 274529537400832025071822051441145.s15.chibaba.filegear-sg.me
   - name: 9免费节点-悉尼
     type: vmess
     server: 172.66.3.216
@@ -515,12 +515,12 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 727991290831612025071821305615943.s15.chibaba.filegear-sg.me
+        Host: 848269920540342025071822051459711.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305615943.s15.chibaba.filegear-sg.me
+      Host: 2025071822051459711.s15.chibaba.filegear-sg.me
       headers:
-        Host: 447474981871032025071821305615943.s15.chibaba.filegear-sg.me
+        Host: 462542938991512025071822051459711.s15.chibaba.filegear-sg.me
   - name: 10免费节点-悉尼
     type: vmess
     server: 104.24.28.238
@@ -533,15 +533,15 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 159424023071462025071821305650364.s15.chibaba.filegear-sg.me
+        Host: 791466651340872025071822051498688.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305650364.s15.chibaba.filegear-sg.me
+      Host: 2025071822051498688.s15.chibaba.filegear-sg.me
       headers:
-        Host: 723975654693042025071821305650364.s15.chibaba.filegear-sg.me
+        Host: 142503274949502025071822051498688.s15.chibaba.filegear-sg.me
   - name: 11免费节点-悉尼
     type: vmess
-    server: 172.67.197.120
+    server: 172.64.94.134
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -551,15 +551,15 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 888285806507092025071821305626849.s15.chibaba.filegear-sg.me
+        Host: 711579627339642025071822051486893.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305626849.s15.chibaba.filegear-sg.me
+      Host: 2025071822051486893.s15.chibaba.filegear-sg.me
       headers:
-        Host: 659061437989472025071821305626849.s15.chibaba.filegear-sg.me
+        Host: 840818457094562025071822051486893.s15.chibaba.filegear-sg.me
   - name: 12免费节点-悉尼
     type: vmess
-    server: 172.67.185.213
+    server: 172.67.32.208
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -569,15 +569,15 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 402808158888332025071821305651849.s15.chibaba.filegear-sg.me
+        Host: 581763966571872025071822051479522.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305651849.s15.chibaba.filegear-sg.me
+      Host: 2025071822051479522.s15.chibaba.filegear-sg.me
       headers:
-        Host: 746797375928282025071821305651849.s15.chibaba.filegear-sg.me
+        Host: 319843534056542025071822051479522.s15.chibaba.filegear-sg.me
   - name: 13免费节点-悉尼
     type: vmess
-    server: 172.67.46.166
+    server: 104.21.42.178
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -587,15 +587,15 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 207813446036012025071821305623337.s15.chibaba.filegear-sg.me
+        Host: 855300608153792025071822051464705.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305623337.s15.chibaba.filegear-sg.me
+      Host: 2025071822051464705.s15.chibaba.filegear-sg.me
       headers:
-        Host: 887159131276542025071821305623337.s15.chibaba.filegear-sg.me
+        Host: 761563379588532025071822051464705.s15.chibaba.filegear-sg.me
   - name: 14免费节点-悉尼
     type: vmess
-    server: 172.67.128.128
+    server: 172.67.13.74
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -605,15 +605,15 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 755729553933852025071821305644177.s15.chibaba.filegear-sg.me
+        Host: 142064420882952025071822051412591.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305644177.s15.chibaba.filegear-sg.me
+      Host: 2025071822051412591.s15.chibaba.filegear-sg.me
       headers:
-        Host: 771184732713872025071821305644177.s15.chibaba.filegear-sg.me
+        Host: 354944863292822025071822051412591.s15.chibaba.filegear-sg.me
   - name: 15免费节点-悉尼
     type: vmess
-    server: 172.67.186.232
+    server: 172.67.75.4
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -623,15 +623,15 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 757584095106872025071821305629020.s15.chibaba.filegear-sg.me
+        Host: 171263225537802025071822051499641.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305629020.s15.chibaba.filegear-sg.me
+      Host: 2025071822051499641.s15.chibaba.filegear-sg.me
       headers:
-        Host: 278297347903002025071821305629020.s15.chibaba.filegear-sg.me
+        Host: 78088370035742025071822051499641.s15.chibaba.filegear-sg.me
   - name: 16免费节点-悉尼
     type: vmess
-    server: 2606:4700:18:13ea:b6aa:898c:588:8e39
+    server: 2606:4700:8ca9:b83c:74e:aaf4:8790:f994
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -641,15 +641,15 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 72305101684472025071821305613502.s15.chibaba.filegear-sg.me
+        Host: 234357359681922025071822051457262.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305613502.s15.chibaba.filegear-sg.me
+      Host: 2025071822051457262.s15.chibaba.filegear-sg.me
       headers:
-        Host: 82748734567622025071821305613502.s15.chibaba.filegear-sg.me
+        Host: 961294606494732025071822051457262.s15.chibaba.filegear-sg.me
   - name: 17免费节点-悉尼
     type: vmess
-    server: 2606:4700:8dea:de8d:699c:76bb:7879:fc7b
+    server: 2606:4700:90ce:f717:f57f:3c0b:265a:3ad5
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -659,15 +659,15 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 148396296168322025071821305635963.s15.chibaba.filegear-sg.me
+        Host: 122036329790062025071822051426284.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305635963.s15.chibaba.filegear-sg.me
+      Host: 2025071822051426284.s15.chibaba.filegear-sg.me
       headers:
-        Host: 256151521010902025071821305635963.s15.chibaba.filegear-sg.me
+        Host: 683510670884782025071822051426284.s15.chibaba.filegear-sg.me
   - name: 18免费节点-悉尼
     type: vmess
-    server: 2606:4700:90d8:b76d:8aed:e8a6:e41:3db0
+    server: 2606:4700:3019:258a:dfc0:f2d3:dd8e:b8bc
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -677,15 +677,15 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 465173604219122025071821305626262.s15.chibaba.filegear-sg.me
+        Host: 628756502927942025071822051433683.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305626262.s15.chibaba.filegear-sg.me
+      Host: 2025071822051433683.s15.chibaba.filegear-sg.me
       headers:
-        Host: 988584494998302025071821305626262.s15.chibaba.filegear-sg.me
+        Host: 530263651612252025071822051433683.s15.chibaba.filegear-sg.me
   - name: 19免费节点-悉尼
     type: vmess
-    server: 2606:4700:18:e5ae:86a8:395a:9201:1a44
+    server: 2606:4700:3019:90ea:2550:de7d:32f8:a942
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -695,15 +695,15 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 115687534632992025071821305641660.s15.chibaba.filegear-sg.me
+        Host: 200777376717032025071822051427151.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305641660.s15.chibaba.filegear-sg.me
+      Host: 2025071822051427151.s15.chibaba.filegear-sg.me
       headers:
-        Host: 984112163675102025071821305641660.s15.chibaba.filegear-sg.me
+        Host: 833176691031172025071822051427151.s15.chibaba.filegear-sg.me
   - name: 20免费节点-悉尼
     type: vmess
-    server: 2606:4700:18:e5ae:86a8:395a:9201:1a44
+    server: 2606:4700:3019:90ea:2550:de7d:32f8:a942
     port: "80"
     uuid: 24f3d274-44dc-462e-8fa2-acade8032149
     alterId: 0
@@ -713,12 +713,12 @@ proxies:
     ws-opts:
       path: /s15.html
       headers:
-        Host: 60629396036862025071821305646446.s15.chibaba.filegear-sg.me
+        Host: 677386042237782025071822051499797.s15.chibaba.filegear-sg.me
     ws-path: /s15.html
     ws-headers:
-      Host: 2025071821305646446.s15.chibaba.filegear-sg.me
+      Host: 2025071822051499797.s15.chibaba.filegear-sg.me
       headers:
-        Host: 654064470050852025071821305646446.s15.chibaba.filegear-sg.me
+        Host: 693790418107072025071822051499797.s15.chibaba.filegear-sg.me
   - name: 企鹅🐧009
     type: vmess
     server: 51.195.101.239

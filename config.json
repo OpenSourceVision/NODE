@@ -7,8 +7,7 @@
   },
   "output": {
     "directory": "out",
-    "saveRawFiles": true,
-    "base64Encode": true
+    "saveRawFiles": true
   },
   "parsing": {
     "supportedProtocols": [

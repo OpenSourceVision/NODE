@@ -19,7 +19,7 @@
 - **智能去重**: 自动识别并移除重复节点
 - **双重输出**: 
   - `raw/` 目录：保存原始节点（YAML格式）
-  - `out/` 目录：保存去重后的节点（Base64编码）
+  - `out/` 目录：保存去重后的节点（URI格式）
 - **详细日志**: 完整的处理过程记录和统计信息
 
 ## 安装依赖
@@ -43,11 +43,13 @@ npm start
 - `{protocol}_raw.txt` - 原始格式的节点数据
 
 ### out/ 目录（去重后节点）
-- `{protocol}.txt` - Base64编码的去重节点
+- `{protocol}.txt` - URI格式的去重节点
+- `all.txt` - 包含所有协议的去重节点
 
 例如：
 - `raw/vmess_raw.txt` - 原始VMess节点
-- `out/vmess.txt` - 去重后的VMess节点（Base64编码）
+- `out/vmess.txt` - 去重后的VMess节点（URI格式）
+- `out/all.txt` - 所有去重后的节点（URI格式）
 
 ## 配置文件
 

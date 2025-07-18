@@ -343,12 +343,124 @@ async function saveRawNodes(classifiedNodes) {
     }
 }
 
+// 将YAML格式节点转换为URI格式
+function convertYamlNodeToUri(node) {
+    try {
+        if (!node || typeof node !== 'object') {
+            return null;
+        }
+        
+        const type = node.type;
+        const name = node.name || 'Unknown';
+        const server = node.server;
+        const port = node.port;
+        
+        if (!server || !port) {
+            return null;
+        }
+        
+        switch (type) {
+            case 'ss': {
+                const cipher = node.cipher || 'aes-256-gcm';
+                const password = node.password || '';
+                
+                // 构建 ss:// URI
+                const auth = Buffer.from(`${cipher}:${password}`).toString('base64');
+                const encodedName = encodeURIComponent(name);
+                return `ss://${auth}@${server}:${port}#${encodedName}`;
+            }
+            
+            case 'vmess': {
+                const uuid = node.uuid || '';
+                const alterId = node.alterId || 0;
+                const security = node.cipher || 'auto';
+                const network = node.network || 'tcp';
+                
+                const vmessConfig = {
+                    v: '2',
+                    ps: name,
+                    add: server,
+                    port: port.toString(),
+                    id: uuid,
+                    aid: alterId.toString(),
+                    scy: security,
+                    net: network,
+                    type: 'none',
+                    host: node.host || '',
+                    path: node.path || '',
+                    tls: node.tls ? 'tls' : '',
+                    sni: node.sni || ''
+                };
+                
+                const encoded = Buffer.from(JSON.stringify(vmessConfig)).toString('base64');
+                return `vmess://${encoded}`;
+            }
+            
+            case 'trojan': {
+                const password = node.password || '';
+                const sni = node.sni || server;
+                const allowInsecure = node['skip-cert-verify'] ? '1' : '0';
+                const encodedName = encodeURIComponent(name);
+                
+                return `trojan://${password}@${server}:${port}?allowInsecure=${allowInsecure}&sni=${sni}#${encodedName}`;
+            }
+            
+            case 'hysteria2': {
+                const password = node.password || '';
+                const sni = node.sni || server;
+                const allowInsecure = node['skip-cert-verify'] ? '1' : '0';
+                const encodedName = encodeURIComponent(name);
+                
+                return `hysteria2://${password}@${server}:${port}?insecure=${allowInsecure}&sni=${sni}&fastopen=1#${encodedName}`;
+            }
+            
+            case 'hysteria': {
+                const auth = node.auth_str || node.auth || '';
+                const upmbps = node.up || '100';
+                const downmbps = node.down || '100';
+                const allowInsecure = node['skip-cert-verify'] ? '1' : '0';
+                const alpn = node.alpn && node.alpn.length > 0 ? node.alpn[0] : 'h3';
+                const peer = node.sni || node.peer || 'apple.com';
+                const protocol = node.protocol || 'udp';
+                const encodedName = encodeURIComponent(name);
+                
+                return `hysteria://${server}:${port}?upmbps=${upmbps}&downmbps=${downmbps}&auth=${auth}&insecure=${allowInsecure}&alpn=${alpn}&peer=${peer}&protocol=${protocol}&udp=true&fastopen=1#${encodedName}`;
+            }
+            
+            case 'vless': {
+                const uuid = node.uuid || '';
+                const security = node.security || 'none';
+                const type = node.type || 'tcp';
+                const allowInsecure = node['skip-cert-verify'] ? '1' : '0';
+                const sni = node.sni || server;
+                const fp = node.fp || 'chrome';
+                const flow = node.flow || '';
+                const alpn = node.alpn || 'h3';
+                const sid = node.sid || '';
+                const pbk = node.pbk || '';
+                const encodedName = encodeURIComponent(name);
+                
+                let params = `security=${security}&type=${type}&alpn=${alpn}&allowInsecure=${allowInsecure}&sni=${sni}&fp=${fp}`;
+                if (flow) params += `&flow=${flow}`;
+                if (sid) params += `&sid=${sid}`;
+                if (pbk) params += `&pbk=${pbk}`;
+                
+                return `vless://${uuid}@${server}:${port}?${params}#${encodedName}`;
+            }
+            
+            default:
+                return null;
+        }
+    } catch (error) {
+        logger.debug(`转换节点为URI失败:`, error.message);
+        return null;
+    }
+}
+
 // 保存去重后的节点到out目录
 async function saveDeduplicatedNodes(classifiedNodes) {
     const outDir = path.join(__dirname, config.output?.directory || 'out');
     await fs.ensureDir(outDir);
-    
-    const base64Encode = config.output?.base64Encode !== false;
     
     for (const [protocol, nodes] of Object.entries(classifiedNodes)) {
         try {
@@ -360,18 +472,32 @@ async function saveDeduplicatedNodes(classifiedNodes) {
                 } else if (nodes[0].url) {
                     content = nodes.map(node => node.url).join('\n');
                 } else {
-                    content = yaml.stringify({ proxies: nodes });
+                    // 对于YAML格式的节点，转换为URI格式
+                    const uriNodes = nodes.map(node => {
+                        // 如果节点有完整的URI信息，直接返回
+                        if (node.originalUrl) {
+                            return node.originalUrl;
+                        }
+                        
+                        // 尝试转换为URI格式
+                        const uri = convertYamlNodeToUri(node);
+                        if (uri) {
+                            return uri;
+                        }
+                        
+                        // 如果转换失败，保持YAML格式
+                        return yaml.stringify(node).trim();
+                    }).filter(uri => uri && uri.trim());
+                    
+                    content = uriNodes.join('\n');
                 }
             }
             
-            // 保存base64编码文件
-            if (base64Encode) {
-                const base64Content = Buffer.from(content, 'utf8').toString('base64');
-                const filename = `${protocol}.txt`;
-                const filepath = path.join(outDir, filename);
-                await fs.writeFile(filepath, base64Content);
-                logger.info(`已保存 ${nodes.length} 个去重后的 ${protocol} 节点到 ${filename} (base64)`);
-            }
+            // 保存URI格式文件
+            const filename = `${protocol}.txt`;
+            const filepath = path.join(outDir, filename);
+            await fs.writeFile(filepath, content);
+            logger.info(`已保存 ${nodes.length} 个去重后的 ${protocol} 节点到 ${filename} (URI格式)`);
             
         } catch (error) {
             logger.error(`保存去重后的 ${protocol} 节点失败:`, error.message);
@@ -384,7 +510,6 @@ async function saveAllNodesFile(classifiedNodes) {
     const outDir = path.join(__dirname, config.output?.directory || 'out');
     await fs.ensureDir(outDir);
     
-    const base64Encode = config.output?.base64Encode !== false;
     const allNodes = [];
     
     // 收集所有协议的节点
@@ -395,13 +520,24 @@ async function saveAllNodesFile(classifiedNodes) {
             } else if (nodes[0].url) {
                 allNodes.push(...nodes.map(node => node.url));
             } else {
-                // 对于YAML格式的节点，转换为URL格式
-                const urls = nodes.map(node => {
-                    // 这里可以根据需要实现YAML到URL的转换
-                    // 暂时使用YAML格式
+                // 对于YAML格式的节点，转换为URI格式
+                const uriNodes = nodes.map(node => {
+                    // 如果节点有完整的URI信息，直接返回
+                    if (node.originalUrl) {
+                        return node.originalUrl;
+                    }
+                    
+                    // 尝试转换为URI格式
+                    const uri = convertYamlNodeToUri(node);
+                    if (uri) {
+                        return uri;
+                    }
+                    
+                    // 如果转换失败，保持YAML格式
                     return yaml.stringify(node).trim();
-                });
-                allNodes.push(...urls);
+                }).filter(uri => uri && uri.trim());
+                
+                allNodes.push(...uriNodes);
             }
         }
     }
@@ -410,13 +546,10 @@ async function saveAllNodesFile(classifiedNodes) {
         try {
             const content = allNodes.join('\n');
             
-            // 保存base64编码文件
-            if (base64Encode) {
-                const base64Content = Buffer.from(content, 'utf8').toString('base64');
-                const filepath = path.join(outDir, 'all.txt');
-                await fs.writeFile(filepath, base64Content);
-                logger.info(`已保存 ${allNodes.length} 个节点到 all.txt (base64)`);
-            }
+            // 保存URI格式文件
+            const filepath = path.join(outDir, 'all.txt');
+            await fs.writeFile(filepath, content);
+            logger.info(`已保存 ${allNodes.length} 个节点到 all.txt (URI格式)`);
             
         } catch (error) {
             logger.error('保存all.txt文件失败:', error.message);
