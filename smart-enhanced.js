@@ -276,15 +276,51 @@ function deduplicateNodes(nodes) {
             // 对于字符串节点，直接使用URL作为去重键
             key = node.trim();
         } else if (node.url) {
-            // 对于有URL的节点对象
-            key = node.url.trim();
+            // 对于有URL的节点对象，需要解析URL来提取关键信息进行去重
+            const url = node.url.trim();
+            const type = node.type || '';
+            
+            if (type === 'vless' || type === 'vmess') {
+                // 解析VLESS/VMess URL来提取server、port和uuid
+                try {
+                    const match = url.match(/^(vless|vmess):\/\/([^@]+)@([^:\/]+):(\d+)/);
+                    if (match) {
+                        const [, protocol, uuid, server, port] = match;
+                        key = `${protocol}://${server}:${port}:${uuid}`;
+                    } else {
+                        key = url; // 如果解析失败，使用完整URL
+                    }
+                } catch (e) {
+                    key = url;
+                }
+            } else {
+                // 对于其他协议，直接使用完整URL
+                key = url;
+            }
         } else {
-            // 对于YAML格式的节点对象，使用服务器+端口+协议作为去重键
+            // 对于YAML格式的节点对象，根据协议类型使用不同的去重策略
             const server = node.server || '';
             const port = node.port || '';
             const type = node.type || node.protocol || '';
-            const uuid = node.uuid || node.password || '';
-            key = `${type}://${server}:${port}:${uuid}`;
+            
+            // 根据协议类型获取正确的UUID/密码字段
+            let identifier = '';
+            if (type === 'vless' || type === 'vmess') {
+                identifier = node.uuid || node.id || '';
+                // 对于VLESS和VMess，使用服务器+端口+UUID作为去重键
+                key = `${type}://${server}:${port}:${identifier}`;
+            } else if (type === 'trojan' || type === 'ss' || type === 'ssr') {
+                identifier = node.password || '';
+                // 对于Trojan/SS/SSR，使用服务器+端口+密码作为去重键
+                key = `${type}://${server}:${port}:${identifier}`;
+            } else if (type === 'hysteria' || type === 'hysteria2') {
+                identifier = node.auth || node.auth_str || node.password || '';
+                // 对于Hysteria，使用服务器+端口+认证信息作为去重键
+                key = `${type}://${server}:${port}:${identifier}`;
+            } else {
+                identifier = node.uuid || node.id || node.password || node.auth || '';
+                key = `${type}://${server}:${port}:${identifier}`;
+            }
         }
         
         if (!seen.has(key)) {

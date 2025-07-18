@@ -1,124 +1,107 @@
-proxies:
-  - name: 甜瓜🍈013
-    type: hysteria
-    server: 176.32.35.226
-    port: 62003
-    auth_str: dongtaiwang.com
-    protocol: udp
-    up: "11"
-    down: "55"
-    skip-cert-verify: true
-    alpn:
-      - h3
-  - name: 糖醋鱼🐟6
-    type: hysteria
-    server: 185.22.155.71
-    port: 10803
-    auth_str: dongtaiwang.com
-    protocol: udp
-    up: "1000"
-    down: "1000"
-    skip-cert-verify: true
-    alpn:
-      - h3
-  - name: 🐻6
-    type: hysteria
-    server: 51.159.226.1
-    port: 14241
-    auth_str: dongtaiwang.com
-    protocol: udp
-    up: "100"
-    down: "100"
-    skip-cert-verify: true
-    alpn:
-      - h3
-  - alpn:
-      - h3
-    auth_str: dongtaiwang.com
-    down: "1000"
-    name: 🇷🇺RU_1 |673KB/s
-    obfs: ""
-    port: 10803
-    protocol: ""
-    server: 185.22.155.71
-    skip-cert-verify: true
-    sni: www.bing.com
-    type: hysteria
-    up: "1000"
-    auth-str: dongtaiwang.com
-  - alpn:
-      - h3
-    auth_str: dongtaiwang.com
-    down: "50"
-    name: 🇺🇸US_2 |2.8MB/s
-    obfs: ""
-    port: 11512
-    protocol: ""
-    server: 108.181.24.77
-    skip-cert-verify: true
-    sni: apple.com
-    type: hysteria
-    up: "10"
-    auth-str: dongtaiwang.com
-  - alpn:
-      - h3
-    auth_str: dongtaiwang.com
-    down: "50"
-    name: 🇺🇸US_3 |2.6MB/s
-    obfs: ""
-    port: 17549
-    protocol: ""
-    server: 208.87.243.151
-    skip-cert-verify: true
-    sni: www.bing.com
-    type: hysteria
-    up: "10"
-    auth-str: dongtaiwang.com
-  - alpn:
-      - h3
-    auth_str: dongtaiwang.com
-    down: "100"
-    name: 🇺🇸US_4 |2.6MB/s
-    obfs: ""
-    port: 40528
-    protocol: ""
-    server: 208.87.243.187
-    skip-cert-verify: true
-    sni: apple.com
-    type: hysteria
-    up: "100"
-    auth-str: dongtaiwang.com
-  - alpn:
-      - h3
-    auth_str: dongtaiwang.com
-    down: "55"
-    name: ❓Other_1 |2.1MB/s
-    obfs: ""
-    port: 46938
-    protocol: ""
-    server: 195.154.200.178
-    skip-cert-verify: true
-    sni: apple.com
-    type: hysteria
-    up: "11"
-    auth-str: dongtaiwang.com
-  - type: hysteria
-    url: hysteria://185.22.155.71:10803?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&alpn=h3&recv_window=230686720&recv_window_conn=57671680&peer=apple.com&protocol=udp&udp=true&fastopen=1#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E6%B3%BD%E5%88%97%E8%AF%BA%E6%A0%BC%E5%8B%92%2001
-    protocol: hysteria
-    originalUrl: hysteria://185.22.155.71:10803?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&alpn=h3&recv_window=230686720&recv_window_conn=57671680&peer=apple.com&protocol=udp&udp=true&fastopen=1#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E6%B3%BD%E5%88%97%E8%AF%BA%E6%A0%BC%E5%8B%92%2001
-  - type: hysteria
-    url: hysteria://176.32.35.226:62003?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&obfsParam=undefined&peer=apple.com&protocol=udp&udp=true&fastopen=1#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E8%8E%AB%E6%96%AF%E7%A7%91%2004
-    protocol: hysteria
-    originalUrl: hysteria://176.32.35.226:62003?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&obfsParam=undefined&peer=apple.com&protocol=udp&udp=true&fastopen=1#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E8%8E%AB%E6%96%AF%E7%A7%91%2004
-  - type: hysteria
-    url: hysteria://208.87.243.151:17549?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&alpn=h3&recv_window=230686720&recv_window_conn=57671680&peer=www.bing.com&protocol=udp&udp=true&fastopen=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%B4%9B%E6%9D%89%E7%9F%B6%2001
-    protocol: hysteria
-    originalUrl: hysteria://208.87.243.151:17549?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&alpn=h3&recv_window=230686720&recv_window_conn=57671680&peer=www.bing.com&protocol=udp&udp=true&fastopen=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%B4%9B%E6%9D%89%E7%9F%B6%2001
-  - type: hysteria
-    url: hysteria://208.87.243.187:40528?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&alpn=h3&recv_window=23068672&recv_window_conn=5767168&peer=apple.com&protocol=udp&udp=true&fastopen=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%B4%9B%E6%9D%89%E7%9F%B6%2002
-    protocol: hysteria
-    originalUrl: hysteria://208.87.243.187:40528?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&alpn=h3&recv_window=23068672&recv_window_conn=5767168&peer=apple.com&protocol=udp&udp=true&fastopen=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%B4%9B%E6%9D%89%E7%9F%B6%2002
-  - type: hysteria
-    url: hysteria://108.181.24.77:11512?auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=11512&obfs=&protocol=udp&fastopen=1&peer=apple.com&udp=true#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%B4%9B%E6%9D%89%E7%9F%B6%2005
-    protocol: hysteria
-    originalUrl: hysteria://108.181.24.77:11512?auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=11512&obfs=&protocol=udp&fastopen=1&peer=apple.com&udp=true#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%B4%9B%E6%9D%89%E7%9F%B6%2005
+hysteria://140.238.200.114:15472/?insecure=1&peer=au.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%A6%F0%9F%87%BAAU%28AzadNet.t.me%29
+hysteria://104.234.70.41:57153/?insecure=1&peer=vpnproxy66.online&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
+hysteria://104.234.70.6:16117/?insecure=1&auth=dongtaiwang.com&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
+hysteria://172.105.18.102:8443/?peer=ca-hysteria.racevpn.com&upmbps=10&downmbps=50&obfs=xplus&obfsParam=qGDBJ7euzN#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
+hysteria://199.247.7.82:8443/?peer=de-hysteria.racevpn.com&upmbps=10&downmbps=50&obfs=xplus&obfsParam=2r6wMYUuXANFDfn#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
+hysteria://130.61.24.219:443/?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
+hysteria://195.154.200.40:15010/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
+hysteria://51.158.54.46:11926/?insecure=1&peer=youku.com&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
+hysteria://199.247.9.177:8443/?peer=fr-hysteria.racevpn.com&upmbps=10&downmbps=50&obfs=xplus&obfsParam=U9kBKzCt5buOOQa#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
+hysteria://172.232.53.227:36712/?insecure=1&upmbps=10&downmbps=50&obfs=xplus&obfsParam=qPaMUjAl3H3Vx0M#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
+hysteria://195.154.200.178:46938/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
+hysteria://141.145.194.153:443/?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
+hysteria://140.238.101.151:7228/?insecure=1&peer=uk1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29
+hysteria://5.182.86.167:10146/?insecure=1&peer=www.bing.com&auth=024094df&upmbps=20&downmbps=100&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29
+hysteria://45.152.115.205:15666/?insecure=1&upmbps=5&downmbps=12&obfs=xplus&obfsParam=Q_vtX%25%24R#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29
+hysteria://172.233.49.155:8443/?peer=nl-hysteria.racevpn.com&upmbps=10&downmbps=50&obfs=xplus&obfsParam=pHDMUPRlh0EgixR#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29
+hysteria://176.32.35.226:62003/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29
+hysteria://185.22.155.71:10803/?insecure=1&peer=www.bing.com&auth=dongtaiwang.com&upmbps=1000&downmbps=1000&alpn=h3#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29
+hysteria://46.17.41.174:10469/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29
+hysteria://185.81.28.11:14222/?insecure=1&peer=wechat.com&upmbps=1126&downmbps=1126&alpn=h3&obfs=xplus&obfsParam=LbWqqW3rh3V3MiGG8STBRe5AoQzmHXAa9eORMV1kTtmtMbAqk1&protocol=wechat-video#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29
+hysteria://37.128.252.101:443/?mport=20001-21001&peer=aktw.wusiba.xyz&auth=vvYiU4nhq2w6dZlbxzQrVtcrJs7KEHwRbUJgYNZZpbrVJOJYs1&upmbps=220&downmbps=220&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://1.162.13.111:28877/?insecure=1&peer=www.dtku50.xyz&auth=y6Sf5xTFyNx5&upmbps=50&downmbps=100&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://1.162.173.82:22334/?insecure=1&auth=dongtaiwang.com&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://111.243.99.177:11223/?insecure=1&auth=mqoE9qSoyMFa&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://111.243.91.23:22334/?insecure=1&auth=dongtaiwang.com&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://111.243.66.122:11223/?insecure=1&upmbps=0&downmbps=0&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://1.162.130.168:11223/?insecure=1&auth=mqoE9qSoyMFa&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://61.230.134.233:18470/?insecure=1&peer=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&auth=dongtaiwang.com&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://1.162.139.149:11223/?insecure=1&peer=www.dtku46.xyz&auth=mqoE9qSoyMFa&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://1.162.152.244:22334/?insecure=1&peer=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&auth=dongtaiwang.com&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://1.162.38.231:43250/?insecure=1&peer=bing.com&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://1.162.136.159:11223/?insecure=1&peer=telegramEUT-VPN.ddns.net&auth=mqoE9qSoyMFa&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://1.162.6.180:28877/?insecure=1&peer=www.dtku50.xyz&auth=y6Sf5xTFyNx5&upmbps=50&downmbps=100&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://1.162.129.119:22334/?insecure=1&auth=dongtaiwang.com&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://1.162.14.27:23577/?insecure=1&peer=www.amazon.cn&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://1.162.134.176:18490/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://1.162.3.33:32408/?insecure=1&peer=www.amazon.cn&auth=dongtaiwang.com&upmbps=2&downmbps=10&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://1.162.9.232:18470/?insecure=1&peer=www.amazon.cn&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://1.162.128.195:18490/?insecure=1&peer=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://1.162.10.125:23577/?insecure=1&peer=www.amazon.cn&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://111.243.65.249:11223/?insecure=1&auth=mqoE9qSoyMFa&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://1.162.132.132:22334/?insecure=1&peer=www2.dtku48.xyz&auth=dongtaiwang.com&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29
+hysteria://108.181.24.77:11512/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://208.87.243.187:40528/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://62.204.54.81:46333/?insecure=1&peer=bing.com&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://108.181.22.239:61561/?insecure=1&peer=www.bing.com&auth=PBhG3zqMKaMO5ZnemDvLrZ6v0Fd7EqCutDvzLNtvWHJ6IpMWJg&upmbps=80&downmbps=100&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://167.160.91.114:41189/?insecure=1&peer=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://173.234.25.52:30072/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://167.160.91.115:41189/?insecure=1&peer=www.amazon.cn&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://109.104.152.149:48406/?insecure=1&peer=film2movie.asia&auth=xfNhrunYJ9GvDXCTktY2bIwhc1EyeyyAbiUMx1UtBOWgI4cMVB&upmbps=0&downmbps=0&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://108.181.17.116:15566/?auth=jQrGpwSqp34P&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://167.160.90.251:48089/?insecure=1&peer=cdn.discordapp.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://50.114.40.110:62839/?peer=telegramEUT-VPN.ddns.net&auth=K6MWhE5PP8aKzSGIF1I4Zjb8tpLicSG3NzWckWLsRIGZ9CAOc9&upmbps=1100&downmbps=1100&alpn=h3&protocol=wechat-video#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://155.94.235.182:55479/?insecure=1&peer=wechat.com&upmbps=1126&downmbps=1126&alpn=h3&obfs=xplus&obfsParam=yJbnicVt9fMHLbd7yVS3vb3UTNDTnROxCJH2gAMHv2PkWSN8nG&protocol=wechat-video#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://108.181.22.155:19721/?insecure=1&auth=dongtaiwang.com&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://108.181.22.213:33450/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=1000&downmbps=1000&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://108.181.22.205:22334/?auth=lASdKzWK0VxL&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://109.104.152.180:64502/?insecure=1&peer=www.microsoft.com&auth=kxeFKpB8fhGjP7cO7NNgXYr19ZsqKQMco612ZCfXiaJrojw571&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://173.234.25.53:48919/?insecure=1&peer=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://155.94.235.109:56600/?insecure=1&peer=wechat.com&upmbps=1126&downmbps=1126&alpn=h3&obfs=xplus&obfsParam=1dDS9qxUIQXHmJYq2xitzRecWQTeQUZ8iWTqriKifH8RIWAOhu&protocol=wechat-video#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://208.87.243.151:17549/?insecure=1&peer=www.bing.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://149.28.63.245:8443/?peer=us-hysteria.racevpn.com&upmbps=10&downmbps=50&obfs=xplus&obfsParam=RMhYH7GNlcAE21X#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://108.181.2.154:33445/?insecure=1&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://204.44.109.33:42081/?insecure=1&peer=wechat.com&upmbps=1126&downmbps=1126&alpn=h3&obfs=xplus&obfsParam=VOwHitqv92F62xYpVliiLTDhntsOqoN5moEVgJ9nEaPACiThYk&protocol=wechat-video#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://74.48.18.240:27564/?insecure=1&peer=wechat.com&auth=sZEvQgYdkXmx76LH1aZmtqXVP1glIV5BnRiDALrdj9sNl2QfdE&upmbps=11&downmbps=55&alpn=h3&protocol=wechat-video#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://www2.dtku48.xyz:22334/?insecure=1&peer=www2.dtku48.xyz&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://sg5.shiyuandian.shop:7748/?insecure=1&peer=sg5.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=1000&downmbps=1000&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://www4.dtku49.xyz:22334/?insecure=1&peer=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&auth=dongtaiwang.com&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://vn1.shiyuandian.shop:12419/?insecure=1&peer=vn1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=1000&downmbps=1000&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://www.dtku50.xyz:18470/?insecure=1&peer=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&auth=dongtaiwang.com&upmbps=50&downmbps=80&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://us1.shiyuandian.shop:10014/?insecure=1&peer=us1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://jp2.shiyuandian.shop:6333/?insecure=1&peer=jp2.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://sg2.shiyuandian.shop:19873/?insecure=1&peer=sg2.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://tr1.shiyuandian.shop:6632/?insecure=1&peer=tr1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=1000&downmbps=1000&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://www.dtku40.xyz:18490/?insecure=1&peer=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://sg3.shiyuandian.shop:15138/?insecure=1&peer=sg3.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://ru1.shiyuandian.shop:7864/?insecure=1&peer=ru1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://kr1.shiyuandian.shop:9970/?insecure=1&peer=kr1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://kr2.shiyuandian.shop:10035/?insecure=1&peer=kr2.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=1024&downmbps=1024&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://au.shiyuandian.shop:15472/?insecure=1&peer=au.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://jp4.shiyuandian.shop:19363/?insecure=1&peer=jp4.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=10240&downmbps=10240&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://in1.shiyuandian.shop:18834/?insecure=1&peer=in1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://hk1.shiyuandian.shop:10154/?insecure=1&peer=hk1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://ch1.shiyuandian.shop:9038/?insecure=1&peer=ch1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://il1.shiyuandian.shop:18721/?insecure=1&peer=il1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=1000&downmbps=1000&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://sg1.shiyuandian.shop:10317/?insecure=1&peer=sg1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://de1.shiyuandian.shop:18742/?insecure=1&peer=de1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://jp3.shiyuandian.shop:15038/?insecure=1&peer=jp3.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://sg4.shiyuandian.shop:8764/?insecure=1&peer=sg4.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://us2.shiyuandian.shop:17719/?insecure=1&peer=us2.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://jp1.shiyuandian.shop:14003/?insecure=1&peer=jp1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://uk1.shiyuandian.shop:7228/?insecure=1&peer=uk1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://sg6.shiyuandian.shop:6288/?insecure=1&peer=sg6.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=1024&downmbps=1024&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://tw1.shiyuandian.shop:6604/?insecure=1&peer=tw1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://195.154.200.40:15010/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
+hysteria://185.22.155.71:10803/?insecure=1&peer=www.bing.com&auth=dongtaiwang.com&upmbps=1000&downmbps=1000&alpn=h3#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29
+hysteria://176.32.35.226:62003/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29
+hysteria://108.181.24.77:11512/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://208.87.243.187:40528/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+hysteria://185.22.155.71:10803?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=230686720&recv_window_conn=57671680&mport=
+hysteria://51.159.226.1:14241?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=230686720&recv_window_conn=57671680&mport=
+hysteria://208.87.243.151:17549?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=www.bing.com&alpn=h3&recv_window=230686720&recv_window_conn=57671680&mport=
+hysteria://208.87.243.187:40528?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=23068672&recv_window_conn=5767168&mport=
+hysteria://195.154.200.178:44557?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3&obfsParam=undefined
+hysteria://176.32.35.226:62003?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3&obfsParam=undefined
+
+
