@@ -1,1 +1,0 @@
-tuic://ae7c22ea-0f9a-4a9b-a54d-b6654c1087e3:ae7c22ea-0f9a-4a9b-a54d-b6654c1087e3@192.227.247.76:8883?disable_sni=1&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#%F0%9F%87%AD%F0%9F%87%B0%F0%9F%91%96TG%E9%A2%91%E9%81%93@stymei1
