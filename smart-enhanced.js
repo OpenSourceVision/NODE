@@ -427,9 +427,9 @@ function convertYamlNodeToUri(node) {
                     v: '2',
                     ps: name,
                     add: server,
-                    port: port.toString(),
+                    port: (port != null ? port.toString() : ''),
                     id: uuid,
-                    aid: alterId.toString(),
+                    aid: (alterId != null ? alterId.toString() : '0'),
                     scy: security,
                     net: network,
                     type: 'none',
@@ -466,7 +466,7 @@ function convertYamlNodeToUri(node) {
                 const upmbps = node.up || '100';
                 const downmbps = node.down || '100';
                 const allowInsecure = node['skip-cert-verify'] ? '1' : '0';
-                const alpn = node.alpn && node.alpn.length > 0 ? node.alpn[0] : 'h3';
+                const alpn = node.alpn && Array.isArray(node.alpn) && node.alpn.length > 0 ? node.alpn[0] : 'h3';
                 const peer = node.sni || node.peer || 'apple.com';
                 const protocol = node.protocol || 'udp';
                 const encodedName = encodeURIComponent(name);
@@ -477,7 +477,7 @@ function convertYamlNodeToUri(node) {
             case 'vless': {
                 const uuid = node.uuid || '';
                 const security = node.security || 'none';
-                const type = node.type || 'tcp';
+                const networkType = node.network || 'tcp';
                 const allowInsecure = node['skip-cert-verify'] ? '1' : '0';
                 const sni = node.sni || server;
                 const fp = node.fp || 'chrome';
@@ -487,7 +487,7 @@ function convertYamlNodeToUri(node) {
                 const pbk = node.pbk || '';
                 const encodedName = encodeURIComponent(name);
                 
-                let params = `security=${security}&type=${type}&alpn=${alpn}&allowInsecure=${allowInsecure}&sni=${sni}&fp=${fp}`;
+                let params = `security=${security}&type=${networkType}&alpn=${alpn}&allowInsecure=${allowInsecure}&sni=${sni}&fp=${fp}`;
                 if (flow) params += `&flow=${flow}`;
                 if (sid) params += `&sid=${sid}`;
                 if (pbk) params += `&pbk=${pbk}`;
@@ -548,7 +548,8 @@ async function saveDeduplicatedNodes(classifiedNodes) {
                             !line.startsWith('=======') && 
                             !line.startsWith('>>>>>>>'));
                 
-                content = filteredLines.join('\n');
+                // 确保文件末尾有换行符，避免空行问题
+                content = filteredLines.length > 0 ? filteredLines.join('\n') + '\n' : '';
             }
             
             // 保存URI格式文件
@@ -611,7 +612,8 @@ async function saveAllNodesFile(classifiedNodes) {
                         !line.startsWith('=======') && 
                         !line.startsWith('>>>>>>>'));
             
-            const content = filteredNodes.join('\n');
+            // 确保文件末尾有换行符，避免空行问题
+            const content = filteredNodes.length > 0 ? filteredNodes.join('\n') + '\n' : '';
             
             // 保存URI格式文件
             const filepath = path.join(outDir, 'all.txt');
