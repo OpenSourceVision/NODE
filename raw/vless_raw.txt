@@ -1097,8 +1097,8 @@ vless://376734bc-4db8-4317-b451-af0262cb01c7@172.67.171.131:2053/?type=ws&encryp
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.16.144.63:443/?type=ws&encryption=none&flow=&host=a.azadnet003.ddns-ip.net&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&security=tls&sni=a.azadnet003.ddns-ip.net&fp=randomized#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.176.20:8880/?type=ws&encryption=none&flow=&host=reedfree8mahsang2.redorg.ir#%F0%9F%87%BF%F0%9F%87%A6ZA%28AzadNet.t.me%29
 vless://ec302de4-6b3d-4f03-a228-3c6d303ed370@1.162.51.106:37898?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=v6uWJJmVGFPd0K040QK3PJHCbPc74kXFoQmAhpu30jQ&sid=e12d7fdb&type=tcp&headerType=none&alpn=h3
-vless://c643de0a-9678-4c18-9f55-58620425bac0@108.181.3.67:51499?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=S4-VtlwDUlz7CbSlpf8mqD4ejRWFOISwCXqdtm3JCww&sid=&type=tcp&headerType=none&alpn=h3
 vless://fdd2d176-2602-46f2-b694-ce247de88b22@185.22.155.105:62750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=chrome&pbk=_E_YXE_gOkDrffe4t6gcajtnjFZAJ3g7ZwTJbL3IOHA&sid=&type=tcp&headerType=none&alpn=h3
+vless://c643de0a-9678-4c18-9f55-58620425bac0@108.181.3.67:51499?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=S4-VtlwDUlz7CbSlpf8mqD4ejRWFOISwCXqdtm3JCww&sid=&type=tcp&headerType=none&alpn=h3
 
 
 
