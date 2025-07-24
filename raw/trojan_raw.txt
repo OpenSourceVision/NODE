@@ -1276,7 +1276,5 @@ trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?allowInsecure=0#
 
 
 
-trojan://trojan@91.193.58.0:443?peer=wahaha.yingyangkuaixian.dpdns.org&plugin=obfs-local;obfs=websocket;obfs-host=%7B%22Host%22:%22wahaha.yingyangkuaixian.dpdns.org%22%7D;obfs-uri=/#%F0%9F%87%AD%F0%9F%87%B0%F0%9F%91%96TG%E9%A2%91%E9%81%93@stymei1%E4%B8%A8gb%7C149b%7Cpuddincat07@Telegram
-trojan://Aimer@92.243.74.180:8443?peer=tyep.esslh.filegear-sg.me&plugin=obfs-local;obfs=websocket;obfs-host=%7B%22Host%22:%22tyep.esslh.filegear-sg.me%22%7D;obfs-uri=/#%F0%9F%87%AD%F0%9F%87%B0%F0%9F%91%96TG%E9%A2%91%E9%81%93@stymei1%E4%B8%A8cf%7C8209%7Cpuddincat07@Telegram
-trojan://Aimer@92.243.74.180:8443?peer=tyep.esslh.filegear-sg.me&plugin=obfs-local;obfs=websocket;obfs-host=%7B%22Host%22:%22tyep.esslh.filegear-sg.me%22%7D;obfs-uri=/#%F0%9F%87%AD%F0%9F%87%B0%F0%9F%91%96TG%E9%A2%91%E9%81%93@stymei1%E4%B8%A8cf%7Cdf1c%7Cpuddincat07@Telegram
-trojan://tg-fq521free@45.67.215.95:443?allowInsecure=1&peer=torjan.xn--xhq44j.eu.org&plugin=obfs-local;obfs=websocket;obfs-host=;obfs-uri=#%F0%9F%87%AD%F0%9F%87%B0%F0%9F%91%96TG%E9%A2%91%E9%81%93@stymei1%E4%B8%A8ru%7Cdab9%7Cpuddincat07@Telegram
+trojan://ttfang@20.235.105.146:443?allowInsecure=1&peer=ttfang.fange.me&plugin=obfs-local;obfs=websocket;obfs-host=%7B%22Host%22:%22ttfang.fange.me%22%7D;obfs-uri=/#%F0%9F%87%B8%F0%9F%87%AC%F0%9F%91%96TG%E9%A2%91%E9%81%93@stymei1%E4%B8%A81
+trojan://ttfang@138.2.95.61:1111?allowInsecure=1&peer=ttfang.fange.me&plugin=obfs-local;obfs=websocket;obfs-host=%7B%7D;obfs-uri=/#%F0%9F%87%B8%F0%9F%87%AC%F0%9F%91%96TG%E9%A2%91%E9%81%93@stymei1%E4%B8%A82
