@@ -98,11 +98,13 @@ hysteria://176.32.35.226:62003/?insecure=1&peer=apple.com&auth=dongtaiwang.com&u
 hysteria://108.181.24.77:11512/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 hysteria://208.87.243.187:40528/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 hysteria://185.22.155.71:10803?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=230686720&recv_window_conn=57671680&mport=
+hysteria://64.31.63.57:44462?upmbps=100&downmbps=100&auth=undefined&obfsParam=undefined&insecure=1&peer=undefined&alpn=undefined&recv_window=undefined&recv_window_conn=undefined&mport=
 hysteria://195.154.200.40:15010?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=276824064&recv_window_conn=69206016&mport=
+hysteria://172.245.235.201:38814?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=230686720&recv_window_conn=57671680&mport=
 hysteria://208.87.243.151:17549?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=www.bing.com&alpn=h3&recv_window=230686720&recv_window_conn=57671680&mport=
-hysteria://208.87.243.187:40528?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=23068672&recv_window_conn=5767168&mport=
 hysteria://51.159.226.1:14241?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=230686720&recv_window_conn=57671680&mport=
-hysteria://176.32.35.226:62003?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3&obfsParam=undefined
+hysteria://208.87.243.187:40528?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=23068672&recv_window_conn=5767168&mport=
 hysteria://195.154.200.178:46938?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3&obfsParam=undefined
+hysteria://208.87.243.151:17549?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=www.bing.com&alpn=h3&obfsParam=undefined
 
 
