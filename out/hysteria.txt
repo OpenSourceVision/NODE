@@ -92,6 +92,14 @@ hysteria://jp1.shiyuandian.shop:14003/?insecure=1&peer=jp1.shiyuandian.shop&auth
 hysteria://uk1.shiyuandian.shop:7228/?insecure=1&peer=uk1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 hysteria://sg6.shiyuandian.shop:6288/?insecure=1&peer=sg6.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=1024&downmbps=1024&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 hysteria://tw1.shiyuandian.shop:6604/?insecure=1&peer=tw1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hysteria://208.87.243.151:17549?peer=www.bing.com&auth=&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=17549&obfs=&protocol=udp&fastopen=1#United States_hy_6
+hysteria://108.181.24.77:11512?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=11512&obfs=&protocol=udp&fastopen=1#United States_hy_7
+hysteria://185.22.155.71:10803?peer=www.bing.com&auth=&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=10803&obfs=&protocol=udp&fastopen=1#Russia_hy_8
+hysteria://208.87.243.151:17549?peer=www.bing.com&auth=&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=17549&obfs=&protocol=udp&fastopen=1#United States_hy_9
+hysteria://185.22.155.71:10803?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#Russia_hysteria_0
+hysteria://185.22.155.71:10803?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#Russia_hysteria_1
+hysteria://185.22.155.71:10803?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#Russia_hysteria_2
+hysteria://185.22.155.71:10803?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#Russia_hysteria_3
 hysteria://109.104.153.91:37519?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=230686720&recv_window_conn=57671680&mport=10000-20000
 hysteria://195.154.200.40:15010?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=276824064&recv_window_conn=69206016&mport=
 hysteria://208.87.243.151:38845?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=www.bing.com&alpn=h3&recv_window=230686720&recv_window_conn=57671680&mport=
