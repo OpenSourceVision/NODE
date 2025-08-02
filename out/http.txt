@@ -1,0 +1,9 @@
+name: 🇹🇼 台湾|@stairnode
+password: test.+
+port: 30443
+server: cmhkb.ssv.vc
+skip-cert-verify: false
+tls: true
+type: http
+username: test
+sni: cmhkb.ssv.vc
