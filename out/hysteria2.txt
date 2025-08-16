@@ -3,8 +3,8 @@ hysteria2://dongtaiwang.com@104.168.10.176:35205,10000-20000?insecure=1&sni=appl
 hysteria2://dongtaiwang.com@104.168.10.176:35205,10000-20000?insecure=1&sni=apple.com#United States_hysteria2_2
 hysteria2://dongtaiwang.com@104.168.10.176:35205,10000-20000?insecure=1&sni=apple.com#United States_hysteria2_3
 hysteria2://dongtaiwang.com@104.168.10.176:35205?insecure=1&sni=apple.com&mport=10000-20000
-hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com&mport=
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com&mport=
+hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com&mport=
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&mport=
 hysteria2://dongtaiwang.com@108.181.5.130:63015?insecure=1&sni=apple.com&mport=
 hysteria2://10193f1d-9a4d-457a-b668-bdeb240e092c@netcupus.alisaku.com:34444?insecure=1&sni=apps.apple.com#%E2%8F%B063%40oneclickvpnkeys
@@ -31,7 +31,7 @@ hysteria2://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?insecure=1&sn
 hysteria2://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@89.185.27.133:443?insecure=1&sni=www.bing.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF2
 hysteria2://681b592d-a727-42f2-b91f-797081d0b0c1@hsmg.huasuan666.top:22151?insecure=1&sni=hsmg.huasuan666.top#%E2%8F%B064%40oneclickvpnkeys
 hysteria2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443?insecure=1&sni=file-oss-ccs-02.dafei.de#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%232
-hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?insecure=1&sni=www.bing.com#%E2%8F%B046%40oneclickvpnkeys
+hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?insecure=1&sni=www.bing.com#%F0%9F%92%8E%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%AF%D8%B1%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7...
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@192.18.150.167:54530?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6%20%231
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@172.252.236.213:46502?sni=real.getafreenode.sbs#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:59494?sni=real.getafreenode.sbs#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%A6
@@ -54,7 +54,7 @@ hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443?insecure=1&sni
 hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@89.185.27.133:443?insecure=1&sni=www.bing.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF2%20%231
 hysteria2://cc83a02b-90ea-403b-9c76-27e4be95f637@154.204.181.230:50256?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AD%F0%9F%87%B0%20%232
 hysteria2://de8854c7-fa17-4266-ae18-50a9732a0c4e@us2.1010991.xyz:3001?insecure=1&sni=us2.1010991.xyz#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%231
-hysteria2://dongtaiwang.com@108.181.5.130:63015?insecure=1&sni=apple.com#%40V2rayBaaz
+hysteria2://dongtaiwang.com@108.181.5.130:63015?insecure=1&sni=apple.com#%40Selinc
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig%20%234
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#%E2%86%92%40Hddify%20%F0%9F%9A%A2
 hysteria2://e10ea0d5-4244-4aec-9ba0-cafe77cc6d90@aws-linkhy10.liangxin1.xyz:443?insecure=1&sni=www.teslaautomation.de#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1
@@ -95,8 +95,6 @@ hysteria2://D9LQsYxAUo@91.108.240.122:37502?insecure=1&obfs=salamander&obfs-pass
 hysteria2://D9LQsYxAUo@91.108.240.122:58430?insecure=1&obfs=salamander&obfs-password=Lzakmdjsia#https%3A//t.me/VTWORAY_WOLF%20%232
 hysteria2://FREEEE_7.87958795@91.107.251.13:443?insecure=1&sni=fast.com&obfs=salamander&obfs-password=aA@8795#%40Daily_Configs
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#TEL%20%3E%20SaghiVpnXBOT%20%F0%9F%8D%8C%5B%F0%9F%87%B3%F0%9F%87%B1%5D
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#ViP%20RGB%F0%9F%9A%80
-hysteria2://c5c2bdda-30f9-4252-b074-1f515e38adde@de2.587458.xyz:1443?insecure=0&sni=de2.587458.xyz#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40NormanV2ray%20%7C%20%D9%86%DB%8C%D9%85%20%D8%B3%D8%A7%D8%B9%D8%AA...
 hysteria2://cf125f42-759d-4112-82c3-014d2ffcb1e7@185.85.242.177:1443?insecure=1&sni=gbr1.587458.xyz#GB%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%40v2xay
 hysteria2://d84be3ca-d0b6-4bd0-9b61-db86d7c65969@212.115.41.93:443?insecure=1&sni=aparat.com&obfs=salamander&obfs-password=Mzc5NTA3MjVlZDMyYTYyMA==#TR%204%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20%40v2xay
 hysteria2://dac2d4dd-9a4d-4eb0-92a6-028532caed52@107.174.41.101:45000?insecure=1&sni=www.apple.com#%E7%BE%8E%E5%9B%BD10%20%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//dafei.de%20%234
@@ -108,7 +106,7 @@ hysteria2://kWlrCka5jzfKbD2z7ucwANEdZM@47.245.53.59:26404?insecure=1#%F0%9F%9B%A
 hysteria2://n9OgQprayM@android.yas-nowin.ir:443?insecure=0&sni=android.yas-nowin.ir#%40Selinc%20%231
 hysteria2://xnChC7dKZ8@91.98.34.130:443?insecure=0&sni=android.yas-nowin.ir#%40v2rayNGcloud
 hysteria2://xnChC7dKZ8@android.yas-nowin.ir:443?insecure=0&sni=android.yas-nowin.ir#%40SaghiVpnXBOT%20%F0%9F%87%A9%F0%9F%87%AA%5B%F0%9F%87%A9%F0%9F%87%AA%5D
-hysteria2://zPb5RRsckD@android.yas-nowin.ir:443?insecure=0&sni=android.yas-nowin.ir#%40V2rayBaaz%20%232
+hysteria2://zPb5RRsckD@android.yas-nowin.ir:443?insecure=0&sni=android.yas-nowin.ir#%40Selinc%20%232
 hysteria2://L60nS04NhsoMpN2DDGbnMqLP8DY@47.76.83.25:11243?peer=bing.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%F0%9F%91%96TG%E9%A2%91%E9%81%93@stymei1%E4%B8%A823
 hysteria2://XK52yierGckONMJWbJnuskD3unI@47.242.195.121:12854?peer=bing.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%F0%9F%91%96TG%E9%A2%91%E9%81%93@stymei1%E4%B8%A824
 hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?peer=bing.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%F0%9F%91%96TG%E9%A2%91%E9%81%93@stymei1%E4%B8%A825
