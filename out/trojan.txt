@@ -716,14 +716,9 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.18:443/?type=tcp&secur
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443/?type=tcp&security=tls&sni=icecream.955850.xyz#%F0%9F%87%BF%F0%9F%87%A6ZA%28AzadNet.t.me%29
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:447?allowInsecure=1&sni=www.baidu.com#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:444?allowInsecure=1&sni=www.ithome.com#%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:409?allowInsecure=1&sni=1-dy.ixigua.com#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:461?allowInsecure=1&sni=www.baidu.com#%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:1256?allowInsecure=1&sni=www.baidu.com#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:406?allowInsecure=1&sni=www.baidu.com#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:409?allowInsecure=1&sni=1-dy.ixigua.com#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:15015?allowInsecure=1&sni=www.baidu.com#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:14568?allowInsecure=1&sni=www.baidu.com#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:347?allowInsecure=1&sni=www.baidu.com#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:22006?allowInsecure=1&sni=www.baidu.com#%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
-trojan://tg-fq521free@194.76.18.129:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#KZ_speednode_0081
-trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#RU_speednode_0175
-trojan://slch2024@104.18.3.108:8443?allowInsecure=1&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/#US_speednode_0282
-trojan://tg-fq521free@216.24.57.30:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#US_speednode_0283
-trojan://tg-fq521free@198.62.62.67:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#US_speednode_0284
