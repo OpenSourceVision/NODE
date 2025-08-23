@@ -1,7 +1,8 @@
-hysteria://208.87.243.151:38845?peer=www.bing.com&auth=&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=38845&obfs=&protocol=udp&fastopen=1#United States_hy_6
+hysteria://2604:6600:2004::18b:38845?peer=www.bing.com&auth=&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=38845&obfs=&protocol=udp&fastopen=1#Unknown_hy_6
 hysteria://108.181.24.77:37872?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=37872&obfs=&protocol=udp&fastopen=1#United States_hy_7
 hysteria://109.104.153.91:37519?peer=apple.com&auth=&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=37519&obfs=&protocol=udp&fastopen=1#The Netherlands_hy_8
 hysteria://208.87.243.151:38845?peer=www.bing.com&auth=&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=38845&obfs=&protocol=udp&fastopen=1#United States_hy_9
+hysteria://2604:6600:2004::18b:38845?peer=www.bing.com&auth=&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=38845&obfs=&protocol=udp&fastopen=1#Unknown_hy_9
 hysteria://109.104.153.91:37519,10000-20000?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#The Netherlands_hysteria_0
 hysteria://109.104.153.91:37519,10000-20000?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#The Netherlands_hysteria_1
 hysteria://109.104.153.91:37519,10000-20000?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#The Netherlands_hysteria_2
