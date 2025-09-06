@@ -9,8 +9,8 @@ hysteria2://dongtaiwang.com@104.168.10.176:35205,10000-20000?insecure=1&sni=appl
 hysteria2://dongtaiwang.com@104.168.10.176:35205?insecure=1&sni=apple.com&mport=10000-20000
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com&mport=
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com&mport=
-hysteria2://dongtaiwang.com@62.210.10.140:33224?insecure=1&sni=apple.com&mport=
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&mport=
+hysteria2://dongtaiwang.com@62.210.10.140:33224?insecure=1&sni=apple.com&mport=
 hysteria2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712?insecure=1&sni=bing.com#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AF%F0%9F%87%B5
 hysteria2://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:29662?insecure=0&sni=chervhill.hajalii.com&obfs=salamander&obfs-password=xFGh9dsyreJV9sMs1RUnFbwRdon#%40Mr_Config_Group%E2%9C%8C%EF%B8%8F
 hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@185.126.255.78:43429?insecure=0&sni=real.getafreenode.sbs#%E2%86%92%20%40Hddify
@@ -40,6 +40,7 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%92%8E%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%AF%D8%B1%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7...%20%231
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee%20%231
 hysteria2://c9edf5cb-67ef-4440-8684-b3d301df6488@yue-ru.yuetoto.net:21053?insecure=0&sni=yue-ru.yuetoto.net#%40vpnserverrr%F0%9F%91%88%F0%9F%8F%BB
+hysteria2://daily_configs@176.124.204.248:443?insecure=1&sni=ubuntu com&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN#%40Daily_Configs%20IPv4
 hysteria2://dailyconfigs@176.124.204.248:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN#%40Daily_Configs%20%3C%3D%3D%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7...
 hysteria2://dongtaiwang.com@108.181.5.130:63015?insecure=1&sni=apple.com#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig%20%231
