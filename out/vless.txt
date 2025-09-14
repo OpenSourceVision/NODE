@@ -650,13 +650,4 @@ vless://26c462ba-a90c-4814-9d7c-a629bc0bdb5c@2001:bc8:32d7:302::13:34324?securit
 vless://26c462ba-a90c-4814-9d7c-a629bc0bdb5c@2001:bc8:32d7:302::13:34324?security=reality&allowInsecure=0&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=pHn5CHa2P6-lNBIkTOI3zJQN19jfNFkXxGFuyefpP0M&sid=&sni=dash.cloudflare.com&serviceName=&path=&host=#Unknown_vless_3
 vless://26c462ba-a90c-4814-9d7c-a629bc0bdb5c@2001:bc8:32d7:302::13:34324?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=pHn5CHa2P6-lNBIkTOI3zJQN19jfNFkXxGFuyefpP0M&sid=&type=tcp&headerType=none&alpn=h3
 vless://26c462ba-a90c-4814-9d7c-a629bc0bdb5c@2001:bc8:32d7:302::15:34324?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=pHn5CHa2P6-lNBIkTOI3zJQN19jfNFkXxGFuyefpP0M&sid=&type=tcp&headerType=none&alpn=h3
-vless://6035325d-399a-5148-9126-29cedfd5966a@185.39.207.121:443?allowInsecure=0&sni=outlook.office.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#GR_speednode_0043
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@185.152.94.10:443?allowInsecure=0&sni=speed.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0059
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@185.152.94.10:1443?allowInsecure=0&sni=speed.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0060
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@213.232.120.10:1443?allowInsecure=0&sni=speed.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0061
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@147.78.180.10:1443?allowInsecure=0&sni=speed.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0065
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@147.78.180.10:443?allowInsecure=0&sni=speed.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0066
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@213.232.123.10:1443?allowInsecure=0&sni=speed.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0079
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@213.232.123.10:443?allowInsecure=0&sni=speed.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0080
-vless://6035325d-399a-5148-9126-29cedfd5966a@92.118.112.83:443?allowInsecure=0&sni=outlook.office.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0100
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@85.239.56.10:443?allowInsecure=0&sni=speed.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0102
+vless://e4412006-94f2-4f3c-b568-22a3e31dc264@172.233.153.209:10001?allowInsecure=0&sni=yahoo.com&fp=firefox&security=tls#US_speednode_0089
