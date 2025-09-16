@@ -8,10 +8,10 @@ hysteria2://dongtaiwang.com@104.168.10.176:35205,10000-20000?insecure=1&sni=appl
 hysteria2://dongtaiwang.com@104.168.10.176:35205,10000-20000?insecure=1&sni=apple.com#United States_hysteria2_3
 hysteria2://dongtaiwang.com@104.168.10.176:35205?insecure=1&sni=apple.com&mport=10000-20000
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com&mport=
+hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com&mport=
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&mport=
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com&mport=
-hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com&mport=
-hysteria2://L60nS04NhsoMpN2DDGbnMqLP8DY@47.76.83.25:11243?peer=bing.com&insecure=1#%F0%9F%91%96%F0%9F%87%AD%F0%9F%87%B0TG%E9%A2%91%E9%81%93@stymei1%E4%B8%A89
+hysteria2://peEduuHzbExjK7UQHzazXwqgA@166.88.164.9:27704?peer=bing.com&insecure=1#%F0%9F%91%96%F0%9F%87%B0%F0%9F%87%B5TG%E9%A2%91%E9%81%93@stymei
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_0
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_1
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#Unknown_hysteria2_2
