@@ -1,1 +1,5 @@
-trojan://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@104.21.14.54:443?allowInsecure=1&sni=6666YHjU.777159.xYz&ws=1&wspath=%2FdilyfCPEmLvYr5hYXD#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20248
+trojan://installshield@176.97.68.153:8443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#AU_speednode_0002
+trojan://2fd0d127-266d-4d0b-b453-f94659a132fc@106.75.134.1:12000?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0005
+trojan://installshield@23.162.152.30:8443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#FR_speednode_0010
+trojan://1b26d982-fd68-44f4-bf6d-22fe17a9249a@sg005.421421.xyz:20230?allowInsecure=1&sni=www.alibaba.com&ws=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2009
+trojan://813e7fc5-2c9a-4967-802b-6443930ecb7e@jp006.421421.xyz:20230?allowInsecure=1&sni=www.alibaba.com&ws=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2008
