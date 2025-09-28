@@ -3,8 +3,8 @@ hysteria://195.154.200.40:15010?upmbps=100&downmbps=100&auth=dongtaiwang.com&ins
 hysteria://62.210.127.217:40099?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B93
 hysteria://208.87.243.187:15823?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B94
 hysteria://51.159.226.1:14241?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B95
-hysteria://62.210.127.217:35511?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B920
-hysteria://195.154.200.178:46938?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B921
+hysteria://195.154.200.178:46938?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B919
+hysteria://62.210.127.217:35511?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B921
 hysteria://195.154.200.40:15010/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
 hysteria://208.87.243.187:15823/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 hysteria://2001:bc8:32d7:158::4:50011?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=50011&obfs=&protocol=udp&fastopen=1#Unknown_hy_6
@@ -18,10 +18,10 @@ hysteria://109.104.153.91:37519,10000-20000?peer=apple.com&auth=dongtaiwang.com&
 hysteria://109.104.153.91:37519?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=230686720&recv_window_conn=57671680&mport=10000-20000
 hysteria://195.154.200.40:15010?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=276824064&recv_window_conn=69206016&mport=
 hysteria://62.210.127.217:40099?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=276824064&recv_window_conn=69206016&mport=
-hysteria://208.87.243.187:15823?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=23068672&recv_window_conn=5767168&mport=
 hysteria://51.159.226.1:14241?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=230686720&recv_window_conn=57671680&mport=
-hysteria://62.210.127.217:35511?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3&obfsParam=undefined
+hysteria://208.87.243.187:15823?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=23068672&recv_window_conn=5767168&mport=
 hysteria://195.154.200.178:46938?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3&obfsParam=undefined
+hysteria://62.210.127.217:35511?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3&obfsParam=undefined
 hysteria://2001:bc8:1203:106::200:47821?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=47821&obfs=&protocol=udp&fastopen=1#Unknown_hy_2
 hysteria://2001:bc8:1203:106::201:47821?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=47821&obfs=&protocol=udp&fastopen=1#Unknown_hy_2
 hysteria://2001:bc8:1203:106::202:47821?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=47821&obfs=&protocol=udp&fastopen=1#Unknown_hy_2
@@ -44,3 +44,4 @@ hysteria://195.154.200.40:15010?peer=apple.com&auth=dongtaiwang.com&insecure=1&u
 hysteria://62.210.127.217:40099?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#Unknown_hysteria_3
 hysteria://51.159.226.1:49003?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#Unknown_hysteria_4
 hysteria://51.159.226.1:49003?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#Unknown_hysteria_5
+hysteria://51.159.226.1:49003?protocol=&auth=&alpn=h3&insecure=1&peer=apple.com&upmbps=11&downmbps=55&obfs=#FR_speednode_0004
