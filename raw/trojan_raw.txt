@@ -1,1 +1,13 @@
-trojan://Aimer@5.182.84.22:2096?allowInsecure=0&sni=epge.muarua.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20386
+trojan://3649f9a2-8855-4f75-8264-88d75b8a21c7@baigou1.kkieo555.cn:21878?allowInsecure=1&sni=douyin.com#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2001
+trojan://96b7e5f8-e59d-4b1c-8cae-554aef2ecf51@baigou1.kkieo555.cn:21867?allowInsecure=1&sni=douyin.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2016
+trojan://3649f9a2-8855-4f75-8264-88d75b8a21c7@baigou1.kkieo555.cn:21869?allowInsecure=1&sni=douyin.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2007
+trojan://3649f9a2-8855-4f75-8264-88d75b8a21c7@baigou1.kkieo555.cn:21862?allowInsecure=1&sni=douyin.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20074
+trojan://e2be45f9-c60a-4802-a1a1-fc6d5cc9f800@baigou1.kkieo555.cn:21866?allowInsecure=1&sni=douyin.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20081
+trojan://e2be45f9-c60a-4802-a1a1-fc6d5cc9f800@baigou1.kkieo555.cn:27865?allowInsecure=1&sni=douyin.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20130
+trojan://e2be45f9-c60a-4802-a1a1-fc6d5cc9f800@baigou1.kkieo555.cn:21865?allowInsecure=1&sni=douyin.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20235
+trojan://e2be45f9-c60a-4802-a1a1-fc6d5cc9f800@baigou1.kkieo555.cn:21877?allowInsecure=1&sni=douyin.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2003
+trojan://e2be45f9-c60a-4802-a1a1-fc6d5cc9f800@baigou1.kkieo555.cn:21871?allowInsecure=1&sni=douyin.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2002
+trojan://2e717181-d763-4f44-af52-5027e181b9f5@baigou1.kkieo555.cn:21865?allowInsecure=1&sni=douyin.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20236
+trojan://2e717181-d763-4f44-af52-5027e181b9f5@baigou1.kkieo555.cn:21868?allowInsecure=1&sni=douyin.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2009
+trojan://910eff70-917c-49d8-81d1-6c0bc0e27e3c@sg007.421421.xyz:20230?allowInsecure=1&sni=www.alibaba.com&ws=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2010
+trojan://2e717181-d763-4f44-af52-5027e181b9f5@baigou1.kkieo555.cn:21891?allowInsecure=1&sni=douyin.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20076
