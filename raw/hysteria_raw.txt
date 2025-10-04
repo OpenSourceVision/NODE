@@ -60,7 +60,7 @@ proxies:
       - h3
     recv_window_conn: 5767168
     recv-window: 23068672
-  - name: 节点5
+  - name: 节点6
     type: hysteria
     server: 51.159.226.1
     port: "14241"
@@ -77,8 +77,8 @@ proxies:
     recv-window: 230686720
   - name: 节点19
     type: hysteria
-    server: 62.210.127.217
-    port: 35511
+    server: 195.154.200.178
+    port: 46938
     auth_str: dongtaiwang.com
     up: 100
     down: 100
@@ -88,10 +88,10 @@ proxies:
     skip-cert-verify: true
     alpn:
       - h3
-  - name: 节点21
+  - name: 节点20
     type: hysteria
-    server: 195.154.200.178
-    port: 46938
+    server: 62.210.127.217
+    port: 35511
     auth_str: dongtaiwang.com
     up: 100
     down: 100
@@ -162,21 +162,21 @@ proxies:
     protocol: hysteria
     originalUrl: hysteria://62.210.127.217:40099?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=276824064&recv_window_conn=69206016&mport=
   - type: hysteria
-    url: hysteria://208.87.243.187:15823?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=23068672&recv_window_conn=5767168&mport=
-    protocol: hysteria
-    originalUrl: hysteria://208.87.243.187:15823?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=23068672&recv_window_conn=5767168&mport=
-  - type: hysteria
     url: hysteria://51.159.226.1:14241?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=230686720&recv_window_conn=57671680&mport=
     protocol: hysteria
     originalUrl: hysteria://51.159.226.1:14241?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=230686720&recv_window_conn=57671680&mport=
   - type: hysteria
-    url: hysteria://62.210.127.217:35511?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3&obfsParam=undefined
+    url: hysteria://208.87.243.187:15823?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=23068672&recv_window_conn=5767168&mport=
     protocol: hysteria
-    originalUrl: hysteria://62.210.127.217:35511?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3&obfsParam=undefined
+    originalUrl: hysteria://208.87.243.187:15823?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=23068672&recv_window_conn=5767168&mport=
   - type: hysteria
     url: hysteria://195.154.200.178:46938?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3&obfsParam=undefined
     protocol: hysteria
     originalUrl: hysteria://195.154.200.178:46938?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3&obfsParam=undefined
+  - type: hysteria
+    url: hysteria://62.210.127.217:35511?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3&obfsParam=undefined
+    protocol: hysteria
+    originalUrl: hysteria://62.210.127.217:35511?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3&obfsParam=undefined
   - type: hysteria
     url: hysteria://2001:bc8:1203:106::200:47821?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=47821&obfs=&protocol=udp&fastopen=1#Unknown_hy_2
     protocol: hysteria
