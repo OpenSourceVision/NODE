@@ -1,8 +1,8 @@
 hysteria://109.104.153.91:37519?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B91
-hysteria://62.210.127.217:40099?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B92
-hysteria://195.154.200.40:15010?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B93
-hysteria://51.159.226.1:14241?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B94
-hysteria://208.87.243.187:15823?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B95
+hysteria://195.154.200.40:15010?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B92
+hysteria://62.210.127.217:40099?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B93
+hysteria://208.87.243.187:15823?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B94
+hysteria://51.159.226.1:14241?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B96
 hysteria://62.210.127.217:35511?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B919
 hysteria://195.154.200.178:46938?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B921
 hysteria://195.154.200.40:15010/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
