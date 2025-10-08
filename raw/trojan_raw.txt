@@ -1,2 +1,3 @@
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:472?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#CN_speednode_0007
-trojan://telegram-id-directvpn@35.180.94.176:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%2006
+trojan://wb6368@92.243.75.49:2087?sni=&allowInsecure=0&type=ws&host=hsdgbuys.pages.dev&path=%2F&fp=chrome&alpn=#SG_speednode_0023
+trojan://YwuvGJk36B@creativecommons.org:2053?sni=&allowInsecure=0&type=ws&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&fp=chrome&alpn=#US_speednode_0037
+trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20109
