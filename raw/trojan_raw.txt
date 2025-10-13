@@ -1,3 +1,5 @@
 trojan://wb6368@92.243.75.49:2087?sni=&allowInsecure=0&type=ws&host=hsdgbuys.pages.dev&path=%2F&fp=chrome&alpn=#SG_speednode_0018
 trojan://installshield@38.180.106.124:8443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#SG_speednode_0020
-trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20132
+trojan://trojan@103.116.7.1:443?allowInsecure=0&sni=wahaha.yingyangkuaixian.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2033
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:24673?allowInsecure=1&sni=fe2.update.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2009
+trojan://wb6368@92.243.75.49:2087?allowInsecure=1&sni=hsdgbuys.pages.dev&ws=1&wspath=%252F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2021
