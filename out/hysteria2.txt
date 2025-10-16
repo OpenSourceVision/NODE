@@ -1,4 +1,4 @@
-hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?insecure=1&sni=apple.com&fastopen=1#%E8%8A%82%E7%82%B95
+hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?insecure=1&sni=apple.com&fastopen=1#%E8%8A%82%E7%82%B96
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com&fastopen=1#%E8%8A%82%E7%82%B97
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com&fastopen=1#%E8%8A%82%E7%82%B98
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&fastopen=1#%E8%8A%82%E7%82%B99
@@ -10,16 +10,11 @@ hysteria2://dongtaiwang.com@2001:bc8:32d7:302::17:20088?insecure=1&sni=apple.com
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?insecure=1&sni=apple.com&mport=
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com&mport=
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com&mport=
-hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&mport=
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com&mport=
+hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&mport=
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_0
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_1
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#Unknown_hysteria2_2
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_3
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com#Unknown_hysteria2_4
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
-hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@77.90.41.197:35000?&insecure=1&obfs=&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=jnir.pichondan.com#DE_speednode_0005
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?&insecure=1&obfs=&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#US_speednode_0021
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?&insecure=1&obfs=&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#US_speednode_0022
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?&insecure=1&obfs=&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#US_speednode_0023
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?&insecure=1&obfs=&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#US_speednode_0025

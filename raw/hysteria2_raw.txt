@@ -1,5 +1,5 @@
 proxies:
-  - name: 节点5
+  - name: 节点6
     type: hysteria2
     server: 2001:bc8:32d7:302::11
     port: "20088"
@@ -78,13 +78,13 @@ proxies:
     protocol: hysteria2
     originalUrl: hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com&mport=
   - type: hysteria2
-    url: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&mport=
-    protocol: hysteria2
-    originalUrl: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&mport=
-  - type: hysteria2
     url: hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com&mport=
     protocol: hysteria2
     originalUrl: hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com&mport=
+  - type: hysteria2
+    url: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&mport=
+    protocol: hysteria2
+    originalUrl: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&mport=
   - type: hysteria2
     url: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_0
     protocol: hysteria2
@@ -109,23 +109,3 @@ proxies:
     url: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
     protocol: hysteria2
     originalUrl: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
-  - type: hysteria2
-    url: hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@77.90.41.197:35000?&insecure=1&obfs=&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=jnir.pichondan.com#DE_speednode_0005
-    protocol: hysteria2
-    originalUrl: hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@77.90.41.197:35000?&insecure=1&obfs=&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=jnir.pichondan.com#DE_speednode_0005
-  - type: hysteria2
-    url: hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?&insecure=1&obfs=&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#US_speednode_0021
-    protocol: hysteria2
-    originalUrl: hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?&insecure=1&obfs=&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#US_speednode_0021
-  - type: hysteria2
-    url: hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?&insecure=1&obfs=&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#US_speednode_0022
-    protocol: hysteria2
-    originalUrl: hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?&insecure=1&obfs=&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#US_speednode_0022
-  - type: hysteria2
-    url: hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?&insecure=1&obfs=&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#US_speednode_0023
-    protocol: hysteria2
-    originalUrl: hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?&insecure=1&obfs=&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#US_speednode_0023
-  - type: hysteria2
-    url: hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?&insecure=1&obfs=&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#US_speednode_0025
-    protocol: hysteria2
-    originalUrl: hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?&insecure=1&obfs=&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#US_speednode_0025
