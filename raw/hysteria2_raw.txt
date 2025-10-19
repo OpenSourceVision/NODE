@@ -31,21 +31,21 @@ proxies:
     down: 100 Mbps
   - name: 节点9
     type: hysteria2
-    server: 51.158.218.2
-    port: "50066"
-    password: dongtaiwang.com
-    fast-open: true
-    sni: www.bing.com
-    skip-cert-verify: true
-    up: 100 Mbps
-    down: 100 Mbps
-  - name: 节点10
-    type: hysteria2
     server: 2001:bc8:32d7:158::9
     port: "33356"
     password: dongtaiwang.com
     fast-open: true
     sni: apple.com
+    skip-cert-verify: true
+    up: 100 Mbps
+    down: 100 Mbps
+  - name: 节点10
+    type: hysteria2
+    server: 51.158.218.2
+    port: "50066"
+    password: dongtaiwang.com
+    fast-open: true
+    sni: www.bing.com
     skip-cert-verify: true
     up: 100 Mbps
     down: 100 Mbps
@@ -109,39 +109,3 @@ proxies:
     url: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
     protocol: hysteria2
     originalUrl: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
-  - type: hysteria2
-    url: hysteria2://4ccf4e58-267e-4a8d-a295-5feb5fd74a3a@banmabanmabanmabanmabanmabanma2.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma2.wanlidag.top#DE_speednode_0005
-    protocol: hysteria2
-    originalUrl: hysteria2://4ccf4e58-267e-4a8d-a295-5feb5fd74a3a@banmabanmabanmabanmabanmabanma2.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma2.wanlidag.top#DE_speednode_0005
-  - type: hysteria2
-    url: hysteria2://a2573e46-ef76-46e3-bd69-fc1d8ebd0659@banmabanmabanmabanmabanmabanma2.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma2.wanlidag.top#DE_speednode_0006
-    protocol: hysteria2
-    originalUrl: hysteria2://a2573e46-ef76-46e3-bd69-fc1d8ebd0659@banmabanmabanmabanmabanmabanma2.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma2.wanlidag.top#DE_speednode_0006
-  - type: hysteria2
-    url: hysteria2://066f89f6-0a88-4eb6-963d-b8e304cd0560@banmabanmabanmabanmabanmabanma2.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma2.wanlidag.top#DE_speednode_0007
-    protocol: hysteria2
-    originalUrl: hysteria2://066f89f6-0a88-4eb6-963d-b8e304cd0560@banmabanmabanmabanmabanmabanma2.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma2.wanlidag.top#DE_speednode_0007
-  - type: hysteria2
-    url: hysteria2://1c46d0e1-c44f-4893-b8e1-793d3edaf9ae@banmabanmabanmabanmabanmabanma7.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma7.wanlidag.top#RU_speednode_0031
-    protocol: hysteria2
-    originalUrl: hysteria2://1c46d0e1-c44f-4893-b8e1-793d3edaf9ae@banmabanmabanmabanmabanmabanma7.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma7.wanlidag.top#RU_speednode_0031
-  - type: hysteria2
-    url: hysteria2://b261dfbb-4c58-427e-b4b4-dd94ef500fe7@us-nb-02.linlujs.pw:25733?&insecure=1&obfs=&obfs-password=&sni=us-nb-02.linlujs.pw#US_speednode_0047
-    protocol: hysteria2
-    originalUrl: hysteria2://b261dfbb-4c58-427e-b4b4-dd94ef500fe7@us-nb-02.linlujs.pw:25733?&insecure=1&obfs=&obfs-password=&sni=us-nb-02.linlujs.pw#US_speednode_0047
-  - type: hysteria2
-    url: hysteria2://62b7824e-47dc-11ef-9f2d-f23c9164ca5d@52da8dcc-t4dz40-tkp3tl-1s09x.us.hyhuawei.com:443?&insecure=1&obfs=&obfs-password=&sni=52da8dcc-t4dz40-tkp3tl-1s09x.us.hyhuawei.com#US_speednode_0048
-    protocol: hysteria2
-    originalUrl: hysteria2://62b7824e-47dc-11ef-9f2d-f23c9164ca5d@52da8dcc-t4dz40-tkp3tl-1s09x.us.hyhuawei.com:443?&insecure=1&obfs=&obfs-password=&sni=52da8dcc-t4dz40-tkp3tl-1s09x.us.hyhuawei.com#US_speednode_0048
-  - type: hysteria2
-    url: hysteria2://20f87b02-0eaa-11eb-8684-f23c913c8d2b@abae2ad9-t4dz40-t6i5o0-gacy.us.hyhuawei.com:443?&insecure=1&obfs=&obfs-password=&sni=abae2ad9-t4dz40-t6i5o0-gacy.us.hyhuawei.com#US_speednode_0049
-    protocol: hysteria2
-    originalUrl: hysteria2://20f87b02-0eaa-11eb-8684-f23c913c8d2b@abae2ad9-t4dz40-t6i5o0-gacy.us.hyhuawei.com:443?&insecure=1&obfs=&obfs-password=&sni=abae2ad9-t4dz40-t6i5o0-gacy.us.hyhuawei.com#US_speednode_0049
-  - type: hysteria2
-    url: hysteria2://1c46d0e1-c44f-4893-b8e1-793d3edaf9ae@banmabanmabanmabanmabanmabanma6.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma6.wanlidag.top#US_speednode_0050
-    protocol: hysteria2
-    originalUrl: hysteria2://1c46d0e1-c44f-4893-b8e1-793d3edaf9ae@banmabanmabanmabanmabanmabanma6.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma6.wanlidag.top#US_speednode_0050
-  - type: hysteria2
-    url: hysteria2://dd2ef6f5-b817-49c9-b538-fe7ef32dc3c7@sg-nb-03.linlujs.pw:25664?&insecure=1&obfs=&obfs-password=&sni=sg-nb-03.linlujs.pw#US_speednode_0053
-    protocol: hysteria2
-    originalUrl: hysteria2://dd2ef6f5-b817-49c9-b538-fe7ef32dc3c7@sg-nb-03.linlujs.pw:25664?&insecure=1&obfs=&obfs-password=&sni=sg-nb-03.linlujs.pw#US_speednode_0053
