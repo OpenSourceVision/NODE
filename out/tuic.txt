@@ -7,4 +7,3 @@ tuic://5ae31731-78ac-483a-b524-011d05072ef5:dongtaiwang.com@2001:bc8:1203:106::1
 tuic://5ae31731-78ac-483a-b524-011d05072ef5:dongtaiwang.com@2001:bc8:1203:106::102:55111?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
 tuic://5ae31731-78ac-483a-b524-011d05072ef5:dongtaiwang.com@2001:bc8:1203:106::103:55111?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
 tuic://5ae31731-78ac-483a-b524-011d05072ef5:dongtaiwang.com@2001:bc8:1203:106::104:55111?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
-tuic://a13a6ce4-cafa-4b26-a710-a03aa91c5418:a13a6ce4-cafa-4b26-a710-a03aa91c5418@40.233.77.57:52434?alpn=h3&allow_insecure=True&disable_sni=0&sni=www.bing.com&udp_relay_mode=&congestion_control=#CA_speednode_0001
