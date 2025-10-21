@@ -1,1 +1,2 @@
-trojan://d0728e94-82c2-456b-b5d4-eeab540599df@172.67.192.215:443?sni=&allowInsecure=0&type=ws&host=joss.krikkrik.xyz&path=%2FFree-VPN-CF-Geo-Project%2FAE5&fp=chrome&alpn=#US_speednode_0054
+trojan://BxceQaOe@36.156.102.115:26876?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0008
+trojan://BxceQaOe@36.151.251.18:811?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0009
