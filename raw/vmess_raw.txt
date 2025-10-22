@@ -1,5 +1,5 @@
 proxies:
-  - name: 节点11
+  - name: 节点12
     type: vmess
     server: 104.21.238.35
     uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
@@ -25,7 +25,7 @@ proxies:
       path: github.com/Alvin9999
       headers:
         Host: ip19.9447609.xyz
-  - name: 节点14
+  - name: 节点15
     type: vmess
     server: 2001:bc8:32d7:302::10
     uuid: 8e34e170-13ae-4892-9d20-05962acc9f84

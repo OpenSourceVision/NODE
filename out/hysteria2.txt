@@ -8,8 +8,8 @@ hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?insecure=1&sni=apple.com
 hysteria2://dongtaiwang.com@2001:bc8:32d7:302::17:20088?insecure=1&sni=apple.com&obfs=&obfs-password=#Unknown_hy2_3
 hysteria2://dongtaiwang.com@2001:bc8:32d7:302::17:20088?insecure=1&sni=apple.com&obfs=&obfs-password=#Unknown_hy2_5
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?insecure=1&sni=apple.com&mport=
-hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com&mport=
 hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com&mport=
+hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com&mport=
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&mport=
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com&mport=
 hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com#Unknown_hysteria2_0
