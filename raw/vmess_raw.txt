@@ -1,5 +1,5 @@
 proxies:
-  - name: 节点12
+  - name: 节点11
     type: vmess
     server: 104.21.238.35
     uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
