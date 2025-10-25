@@ -1,4 +1,4 @@
-hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?insecure=1&sni=apple.com&fastopen=1#%E8%8A%82%E7%82%B95
+hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?insecure=1&sni=apple.com&fastopen=1#%E8%8A%82%E7%82%B96
 hysteria2://dongtaiwang.com@2604:6600::5cb:22222?insecure=1&sni=www.bing.com&fastopen=1#%E8%8A%82%E7%82%B97
 hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com&fastopen=1#%E8%8A%82%E7%82%B98
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&fastopen=1#%E8%8A%82%E7%82%B99

@@ -1,1 +1,1 @@
-trojan://T@_WvT8Ho@LW%w_,@nop-55q.pages.dev:2053?sni=&allowInsecure=0&type=ws&host=NOp-55q.pAgEs.dEv&path=%2FtrGPZDfetEwuO25SAs&fp=chrome&alpn=#US_speednode_0031
+trojan://T@_WvT8Ho@LW%w_,@nop-55q.pages.dev:2053?sni=&allowInsecure=0&type=ws&host=NOp-55q.pAgEs.dEv&path=%2FtrGPZDfetEwuO25SAs&fp=chrome&alpn=#US_speednode_0028
