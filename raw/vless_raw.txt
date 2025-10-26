@@ -21,9 +21,9 @@ proxies:
     tls: true
   - name: 节点16
     type: vless
-    server: 195.154.200.40
-    uuid: 3ed2ad90-b217-4872-8aa4-ef69a9b90f1e
-    port: 39433
+    server: 2001:bc8:32d7:158::6
+    uuid: 56618bde-5a09-4ef8-ae56-6e7a8d69ec67
+    port: 10033
     udp: true
     tls: true
   - name: 节点17
@@ -39,16 +39,16 @@ proxies:
       public-key: pHn5CHa2P6-lNBIkTOI3zJQN19jfNFkXxGFuyefpP0M
       short-id: ""
     client-figerprint: chrome
-  - name: 节点18
+  - name: 节点19
     type: vless
-    server: 2001:bc8:32d7:312::6
-    uuid: 56618bde-5a09-4ef8-ae56-6e7a8d69ec67
-    port: 10033
+    server: 195.154.200.40
+    uuid: 3ed2ad90-b217-4872-8aa4-ef69a9b90f1e
+    port: 39433
     udp: true
     tls: true
   - name: 节点21
     type: vless
-    server: 2001:bc8:32d7:158::6
+    server: 2001:bc8:32d7:312::6
     uuid: 56618bde-5a09-4ef8-ae56-6e7a8d69ec67
     port: 10033
     udp: true
@@ -149,94 +149,138 @@ proxies:
     protocol: vless
     originalUrl: vless://26c462ba-a90c-4814-9d7c-a629bc0bdb5c@2001:bc8:32d7:302::15:34324?security=reality&allowInsecure=0&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=pHn5CHa2P6-lNBIkTOI3zJQN19jfNFkXxGFuyefpP0M&sid=&sni=dash.cloudflare.com&serviceName=&path=&host=#Unknown_vless_5
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@43.154.124.136:26666?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Ftelegram%40freecodes%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0005
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0007
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@43.154.124.136:26666?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Ftelegram%40freecodes%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0005
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0007
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0006
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%40freecodes%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0008
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0006
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%40freecodes%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0008
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0007
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40freecodes%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0009
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0007
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40freecodes%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0009
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=0#HK_speednode_0008
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0011
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=0#HK_speednode_0008
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0011
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0009
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0013
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0009
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0013
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40freecodes%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0010
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=0#HK_speednode_0014
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40freecodes%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0010
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=0#HK_speednode_0014
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%40freecodes%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0011
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94security%3Dtls&allowInsecure=0#HK_speednode_0015
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%40freecodes%2F%3Fed%3D2560&allowInsecure=0#HK_speednode_0011
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94security%3Dtls&allowInsecure=0#HK_speednode_0015
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@118.40.126.7:50001?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#KR_speednode_0012
+    url: vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=i2pd.website&serverName=i2pd.website&fp=chrome&alpn=&allowInsecure=0&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98#IL_speednode_0016
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@118.40.126.7:50001?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#KR_speednode_0012
+    originalUrl: vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=i2pd.website&serverName=i2pd.website&fp=chrome&alpn=&allowInsecure=0&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98#IL_speednode_0016
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.229.77.184:27443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#KR_speednode_0013
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.48.77.114:12312?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#KR_speednode_0017
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.229.77.184:27443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#KR_speednode_0013
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.48.77.114:12312?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#KR_speednode_0017
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@147.75.225.105:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#KR_speednode_0014
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.48.77.114:12312?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=1#KR_speednode_0018
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@147.75.225.105:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#KR_speednode_0014
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.48.77.114:12312?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=1#KR_speednode_0018
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#RU_speednode_0016
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@175.211.35.161:50003?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#KR_speednode_0019
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#RU_speednode_0016
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@175.211.35.161:50003?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#KR_speednode_0019
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FXU0001F1E8U0001F1F3%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=0#RU_speednode_0017
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@118.91.78.76:50001?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#KR_speednode_0020
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FXU0001F1E8U0001F1F3%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=0#RU_speednode_0017
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@118.91.78.76:50001?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#KR_speednode_0020
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2F&allowInsecure=0#RU_speednode_0018
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@147.75.225.105:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#KR_speednode_0021
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2F&allowInsecure=0#RU_speednode_0018
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@147.75.225.105:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#KR_speednode_0021
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=0#RU_speednode_0019
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#RU_speednode_0022
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=0#RU_speednode_0019
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#RU_speednode_0022
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@185.114.78.230:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#SG_speednode_0020
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%40freecodes%2F%3Fed%3D2560&allowInsecure=0#RU_speednode_0023
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@185.114.78.230:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#SG_speednode_0020
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%40freecodes%2F%3Fed%3D2560&allowInsecure=0#RU_speednode_0023
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@185.114.78.230:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#SG_speednode_0021
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Ffreecodes%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#RU_speednode_0024
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@185.114.78.230:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#SG_speednode_0021
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Ffreecodes%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#RU_speednode_0024
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@167.179.27.92:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#TW_speednode_0022
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FXU0001F1E8U0001F1F3%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#RU_speednode_0025
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@167.179.27.92:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#TW_speednode_0022
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FXU0001F1E8U0001F1F3%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&allowInsecure=0#RU_speednode_0025
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@167.179.27.92:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#TW_speednode_0023
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#RU_speednode_0026
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@167.179.27.92:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#TW_speednode_0023
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#RU_speednode_0026
   - type: vless
-    url: vless://ebab6efe-5627-48f6-8b11-22d0a113c1d3@172.66.44.179:443?encryption=none&security=tls&flow=&type=ws&sni=xzxcxzs.pages.dev&fp=chrome&alpn=&host=xzxcxzs.pages.dev&path=%2F%3Fed%3D2048&allowInsecure=0#US_speednode_0024
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&allowInsecure=0#RU_speednode_0027
     protocol: vless
-    originalUrl: vless://ebab6efe-5627-48f6-8b11-22d0a113c1d3@172.66.44.179:443?encryption=none&security=tls&flow=&type=ws&sni=xzxcxzs.pages.dev&fp=chrome&alpn=&host=xzxcxzs.pages.dev&path=%2F%3Fed%3D2048&allowInsecure=0#US_speednode_0024
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&allowInsecure=0#RU_speednode_0027
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@104.19.50.238:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FtelegramU0001F1E8U0001F1F3%40wangcai2%2F%3Fed%3D2560&allowInsecure=0#US_speednode_0025
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%20%40WangCai2%20%2F%3Fed%3D2560&allowInsecure=0#RU_speednode_0028
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@104.19.50.238:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FtelegramU0001F1E8U0001F1F3%40wangcai2%2F%3Fed%3D2560&allowInsecure=0#US_speednode_0025
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%20%40WangCai2%20%2F%3Fed%3D2560&allowInsecure=0#RU_speednode_0028
   - type: vless
-    url: vless://ebab6efe-5627-48f6-8b11-22d0a113c1d3@npmjs.com:443?encryption=none&security=tls&flow=&type=ws&sni=xzxcxzs.pages.dev&fp=random&alpn=&host=xzxcxzs.pages.dev&path=%2F&allowInsecure=0#US_speednode_0026
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FXU0001F1E8U0001F1F3%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94security%3Dtls&allowInsecure=0#RU_speednode_0029
     protocol: vless
-    originalUrl: vless://ebab6efe-5627-48f6-8b11-22d0a113c1d3@npmjs.com:443?encryption=none&security=tls&flow=&type=ws&sni=xzxcxzs.pages.dev&fp=random&alpn=&host=xzxcxzs.pages.dev&path=%2F&allowInsecure=0#US_speednode_0026
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FXU0001F1E8U0001F1F3%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94security%3Dtls&allowInsecure=0#RU_speednode_0029
   - type: vless
-    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@195.13.45.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=0#US_speednode_0027
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2F&allowInsecure=0#RU_speednode_0030
     protocol: vless
-    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@195.13.45.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=0#US_speednode_0027
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2F&allowInsecure=0#RU_speednode_0030
   - type: vless
-    url: vless://67c662fa-cd6a-474a-b55f-d50dc0a7e210@104.18.15.201:2096?encryption=none&security=tls&flow=&type=ws&sni=iamdt.pages.dev&fp=chrome&alpn=&host=iamdt.pages.dev&path=%2F&allowInsecure=0#US_speednode_0029
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FXU0001F1E8U0001F1F3%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=0#RU_speednode_0031
     protocol: vless
-    originalUrl: vless://67c662fa-cd6a-474a-b55f-d50dc0a7e210@104.18.15.201:2096?encryption=none&security=tls&flow=&type=ws&sni=iamdt.pages.dev&fp=chrome&alpn=&host=iamdt.pages.dev&path=%2F&allowInsecure=0#US_speednode_0029
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FXU0001F1E8U0001F1F3%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=0#RU_speednode_0031
+  - type: vless
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Fsecurity%3Dtls&allowInsecure=0#RU_speednode_0032
+    protocol: vless
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Fsecurity%3Dtls&allowInsecure=0#RU_speednode_0032
+  - type: vless
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94security%3Dtls&allowInsecure=0#RU_speednode_0033
+    protocol: vless
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94security%3Dtls&allowInsecure=0#RU_speednode_0033
+  - type: vless
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=0#RU_speednode_0034
+    protocol: vless
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=0#RU_speednode_0034
+  - type: vless
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@185.114.78.230:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#SG_speednode_0035
+    protocol: vless
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@185.114.78.230:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#SG_speednode_0035
+  - type: vless
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@185.114.78.230:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#SG_speednode_0036
+    protocol: vless
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@185.114.78.230:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#SG_speednode_0036
+  - type: vless
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@167.179.27.92:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#TW_speednode_0037
+    protocol: vless
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@167.179.27.92:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegramU0001F1E8U0001F1F3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#TW_speednode_0037
+  - type: vless
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@167.179.27.92:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#TW_speednode_0038
+    protocol: vless
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@167.179.27.92:443?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&allowInsecure=0#TW_speednode_0038
+  - type: vless
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@104.19.50.238:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FtelegramU0001F1E8U0001F1F3%40wangcai2%2F%3Fed%3D2560&allowInsecure=0#US_speednode_0039
+    protocol: vless
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@104.19.50.238:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2FtelegramU0001F1E8U0001F1F3%40wangcai2%2F%3Fed%3D2560&allowInsecure=0#US_speednode_0039
+  - type: vless
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@195.13.45.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=0#US_speednode_0041
+    protocol: vless
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@195.13.45.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&allowInsecure=0#US_speednode_0041
+  - type: vless
+    url: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@195.13.45.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94security%3Dtls&allowInsecure=0#US_speednode_0043
+    protocol: vless
+    originalUrl: vless://f61a4285-7264-4d07-9408-7b9ba1922c26@195.13.45.253:2096?encryption=none&security=tls&flow=&type=ws&sni=gaosir.unfeeling.sbs&fp=&alpn=&host=gaosir.unfeeling.sbs&path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94security%3Dtls&allowInsecure=0#US_speednode_0043
+  - type: vless
+    url: vless://19c25ef3-9233-4191-acdc-ec278a54185f@104.238.214.30:14333?encryption=none&security=reality&flow=&type=tcp&sni=amazon.com&serverName=amazon.com&fp=firefox&alpn=&allowInsecure=0&pbk=6m6kUON0alvajtw1VbVxsSmENGy2muRDFxpRmizXEFk&sid=feea69900702#US_speednode_0044
+    protocol: vless
+    originalUrl: vless://19c25ef3-9233-4191-acdc-ec278a54185f@104.238.214.30:14333?encryption=none&security=reality&flow=&type=tcp&sni=amazon.com&serverName=amazon.com&fp=firefox&alpn=&allowInsecure=0&pbk=6m6kUON0alvajtw1VbVxsSmENGy2muRDFxpRmizXEFk&sid=feea69900702#US_speednode_0044
