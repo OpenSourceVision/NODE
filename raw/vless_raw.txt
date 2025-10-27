@@ -1,5 +1,5 @@
 proxies:
-  - name: 节点12
+  - name: 节点11
     type: vless
     server: 2001:bc8:32d7:302::13
     uuid: 26c462ba-a90c-4814-9d7c-a629bc0bdb5c
@@ -12,11 +12,11 @@ proxies:
       public-key: pHn5CHa2P6-lNBIkTOI3zJQN19jfNFkXxGFuyefpP0M
       short-id: ""
     client-figerprint: chrome
-  - name: 节点14
+  - name: 节点15
     type: vless
-    server: fan3.394615.xyz
-    uuid: 8b66e552-e89d-4c4f-bb5a-e3d37bf151b8
-    port: 34500
+    server: 195.154.200.40
+    uuid: 3ed2ad90-b217-4872-8aa4-ef69a9b90f1e
+    port: 39433
     udp: true
     tls: true
   - name: 节点16
@@ -27,6 +27,13 @@ proxies:
     udp: true
     tls: true
   - name: 节点17
+    type: vless
+    server: fan3.394615.xyz
+    uuid: 8b66e552-e89d-4c4f-bb5a-e3d37bf151b8
+    port: 34500
+    udp: true
+    tls: true
+  - name: 节点18
     type: vless
     server: 2001:bc8:32d7:302::15
     uuid: 26c462ba-a90c-4814-9d7c-a629bc0bdb5c
@@ -39,14 +46,7 @@ proxies:
       public-key: pHn5CHa2P6-lNBIkTOI3zJQN19jfNFkXxGFuyefpP0M
       short-id: ""
     client-figerprint: chrome
-  - name: 节点19
-    type: vless
-    server: 195.154.200.40
-    uuid: 3ed2ad90-b217-4872-8aa4-ef69a9b90f1e
-    port: 39433
-    udp: true
-    tls: true
-  - name: 节点21
+  - name: 节点20
     type: vless
     server: 2001:bc8:32d7:312::6
     uuid: 56618bde-5a09-4ef8-ae56-6e7a8d69ec67
