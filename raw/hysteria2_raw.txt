@@ -1,5 +1,5 @@
 proxies:
-  - name: 节点6
+  - name: 节点5
     type: hysteria2
     server: 2001:bc8:32d7:302::11
     port: "20088"
@@ -31,21 +31,21 @@ proxies:
     down: 100 Mbps
   - name: 节点9
     type: hysteria2
-    server: 2001:bc8:32d7:158::9
-    port: "33356"
-    password: dongtaiwang.com
-    fast-open: true
-    sni: apple.com
-    skip-cert-verify: true
-    up: 100 Mbps
-    down: 100 Mbps
-  - name: 节点10
-    type: hysteria2
     server: 51.158.218.2
     port: "50066"
     password: dongtaiwang.com
     fast-open: true
     sni: www.bing.com
+    skip-cert-verify: true
+    up: 100 Mbps
+    down: 100 Mbps
+  - name: 节点11
+    type: hysteria2
+    server: 2001:bc8:32d7:158::9
+    port: "33356"
+    password: dongtaiwang.com
+    fast-open: true
+    sni: apple.com
     skip-cert-verify: true
     up: 100 Mbps
     down: 100 Mbps
@@ -70,21 +70,21 @@ proxies:
     protocol: hysteria2
     originalUrl: hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?insecure=1&sni=apple.com&mport=
   - type: hysteria2
-    url: hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com&mport=
-    protocol: hysteria2
-    originalUrl: hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com&mport=
-  - type: hysteria2
     url: hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com&mport=
     protocol: hysteria2
     originalUrl: hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com&mport=
   - type: hysteria2
-    url: hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com&mport=
+    url: hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com&mport=
     protocol: hysteria2
-    originalUrl: hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com&mport=
+    originalUrl: hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com&mport=
   - type: hysteria2
     url: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&mport=
     protocol: hysteria2
     originalUrl: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&mport=
+  - type: hysteria2
+    url: hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com&mport=
+    protocol: hysteria2
+    originalUrl: hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com&mport=
   - type: hysteria2
     url: hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com#Unknown_hysteria2_0
     protocol: hysteria2
@@ -109,7 +109,3 @@ proxies:
     url: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
     protocol: hysteria2
     originalUrl: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
-  - type: hysteria2
-    url: hysteria2://a16d62f6-048d-11f0-af5a-f23c93136cb3@b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk:1743?&insecure=1&obfs=&obfs-password=&sni=b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk#US_speednode_0005
-    protocol: hysteria2
-    originalUrl: hysteria2://a16d62f6-048d-11f0-af5a-f23c93136cb3@b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk:1743?&insecure=1&obfs=&obfs-password=&sni=b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk#US_speednode_0005

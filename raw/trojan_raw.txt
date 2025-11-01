@@ -1,2 +1,2 @@
-trojan://BxceQaOe@36.151.251.23:4451?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0001
-trojan://BxceQaOe@36.151.251.35:24392?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0002
+trojan://b00abf05-5768-4ac9-8d20-6b1bd605bcf6@hxfz940e90d9.nfwzdm.com:42765?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0002
+trojan://BxceQaOe@36.156.102.74:43567?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0003
