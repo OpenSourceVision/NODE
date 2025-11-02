@@ -1,2 +1,6 @@
-trojan://b00abf05-5768-4ac9-8d20-6b1bd605bcf6@hxfz940e90d9.nfwzdm.com:42765?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0002
-trojan://BxceQaOe@36.156.102.74:43567?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0003
+trojan://BxceQaOe@36.156.102.74:4861?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0002
+trojan://7197668c-0332-466e-9553-41639c4bc95f@n002.xunxunmimisbs.sbs:23100?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#CN_speednode_0003
+trojan://2c1f575d-08ad-4ad8-b2b2-f147379dd36d@n002.xunxunmimisbs.sbs:28100?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#CN_speednode_0004
+trojan://bca467b8c15211d189008a93c7519d3b@117.172.176.24:5041?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#CN_speednode_0005
+trojan://f128c8a8-d184-4f9d-8aa2-503266130126@n001.xunxunmimisbs.sbs:23100?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#CN_speednode_0006
+trojan://bca467b8c15211d189008a93c7519d3b@117.172.176.24:5321?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#CN_speednode_0007

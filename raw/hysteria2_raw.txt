@@ -1,5 +1,5 @@
 proxies:
-  - name: 节点5
+  - name: 节点6
     type: hysteria2
     server: 2001:bc8:32d7:302::11
     port: "20088"
@@ -39,7 +39,7 @@ proxies:
     skip-cert-verify: true
     up: 100 Mbps
     down: 100 Mbps
-  - name: 节点11
+  - name: 节点12
     type: hysteria2
     server: 2001:bc8:32d7:158::9
     port: "33356"
@@ -70,21 +70,21 @@ proxies:
     protocol: hysteria2
     originalUrl: hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?insecure=1&sni=apple.com&mport=
   - type: hysteria2
-    url: hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com&mport=
-    protocol: hysteria2
-    originalUrl: hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com&mport=
-  - type: hysteria2
     url: hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com&mport=
     protocol: hysteria2
     originalUrl: hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com&mport=
   - type: hysteria2
-    url: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&mport=
+    url: hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com&mport=
     protocol: hysteria2
-    originalUrl: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&mport=
+    originalUrl: hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com&mport=
   - type: hysteria2
     url: hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com&mport=
     protocol: hysteria2
     originalUrl: hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com&mport=
+  - type: hysteria2
+    url: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&mport=
+    protocol: hysteria2
+    originalUrl: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&mport=
   - type: hysteria2
     url: hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com#Unknown_hysteria2_0
     protocol: hysteria2
