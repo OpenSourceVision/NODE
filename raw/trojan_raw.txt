@@ -1,6 +1,5 @@
-trojan://BxceQaOe@36.156.102.74:4861?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0002
-trojan://7197668c-0332-466e-9553-41639c4bc95f@n002.xunxunmimisbs.sbs:23100?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#CN_speednode_0003
-trojan://2c1f575d-08ad-4ad8-b2b2-f147379dd36d@n002.xunxunmimisbs.sbs:28100?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#CN_speednode_0004
-trojan://bca467b8c15211d189008a93c7519d3b@117.172.176.24:5041?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#CN_speednode_0005
-trojan://f128c8a8-d184-4f9d-8aa2-503266130126@n001.xunxunmimisbs.sbs:23100?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#CN_speednode_0006
-trojan://bca467b8c15211d189008a93c7519d3b@117.172.176.24:5321?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#CN_speednode_0007
+trojan://bca467b8c15211d189008a93c7519d3b@117.172.176.24:1332?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#CN_speednode_0003
+trojan://bca467b8c15211d189008a93c7519d3b@117.172.176.24:2283?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#CN_speednode_0004
+trojan://adbac894-90b9-4913-b77e-a715a8d4ebc8@oss-cn-shanghai.letssepub.com:20021?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#CN_speednode_0005
+trojan://BxceQaOe@203.198.122.129:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#HK_speednode_0009
+trojan://trojan@103.116.7.1:443?sni=&allowInsecure=0&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=%2F&fp=chrome&alpn=#JP_speednode_0020
