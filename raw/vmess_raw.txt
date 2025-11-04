@@ -11,20 +11,8 @@ proxies:
     ws-opts:
       path: github.com/Alvin9999
       headers:
-        Host: ip29.9447609.xyz
+        Host: ip19.9447609.xyz
   - name: 节点13
-    type: vmess
-    server: 2001:bc8:32d7:302::10
-    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
-    alterId: 0
-    port: 44579
-    cipher: auto
-    udp: true
-    network: ws
-    ws-opts:
-      path: ""
-      headers: {}
-  - name: 节点14
     type: vmess
     server: 104.21.238.35
     uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
@@ -36,16 +24,12 @@ proxies:
     ws-opts:
       path: github.com/Alvin9999
       headers:
-        Host: ip19.9447609.xyz
+        Host: ip29.9447609.xyz
   - type: vmess
-    url: vmess://eyJ2IjogIjIiLCAicHMiOiAiSlBfc3BlZWRub2RlXzAwMTkiLCAiYWRkIjogInRiMDEyLWcwMS5qcDAzLWo3LXZtMC5lbnRyeS5mcjA1MjguYXJ0IiwgInBvcnQiOiAyMTU4MSwgImlkIjogIjFhOWY4NTdmLTlhMDctM2E4Yy1hMTU1LWY5YWIzYzQ1NzM0MyIsICJhaWQiOiAxLCAibmV0IjogInRjcCIsICJzY3kiOiAiYXV0byIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGIwMTItZzAxLmpwMDMtajctdm0wLmVudHJ5LmZyMDUyOC5hcnQiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+    url: vmess://eyJ2IjogIjIiLCAicHMiOiAiREVfc3BlZWRub2RlXzAwMDQiLCAiYWRkIjogIjc3LjM3LjMzLjEwOCIsICJwb3J0IjogODAsICJpZCI6ICJkOTY3ZmZjYS1kZTkwLTRkYWEtYmQwMC1kNTI3ZTViYWUxMWYiLCAiYWlkIjogMCwgIm5ldCI6ICJ3cyIsICJzY3kiOiAiYXV0byIsICJ0eXBlIjogIiIsICJob3N0IjogImdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmxlb3Nob3BwaW5nNzcuaXIuIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
     protocol: vmess
-    originalUrl: vmess://eyJ2IjogIjIiLCAicHMiOiAiSlBfc3BlZWRub2RlXzAwMTkiLCAiYWRkIjogInRiMDEyLWcwMS5qcDAzLWo3LXZtMC5lbnRyeS5mcjA1MjguYXJ0IiwgInBvcnQiOiAyMTU4MSwgImlkIjogIjFhOWY4NTdmLTlhMDctM2E4Yy1hMTU1LWY5YWIzYzQ1NzM0MyIsICJhaWQiOiAxLCAibmV0IjogInRjcCIsICJzY3kiOiAiYXV0byIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGIwMTItZzAxLmpwMDMtajctdm0wLmVudHJ5LmZyMDUyOC5hcnQiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+    originalUrl: vmess://eyJ2IjogIjIiLCAicHMiOiAiREVfc3BlZWRub2RlXzAwMDQiLCAiYWRkIjogIjc3LjM3LjMzLjEwOCIsICJwb3J0IjogODAsICJpZCI6ICJkOTY3ZmZjYS1kZTkwLTRkYWEtYmQwMC1kNTI3ZTViYWUxMWYiLCAiYWlkIjogMCwgIm5ldCI6ICJ3cyIsICJzY3kiOiAiYXV0byIsICJ0eXBlIjogIiIsICJob3N0IjogImdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmxlb3Nob3BwaW5nNzcuaXIuIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
   - type: vmess
-    url: vmess://eyJ2IjogIjIiLCAicHMiOiAiVVNfc3BlZWRub2RlXzAwNDIiLCAiYWRkIjogIjEwNC4xNjguOTQuNDEiLCAicG9ydCI6IDMyMzAxLCAiaWQiOiAiYTIyMzViNzItZmQ5Yy00MDRmLWJlNWEtNTNiMmRlMGNiNzk4IiwgImFpZCI6IDAsICJuZXQiOiAidGNwIiwgInNjeSI6ICJhdXRvIiwgInR5cGUiOiAiaHR0cCIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+    url: vmess://eyJ2IjogIjIiLCAicHMiOiAiS1Jfc3BlZWRub2RlXzAwMjUiLCAiYWRkIjogIjE1Mi43MC45Mi42OSIsICJwb3J0IjogODAsICJpZCI6ICJiYjljMzk5My1hNGI5LTRkYWQtYWViOS1hYzg2MzcxYWU2OGIiLCAiYWlkIjogMCwgIm5ldCI6ICJ0Y3AiLCAic2N5IjogImF1dG8iLCAidHlwZSI6ICJodHRwIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
     protocol: vmess
-    originalUrl: vmess://eyJ2IjogIjIiLCAicHMiOiAiVVNfc3BlZWRub2RlXzAwNDIiLCAiYWRkIjogIjEwNC4xNjguOTQuNDEiLCAicG9ydCI6IDMyMzAxLCAiaWQiOiAiYTIyMzViNzItZmQ5Yy00MDRmLWJlNWEtNTNiMmRlMGNiNzk4IiwgImFpZCI6IDAsICJuZXQiOiAidGNwIiwgInNjeSI6ICJhdXRvIiwgInR5cGUiOiAiaHR0cCIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-  - type: vmess
-    url: vmess://eyJ2IjogIjIiLCAicHMiOiAiVVNfc3BlZWRub2RlXzAwNDUiLCAiYWRkIjogIjV0empwLWcwMy5qcDAxLW5uLXZtMC5lbnRyeS5mcjA1MjguYXJ0IiwgInBvcnQiOiAyMTU4MywgImlkIjogIjMzOWNmNjI1LWVmNzAtM2JlNC04OTY1LTVhMWUzZjM4NGQ5ZiIsICJhaWQiOiAxLCAibmV0IjogInRjcCIsICJzY3kiOiAiYXV0byIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAiNXR6anAtZzAzLmpwMDEtbm4tdm0wLmVudHJ5LmZyMDUyOC5hcnQiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
-    protocol: vmess
-    originalUrl: vmess://eyJ2IjogIjIiLCAicHMiOiAiVVNfc3BlZWRub2RlXzAwNDUiLCAiYWRkIjogIjV0empwLWcwMy5qcDAxLW5uLXZtMC5lbnRyeS5mcjA1MjguYXJ0IiwgInBvcnQiOiAyMTU4MywgImlkIjogIjMzOWNmNjI1LWVmNzAtM2JlNC04OTY1LTVhMWUzZjM4NGQ5ZiIsICJhaWQiOiAxLCAibmV0IjogInRjcCIsICJzY3kiOiAiYXV0byIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAiNXR6anAtZzAzLmpwMDEtbm4tdm0wLmVudHJ5LmZyMDUyOC5hcnQiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+    originalUrl: vmess://eyJ2IjogIjIiLCAicHMiOiAiS1Jfc3BlZWRub2RlXzAwMjUiLCAiYWRkIjogIjE1Mi43MC45Mi42OSIsICJwb3J0IjogODAsICJpZCI6ICJiYjljMzk5My1hNGI5LTRkYWQtYWViOS1hYzg2MzcxYWU2OGIiLCAiYWlkIjogMCwgIm5ldCI6ICJ0Y3AiLCAic2N5IjogImF1dG8iLCAidHlwZSI6ICJodHRwIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
