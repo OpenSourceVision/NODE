@@ -1,5 +1,5 @@
 proxies:
-  - name: 节点6
+  - name: 节点5
     type: hysteria2
     server: 2001:bc8:32d7:302::11
     port: "20088"
@@ -31,21 +31,21 @@ proxies:
     down: 100 Mbps
   - name: 节点9
     type: hysteria2
-    server: 51.158.218.2
-    port: "50066"
-    password: dongtaiwang.com
-    fast-open: true
-    sni: www.bing.com
-    skip-cert-verify: true
-    up: 100 Mbps
-    down: 100 Mbps
-  - name: 节点11
-    type: hysteria2
     server: 2001:bc8:32d7:158::9
     port: "33356"
     password: dongtaiwang.com
     fast-open: true
     sni: apple.com
+    skip-cert-verify: true
+    up: 100 Mbps
+    down: 100 Mbps
+  - name: 节点10
+    type: hysteria2
+    server: 51.158.218.2
+    port: "50066"
+    password: dongtaiwang.com
+    fast-open: true
+    sni: www.bing.com
     skip-cert-verify: true
     up: 100 Mbps
     down: 100 Mbps
