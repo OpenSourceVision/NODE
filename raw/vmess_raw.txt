@@ -1,5 +1,5 @@
 proxies:
-  - name: 节点12
+  - name: 节点11
     type: vmess
     server: 104.21.238.35
     uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
@@ -25,23 +25,11 @@ proxies:
       path: github.com/Alvin9999
       headers:
         Host: ip19.9447609.xyz
-  - name: 节点15
-    type: vmess
-    server: 2001:bc8:32d7:302::10
-    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
-    alterId: 0
-    port: 44579
-    cipher: auto
-    udp: true
-    network: ws
-    ws-opts:
-      path: ""
-      headers: {}
   - type: vmess
-    url: vmess://eyJ2IjogIjIiLCAicHMiOiAiREVfc3BlZWRub2RlXzAwMDQiLCAiYWRkIjogIjc3LjM3LjMzLjEwOCIsICJwb3J0IjogODAsICJpZCI6ICJkOTY3ZmZjYS1kZTkwLTRkYWEtYmQwMC1kNTI3ZTViYWUxMWYiLCAiYWlkIjogMCwgIm5ldCI6ICJ3cyIsICJzY3kiOiAiYXV0byIsICJ0eXBlIjogIiIsICJob3N0IjogImdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmxlb3Nob3BwaW5nNzcuaXIuIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+    url: vmess://eyJ2IjogIjIiLCAicHMiOiAiUlVfc3BlZWRub2RlXzAwNDIiLCAiYWRkIjogInJ1MS5ub2RlYTZhNi5za3lub2RlLm1lIiwgInBvcnQiOiA4MCwgImlkIjogImMzZjk1YjdlLTBmYzctMzMxMS05YTNkLWUzNGU2NzU2MzJkNCIsICJhaWQiOiAwLCAibmV0IjogIndzIiwgInNjeSI6ICJhdXRvIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibm9kZS01OS0xNzUtMjA2LTg2LnNwZWVkdGVzdC5jbiIsICJwYXRoIjogIi9kb3dubG9hZCIsICJ0bHMiOiAiIn0=
     protocol: vmess
-    originalUrl: vmess://eyJ2IjogIjIiLCAicHMiOiAiREVfc3BlZWRub2RlXzAwMDQiLCAiYWRkIjogIjc3LjM3LjMzLjEwOCIsICJwb3J0IjogODAsICJpZCI6ICJkOTY3ZmZjYS1kZTkwLTRkYWEtYmQwMC1kNTI3ZTViYWUxMWYiLCAiYWlkIjogMCwgIm5ldCI6ICJ3cyIsICJzY3kiOiAiYXV0byIsICJ0eXBlIjogIiIsICJob3N0IjogImdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmxlb3Nob3BwaW5nNzcuaXIuIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+    originalUrl: vmess://eyJ2IjogIjIiLCAicHMiOiAiUlVfc3BlZWRub2RlXzAwNDIiLCAiYWRkIjogInJ1MS5ub2RlYTZhNi5za3lub2RlLm1lIiwgInBvcnQiOiA4MCwgImlkIjogImMzZjk1YjdlLTBmYzctMzMxMS05YTNkLWUzNGU2NzU2MzJkNCIsICJhaWQiOiAwLCAibmV0IjogIndzIiwgInNjeSI6ICJhdXRvIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibm9kZS01OS0xNzUtMjA2LTg2LnNwZWVkdGVzdC5jbiIsICJwYXRoIjogIi9kb3dubG9hZCIsICJ0bHMiOiAiIn0=
   - type: vmess
-    url: vmess://eyJ2IjogIjIiLCAicHMiOiAiS1Jfc3BlZWRub2RlXzAwMjUiLCAiYWRkIjogIjE1Mi43MC45Mi42OSIsICJwb3J0IjogODAsICJpZCI6ICJiYjljMzk5My1hNGI5LTRkYWQtYWViOS1hYzg2MzcxYWU2OGIiLCAiYWlkIjogMCwgIm5ldCI6ICJ0Y3AiLCAic2N5IjogImF1dG8iLCAidHlwZSI6ICJodHRwIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+    url: vmess://eyJ2IjogIjIiLCAicHMiOiAiU0dfc3BlZWRub2RlXzAwNDMiLCAiYWRkIjogIjEuMzIuMjE2LjE2MyIsICJwb3J0IjogMzAzNDQsICJpZCI6ICJmM2MzMjUxYi00NjNjLTRmZmItYjAzMC03ZjhjMDdhYjYwOGMiLCAiYWlkIjogMCwgIm5ldCI6ICJ0Y3AiLCAic2N5IjogImF1dG8iLCAidHlwZSI6ICJodHRwIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
     protocol: vmess
-    originalUrl: vmess://eyJ2IjogIjIiLCAicHMiOiAiS1Jfc3BlZWRub2RlXzAwMjUiLCAiYWRkIjogIjE1Mi43MC45Mi42OSIsICJwb3J0IjogODAsICJpZCI6ICJiYjljMzk5My1hNGI5LTRkYWQtYWViOS1hYzg2MzcxYWU2OGIiLCAiYWlkIjogMCwgIm5ldCI6ICJ0Y3AiLCAic2N5IjogImF1dG8iLCAidHlwZSI6ICJodHRwIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+    originalUrl: vmess://eyJ2IjogIjIiLCAicHMiOiAiU0dfc3BlZWRub2RlXzAwNDMiLCAiYWRkIjogIjEuMzIuMjE2LjE2MyIsICJwb3J0IjogMzAzNDQsICJpZCI6ICJmM2MzMjUxYi00NjNjLTRmZmItYjAzMC03ZjhjMDdhYjYwOGMiLCAiYWlkIjogMCwgIm5ldCI6ICJ0Y3AiLCAic2N5IjogImF1dG8iLCAidHlwZSI6ICJodHRwIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
