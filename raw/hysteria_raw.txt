@@ -47,21 +47,6 @@ proxies:
     recv-window: 276824064
   - name: 节点4
     type: hysteria
-    server: 51.159.226.1
-    port: "14241"
-    auth_str: dongtaiwang.com
-    up: 100
-    down: 100
-    fast-open: true
-    protocol: udp
-    sni: apple.com
-    skip-cert-verify: true
-    alpn:
-      - h3
-    recv_window_conn: 57671680
-    recv-window: 230686720
-  - name: 节点5
-    type: hysteria
     server: 2604:6600::5cb
     port: "15823"
     auth_str: dongtaiwang.com
@@ -75,7 +60,22 @@ proxies:
       - h3
     recv_window_conn: 5767168
     recv-window: 23068672
-  - name: 节点17
+  - name: 节点5
+    type: hysteria
+    server: 51.159.226.1
+    port: "14241"
+    auth_str: dongtaiwang.com
+    up: 100
+    down: 100
+    fast-open: true
+    protocol: udp
+    sni: apple.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+    recv_window_conn: 57671680
+    recv-window: 230686720
+  - name: 节点18
     type: hysteria
     server: 62.210.10.186
     port: 35511
@@ -257,3 +257,7 @@ proxies:
     url: hysteria://[2604:6600::5cb]:15823?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#Unknown_hysteria_5
     protocol: hysteria
     originalUrl: hysteria://[2604:6600::5cb]:15823?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#Unknown_hysteria_5
+  - type: hysteria
+    url: hysteria://51.159.226.1:49003?protocol=&auth=&alpn=h3&insecure=1&peer=apple.com&upmbps=11&downmbps=55&obfs=#FR_speednode_0007
+    protocol: hysteria
+    originalUrl: hysteria://51.159.226.1:49003?protocol=&auth=&alpn=h3&insecure=1&peer=apple.com&upmbps=11&downmbps=55&obfs=#FR_speednode_0007

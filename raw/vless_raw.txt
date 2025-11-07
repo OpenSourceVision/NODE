@@ -1,5 +1,5 @@
 proxies:
-  - name: 节点12
+  - name: 节点11
     type: vless
     server: 2001:bc8:32d7:302::13
     uuid: 26c462ba-a90c-4814-9d7c-a629bc0bdb5c
@@ -33,7 +33,7 @@ proxies:
     port: 10033
     udp: true
     tls: true
-  - name: 节点18
+  - name: 节点17
     type: vless
     server: 2001:bc8:32d7:312::6
     uuid: 56618bde-5a09-4ef8-ae56-6e7a8d69ec67
@@ -131,15 +131,3 @@ proxies:
     url: vless://56618bde-5a09-4ef8-ae56-6e7a8d69ec67@2001:bc8:32d7:158::6:10033?security=reality&allowInsecure=0&flow=&type=grpc&fp=chrome&pbk=m1ORavmKKsF8kn6JfNF1m35wRORu8c6YLyxpSfyiYQ0&sid=dfdfb0e2e2d400c4&sni=nijigen-works.jp&serviceName=FhwHiFzK&path=&host=#Unknown_vless_5
     protocol: vless
     originalUrl: vless://56618bde-5a09-4ef8-ae56-6e7a8d69ec67@2001:bc8:32d7:158::6:10033?security=reality&allowInsecure=0&flow=&type=grpc&fp=chrome&pbk=m1ORavmKKsF8kn6JfNF1m35wRORu8c6YLyxpSfyiYQ0&sid=dfdfb0e2e2d400c4&sni=nijigen-works.jp&serviceName=FhwHiFzK&path=&host=#Unknown_vless_5
-  - type: vless
-    url: vless://4741863d-e3ac-4b9d-8185-466f437b3fa8@usvless.yydzx.xyz:17597?encryption=none&security=tls&flow=xtls-rprx-vision&type=tcp&sni=usvless.yydzx.xyz&serverName=usvless.yydzx.xyz&fp=chrome&alpn=&allowInsecure=0#US_speednode_0045
-    protocol: vless
-    originalUrl: vless://4741863d-e3ac-4b9d-8185-466f437b3fa8@usvless.yydzx.xyz:17597?encryption=none&security=tls&flow=xtls-rprx-vision&type=tcp&sni=usvless.yydzx.xyz&serverName=usvless.yydzx.xyz&fp=chrome&alpn=&allowInsecure=0#US_speednode_0045
-  - type: vless
-    url: vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@linux.do:2095?encryption=none&security=none&flow=&type=ws&sni=fangbinxingnmsl.pusytroller.cf&fp=&alpn=&host=fangbinxingnmsl.pusytroller.cf&path=%2F&allowInsecure=0#US_speednode_0048
-    protocol: vless
-    originalUrl: vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@linux.do:2095?encryption=none&security=none&flow=&type=ws&sni=fangbinxingnmsl.pusytroller.cf&fp=&alpn=&host=fangbinxingnmsl.pusytroller.cf&path=%2F&allowInsecure=0#US_speednode_0048
-  - type: vless
-    url: vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.npmjs.com:2095?encryption=none&security=none&flow=&type=ws&sni=fangbinxingnmsl.pusytroller.cf&fp=&alpn=&host=fangbinxingnmsl.pusytroller.cf&path=%2F&allowInsecure=0#US_speednode_0049
-    protocol: vless
-    originalUrl: vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.npmjs.com:2095?encryption=none&security=none&flow=&type=ws&sni=fangbinxingnmsl.pusytroller.cf&fp=&alpn=&host=fangbinxingnmsl.pusytroller.cf&path=%2F&allowInsecure=0#US_speednode_0049

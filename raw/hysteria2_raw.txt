@@ -31,21 +31,21 @@ proxies:
     down: 100 Mbps
   - name: 节点9
     type: hysteria2
-    server: 2001:bc8:32d7:158::9
-    port: "33356"
-    password: dongtaiwang.com
-    fast-open: true
-    sni: apple.com
-    skip-cert-verify: true
-    up: 100 Mbps
-    down: 100 Mbps
-  - name: 节点10
-    type: hysteria2
     server: 51.158.218.2
     port: "50066"
     password: dongtaiwang.com
     fast-open: true
     sni: www.bing.com
+    skip-cert-verify: true
+    up: 100 Mbps
+    down: 100 Mbps
+  - name: 节点10
+    type: hysteria2
+    server: 2001:bc8:32d7:158::9
+    port: "33356"
+    password: dongtaiwang.com
+    fast-open: true
+    sni: apple.com
     skip-cert-verify: true
     up: 100 Mbps
     down: 100 Mbps
@@ -109,23 +109,3 @@ proxies:
     url: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
     protocol: hysteria2
     originalUrl: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
-  - type: hysteria2
-    url: hysteria2://39160580-f2fb-4cfa-9f64-ae07882dec9b@banmabanmabanmabanmabanmabanma3.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma3.wanlidag.top#IR_speednode_0040
-    protocol: hysteria2
-    originalUrl: hysteria2://39160580-f2fb-4cfa-9f64-ae07882dec9b@banmabanmabanmabanmabanmabanma3.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma3.wanlidag.top#IR_speednode_0040
-  - type: hysteria2
-    url: hysteria2://a52c5eb2-79c5-47b2-9db3-ece0aac2e3bd@banmabanmabanmabanmabanmabanma4.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma4.wanlidag.top#IR_speednode_0041
-    protocol: hysteria2
-    originalUrl: hysteria2://a52c5eb2-79c5-47b2-9db3-ece0aac2e3bd@banmabanmabanmabanmabanmabanma4.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma4.wanlidag.top#IR_speednode_0041
-  - type: hysteria2
-    url: hysteria2://b443f03b-f189-4fa1-85b1-c21f3256c06d@hinet-tw-01-ddns.sakuraikaede.com:30002?&insecure=1&obfs=&obfs-password=&sni=hinet.eessgrgrgrgr.cloudns.nz#TW_speednode_0044
-    protocol: hysteria2
-    originalUrl: hysteria2://b443f03b-f189-4fa1-85b1-c21f3256c06d@hinet-tw-01-ddns.sakuraikaede.com:30002?&insecure=1&obfs=&obfs-password=&sni=hinet.eessgrgrgrgr.cloudns.nz#TW_speednode_0044
-  - type: hysteria2
-    url: hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@825eee23-t4un40-tcj7b6-d70y.la.shifen.uk:1743?&insecure=1&obfs=&obfs-password=&sni=825eee23-t4un40-tcj7b6-d70y.la.shifen.uk#US_speednode_0046
-    protocol: hysteria2
-    originalUrl: hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@825eee23-t4un40-tcj7b6-d70y.la.shifen.uk:1743?&insecure=1&obfs=&obfs-password=&sni=825eee23-t4un40-tcj7b6-d70y.la.shifen.uk#US_speednode_0046
-  - type: hysteria2
-    url: hysteria2://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk:1743?&insecure=1&obfs=&obfs-password=&sni=#US_speednode_0047
-    protocol: hysteria2
-    originalUrl: hysteria2://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk:1743?&insecure=1&obfs=&obfs-password=&sni=#US_speednode_0047

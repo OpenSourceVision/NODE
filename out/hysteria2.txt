@@ -1,8 +1,8 @@
 hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?insecure=1&sni=apple.com&fastopen=1#%E8%8A%82%E7%82%B96
 hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com&fastopen=1#%E8%8A%82%E7%82%B97
 hysteria2://dongtaiwang.com@2604:6600::5cb:22222?insecure=1&sni=www.bing.com&fastopen=1#%E8%8A%82%E7%82%B98
-hysteria2://dongtaiwang.com@2001:bc8:32d7:158::9:33356?insecure=1&sni=apple.com&fastopen=1#%E8%8A%82%E7%82%B99
-hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&fastopen=1#%E8%8A%82%E7%82%B910
+hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&fastopen=1#%E8%8A%82%E7%82%B99
+hysteria2://dongtaiwang.com@2001:bc8:32d7:158::9:33356?insecure=1&sni=apple.com&fastopen=1#%E8%8A%82%E7%82%B910
 hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?insecure=1&sni=apple.com&obfs=&obfs-password=#Unknown_hy2_0
 hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?insecure=1&sni=apple.com&obfs=&obfs-password=#Unknown_hy2_1
 hysteria2://dongtaiwang.com@2001:bc8:32d7:302::17:20088?insecure=1&sni=apple.com&obfs=&obfs-password=#Unknown_hy2_3
@@ -18,8 +18,3 @@ hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com#Unkn
 hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com#Unknown_hysteria2_3
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com#Unknown_hysteria2_4
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
-hysteria2://39160580-f2fb-4cfa-9f64-ae07882dec9b@banmabanmabanmabanmabanmabanma3.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma3.wanlidag.top#IR_speednode_0040
-hysteria2://a52c5eb2-79c5-47b2-9db3-ece0aac2e3bd@banmabanmabanmabanmabanmabanma4.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma4.wanlidag.top#IR_speednode_0041
-hysteria2://b443f03b-f189-4fa1-85b1-c21f3256c06d@hinet-tw-01-ddns.sakuraikaede.com:30002?&insecure=1&obfs=&obfs-password=&sni=hinet.eessgrgrgrgr.cloudns.nz#TW_speednode_0044
-hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@825eee23-t4un40-tcj7b6-d70y.la.shifen.uk:1743?&insecure=1&obfs=&obfs-password=&sni=825eee23-t4un40-tcj7b6-d70y.la.shifen.uk#US_speednode_0046
-hysteria2://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk:1743?&insecure=1&obfs=&obfs-password=&sni=#US_speednode_0047
