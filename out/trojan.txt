@@ -1,3 +1,2 @@
-trojan://d0d86fb6-7597-4382-8bd8-773d0cd26e59@n001.xunxunmimisbs.sbs:24100?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#CN_speednode_0030
-trojan://BxceQaOe@36.150.215.231:1655?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0036
-trojan://BxceQaOe@203.198.122.129:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#HK_speednode_0039
+trojan://dce3c42b-f259-4b18-b5c1-a42ebef4e732@naiu-hk.05vr9nyqg5.download:13007?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#CN_speednode_0003
+trojan://BxceQaOe@58.152.46.98:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#HK_speednode_0013
