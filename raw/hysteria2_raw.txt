@@ -1,11 +1,21 @@
 proxies:
-  - name: 节点6
+  - name: 节点5
     type: hysteria2
     server: 2001:bc8:32d7:302::11
     port: "20088"
     password: dongtaiwang.com
     fast-open: true
     sni: apple.com
+    skip-cert-verify: true
+    up: 100 Mbps
+    down: 100 Mbps
+  - name: 节点6
+    type: hysteria2
+    server: 2604:6600::5cb
+    port: "22222"
+    password: dongtaiwang.com
+    fast-open: true
+    sni: www.bing.com
     skip-cert-verify: true
     up: 100 Mbps
     down: 100 Mbps
@@ -19,33 +29,23 @@ proxies:
     skip-cert-verify: true
     up: 100 Mbps
     down: 100 Mbps
-  - name: 节点8
-    type: hysteria2
-    server: 2604:6600::5cb
-    port: "22222"
-    password: dongtaiwang.com
-    fast-open: true
-    sni: www.bing.com
-    skip-cert-verify: true
-    up: 100 Mbps
-    down: 100 Mbps
   - name: 节点9
-    type: hysteria2
-    server: 51.158.218.2
-    port: "50066"
-    password: dongtaiwang.com
-    fast-open: true
-    sni: www.bing.com
-    skip-cert-verify: true
-    up: 100 Mbps
-    down: 100 Mbps
-  - name: 节点10
     type: hysteria2
     server: 2001:bc8:32d7:158::9
     port: "33356"
     password: dongtaiwang.com
     fast-open: true
     sni: apple.com
+    skip-cert-verify: true
+    up: 100 Mbps
+    down: 100 Mbps
+  - name: 节点14
+    type: hysteria2
+    server: 51.158.218.2
+    port: "50066"
+    password: dongtaiwang.com
+    fast-open: true
+    sni: www.bing.com
     skip-cert-verify: true
     up: 100 Mbps
     down: 100 Mbps
@@ -109,23 +109,3 @@ proxies:
     url: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
     protocol: hysteria2
     originalUrl: hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
-  - type: hysteria2
-    url: hysteria2://d9bdb765-773d-42a8-8fe0-1fcd85a84afc@banmabanmabanmabanmabanmabanma4.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma4.wanlidag.top#IR_speednode_0014
-    protocol: hysteria2
-    originalUrl: hysteria2://d9bdb765-773d-42a8-8fe0-1fcd85a84afc@banmabanmabanmabanmabanmabanma4.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma4.wanlidag.top#IR_speednode_0014
-  - type: hysteria2
-    url: hysteria2://d416b408-e7e0-4ea0-8ffc-415f87cec12e@banmabanmabanmabanmabanmabanma5.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma5.wanlidag.top#IR_speednode_0015
-    protocol: hysteria2
-    originalUrl: hysteria2://d416b408-e7e0-4ea0-8ffc-415f87cec12e@banmabanmabanmabanmabanmabanma5.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma5.wanlidag.top#IR_speednode_0015
-  - type: hysteria2
-    url: hysteria2://fb8e3265-9725-490e-92c5-ccfcca43b00b@banmabanmabanmabanmabanmabanma5.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma5.wanlidag.top#IR_speednode_0016
-    protocol: hysteria2
-    originalUrl: hysteria2://fb8e3265-9725-490e-92c5-ccfcca43b00b@banmabanmabanmabanmabanmabanma5.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma5.wanlidag.top#IR_speednode_0016
-  - type: hysteria2
-    url: hysteria2://fb8e3265-9725-490e-92c5-ccfcca43b00b@banmabanmabanmabanmabanmabanma3.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma3.wanlidag.top#IR_speednode_0017
-    protocol: hysteria2
-    originalUrl: hysteria2://fb8e3265-9725-490e-92c5-ccfcca43b00b@banmabanmabanmabanmabanmabanma3.wanlidag.top:54265?&insecure=1&obfs=&obfs-password=&sni=banmabanmabanmabanmabanmabanma3.wanlidag.top#IR_speednode_0017
-  - type: hysteria2
-    url: hysteria2://4b099758-bbf6-4558-9884-240635bd1c9d@mg2.aeccghuyjftyg.shop:20000?&insecure=1&obfs=&obfs-password=fdrccJDGatdFDDRp&sni=mg2.aeccghuyjftyg.shop#US_speednode_0024
-    protocol: hysteria2
-    originalUrl: hysteria2://4b099758-bbf6-4558-9884-240635bd1c9d@mg2.aeccghuyjftyg.shop:20000?&insecure=1&obfs=&obfs-password=fdrccJDGatdFDDRp&sni=mg2.aeccghuyjftyg.shop#US_speednode_0024
