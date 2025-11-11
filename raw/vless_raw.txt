@@ -28,14 +28,14 @@ proxies:
     tls: true
   - name: 节点16
     type: vless
-    server: 2001:bc8:32d7:312::6
+    server: 2001:bc8:32d7:158::6
     uuid: 56618bde-5a09-4ef8-ae56-6e7a8d69ec67
     port: 10033
     udp: true
     tls: true
-  - name: 节点17
+  - name: 节点19
     type: vless
-    server: 2001:bc8:32d7:158::6
+    server: 2001:bc8:32d7:312::6
     uuid: 56618bde-5a09-4ef8-ae56-6e7a8d69ec67
     port: 10033
     udp: true
