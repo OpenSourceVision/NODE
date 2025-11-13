@@ -8,3 +8,12 @@ hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com#Unkn
 hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com#Unknown_hysteria2_3
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com#Unknown_hysteria2_4
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
+hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@6e206c57-t3b340-tcj7b6-d70y.la.shifen.uk:1743?&insecure=1&obfs=&obfs-password=&sni=6e206c57-t3b340-tcj7b6-d70y.la.shifen.uk#US_speednode_0010
+hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@825eee23-t4un40-tcj7b6-d70y.la.shifen.uk:1743?&insecure=1&obfs=&obfs-password=&sni=#US_speednode_0011
+hysteria2://7a2512b4-09ee-11f0-8d46-f23c9313b177@360311d5-t4v9c0-tcm6ys-deip.la.shifen.uk:1743?&insecure=1&obfs=&obfs-password=&sni=360311d5-t4v9c0-tcm6ys-deip.la.shifen.uk#US_speednode_0012
+hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743?&insecure=1&obfs=&obfs-password=&sni=#US_speednode_0013
+hysteria2://712bdc36-24be-11ee-be53-f23c9313b177@fe1d6996-t4v9c0-tcl9of-5fdt.la.shifen.uk:1743?&insecure=1&obfs=&obfs-password=&sni=#US_speednode_0014
+hysteria2://712bdc36-24be-11ee-be53-f23c9313b177@68407ef0-t3dk00-tcl9of-5fdt.la.shifen.uk:1743?&insecure=1&obfs=&obfs-password=&sni=#US_speednode_0015
+hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@dcc40639-t3cxs0-tcj7b6-d70y.la.shifen.uk:1743?&insecure=1&obfs=&obfs-password=&sni=#US_speednode_0016
+hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@bb441d0e-t4x400-t5waci-4550.la.shifen.uk:1743?&mport=20000-50000&insecure=1&obfs=&obfs-password=&sni=#US_speednode_0017
+hysteria2://1b609740-eec2-11ef-8543-f23c93136cb3@eb8d3417-t4teo0-tdtx5w-au6.la.shifen.uk:1743?&insecure=1&obfs=&obfs-password=&sni=#US_speednode_0018

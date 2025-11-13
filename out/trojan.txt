@@ -1,4 +1,4 @@
-trojan://BxceQaOe@36.151.251.38:38799?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0009
-trojan://BxceQaOe@36.151.251.38:38799?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0012
-trojan://BxceQaOe@203.198.122.129:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#HK_speednode_0023
-trojan://telegram-id-directvpn@51.45.27.162:22223?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#US_speednode_0028
+trojan://BxceQaOe@116.49.237.130:4569?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#HK_speednode_0004
+trojan://c2d6a850-7e35-44f5-ab9f-8299f6f8c72b@194.147.115.149:443?sni=&allowInsecure=0&type=ws&host=joss.dus.biz.id&path=%2FFree-VPN-CF-Geo-Project%2F194.147.115.149%3D443&fp=chrome&alpn=#NL_speednode_0006
+trojan://49d416e1-4cec-41e1-bff6-3748c466f275@45.144.48.158:8443?sni=&allowInsecure=0&type=ws&host=joss.dus.biz.id&path=%2FFree-VPN-CF-Geo-Project%2F45.144.48.158%3D8443&fp=chrome&alpn=#PL_speednode_0007
+trojan://14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2@213.159.208.88:2053?sni=&allowInsecure=0&type=ws&host=joss.dus.biz.id&path=%2FFree-VPN-CF-Geo-Project%2F213.159.208.88%3D2053&fp=chrome&alpn=#RU_speednode_0009
