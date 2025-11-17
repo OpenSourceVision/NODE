@@ -8,14 +8,3 @@ hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com#Unkn
 hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com#Unknown_hysteria2_3
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com#Unknown_hysteria2_4
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=falankefu1.nezhasu.com#DE_speednode_0003
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun4.nezhasu.com:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=lundun4.nezhasu.com#GB_speednode_0008
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun1.nezhasu.com:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=lundun1.nezhasu.com#GB_speednode_0009
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun2.nezhasu.com:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=lundun2.nezhasu.com#GB_speednode_0010
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=mumbai-3.nezhasu.com#IN_speednode_0011
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-2.nezhasu.com:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=mumbai-2.nezhasu.com#IN_speednode_0012
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-4.nezhasu.com:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=mumbai-4.nezhasu.com#SE_speednode_0018
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@ashburn.nezhasu.com:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=ashburn.nezhasu.com#US_speednode_0021
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@yn2.nezhasu.com:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=yn2.nezhasu.com#US_speednode_0025
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy6.nezhasu.com:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=gy6.nezhasu.com#US_speednode_0027
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@batam3.nezhasu.com:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=batam3.nezhasu.com#US_speednode_0029
