@@ -1,3 +1,4 @@
-trojan://BxceQaOe@58.152.26.173:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#HK_speednode_0003
-trojan://e812343b-61a1-46fd-b086-b1395d0eb7de@89.110.116.141:443?sni=&allowInsecure=0&type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F89.110.116.141%3D443&fp=chrome&alpn=#NL_speednode_0004
-trojan://3b38715b-f08a-46dd-9904-7531ca4bb6e8@95.182.120.208:2053?sni=&allowInsecure=0&type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F95.182.120.208%3D2053&fp=chrome&alpn=#RU_speednode_0005
+trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@194.87.18.124:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CH_speednode_0001
+trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@45.144.172.243:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#IL_speednode_0005
+trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@108.165.255.5:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#US_speednode_0013
+trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@96.126.190.132:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#US_speednode_0014
