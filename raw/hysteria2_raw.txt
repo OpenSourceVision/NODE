@@ -8,4 +8,3 @@ hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com#Unkn
 hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com#Unknown_hysteria2_3
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com#Unknown_hysteria2_4
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
-hysteria2://ea93064c-176c-11f0-885d-f23c91cfbbc9@2f09a1f8-t63340-t7hjku-1rgxu.us.hyhuawei.com:443?&mport=30000-60000&insecure=1&obfs=&obfs-password=&sni=2f09a1f8-t63340-t7hjku-1rgxu.us.hyhuawei.com#US_speednode_0017

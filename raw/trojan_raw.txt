@@ -1,2 +1,8 @@
-trojan://BxceQaOe@58.152.26.173:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#HK_speednode_0011
-trojan://BxceQaOe@58.152.26.173:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#HK_speednode_0012
+trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?sni=&allowInsecure=0&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F37.252.5.75%3D443&fp=chrome&alpn=#EE_speednode_0007
+trojan://1e1a7efa-a4f1-4936-a470-a001e0c3c85b@212.227.144.37:8443?sni=&allowInsecure=0&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F212.227.144.37%3D8443&fp=chrome&alpn=#ES_speednode_0008
+trojan://e6f0e8b0-3dc5-4d53-a23a-86c02d5ba098@51.15.210.1:443?sni=&allowInsecure=0&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F51.15.210.1%3D443&fp=chrome&alpn=#FR_speednode_0011
+trojan://BxceQaOe@58.152.25.241:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#HK_speednode_0013
+trojan://8f58ba37-a117-4ad3-9422-37b62e01d2e6@77.91.74.6:443?sni=&allowInsecure=0&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F77.91.74.6%3D443&fp=chrome&alpn=#IL_speednode_0014
+trojan://0311306e-56d4-4aa1-bde5-8cede7fcd3e4@138.124.30.8:443?sni=&allowInsecure=0&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F138.124.30.8%3D443&fp=chrome&alpn=#NL_speednode_0021
+trojan://422d402c-58f1-4473-abeb-fe6e69dc97ed@217.30.10.31:8443?sni=&allowInsecure=0&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F217.30.10.31%3D8443&fp=chrome&alpn=#PL_speednode_0022
+trojan://6ead60c4-4321-45d5-81a9-ba4835f7c692@45.159.251.8:81?sni=&allowInsecure=0&type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F45.159.251.8%3D81&fp=chrome&alpn=#PT_speednode_0023
