@@ -1,9 +1,8 @@
 tuic://8687b6e0-ef24-4cd2-bcd2-02d3732bf554:dongtaiwang.com@2001:bc8:32d7:302::16:34997?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_2
 tuic://8687b6e0-ef24-4cd2-bcd2-02d3732bf554:dongtaiwang.com@2001:bc8:32d7:302::16:34997?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_4
-tuic://93959440-4f83-4352-b939-906b1fd3fa59:dongtaiwang.com@89.144.35.230:50088?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_3
+tuic://79529c4a-4028-4701-a6d6-4e94b78b50fd:dongtaiwang.com@51.159.107.20:55255?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_3
 tuic://5ae31731-78ac-483a-b524-011d05072ef5:dongtaiwang.com@2001:bc8:1203:106::100:55111?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
 tuic://5ae31731-78ac-483a-b524-011d05072ef5:dongtaiwang.com@2001:bc8:1203:106::101:55111?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
 tuic://5ae31731-78ac-483a-b524-011d05072ef5:dongtaiwang.com@2001:bc8:1203:106::102:55111?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
 tuic://5ae31731-78ac-483a-b524-011d05072ef5:dongtaiwang.com@2001:bc8:1203:106::103:55111?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
 tuic://5ae31731-78ac-483a-b524-011d05072ef5:dongtaiwang.com@2001:bc8:1203:106::104:55111?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
-tuic://7df400cb-55a7-404f-a825-850c7aa32845:7df400cb-55a7-404f-a825-850c7aa32845@fi11.bot-hosting.net:20175?alpn=&allow_insecure=True&disable_sni=0&sni=example.com&udp_relay_mode=&congestion_control=cubic#FI_speednode_0015
