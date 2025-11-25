@@ -8,10 +8,3 @@ hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com#Unkn
 hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com#Unknown_hysteria2_3
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com#Unknown_hysteria2_4
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
-hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp6.dexlos.com:11753?&mport=11000-12000&insecure=1&obfs=&obfs-password=&sni=jp6.dexlos.com&upmbps=40 Mbps&downmbps500 Mbps#JP_speednode_0021
-hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp1.dexlos.com:1611?&mport=1000-2000&insecure=1&obfs=&obfs-password=&sni=jp1.dexlos.com&upmbps=40 Mbps&downmbps500 Mbps#JP_speednode_0022
-hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp7.dexlos.com:13954?&insecure=1&obfs=&obfs-password=&sni=jp7.dexlos.com#JP_speednode_0023
-hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp8.dexlos.com:15213?&insecure=1&obfs=&obfs-password=&sni=jp8.dexlos.com#JP_speednode_0024
-hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp5.dexlos.com:9282?&mport=9000-10000&insecure=1&obfs=&obfs-password=&sni=jp5.dexlos.com&upmbps=40 Mbps&downmbps500 Mbps#JP_speednode_0025
-hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp2.dexlos.com:3790?&insecure=1&obfs=&obfs-password=&sni=jp2.dexlos.com#JP_speednode_0027
-hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp9.dexlos.com:17052?&insecure=1&obfs=&obfs-password=&sni=jp9.dexlos.com#JP_speednode_0029
