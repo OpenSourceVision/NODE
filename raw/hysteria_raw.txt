@@ -1,3 +1,7 @@
+hysteria://2001:bc8:32d7:17b::2:11000?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=11000&obfs=&protocol=udp&fastopen=1#Unknown_hy_0
+hysteria://2001:bc8:32d7:17b::2:11000?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=11000&obfs=&protocol=udp&fastopen=1#Unknown_hy_1
+hysteria://2001:bc8:32d7:17b::2:11000?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=11000&obfs=&protocol=udp&fastopen=1#Unknown_hy_3
+hysteria://2001:bc8:32d7:17b::2:11000?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=11000&obfs=&protocol=udp&fastopen=1#Unknown_hy_5
 hysteria://2001:bc8:32d7:158::4:50011?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=50011&obfs=&protocol=udp&fastopen=1#Unknown_hy_6
 hysteria://62.210.10.186:50011?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=50011&obfs=&protocol=udp&fastopen=1#France_hy_7
 hysteria://2001:bc8:32d7:158::2:50011?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=50011&obfs=&protocol=udp&fastopen=1#Unknown_hy_8
