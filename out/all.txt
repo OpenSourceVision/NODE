@@ -11,9 +11,9 @@ hysteria://2001:bc8:1203:106::201:47821?peer=apple.com&auth=dongtaiwang.com&inse
 hysteria://2001:bc8:1203:106::202:47821?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=47821&obfs=&protocol=udp&fastopen=1#Unknown_hy_2
 hysteria://2001:bc8:1203:106::203:47821?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=47821&obfs=&protocol=udp&fastopen=1#Unknown_hy_2
 hysteria://2001:bc8:1203:106::204:47821?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=47821&obfs=&protocol=udp&fastopen=1#Unknown_hy_2
-hysteria://51.159.107.20:20001?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=20001&obfs=&protocol=udp&fastopen=1#Unknown_hy_3
-hysteria://2001:bc8:1203:25::3:20001?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=20001&obfs=&protocol=udp&fastopen=1#Unknown_hy_3
-hysteria://2001:bc8:1203:25::4:20001?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=20001&obfs=&protocol=udp&fastopen=1#Unknown_hy_3
+hysteria://62.210.99.62:20001?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=20001&obfs=&protocol=udp&fastopen=1#Unknown_hy_3
+hysteria://2001:bc8:32d7:402::3:20001?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=20001&obfs=&protocol=udp&fastopen=1#Unknown_hy_3
+hysteria://2001:bc8:32d7:402::4:20001?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=20001&obfs=&protocol=udp&fastopen=1#Unknown_hy_3
 hysteria://62.210.10.140:42248?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=42248&obfs=&protocol=udp&fastopen=1#Unknown_hy_5
 hysteria://2001:bc8:1203:106::200:47821?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=47821&obfs=&protocol=udp&fastopen=1#Unknown_hy_8
 hysteria://2001:bc8:1203:106::201:47821?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=47821&obfs=&protocol=udp&fastopen=1#Unknown_hy_8
@@ -28,7 +28,7 @@ hysteria://51.159.226.1:49003?peer=apple.com&auth=dongtaiwang.com&insecure=1&upm
 hysteria://[2604:6600::5cb]:15823?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#Unknown_hysteria_5
 tuic://8687b6e0-ef24-4cd2-bcd2-02d3732bf554:dongtaiwang.com@2001:bc8:32d7:302::16:34997?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_2
 tuic://8687b6e0-ef24-4cd2-bcd2-02d3732bf554:dongtaiwang.com@2001:bc8:32d7:302::16:34997?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_4
-tuic://79529c4a-4028-4701-a6d6-4e94b78b50fd:dongtaiwang.com@51.159.107.20:55255?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_3
+tuic://93959440-4f83-4352-b939-906b1fd3fa59:dongtaiwang.com@62.210.99.62:50088?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_3
 tuic://5ae31731-78ac-483a-b524-011d05072ef5:dongtaiwang.com@2001:bc8:1203:106::100:55111?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
 tuic://5ae31731-78ac-483a-b524-011d05072ef5:dongtaiwang.com@2001:bc8:1203:106::101:55111?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
 tuic://5ae31731-78ac-483a-b524-011d05072ef5:dongtaiwang.com@2001:bc8:1203:106::102:55111?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
@@ -92,4 +92,4 @@ trojan://Qzy7tgpRhu@37.18.14.33:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn
 trojan://telegram-id-privatevpns@51.45.12.251:22222?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#US_speednode_0043
 trojan://telegram-id-directvpn@51.45.12.251:22223?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#US_speednode_0044
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQ0Ffc3BlZWRub2RlXzAwMDUiLCAiYWRkIjogIjY5LjI4LjgyLjI1MyIsICJwb3J0IjogNDQzLCAiaWQiOiAiZjI4MmI4NzgtODcxMS00NWExLThjNjktNTU2NDE3MjEyM2MxIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAic2N5IjogInplcm8iLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ2bS5ncGoxLndlYi5pZCIsICJwYXRoIjogIi9HZW8tUHJvamVjdC82OS4yOC44Mi4yNTMtNDQzIiwgInRscyI6ICJ0bHMiLCAic25pIjogInZtLmdwajEud2ViLmlkIn0=
-ssr://c3otY20wMi55dWV0dWpzcTAxLmNjOjQxMjE4OmF1dGhfYWVzMTI4X3NoYTE6YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6T0dkNVJ6QTIvP2dyb3VwPVUxTlNVSEp2ZG1sa1pYSSZyZW1hcmtzPThKLVBzLS00ai1LQWpmQ2ZqSWdnVkc5clpXN2x0N0xscExIbWxZanZ2SXpvcjdmbGlZM2x2b0FnYUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDNkNlpHNTZaQzloWjJkeVpXZGhkRzl5TDJsemMzVmxjeTg1TVNEb2pyZmxqNWJtbklEbWxyQlViMnRsYmcmb2Jmc3BhcmFtPWJXbGpjbTl6YjJaMExtTnZiUSZwcm90b3BhcmFtPU1UQTVORFF4TkRwcVJYRTBUbU0
+ss://YWVzLTI1Ni1jZmI6ZmViZjUwMWItZTE5ZC00NDUxLTgwNzEtYWE2MTQ0YmI4ODI1@9.9.9.9:54321#%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88%20Token%E5%B7%B2%E5%A4%B1%E6%95%88%EF%BC%8C%E8%AF%B7%E5%89%8D%E5%BE%80%20https%3A%2F%2Fgithub.com%2Fwzdnzd%2Faggregator%2Fissues%2F91%20%E8%8E%B7%E5%8F%96%E6%9C%80%E6%96%B0Token
