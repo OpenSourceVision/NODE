@@ -58,9 +58,9 @@ vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@80.90.187.190:2053?encryption=none&
 vless://4ce38652-b84c-5aab-8b2c-f897a217b41b@russia.whitenet.online:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=vk.com&serverName=vk.com&fp=chrome&alpn=&allowInsecure=0&pbk=xdNyDss0OLTu3z6kcdg8X2wfTOLtmDTobE2on3vKe34&sid=ab1cd2#RU_speednode_0013
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@144.31.1.197:8443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=music.yandex.ru&serverName=music.yandex.ru&fp=chrome&alpn=&allowInsecure=0&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c#US_speednode_0014
 hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com#Unknown_hysteria2_0
-hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_1
+hysteria2://dongtaiwang.com@51.158.205.126:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_1
 hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com#Unknown_hysteria2_2
 hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com#Unknown_hysteria2_3
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com#Unknown_hysteria2_4
-hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
+hysteria2://dongtaiwang.com@51.158.205.126:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
 ss://YWVzLTI1Ni1jZmI6ZmViZjUwMWItZTE5ZC00NDUxLTgwNzEtYWE2MTQ0YmI4ODI1@9.9.9.9:54321#%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88%20Token%E5%B7%B2%E5%A4%B1%E6%95%88%EF%BC%8C%E8%AF%B7%E5%89%8D%E5%BE%80%20https%3A%2F%2Fgithub.com%2Fwzdnzd%2Faggregator%2Fissues%2F91%20%E8%8E%B7%E5%8F%96%E6%9C%80%E6%96%B0Token
