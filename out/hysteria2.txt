@@ -1,7 +1,7 @@
 hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com#Unknown_hysteria2_0
-hysteria2://dongtaiwang.com@51.158.205.126:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_1
+hysteria2://dongtaiwang.com@51.158.194.63:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_1
 hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com#Unknown_hysteria2_2
 hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com#Unknown_hysteria2_3
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com#Unknown_hysteria2_4
 hysteria2://dongtaiwang.com@51.158.194.63:50066?insecure=1&sni=www.bing.com#Unknown_hysteria2_5
-hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?&insecure=1&obfs=&obfs-password=&sni=hk1.shiyuandian.shop#HK_speednode_0004
+hysteria2://3ee091ca-ab9c-11ef-a791-f23c9164ca5d@17f0bfad-t6uv40-t8be2y-1ryup.hk1.hyhuawei.com:443?&mport=30000-60000&insecure=1&obfs=&obfs-password=&sni=17f0bfad-t6uv40-t8be2y-1ryup.hk1.hyhuawei.com#HK_speednode_0013
