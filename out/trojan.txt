@@ -1,5 +1,1 @@
-trojan://13eb9352-7d04-4523-af91-4d7e84066a95@oss-ydniddsasa-3.7.baidu.jjuu.shrestart.com:12210?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0003
-trojan://13eb9352-7d04-4523-af91-4d7e84066a95@oss-ydniddsasa-3.7.baidu.jjuu.shrestart.com:12205?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0004
-trojan://13eb9352-7d04-4523-af91-4d7e84066a95@oss-ydniddsasa-3.7.baidu.jjuu.shrestart.com:12206?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0005
-trojan://13eb9352-7d04-4523-af91-4d7e84066a95@oss-ydniddsasa-3.7.baidu.jjuu.shrestart.com:12208?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#CN_speednode_0006
-trojan://telegram-id-privatevpns@52.57.238.174:22222?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#DE_speednode_0008
+trojan://telegram-id-privatevpns@15.236.214.251:22222?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#FR_speednode_0008
