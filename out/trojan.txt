@@ -1,1 +1,1 @@
-trojan://telegram-id-privatevpns@15.236.214.251:22222?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#FR_speednode_0008
+trojan://BxceQaOe@58.152.30.120:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#HK_speednode_0009

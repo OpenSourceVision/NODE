@@ -6,4 +6,3 @@ tuic://5ae31731-78ac-483a-b524-011d05072ef5:dongtaiwang.com@2001:bc8:1203:106::1
 tuic://5ae31731-78ac-483a-b524-011d05072ef5:dongtaiwang.com@2001:bc8:1203:106::102:55111?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
 tuic://5ae31731-78ac-483a-b524-011d05072ef5:dongtaiwang.com@2001:bc8:1203:106::103:55111?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
 tuic://5ae31731-78ac-483a-b524-011d05072ef5:dongtaiwang.com@2001:bc8:1203:106::104:55111?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
-tuic://67148f6c-1c15-42d5-981b-67f5f572d039:67148f6c-1c15-42d5-981b-67f5f572d039@de1.bot-hosting.net:21474?alpn=&allow_insecure=True&disable_sni=0&sni=example.com&udp_relay_mode=&congestion_control=cubic#DE_speednode_0006
