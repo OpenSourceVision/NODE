@@ -1,6 +1,11 @@
 hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com#Unknown_hysteria2_0
 hysteria2://dongtaiwang.com@51.158.194.63:32952?insecure=1&sni=www.microsoft.com#Unknown_hysteria2_1
-hysteria2://dongtaiwang.com@[2001:bc8:1203:106::399]:5355?insecure=1&sni=www.bing.com#Unknown_hysteria2_2
+hysteria2://dongtaiwang.com@51.158.194.63:32952?insecure=1&sni=www.microsoft.com#Unknown_hysteria2_2
 hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com#Unknown_hysteria2_3
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com#Unknown_hysteria2_4
 hysteria2://dongtaiwang.com@51.158.194.63:32952?insecure=1&sni=www.microsoft.com#Unknown_hysteria2_5
+hysteria2://6ce63b80-8b5b-11ef-b635-f23c9164ca5d@1088d113-t6pb40-tbac1z-1j3zm.hk2.hyhuawei.com:443?&mport=30000-60000&insecure=1&obfs=&obfs-password=&sni=#HK_speednode_0017
+hysteria2://ee1b9e94-9b95-11ef-8967-f23c91cfbbc9@8e3e616a-t6r5s0-t8hh31-amya.hk2.hyhuawei.com:443?&mport=30000-60000&insecure=1&obfs=&obfs-password=&sni=#HK_speednode_0018
+hysteria2://62b7824e-47dc-11ef-9f2d-f23c9164ca5d@136bffb9-t6pb40-tkp3tl-1s09x.hk2.hyhuawei.com:443?&mport=30000-60000&insecure=1&obfs=&obfs-password=&sni=#HK_speednode_0019
+hysteria2://de629d50-1711-11ed-bd7c-f23c913c8d2b@a687fa3c-t6pb40-tlpfci-1jdha.hk2.hyhuawei.com:443?&mport=30000-60000&insecure=1&obfs=&obfs-password=&sni=a687fa3c-t6pb40-tlpfci-1jdha.hk2.hyhuawei.com#HK_speednode_0020
+hysteria2://6ce63b80-8b5b-11ef-b635-f23c9164ca5d@eddd56cf-t6r5s0-tbac1z-1j3zm.hk2.hyhuawei.com:443?&mport=30000-60000&insecure=1&obfs=&obfs-password=&sni=#HK_speednode_0021
