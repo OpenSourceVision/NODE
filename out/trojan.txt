@@ -1,1 +1,1 @@
-trojan://BxceQaOe@58.152.30.120:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#HK_speednode_0009
+trojan://76d630f2af6619c4a5de0ef953df3c6a@58.152.110.82:443?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#HK_speednode_0004
