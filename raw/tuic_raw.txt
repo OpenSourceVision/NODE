@@ -1,4 +1,4 @@
 tuic://8687b6e0-ef24-4cd2-bcd2-02d3732bf554:dongtaiwang.com@2001:bc8:32d7:302::16:34997?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_2
 tuic://8687b6e0-ef24-4cd2-bcd2-02d3732bf554:dongtaiwang.com@2001:bc8:32d7:302::16:34997?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_4
-tuic://b7dd1167-c5d9-45b9-ab75-83cd9e635537:dongtaiwang.com@51.158.194.63:29522?sni=www.microsoft.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
-tuic://186a249b-5bc1-48b0-b922-534d5639ccf7:dongtaiwang.com@2a14:7583:2963::6e:18899?sni=apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
+tuic://66d37a65-7f6f-4e7c-a0f6-163bd917756a:dongtaiwang.com@89.144.35.231:33457?sni=apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
+tuic://66d37a65-7f6f-4e7c-a0f6-163bd917756a:dongtaiwang.com@2a14:7583:299d::a:33457?sni=apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Unknown_tuic_7
