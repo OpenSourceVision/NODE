@@ -1,3 +1,4 @@
+hysteria2://dongtaiwang.com@51.158.194.63:32952?insecure=1&sni=www.microsoft.com&obfs=&obfs-password=#Unknown_hy2_3
 hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com#Unknown_hysteria2_0
 hysteria2://dongtaiwang.com@51.158.194.63:32952?insecure=1&sni=www.microsoft.com#Unknown_hysteria2_1
 hysteria2://dongtaiwang.com@51.158.194.63:32952?insecure=1&sni=www.microsoft.com#Unknown_hysteria2_2
