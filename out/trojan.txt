@@ -1,2 +1,4 @@
-trojan://b1fec179-3d5a-4ec5-bf3c-e10668543b4b@69.84.182.108:8443?sni=&allowInsecure=0&type=ws&host=cdn-node-oss-61.anycdn.de&path=%2Fprofile%2Fus1&fp=chrome&alpn=#US_speednode_0011
-trojan://b1fec179-3d5a-4ec5-bf3c-e10668543b4b@69.84.182.18:8443?sni=&allowInsecure=0&type=ws&host=cdn-node-oss-62.anycdn.de&path=%2Fprofile%2Fus2&fp=chrome&alpn=#US_speednode_0012
+trojan://BxceQaOe@219.79.214.159:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#HK_speednode_0005
+trojan://BxceQaOe@219.79.214.159:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#HK_speednode_0006
+trojan://BxceQaOe@58.152.25.89:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#HK_speednode_0009
+trojan://e2722c0fb503f8a592436c12bce0509a@112.118.116.178:443?sni=&allowInsecure=0&type=tcp&fp=chrome&alpn=#HK_speednode_0010
