@@ -1,6 +1,6 @@
 hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com#Unknown_hysteria2_0
 hysteria2://dongtaiwang.com@51.158.194.63:32952?insecure=1&sni=www.microsoft.com#Unknown_hysteria2_1
-hysteria2://dongtaiwang.com@51.158.194.63:32952?insecure=1&sni=www.microsoft.com#Unknown_hysteria2_2
+hysteria2://dongtaiwang.com@5.178.101.106:11000,12000-13000?insecure=1&sni=apple.com#Unknown_hysteria2_2
 hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com#Unknown_hysteria2_3
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com#Unknown_hysteria2_4
 hysteria2://dongtaiwang.com@51.158.194.63:32952?insecure=1&sni=www.microsoft.com#Unknown_hysteria2_5
