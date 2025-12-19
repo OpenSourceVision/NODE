@@ -18,4 +18,4 @@ hysteria://89.144.35.231:10023?peer=apple.com&auth=dongtaiwang.com&insecure=1&up
 hysteria://89.144.35.231:18899?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#Unknown_hysteria_3
 hysteria://62.210.127.177:23880?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#Unknown_hysteria_4
 hysteria://[2604:6600::5cb]:15823?peer=apple.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#Unknown_hysteria_5
-hysteria://195.154.200.40:15010?protocol=&auth=&alpn=h3&insecure=1&peer=apple.com&upmbps=100&downmbps=100&obfs=#FR_speednode_0002
+hysteria://62.210.196.68:26691?protocol=&auth=&alpn=h3&insecure=1&peer=apple.com&upmbps=11&downmbps=55&obfs=#FR_speednode_0008
