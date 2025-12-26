@@ -1,1 +1,2 @@
-trojan://5a2c16f9@freeyx.cloudflare88.eu.org:443?sni=&allowInsecure=0&type=ws&host=snippets.kkii.eu.org&path=%2F&fp=chrome&alpn=#RU_speednode_0004
+trojan://5a2c16f9@cf.130519.xyz:443?sni=&allowInsecure=0&type=ws&host=snippets.kkii.eu.org&path=%2F&fp=chrome&alpn=#RU_speednode_0018
+trojan://5a2c16f9@freeyx.cloudflare88.eu.org:443?sni=&allowInsecure=0&type=ws&host=snippets.kkii.eu.org&path=%2F&fp=chrome&alpn=#RU_speednode_0020
