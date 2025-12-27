@@ -1,1 +1,1 @@
-hysteria2://5d3ada4e-7211-4897-ba4e-11eb60f10a00@yg.kaixincloud.top:25200?&mport=25200-26200&insecure=1&obfs=&obfs-password=&sni=yg.kaixincloud.top#GB_speednode_0014
+hysteria2://e20cc63dc06088fba56bf786860aadaf@dd.openaccessnode.com:989?&insecure=1&obfs=&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&sni=dd.ircybersec.org#SE_speednode_0006
