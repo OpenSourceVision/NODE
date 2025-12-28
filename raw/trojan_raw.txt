@@ -1,12 +1,2 @@
-trojan://5a2c16f9@freeyx.cloudflare88.eu.org:443?sni=&allowInsecure=0&type=ws&host=snippets.kkii.eu.org&path=%2F&fp=chrome&alpn=#RU_speednode_0004
-trojan://5a2c16f9@104.17.162.3:443?sni=&allowInsecure=0&type=ws&host=snippets.kkii.eu.org&path=%2F&fp=chrome&alpn=#US_speednode_0007
-trojan://5a2c16f9@104.17.167.134:443?sni=&allowInsecure=0&type=ws&host=snippets.kkii.eu.org&path=%2F&fp=chrome&alpn=#US_speednode_0010
-trojan://5a2c16f9@104.19.220.22:443?sni=&allowInsecure=0&type=ws&host=snippets.kkii.eu.org&path=%2F&fp=chrome&alpn=#US_speednode_0011
-trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?sni=&allowInsecure=0&type=ws&host=snippets.kkii.eu.org&path=%2F&fp=chrome&alpn=#US_speednode_0016
-trojan://5a2c16f9@104.16.246.188:443?sni=&allowInsecure=1&type=ws&host=snippets.kkii.eu.org&path=%2F&fp=chrome&alpn=#US_speednode_0017
-trojan://5a2c16f9@104.26.1.110:443?sni=&allowInsecure=0&type=ws&host=snippets.kkii.eu.org&path=%2F&fp=chrome&alpn=#US_speednode_0020
-trojan://5a2c16f9@cf.130519.xyz:443?sni=&allowInsecure=0&type=ws&host=snippets.kkii.eu.org&path=%2F&fp=chrome&alpn=#US_speednode_0021
-trojan://5a2c16f9@172.64.229.169:443?sni=&allowInsecure=1&type=ws&host=snippets.kkii.eu.org&path=%2F&fp=chrome&alpn=#US_speednode_0022
-trojan://5a2c16f9@162.159.128.253:443?sni=&allowInsecure=0&type=ws&host=snippets.kkii.eu.org&path=%2F&fp=chrome&alpn=#US_speednode_0023
-trojan://5a2c16f9@172.64.229.2:443?sni=&allowInsecure=1&type=ws&host=snippets.kkii.eu.org&path=%2F&fp=chrome&alpn=#US_speednode_0025
-trojan://5a2c16f9@162.159.24.131:443?sni=&allowInsecure=0&type=ws&host=snippets.kkii.eu.org&path=%2F&fp=chrome&alpn=#US_speednode_0026
+trojan://BxceQaOe@203.198.84.221:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#HK_speednode_0002
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#US_speednode_0009
