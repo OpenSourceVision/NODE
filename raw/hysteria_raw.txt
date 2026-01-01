@@ -1,1 +1,1 @@
-hysteria://62.210.196.68:26691?protocol=&auth=&alpn=h3&insecure=1&peer=apple.com&upmbps=11&downmbps=55&obfs=#FR_speednode_0010
+hysteria://62.210.196.68:26691?protocol=&auth=&alpn=h3&insecure=1&peer=apple.com&upmbps=11&downmbps=55&obfs=#FR_speednode_0004
