@@ -1,1 +1,145 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmcHZMZXZraG5Xb1lDTUpQSUNLdVV2@78.129.140.11:443#GB_speednode_0002
+proxies:
+  - cipher: aes-256-cfb
+    name: United States_None_ss_101
+    password: amazonskr05
+    port: 443
+    server: 63.180.254.10
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: Japan_Tokyo_ss_109
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+    port: 990
+    server: 103.106.228.247
+    type: ss
+  - cipher: aes-256-cfb
+    name: South Korea_Songpa-gu_ss_1010
+    password: qwerREWQ@@
+    port: 7747
+    server: 221.150.109.90
+    type: ss
+  - cipher: aes-256-cfb
+    name: Vietnam_None_ss_1017
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.251
+    type: ss
+  - cipher: aes-256-cfb
+    name: United States_None_ss_11129
+    password: amazonskr05
+    port: 443
+    server: 63.180.254.10
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: Japan_Tokyo_ss_11137
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+    port: 990
+    server: 103.106.228.247
+    type: ss
+  - cipher: aes-256-cfb
+    name: South Korea_Songpa-gu_ss_11138
+    password: qwerREWQ@@
+    port: 7747
+    server: 221.150.109.90
+    type: ss
+  - cipher: aes-256-cfb
+    name: Vietnam_None_ss_11145
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.251
+    type: ss
+  - name: United States_ss_61
+    type: ss
+    server: 109.104.152.186
+    port: 11223
+    cipher: 2022-blake3-chacha20-poly1305
+    password: 7/bb9x3TJQ4Y5SRA/Al3OdwxIk4uf3Jg8N9wDQg+Uto=
+    smux:
+      enabled: true
+      protocol: smux
+      max-connections: 1
+      min-streams: 4
+      statistic: false
+      only-tcp: false
+      padding: true
+      brutal-opts:
+        enabled: true
+        up: 11
+        down: 55
+  - name: United States_ss_91
+    type: ss
+    server: 109.104.152.186
+    port: 11223
+    cipher: 2022-blake3-chacha20-poly1305
+    password: 7/bb9x3TJQ4Y5SRA/Al3OdwxIk4uf3Jg8N9wDQg+Uto=
+    smux:
+      enabled: true
+      protocol: smux
+      max-connections: 1
+      min-streams: 4
+      statistic: false
+      only-tcp: false
+      padding: true
+      brutal-opts:
+        enabled: true
+        up: 11
+        down: 55
+  - name: United States_shadowtls_1
+    type: ss
+    server: 109.104.152.186
+    port: 443
+    cipher: 2022-blake3-chacha20-poly1305
+    password: 2mLw+aTguEUrvK/Jamxr4CY/RbLCL/MmfWJQ7c6bXe8=
+    plugin: shadow-tls
+    client-fingerprint: chrome
+    plugin-opts:
+      host: nijigen-works.jp
+      password: UcMMbVQBzIUAcdC12ju6lV9j3rjK3cAQiZoYCDk1h/g=
+      version: 3
+  - cipher: aes-256-cfb
+    name: United States_None_ss_101
+    password: amazonskr05
+    port: 443
+    server: 63.180.254.10
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: Japan_Tokyo_ss_109
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+    port: 990
+    server: 103.106.228.247
+    type: ss
+  - cipher: aes-256-cfb
+    name: South Korea_Songpa-gu_ss_1010
+    password: qwerREWQ@@
+    port: 7747
+    server: 221.150.109.90
+    type: ss
+  - cipher: aes-256-cfb
+    name: Vietnam_None_ss_1017
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.251
+    type: ss
+  - cipher: aes-256-cfb
+    name: United States_None_ss_11129
+    password: amazonskr05
+    port: 443
+    server: 63.180.254.10
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: Japan_Tokyo_ss_11137
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+    port: 990
+    server: 103.106.228.247
+    type: ss
+  - cipher: aes-256-cfb
+    name: South Korea_Songpa-gu_ss_11138
+    password: qwerREWQ@@
+    port: 7747
+    server: 221.150.109.90
+    type: ss
+  - cipher: aes-256-cfb
+    name: Vietnam_None_ss_11145
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.251
+    type: ss

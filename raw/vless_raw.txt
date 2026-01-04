@@ -1,10 +1,443 @@
-vless://1a598715-d629-4d8c-910b-dbe5ebdc0b53@yg2g.jiedian242.com:29877?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.nvidia.com&serverName=www.nvidia.com&fp=chrome&alpn=&allowInsecure=0&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=#CN_speednode_0002
-vless://5c403d3e-81fb-29af-a76e-5a5ab279824b@ooooooof.ir.fizikade.ir:46942?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=refersion.com&serverName=refersion.com&fp=chrome&alpn=&allowInsecure=0&pbk=omg0dIfTHQbMADo5g6COKn73nEFoSYC1X5lV-goPBEg&sid=1709fe47a82c202e#DE_speednode_0003
-vless://526552b2-f67f-489c-9d0d-3e00e7d890d1@138.249.117.30:4443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=github.com&serverName=github.com&fp=chrome&alpn=&allowInsecure=0&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#FI_speednode_0004
-vless://526552b2-f67f-489c-9d0d-3e00e7d890d1@45.87.153.176:4443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=github.com&serverName=github.com&fp=chrome&alpn=&allowInsecure=0&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#NL_speednode_0012
-vless://4371ad14-b981-4699-bedf-83fb79bde3e6@51.250.65.209:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=ads.x5.ru&serverName=ads.x5.ru&fp=chrome&alpn=&allowInsecure=0&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df#RU_speednode_0013
-vless://846c5d45-936c-42f6-9120-2d13830d5fa0@vkll.takovpn.ru:443?encryption=none&security=reality&flow=&type=tcp&sni=eh.vk.com&serverName=eh.vk.com&fp=chrome&alpn=&allowInsecure=0&pbk=t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU&sid=4d4421a0bac569#RU_speednode_0014
-vless://96605f21-f706-45ae-8eeb-ec71efbca6a2@s9.vless-balancer.ru:4443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=github.com&serverName=github.com&fp=chrome&alpn=&allowInsecure=0&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#RU_speednode_0015
-vless://846c5d45-936c-42f6-9120-2d13830d5fa0@51.250.4.181:443?encryption=none&security=reality&flow=&type=tcp&sni=eh.vk.com&serverName=eh.vk.com&fp=chrome&alpn=&allowInsecure=0&pbk=t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU&sid=4d4421a0bac569#RU_speednode_0016
-vless://2c8adcaa-e428-4cea-9c88-e88166651ab3@89.169.137.193:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=eh.vk.com&serverName=eh.vk.com&fp=chrome&alpn=&allowInsecure=0&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34#RU_speednode_0017
-vless://00000000-0000-4000-8000-000000000000@43.165.190.11:42841?encryption=none&security=tls&flow=&type=ws&sni=mot.morisi.ggff.net&fp=&alpn=&host=mot.morisi.ggff.net&path=%2F%40Marisa_kristi&allowInsecure=0#SG_speednode_0018
+proxies:
+  - name: 节点12
+    type: vless
+    server: 2001:bc8:32d7:302::13
+    uuid: 26c462ba-a90c-4814-9d7c-a629bc0bdb5c
+    port: 34324
+    udp: true
+    tls: true
+    flow: xtls-rprx-vision
+    servername: dash.cloudflare.com
+    reality-opts:
+      public-key: pHn5CHa2P6-lNBIkTOI3zJQN19jfNFkXxGFuyefpP0M
+      short-id: ""
+    client-figerprint: chrome
+  - name: 节点15
+    type: vless
+    server: 89.144.35.231
+    uuid: 2460b5d1-0d74-427d-ad6c-bbe2aaab65cf
+    port: 23889
+    udp: true
+    tls: true
+  - name: 节点16
+    type: vless
+    server: 62.210.127.177
+    uuid: a1f699e4-d7b7-4cdc-8414-1105e08fe4c5
+    port: 60011
+    udp: true
+    tls: true
+  - name: 节点17
+    type: vless
+    server: fan3.394615.xyz
+    uuid: 8b66e552-e89d-4c4f-bb5a-e3d37bf151b8
+    port: 34500
+    udp: true
+    tls: true
+  - name: 节点19
+    type: vless
+    server: 89.144.35.230
+    uuid: 5cfc52bc-e701-4160-89df-930a0c040576
+    port: 54582
+    udp: true
+    tls: true
+  - name: 节点20
+    type: vless
+    server: 2001:bc8:32d7:14f::6
+    uuid: a1f699e4-d7b7-4cdc-8414-1105e08fe4c5
+    port: 60011
+    udp: true
+    tls: true
+  - type: vless
+    name: visa.com
+    server: visa.com
+    port: 443
+    uuid: 2d9b713f-29d6-4d08-77fc-68035992bfc0
+    tls: true
+    skip-cert-verify: true
+    network: ws
+    ws-opts: &a1
+      headers:
+        Host: less17.ytu67kht.netlib.re
+      path: /
+    servername: less17.ytu67kht.netlib.re
+  - type: vless
+    name: www.visa.com
+    server: www.visa.com
+    port: 443
+    uuid: 2d9b713f-29d6-4d08-77fc-68035992bfc0
+    tls: true
+    skip-cert-verify: true
+    network: ws
+    ws-opts: *a1
+    servername: less17.ytu67kht.netlib.re
+  - type: vless
+    name: www.visa.cn
+    server: www.visa.cn
+    port: 443
+    uuid: 2d9b713f-29d6-4d08-77fc-68035992bfc0
+    tls: true
+    skip-cert-verify: true
+    network: ws
+    ws-opts: *a1
+    servername: less17.ytu67kht.netlib.re
+  - type: vless
+    name: zoneabc.net
+    server: zoneabc.net
+    port: 443
+    uuid: 2d9b713f-29d6-4d08-77fc-68035992bfc0
+    tls: true
+    skip-cert-verify: true
+    network: ws
+    ws-opts: *a1
+    servername: less17.ytu67kht.netlib.re
+  - type: vless
+    name: youxuan.cf.090227.xyz
+    server: youxuan.cf.090227.xyz
+    port: 443
+    uuid: 2d9b713f-29d6-4d08-77fc-68035992bfc0
+    tls: true
+    skip-cert-verify: true
+    network: ws
+    ws-opts: *a1
+    servername: less17.ytu67kht.netlib.re
+  - type: vless
+    name: www.shopify.com
+    server: www.shopify.com
+    port: 443
+    uuid: 2d9b713f-29d6-4d08-77fc-68035992bfc0
+    tls: true
+    skip-cert-verify: true
+    network: ws
+    ws-opts: *a1
+    servername: less17.ytu67kht.netlib.re
+  - type: vless
+    name: store.ubi.com
+    server: store.ubi.com
+    port: 443
+    uuid: 2d9b713f-29d6-4d08-77fc-68035992bfc0
+    tls: true
+    skip-cert-verify: true
+    network: ws
+    ws-opts: *a1
+    servername: less17.ytu67kht.netlib.re
+  - type: vless
+    name: cf.tencentapp.cn
+    server: cf.tencentapp.cn
+    port: 443
+    uuid: 2d9b713f-29d6-4d08-77fc-68035992bfc0
+    tls: true
+    skip-cert-verify: true
+    network: ws
+    ws-opts: *a1
+    servername: less17.ytu67kht.netlib.re
+  - type: vless
+    name: cloudflare-dl.byoip.top
+    server: cloudflare-dl.byoip.top
+    port: 443
+    uuid: 2d9b713f-29d6-4d08-77fc-68035992bfc0
+    tls: true
+    skip-cert-verify: true
+    network: ws
+    ws-opts: *a1
+    servername: less17.ytu67kht.netlib.re
+  - name: United States_vless_21
+    type: vless
+    server: 109.104.152.101
+    port: 13982
+    uuid: 85beb960-236b-4634-81ce-6ad66652f928
+    network: tcp
+    udp: true
+    tls: true
+    flow: null
+    servername: itunes.apple.com
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: HjmsLPRaQqSqtdMMpIpmpoJOKhC0rAOUCHXnz0E89RE
+      short-id: 22f6b74f02cc88a6
+    smux:
+      enabled: true
+      protocol: h2mux
+      max-connections: 1
+      min-streams: 4
+      padding: true
+      brutal-opts:
+        enabled: true
+        up: 11
+        down: 55
+  - name: United States_vless_31
+    type: vless
+    server: 109.104.152.101
+    port: 13982
+    uuid: 85beb960-236b-4634-81ce-6ad66652f928
+    network: tcp
+    udp: true
+    tls: true
+    flow: null
+    servername: itunes.apple.com
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: HjmsLPRaQqSqtdMMpIpmpoJOKhC0rAOUCHXnz0E89RE
+      short-id: 22f6b74f02cc88a6
+    smux:
+      enabled: true
+      protocol: h2mux
+      max-connections: 1
+      min-streams: 4
+      padding: true
+      brutal-opts:
+        enabled: true
+        up: 11
+        down: 55
+  - name: United States_vless_41
+    type: vless
+    server: 109.104.152.101
+    port: 13982
+    uuid: 85beb960-236b-4634-81ce-6ad66652f928
+    network: tcp
+    udp: true
+    tls: true
+    flow: null
+    servername: itunes.apple.com
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: HjmsLPRaQqSqtdMMpIpmpoJOKhC0rAOUCHXnz0E89RE
+      short-id: 22f6b74f02cc88a6
+    smux:
+      enabled: true
+      protocol: h2mux
+      max-connections: 1
+      min-streams: 4
+      padding: true
+      brutal-opts:
+        enabled: true
+        up: 11
+        down: 55
+  - name: United States_vless_51
+    type: vless
+    server: 109.104.152.101
+    port: 13982
+    uuid: 85beb960-236b-4634-81ce-6ad66652f928
+    network: tcp
+    udp: true
+    tls: true
+    flow: null
+    servername: itunes.apple.com
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: HjmsLPRaQqSqtdMMpIpmpoJOKhC0rAOUCHXnz0E89RE
+      short-id: 22f6b74f02cc88a6
+    smux:
+      enabled: true
+      protocol: h2mux
+      max-connections: 1
+      min-streams: 4
+      padding: true
+      brutal-opts:
+        enabled: true
+        up: 11
+        down: 55
+  - name: United States_vless_81
+    type: vless
+    server: 109.104.152.101
+    port: 13982
+    uuid: 85beb960-236b-4634-81ce-6ad66652f928
+    network: tcp
+    udp: true
+    tls: true
+    flow: null
+    servername: itunes.apple.com
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: HjmsLPRaQqSqtdMMpIpmpoJOKhC0rAOUCHXnz0E89RE
+      short-id: 22f6b74f02cc88a6
+    smux:
+      enabled: true
+      protocol: h2mux
+      max-connections: 1
+      min-streams: 4
+      padding: true
+      brutal-opts:
+        enabled: true
+        up: 11
+        down: 55
+  - type: vless
+    url: vless://85beb960-236b-4634-81ce-6ad66652f928@109.104.152.101:13982?security=reality&allowInsecure0&flow=None&type=tcp&fp=chrome&pbk=HjmsLPRaQqSqtdMMpIpmpoJOKhC0rAOUCHXnz0E89RE&sid=22f6b74f02cc88a6&sni=itunes.apple.com&serviceName=&path=&host=#United
+      States_vless_2
+    protocol: vless
+    originalUrl: vless://85beb960-236b-4634-81ce-6ad66652f928@109.104.152.101:13982?security=reality&allowInsecure0&flow=None&type=tcp&fp=chrome&pbk=HjmsLPRaQqSqtdMMpIpmpoJOKhC0rAOUCHXnz0E89RE&sid=22f6b74f02cc88a6&sni=itunes.apple.com&serviceName=&path=&host=#United
+      States_vless_2
+  - type: vless
+    url: vless://85beb960-236b-4634-81ce-6ad66652f928@109.104.152.101:13982?security=reality&allowInsecure0&flow=None&type=tcp&fp=chrome&pbk=HjmsLPRaQqSqtdMMpIpmpoJOKhC0rAOUCHXnz0E89RE&sid=22f6b74f02cc88a6&sni=itunes.apple.com&serviceName=&path=&host=#United
+      States_vless_3
+    protocol: vless
+    originalUrl: vless://85beb960-236b-4634-81ce-6ad66652f928@109.104.152.101:13982?security=reality&allowInsecure0&flow=None&type=tcp&fp=chrome&pbk=HjmsLPRaQqSqtdMMpIpmpoJOKhC0rAOUCHXnz0E89RE&sid=22f6b74f02cc88a6&sni=itunes.apple.com&serviceName=&path=&host=#United
+      States_vless_3
+  - type: vless
+    url: vless://85beb960-236b-4634-81ce-6ad66652f928@109.104.152.101:13982?security=reality&allowInsecure0&flow=None&type=tcp&fp=chrome&pbk=HjmsLPRaQqSqtdMMpIpmpoJOKhC0rAOUCHXnz0E89RE&sid=22f6b74f02cc88a6&sni=itunes.apple.com&serviceName=&path=&host=#United
+      States_vless_4
+    protocol: vless
+    originalUrl: vless://85beb960-236b-4634-81ce-6ad66652f928@109.104.152.101:13982?security=reality&allowInsecure0&flow=None&type=tcp&fp=chrome&pbk=HjmsLPRaQqSqtdMMpIpmpoJOKhC0rAOUCHXnz0E89RE&sid=22f6b74f02cc88a6&sni=itunes.apple.com&serviceName=&path=&host=#United
+      States_vless_4
+  - type: vless
+    url: vless://85beb960-236b-4634-81ce-6ad66652f928@109.104.152.101:13982?security=reality&allowInsecure0&flow=None&type=tcp&fp=chrome&pbk=HjmsLPRaQqSqtdMMpIpmpoJOKhC0rAOUCHXnz0E89RE&sid=22f6b74f02cc88a6&sni=itunes.apple.com&serviceName=&path=&host=#United
+      States_vless_5
+    protocol: vless
+    originalUrl: vless://85beb960-236b-4634-81ce-6ad66652f928@109.104.152.101:13982?security=reality&allowInsecure0&flow=None&type=tcp&fp=chrome&pbk=HjmsLPRaQqSqtdMMpIpmpoJOKhC0rAOUCHXnz0E89RE&sid=22f6b74f02cc88a6&sni=itunes.apple.com&serviceName=&path=&host=#United
+      States_vless_5
+  - type: vless
+    url: vless://85beb960-236b-4634-81ce-6ad66652f928@109.104.152.101:13982?security=reality&allowInsecure0&flow=None&type=tcp&fp=chrome&pbk=HjmsLPRaQqSqtdMMpIpmpoJOKhC0rAOUCHXnz0E89RE&sid=22f6b74f02cc88a6&sni=itunes.apple.com&serviceName=&path=&host=#United
+      States_vless_8
+    protocol: vless
+    originalUrl: vless://85beb960-236b-4634-81ce-6ad66652f928@109.104.152.101:13982?security=reality&allowInsecure0&flow=None&type=tcp&fp=chrome&pbk=HjmsLPRaQqSqtdMMpIpmpoJOKhC0rAOUCHXnz0E89RE&sid=22f6b74f02cc88a6&sni=itunes.apple.com&serviceName=&path=&host=#United
+      States_vless_8
+  - type: vless
+    url: vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh6.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#United
+      States_vless_1
+    protocol: vless
+    originalUrl: vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh6.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#United
+      States_vless_1
+  - type: vless
+    url: vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh9.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#None_vless_2
+    protocol: vless
+    originalUrl: vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh9.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#None_vless_2
+  - type: vless
+    url: vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh7.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#None_vless_3
+    protocol: vless
+    originalUrl: vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh7.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#None_vless_3
+  - name: CN_speednode_0002
+    server: yg2g.jiedian242.com
+    port: 29877
+    type: vless
+    uuid: 1a598715-d629-4d8c-910b-dbe5ebdc0b53
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: www.nvidia.com
+    reality-opts:
+      public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+    udp: true
+  - name: DE_speednode_0003
+    server: ooooooof.ir.fizikade.ir
+    port: 46942
+    type: vless
+    uuid: 5c403d3e-81fb-29af-a76e-5a5ab279824b
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: refersion.com
+    reality-opts:
+      public-key: omg0dIfTHQbMADo5g6COKn73nEFoSYC1X5lV-goPBEg
+      short-id: 1709fe47a82c202e
+    udp: true
+  - name: FI_speednode_0004
+    server: 138.249.117.30
+    port: 4443
+    type: vless
+    uuid: 526552b2-f67f-489c-9d0d-3e00e7d890d1
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: github.com
+    reality-opts:
+      public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE
+      short-id: aa7e96542880027a
+    udp: true
+  - name: NL_speednode_0012
+    server: 45.87.153.176
+    port: 4443
+    type: vless
+    uuid: 526552b2-f67f-489c-9d0d-3e00e7d890d1
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: github.com
+    reality-opts:
+      public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE
+      short-id: aa7e96542880027a
+    udp: true
+  - name: RU_speednode_0013
+    server: 51.250.65.209
+    port: 443
+    type: vless
+    uuid: 4371ad14-b981-4699-bedf-83fb79bde3e6
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: ads.x5.ru
+    reality-opts:
+      public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
+      short-id: 17802e8ff84f12df
+    udp: true
+  - name: RU_speednode_0014
+    server: vkll.takovpn.ru
+    port: 443
+    type: vless
+    uuid: 846c5d45-936c-42f6-9120-2d13830d5fa0
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: eh.vk.com
+    reality-opts:
+      public-key: t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU
+      short-id: 4d4421a0bac569
+    udp: true
+  - name: RU_speednode_0015
+    server: s9.vless-balancer.ru
+    port: 4443
+    type: vless
+    uuid: 96605f21-f706-45ae-8eeb-ec71efbca6a2
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: github.com
+    reality-opts:
+      public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE
+      short-id: aa7e96542880027a
+    udp: true
+  - name: RU_speednode_0016
+    server: 51.250.4.181
+    port: 443
+    type: vless
+    uuid: 846c5d45-936c-42f6-9120-2d13830d5fa0
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: eh.vk.com
+    reality-opts:
+      public-key: t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU
+      short-id: 4d4421a0bac569
+    udp: true
+  - name: RU_speednode_0017
+    server: 89.169.137.193
+    port: 443
+    type: vless
+    uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: eh.vk.com
+    reality-opts:
+      public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
+      short-id: d1579a8745398e34
+    udp: true
+  - name: SG_speednode_0018
+    server: 43.165.190.11
+    port: 42841
+    type: vless
+    uuid: 00000000-0000-4000-8000-000000000000
+    tls: true
+    skip-cert-verify: false
+    servername: mot.morisi.ggff.net
+    network: ws
+    ws-opts:
+      path: /@Marisa_kristi
+      headers:
+        Host: mot.morisi.ggff.net
+    udp: true

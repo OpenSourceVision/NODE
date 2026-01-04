@@ -1,1 +1,178 @@
-hysteria://62.210.196.68:26691?protocol=&auth=&alpn=h3&insecure=1&peer=apple.com&upmbps=11&downmbps=55&obfs=#FR_speednode_0004
+proxies:
+  - name: 节点1
+    type: hysteria
+    server: 2001:bc8:32d7:17b::2
+    port: "11000"
+    auth_str: dongtaiwang.com
+    up: 100
+    down: 100
+    fast-open: true
+    protocol: udp
+    sni: apple.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+    recv_window_conn: 69206016
+    recv-window: 276824064
+  - name: 节点2
+    type: hysteria
+    server: 89.144.35.34
+    port: "39228"
+    auth_str: dongtaiwang.com
+    up: 100
+    down: 100
+    fast-open: true
+    protocol: udp
+    sni: apple.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+    recv_window_conn: 69206016
+    recv-window: 276824064
+  - name: 节点3
+    type: hysteria
+    server: 62.210.127.177
+    port: "23880"
+    auth_str: dongtaiwang.com
+    up: 100
+    down: 100
+    fast-open: true
+    protocol: udp
+    sni: bing.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+    recv_window_conn: 57671680
+    recv-window: 230686720
+  - name: 节点4
+    type: hysteria
+    server: 89.144.35.231
+    port: "18899"
+    auth_str: dongtaiwang.com
+    up: 100
+    down: 100
+    fast-open: true
+    protocol: udp
+    sni: apple.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+    recv_window_conn: 69206016
+    recv-window: 276824064
+  - name: 节点5
+    type: hysteria
+    server: 98.142.247.21
+    port: "39228"
+    auth_str: dongtaiwang.com
+    up: 100
+    down: 100
+    fast-open: true
+    protocol: udp
+    sni: apple.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+    recv_window_conn: 69206016
+    recv-window: 276824064
+  - name: 节点18
+    type: hysteria
+    server: 62.210.127.177
+    port: 23880
+    auth_str: dongtaiwang.com
+    up: 100
+    down: 100
+    fast-open: true
+    protocol: udp
+    sni: bing.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+  - name: 节点21
+    type: hysteria
+    server: 45.150.65.154
+    port: 47119
+    auth_str: dongtaiwang.com
+    up: 100
+    down: 100
+    fast-open: true
+    protocol: udp
+    sni: bing.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+  - name: United States_hy_0
+    type: hysteria
+    server: 108.181.5.133
+    port: 26022
+    ports: 26022
+    auth_str: dongtaiwang.com
+    up: 80
+    down: 100
+    fast-open: true
+    protocol: udp
+    sni: bing.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+  - name: France_hy_1
+    type: hysteria
+    server: 62.210.243.131
+    port: 18702
+    ports: 18702
+    auth_str: dongtaiwang.com
+    up: 80
+    down: 100
+    fast-open: true
+    protocol: udp
+    sni: bing.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+  - name: France_hy_2
+    type: hysteria
+    server: 62.210.243.131
+    port: 18702
+    ports: 18702
+    auth_str: dongtaiwang.com
+    up: 80
+    down: 100
+    fast-open: true
+    protocol: udp
+    sni: bing.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+  - name: United States_hy_3
+    type: hysteria
+    server: 109.104.152.194
+    port: 58510
+    ports: 58510
+    auth_str: dongtaiwang.com
+    up: 80
+    down: 100
+    fast-open: true
+    protocol: udp
+    sni: bing.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+  - type: hysteria
+    url: hysteria://108.181.5.133:26022?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#United
+      States_hysteria_0
+    protocol: hysteria
+    originalUrl: hysteria://108.181.5.133:26022?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#United
+      States_hysteria_0
+  - type: hysteria
+    url: hysteria://62.210.243.131:18702?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#France_hysteria_1
+    protocol: hysteria
+    originalUrl: hysteria://62.210.243.131:18702?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#France_hysteria_1
+  - type: hysteria
+    url: hysteria://62.210.243.131:18702?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#France_hysteria_2
+    protocol: hysteria
+    originalUrl: hysteria://62.210.243.131:18702?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#France_hysteria_2
+  - type: hysteria
+    url: hysteria://109.104.152.194:58510?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#United
+      States_hysteria_3
+    protocol: hysteria
+    originalUrl: hysteria://109.104.152.194:58510?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#United
+      States_hysteria_3

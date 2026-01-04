@@ -1,5 +1,2511 @@
-trojan://5a2c16f9@94.140.0.238:2096?sni=&allowInsecure=1&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2&fp=chrome&alpn=#AE_speednode_0001
-trojan://R8ufkVqwRZAgtwjyrA@uk-1.fishchipsexpress.com:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#GB_speednode_0005
-trojan://Aimer@167.68.4.199:2053?sni=&allowInsecure=0&type=ws&host=epge.muarua.filegear-sg.me&path=%2F&fp=chrome&alpn=#US_speednode_0019
-trojan://Aimer@167.68.4.199:2053?sni=&allowInsecure=0&type=ws&host=epge.muarua.filegear-sg.me&path=%2F%3Fed%3D2560&fp=chrome&alpn=#US_speednode_0020
-trojan://5a2c16f9@135.84.73.238:2096?sni=&allowInsecure=1&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2&fp=chrome&alpn=#US_speednode_0021
+proxies:
+  - name: Hong Kong_Central_trojan_103
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 443
+    server: 58.152.18.48
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Hong Kong_Sai Wan_trojan_104
+    network: tcp
+    password: BxceQaOe
+    port: 443
+    server: 58.152.25.86
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: Hong Kong_Sai Wan_trojan_105
+    network: tcp
+    password: BxceQaOe
+    port: 443
+    server: 58.152.25.236
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_106
+    network: tcp
+    password: BxceQaOe
+    port: 26378
+    server: 54.199.47.127
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_107
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 4006
+    server: 54.199.47.127
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_108
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 1933
+    server: 54.199.47.127
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_1011
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 3901
+    server: 52.198.241.226
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_1012
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 3901
+    server: 54.199.47.127
+    skip-cert-verify: true
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_1013
+    network: tcp
+    password: BxceQaOe
+    port: 3127
+    server: 54.249.149.192
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_1014
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 1281
+    server: 54.199.47.127
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_1015
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 1281
+    server: 153.121.44.99
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_1016
+    network: tcp
+    password: BxceQaOe
+    port: 1112
+    server: 18.181.195.198
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: United Arab Emirates_None_trojan_1019
+    network: ws
+    password: 5a2c16f9
+    port: 2096
+    server: 94.140.0.238
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: /Telegram🇨🇳WangCai2
+  - name: United Kingdom_London_trojan_1020
+    password: R8ufkVqwRZAgtwjyrA
+    port: 443
+    server: uk-1.fishchipsexpress.com
+    skip-cert-verify: true
+    sni: uk-1.fishchipsexpress.com
+    type: trojan
+    udp: true
+  - name: United States_None_trojan_1021
+    network: ws
+    password: Aimer
+    port: 2053
+    server: 167.68.4.199
+    skip-cert-verify: false
+    sni: epge.muarua.filegear-sg.me
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: epge.muarua.filegear-sg.me
+      path: /
+  - name: United States_None_trojan_1022
+    network: ws
+    password: Aimer
+    port: 2053
+    server: 167.68.4.199
+    skip-cert-verify: false
+    sni: epge.muarua.filegear-sg.me
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: epge.muarua.filegear-sg.me
+      path: /?ed=2560
+  - name: United States_None_trojan_1023
+    network: ws
+    password: 5a2c16f9
+    port: 2096
+    server: 135.84.73.238
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: /Telegram🇨🇳WangCai2
+  - name: Hong Kong_Central_trojan_1111
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%5BBy%20EbraSha%5D%20trojan-HK%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1112
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%20%5BBy%20DukeMehdi%5D%20b2n.ir%2Fv2ray-configs%20%7C%\
+      2078%20"
+    type: trojan
+  - name: Singapore_None_trojan_1113
+    network: ws
+    password: 5a2c16f9
+    port: 443
+    server: 103.53.81.139
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: "%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2"
+  - name: Hong Kong_Central_trojan_1114
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20DukeMehd\
+      i%5D%20b2n.ir%2Fv2ray-configs%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1115
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%\
+      5D%20b2n.ir%2Fv2ray-configs%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1116
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%2B%2B%2B%2B%2B%2B%2B%5BBy%2BDukeMehdi%5D%2Btrojan-HK%2B"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1117
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%20%5BBy%20DukeMehdi%5D%20trojan-HK%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1118
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%20%5BBy%20DukeMehdi%5D%20b2n.ir%2Fv2ray-configs%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1119
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1120
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20DukeMehd\
+      i%5D%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1121
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%2B%5BBy%2BEbraSha%5D%2Btrojan-HK%2B"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1122
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: 58.152.46.60
+    type: trojan
+  - name: Hong Kong_Central_trojan_1123
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: Hong Kong_Central_trojan_1124
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%2B%5BBy%2BEbraSha%5D%2Btrojan-HK%2B"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1125
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%2B%5BBy%2BDukeMehdi%5D%2Btrojan-HK%2B"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1126
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%2B%5BBy%2BDukeMehdi%5D%2Btrojan-HK%2B"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1127
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%2B%2B%2B%2B%2B%2B%2B%5BBy%2BEbraSha%5D%2Btrojan-HK%2B"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1128
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1129
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20DukeMehd\
+      i%5D%20trojan-HK%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1130
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1131
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%\
+      5D%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1132
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%\
+      5D%20trojan-HK%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1133
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%20%5BBy%20EbraSha%5D%20trojan-HK%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1134
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%20%5BBy%2BDukeMehdi%5D%2Bb2n.ir%2Fv2ray-configs%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1135
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%5BBy%20DukeMehdi%5D%20trojan-HK%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1136
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%20%5BBy%20DukeMehdi%5D%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1137
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%2B%5BBy%2BEbraSha%5D%2Btrojan-HK%2B"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1138
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%2B%5BBy%2BDukeMehdi%5D%2Btrojan-HK%2B"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1139
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: t.me%25252Fripaojiedian
+    type: trojan
+  - name: Hong Kong_Central_trojan_1140
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD"
+    type: trojan
+  - name: United States_None_trojan_1141
+    network: ws
+    password: 5a2c16f9
+    port: 2096
+    server: 135.84.73.238
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: "%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2"
+  - name: United Arab Emirates_None_trojan_1142
+    network: ws
+    password: 5a2c16f9
+    port: 2096
+    server: 94.140.0.238
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: "%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2"
+  - name: Singapore_None_trojan_1143
+    network: ws
+    password: 5a2c16f9
+    port: 443
+    server: 103.53.81.139
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      path: "%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2"
+  - name: United States_None_trojan_1144
+    network: ws
+    password: 5a2c16f9
+    port: 2096
+    server: 135.84.73.238
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      path: "%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2"
+  - name: United Arab Emirates_None_trojan_1145
+    network: ws
+    password: 5a2c16f9
+    port: 2096
+    server: 94.140.0.238
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      path: "%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2"
+  - name: Taiwan_Chiayi City_trojan_1146
+    password: 7d22382e-1358-4669-9334-d1f8d54a9be6
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1147
+    password: f9f59b4f-67b5-4ffa-a832-c9e38da35ac4
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1148
+    password: b4b63464-50fe-4e8c-930f-a12d53e94c25
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1149
+    password: 03c765f2-8969-472d-8984-250f39e9e134
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: None_None_trojan_1150
+    network: ws
+    password: a837c6d5-6af9-45c3-863d-3d5c1b9e4171
+    port: 2087
+    server: bestcdn4.868863.xyz
+    skip-cert-verify: true
+    sni: 17674475769882.206355.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17674475769766.206355.xyz
+      path: "%2Fvideomuaawe"
+  - name: Germany_Frankfurt am Main_trojan_1151
+    password: telegram-id-privatevpns
+    port: 22222
+    server: 18.198.145.155
+    skip-cert-verify: true
+    sni: 18.198.145.155
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1152
+    password: telegram-id-privatevpns
+    port: 22222
+    server: 18.198.145.155
+    skip-cert-verify: true
+    sni: trojan.burgerip.co.uk
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1153
+    password: telegram-id-privatevpns
+    port: 22222
+    server: 18.196.24.56
+    skip-cert-verify: true
+    sni: trojan.burgerip.co.uk
+    type: trojan
+  - name: Hong Kong_Central_trojan_1154
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
+    type: trojan
+  - name: Germany_Nuremberg_trojan_1155
+    network: ws
+    password: 5a2c16f9
+    port: 443
+    server: 49.13.234.155
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: "%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2"
+  - name: Germany_None_trojan_1156
+    network: ws
+    password: 5a2c16f9
+    port: 37607
+    server: 91.107.145.203
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: "%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2"
+  - name: Hong Kong_Central_trojan_1157
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%\
+      5D%20b2n.ir%2Fv2ray-configs%20%7C%20885%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1158
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%\
+      5D%20b2n.ir%2Fv2ray-configs%20%7C%20761%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1159
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20%7C%20\
+      88%20"
+    type: trojan
+  - name: Hong Kong_Fanling_trojan_1160
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 21521
+    server: hkt-ty-line-1.sudatech.store
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1161
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10007
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1162
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10007
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1163
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10002
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1164
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10002
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1165
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10001
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1166
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10001
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1167
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10010
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1168
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10010
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1169
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10006
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1170
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10006
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1171
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10011
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1172
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10011
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1173
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10005
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1174
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10005
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1175
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10009
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1176
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10009
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1177
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10004
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1178
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10004
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1179
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 443
+    server: starlink-de1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1180
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 443
+    server: starlink-de2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1181
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10025
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1182
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10028
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1183
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10028
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1184
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10014
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1185
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10014
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1186
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10023
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1187
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10023
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1188
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10015
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1189
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10015
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1190
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10017
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1191
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10016
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1192
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10016
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1193
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10020
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1194
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10012
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1195
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10012
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1196
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10018
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1197
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10018
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1198
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10013
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1199
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10008
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11100
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10027
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Poland_None_trojan_11101
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 20181
+    server: 212.127.78.119
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11102
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10007
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_11103
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10007
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_11104
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10021
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11105
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10005
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11106
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10005
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_11107
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10006
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_11108
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10006
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11109
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10010
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11110
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10010
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11111
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10011
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_11112
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10011
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11113
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10002
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_11114
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10030
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_11115
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10030
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_Boardman_trojan_11116
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10001
+    server: z-us2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Canada_Toronto_trojan_11117
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 443
+    server: starlink-tor.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Peru_Lima_trojan_11118
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 20041
+    server: 161.132.51.133
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_Boardman_trojan_11119
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10002
+    server: z-us2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: South Africa_None_trojan_11120
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 20261
+    server: 102.219.85.236
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_11121
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10031
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11122
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10031
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: India_Mumbai_trojan_11123
+    password: M7v%w11Se*
+    port: 443
+    server: tttyder.wsone.icu
+    skip-cert-verify: true
+    sni: tttyder.wsone.icu
+    type: trojan
+  - name: Singapore_None_trojan_11124
+    network: ws
+    password: 5a2c16f9
+    port: 443
+    server: 27.50.48.206
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: "%2F"
+  - name: Canada_Ottawa_trojan_11125
+    network: ws
+    password: aff9928f-7ba3-45fb-b56d-4dec45653ca9
+    port: 443
+    server: 23.227.38.33
+    skip-cert-verify: true
+    sni: z9mifq7ujufk56im.jptimecsgo.xyz
+    type: trojan
+    ws-opts:
+      path: "%2Fimages"
+  - name: Hong Kong_Central_trojan_11131
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 443
+    server: 58.152.18.48
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Hong Kong_Sai Wan_trojan_11132
+    network: tcp
+    password: BxceQaOe
+    port: 443
+    server: 58.152.25.86
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: Hong Kong_Sai Wan_trojan_11133
+    network: tcp
+    password: BxceQaOe
+    port: 443
+    server: 58.152.25.236
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_11134
+    password: BxceQaOe
+    port: 26378
+    server: 54.199.47.127
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_11135
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 4006
+    server: 54.199.47.127
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11136
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 1933
+    server: 54.199.47.127
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11139
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 3901
+    server: 52.198.241.226
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11140
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 3901
+    server: 54.199.47.127
+    skip-cert-verify: true
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11141
+    password: BxceQaOe
+    port: 3127
+    server: 54.249.149.192
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_11142
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 1281
+    server: 54.199.47.127
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11143
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 1281
+    server: 153.121.44.99
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11144
+    password: BxceQaOe
+    port: 1112
+    server: 18.181.195.198
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: Hong Kong_Sheung Shui_trojan_11148
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 443
+    server: 58.152.110.104
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11149
+    network: tcp
+    password: BxceQaOe
+    port: 3760
+    server: 57.180.10.245
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_11150
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 4006
+    server: 13.231.188.173
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11151
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 1933
+    server: 13.231.188.173
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11152
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 3901
+    server: 13.231.188.173
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Hong Kong_None_trojan_11153
+    network: tcp
+    password: BxceQaOe
+    port: 804
+    server: 18.163.28.248
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_11154
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 1281
+    server: 13.231.188.173
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11155
+    network: tcp
+    password: BxceQaOe
+    port: 1221
+    server: 13.231.188.173
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: United Arab Emirates_None_trojan_11156
+    network: ws
+    password: 5a2c16f9
+    port: 2096
+    server: 94.140.0.238
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: /Telegram🇨🇳WangCai2
+  - name: United Kingdom_London_trojan_11157
+    password: R8ufkVqwRZAgtwjyrA
+    port: 443
+    server: uk-1.fishchipsexpress.com
+    skip-cert-verify: true
+    sni: uk-1.fishchipsexpress.com
+    type: trojan
+    udp: true
+  - name: United States_None_trojan_11158
+    network: ws
+    password: Aimer
+    port: 2053
+    server: 167.68.4.199
+    skip-cert-verify: false
+    sni: epge.muarua.filegear-sg.me
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: epge.muarua.filegear-sg.me
+      path: /
+  - name: United States_None_trojan_11159
+    network: ws
+    password: Aimer
+    port: 2053
+    server: 167.68.4.199
+    skip-cert-verify: false
+    sni: epge.muarua.filegear-sg.me
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: epge.muarua.filegear-sg.me
+      path: /?ed=2560
+  - name: United States_None_trojan_11160
+    network: ws
+    password: 5a2c16f9
+    port: 2096
+    server: 135.84.73.238
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: /Telegram🇨🇳WangCai2
+  - name: Hong Kong_Central_trojan_103
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 443
+    server: 58.152.18.48
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Hong Kong_Sai Wan_trojan_104
+    network: tcp
+    password: BxceQaOe
+    port: 443
+    server: 58.152.25.86
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: Hong Kong_Sai Wan_trojan_105
+    network: tcp
+    password: BxceQaOe
+    port: 443
+    server: 58.152.25.236
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_106
+    network: tcp
+    password: BxceQaOe
+    port: 26378
+    server: 54.199.47.127
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_107
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 4006
+    server: 54.199.47.127
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_108
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 1933
+    server: 54.199.47.127
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_1011
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 3901
+    server: 52.198.241.226
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_1012
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 3901
+    server: 54.199.47.127
+    skip-cert-verify: true
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_1013
+    network: tcp
+    password: BxceQaOe
+    port: 3127
+    server: 54.249.149.192
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_1014
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 1281
+    server: 54.199.47.127
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_1015
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 1281
+    server: 153.121.44.99
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_1016
+    network: tcp
+    password: BxceQaOe
+    port: 1112
+    server: 18.181.195.198
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: United Arab Emirates_None_trojan_1019
+    network: ws
+    password: 5a2c16f9
+    port: 2096
+    server: 94.140.0.238
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: /Telegram🇨🇳WangCai2
+  - name: United Kingdom_London_trojan_1020
+    password: R8ufkVqwRZAgtwjyrA
+    port: 443
+    server: uk-1.fishchipsexpress.com
+    skip-cert-verify: true
+    sni: uk-1.fishchipsexpress.com
+    type: trojan
+    udp: true
+  - name: United States_None_trojan_1021
+    network: ws
+    password: Aimer
+    port: 2053
+    server: 167.68.4.199
+    skip-cert-verify: false
+    sni: epge.muarua.filegear-sg.me
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: epge.muarua.filegear-sg.me
+      path: /
+  - name: United States_None_trojan_1022
+    network: ws
+    password: Aimer
+    port: 2053
+    server: 167.68.4.199
+    skip-cert-verify: false
+    sni: epge.muarua.filegear-sg.me
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: epge.muarua.filegear-sg.me
+      path: /?ed=2560
+  - name: United States_None_trojan_1023
+    network: ws
+    password: 5a2c16f9
+    port: 2096
+    server: 135.84.73.238
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: /Telegram🇨🇳WangCai2
+  - name: Hong Kong_Central_trojan_1111
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%5BBy%20EbraSha%5D%20trojan-HK%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1112
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%20%5BBy%20DukeMehdi%5D%20b2n.ir%2Fv2ray-configs%20%7C%\
+      2078%20"
+    type: trojan
+  - name: Singapore_None_trojan_1113
+    network: ws
+    password: 5a2c16f9
+    port: 443
+    server: 103.53.81.139
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: "%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2"
+  - name: Hong Kong_Central_trojan_1114
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20DukeMehd\
+      i%5D%20b2n.ir%2Fv2ray-configs%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1115
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%\
+      5D%20b2n.ir%2Fv2ray-configs%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1116
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%2B%2B%2B%2B%2B%2B%2B%5BBy%2BDukeMehdi%5D%2Btrojan-HK%2B"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1117
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%20%5BBy%20DukeMehdi%5D%20trojan-HK%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1118
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%20%5BBy%20DukeMehdi%5D%20b2n.ir%2Fv2ray-configs%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1119
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1120
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20DukeMehd\
+      i%5D%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1121
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%2B%5BBy%2BEbraSha%5D%2Btrojan-HK%2B"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1122
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: 58.152.46.60
+    type: trojan
+  - name: Hong Kong_Central_trojan_1123
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: Hong Kong_Central_trojan_1124
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%2B%5BBy%2BEbraSha%5D%2Btrojan-HK%2B"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1125
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%2B%5BBy%2BDukeMehdi%5D%2Btrojan-HK%2B"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1126
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%2B%5BBy%2BDukeMehdi%5D%2Btrojan-HK%2B"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1127
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%2B%2B%2B%2B%2B%2B%2B%5BBy%2BEbraSha%5D%2Btrojan-HK%2B"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1128
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1129
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20DukeMehd\
+      i%5D%20trojan-HK%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1130
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1131
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%\
+      5D%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1132
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%\
+      5D%20trojan-HK%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1133
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%20%5BBy%20EbraSha%5D%20trojan-HK%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1134
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%20%5BBy%2BDukeMehdi%5D%2Bb2n.ir%2Fv2ray-configs%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1135
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%5BBy%20DukeMehdi%5D%20trojan-HK%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1136
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%20%5BBy%20DukeMehdi%5D%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1137
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%2B%5BBy%2BEbraSha%5D%2Btrojan-HK%2B"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1138
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%2B%5BBy%2BDukeMehdi%5D%2Btrojan-HK%2B"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1139
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: t.me%25252Fripaojiedian
+    type: trojan
+  - name: Hong Kong_Central_trojan_1140
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD"
+    type: trojan
+  - name: United States_None_trojan_1141
+    network: ws
+    password: 5a2c16f9
+    port: 2096
+    server: 135.84.73.238
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: "%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2"
+  - name: United Arab Emirates_None_trojan_1142
+    network: ws
+    password: 5a2c16f9
+    port: 2096
+    server: 94.140.0.238
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: "%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2"
+  - name: Singapore_None_trojan_1143
+    network: ws
+    password: 5a2c16f9
+    port: 443
+    server: 103.53.81.139
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      path: "%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2"
+  - name: United States_None_trojan_1144
+    network: ws
+    password: 5a2c16f9
+    port: 2096
+    server: 135.84.73.238
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      path: "%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2"
+  - name: United Arab Emirates_None_trojan_1145
+    network: ws
+    password: 5a2c16f9
+    port: 2096
+    server: 94.140.0.238
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      path: "%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2"
+  - name: Taiwan_Chiayi City_trojan_1146
+    password: 7d22382e-1358-4669-9334-d1f8d54a9be6
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1147
+    password: f9f59b4f-67b5-4ffa-a832-c9e38da35ac4
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1148
+    password: b4b63464-50fe-4e8c-930f-a12d53e94c25
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1149
+    password: 03c765f2-8969-472d-8984-250f39e9e134
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: None_None_trojan_1150
+    network: ws
+    password: a837c6d5-6af9-45c3-863d-3d5c1b9e4171
+    port: 2087
+    server: bestcdn4.868863.xyz
+    skip-cert-verify: true
+    sni: 17674475769882.206355.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17674475769766.206355.xyz
+      path: "%2Fvideomuaawe"
+  - name: Germany_Frankfurt am Main_trojan_1151
+    password: telegram-id-privatevpns
+    port: 22222
+    server: 18.198.145.155
+    skip-cert-verify: true
+    sni: 18.198.145.155
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1152
+    password: telegram-id-privatevpns
+    port: 22222
+    server: 18.198.145.155
+    skip-cert-verify: true
+    sni: trojan.burgerip.co.uk
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1153
+    password: telegram-id-privatevpns
+    port: 22222
+    server: 18.196.24.56
+    skip-cert-verify: true
+    sni: trojan.burgerip.co.uk
+    type: trojan
+  - name: Hong Kong_Central_trojan_1154
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
+    type: trojan
+  - name: Germany_Nuremberg_trojan_1155
+    network: ws
+    password: 5a2c16f9
+    port: 443
+    server: 49.13.234.155
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: "%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2"
+  - name: Germany_None_trojan_1156
+    network: ws
+    password: 5a2c16f9
+    port: 37607
+    server: 91.107.145.203
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: "%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2"
+  - name: Hong Kong_Central_trojan_1157
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%\
+      5D%20b2n.ir%2Fv2ray-configs%20%7C%20885%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1158
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%\
+      5D%20b2n.ir%2Fv2ray-configs%20%7C%20761%20"
+    type: trojan
+  - name: Hong Kong_Central_trojan_1159
+    password: BxceQaOe
+    port: 443
+    server: 58.152.46.60
+    skip-cert-verify: true
+    sni: "%20%20%20%20%20%20%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20%7C%20\
+      88%20"
+    type: trojan
+  - name: Hong Kong_Fanling_trojan_1160
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 21521
+    server: hkt-ty-line-1.sudatech.store
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1161
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10007
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1162
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10007
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1163
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10002
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1164
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10002
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1165
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10001
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1166
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10001
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1167
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10010
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1168
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10010
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1169
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10006
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1170
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10006
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1171
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10011
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1172
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10011
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1173
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10005
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1174
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10005
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1175
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10009
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1176
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10009
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1177
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10004
+    server: z-sg1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Singapore_Singapore_trojan_1178
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10004
+    server: z-sg2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1179
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 443
+    server: starlink-de1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1180
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 443
+    server: starlink-de2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1181
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10025
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1182
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10028
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1183
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10028
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1184
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10014
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1185
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10014
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1186
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10023
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1187
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10023
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1188
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10015
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1189
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10015
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1190
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10017
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1191
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10016
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1192
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10016
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1193
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10020
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1194
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10012
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1195
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10012
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1196
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10018
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1197
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10018
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_1198
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10013
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_1199
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10008
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11100
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10027
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Poland_None_trojan_11101
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 20181
+    server: 212.127.78.119
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11102
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10007
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_11103
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10007
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_11104
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10021
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11105
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10005
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11106
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10005
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_11107
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10006
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_11108
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10006
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11109
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10010
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11110
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10010
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11111
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10011
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_11112
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10011
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11113
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10002
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_11114
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10030
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_11115
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10030
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_Boardman_trojan_11116
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10001
+    server: z-us2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Canada_Toronto_trojan_11117
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 443
+    server: starlink-tor.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Peru_Lima_trojan_11118
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 20041
+    server: 161.132.51.133
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_Boardman_trojan_11119
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10002
+    server: z-us2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: South Africa_None_trojan_11120
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 20261
+    server: 102.219.85.236
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: United States_None_trojan_11121
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10031
+    server: z-eu1.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: Germany_Frankfurt am Main_trojan_11122
+    password: smart@-PhVxMdT5OVnjtTecU-kZoej
+    port: 10031
+    server: z-eu2.2513142.xyz
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    type: trojan
+  - name: India_Mumbai_trojan_11123
+    password: M7v%w11Se*
+    port: 443
+    server: tttyder.wsone.icu
+    skip-cert-verify: true
+    sni: tttyder.wsone.icu
+    type: trojan
+  - name: Singapore_None_trojan_11124
+    network: ws
+    password: 5a2c16f9
+    port: 443
+    server: 27.50.48.206
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: "%2F"
+  - name: Canada_Ottawa_trojan_11125
+    network: ws
+    password: aff9928f-7ba3-45fb-b56d-4dec45653ca9
+    port: 443
+    server: 23.227.38.33
+    skip-cert-verify: true
+    sni: z9mifq7ujufk56im.jptimecsgo.xyz
+    type: trojan
+    ws-opts:
+      path: "%2Fimages"
+  - name: Hong Kong_Central_trojan_11131
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 443
+    server: 58.152.18.48
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Hong Kong_Sai Wan_trojan_11132
+    network: tcp
+    password: BxceQaOe
+    port: 443
+    server: 58.152.25.86
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: Hong Kong_Sai Wan_trojan_11133
+    network: tcp
+    password: BxceQaOe
+    port: 443
+    server: 58.152.25.236
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_11134
+    password: BxceQaOe
+    port: 26378
+    server: 54.199.47.127
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_11135
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 4006
+    server: 54.199.47.127
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11136
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 1933
+    server: 54.199.47.127
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11139
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 3901
+    server: 52.198.241.226
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11140
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 3901
+    server: 54.199.47.127
+    skip-cert-verify: true
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11141
+    password: BxceQaOe
+    port: 3127
+    server: 54.249.149.192
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_11142
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 1281
+    server: 54.199.47.127
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11143
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 1281
+    server: 153.121.44.99
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11144
+    password: BxceQaOe
+    port: 1112
+    server: 18.181.195.198
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: Hong Kong_Sheung Shui_trojan_11148
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 443
+    server: 58.152.110.104
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11149
+    network: tcp
+    password: BxceQaOe
+    port: 3760
+    server: 57.180.10.245
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_11150
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 4006
+    server: 13.231.188.173
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11151
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 1933
+    server: 13.231.188.173
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11152
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 3901
+    server: 13.231.188.173
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Hong Kong_None_trojan_11153
+    network: tcp
+    password: BxceQaOe
+    port: 804
+    server: 18.163.28.248
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_11154
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
+    port: 1281
+    server: 13.231.188.173
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_11155
+    network: tcp
+    password: BxceQaOe
+    port: 1221
+    server: 13.231.188.173
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: United Arab Emirates_None_trojan_11156
+    network: ws
+    password: 5a2c16f9
+    port: 2096
+    server: 94.140.0.238
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: /Telegram🇨🇳WangCai2
+  - name: United Kingdom_London_trojan_11157
+    password: R8ufkVqwRZAgtwjyrA
+    port: 443
+    server: uk-1.fishchipsexpress.com
+    skip-cert-verify: true
+    sni: uk-1.fishchipsexpress.com
+    type: trojan
+    udp: true
+  - name: United States_None_trojan_11158
+    network: ws
+    password: Aimer
+    port: 2053
+    server: 167.68.4.199
+    skip-cert-verify: false
+    sni: epge.muarua.filegear-sg.me
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: epge.muarua.filegear-sg.me
+      path: /
+  - name: United States_None_trojan_11159
+    network: ws
+    password: Aimer
+    port: 2053
+    server: 167.68.4.199
+    skip-cert-verify: false
+    sni: epge.muarua.filegear-sg.me
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: epge.muarua.filegear-sg.me
+      path: /?ed=2560
+  - name: United States_None_trojan_11160
+    network: ws
+    password: 5a2c16f9
+    port: 2096
+    server: 135.84.73.238
+    skip-cert-verify: true
+    sni: snippets.kkii.eu.org
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: snippets.kkii.eu.org
+      path: /Telegram🇨🇳WangCai2
+  - name: AE_speednode_0001
+    server: 94.140.0.238
+    port: 2096
+    type: trojan
+    password: 5a2c16f9
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /Telegram🇨🇳WangCai2
+      headers:
+        Host: snippets.kkii.eu.org
+    udp: true
+  - name: GB_speednode_0005
+    server: uk-1.fishchipsexpress.com
+    port: 443
+    type: trojan
+    password: R8ufkVqwRZAgtwjyrA
+    sni: uk-1.fishchipsexpress.com
+    skip-cert-verify: true
+    udp: true
+  - name: US_speednode_0019
+    server: 167.68.4.199
+    port: 2053
+    type: trojan
+    password: Aimer
+    sni: epge.muarua.filegear-sg.me
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: epge.muarua.filegear-sg.me
+    udp: true
+  - name: US_speednode_0020
+    server: 167.68.4.199
+    port: 2053
+    type: trojan
+    password: Aimer
+    sni: epge.muarua.filegear-sg.me
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: epge.muarua.filegear-sg.me
+    udp: true
+  - name: US_speednode_0021
+    server: 135.84.73.238
+    port: 2096
+    type: trojan
+    password: 5a2c16f9
+    sni: snippets.kkii.eu.org
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /Telegram🇨🇳WangCai2
+      headers:
+        Host: snippets.kkii.eu.org
+    udp: true

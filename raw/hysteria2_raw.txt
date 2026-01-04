@@ -1,8 +1,143 @@
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@145.241.187.70:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=johannesburg-2.nezhasu.com#AT_speednode_0001
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@152.67.50.33:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=gysbl-2.nezhasu.com#BR_speednode_0002
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@129.151.115.91:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=glby1.nezhasu.com#CL_speednode_0003
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@140.238.247.224:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=mumbai-2.nezhasu.com#IN_speednode_0006
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@141.148.246.181:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=amsterdam.nezhasu.com#NL_speednode_0008
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@80.225.196.14:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=mumbai-3.nezhasu.com#SE_speednode_0012
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@80.225.253.247:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=mumbai-4.nezhasu.com#SE_speednode_0013
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@137.131.149.26:443?&mport=50000-65535&insecure=1&obfs=&obfs-password=&sni=bx1.nezhasu.com#US_speednode_0014
+proxies:
+  - name: 节点6
+    type: hysteria2
+    server: 2001:bc8:32d7:17b::8
+    port: "22000"
+    password: dongtaiwang.com
+    fast-open: true
+    sni: apple.com
+    skip-cert-verify: true
+    up: 100 Mbps
+    down: 100 Mbps
+  - name: 节点7
+    type: hysteria2
+    server: 2001:bc8:32d7:302::11
+    port: "20088"
+    password: dongtaiwang.com
+    fast-open: true
+    sni: apple.com
+    skip-cert-verify: true
+    up: 100 Mbps
+    down: 100 Mbps
+  - name: 节点8
+    type: hysteria2
+    server: 157.254.223.43
+    port: "27921"
+    password: dongtaiwang.com
+    fast-open: true
+    sni: apple.com
+    skip-cert-verify: true
+    up: 100 Mbps
+    down: 100 Mbps
+    ports: 28000-29000
+    hop-interval: "30"
+  - name: 节点9
+    type: hysteria2
+    server: 62.210.124.146
+    port: "22000"
+    password: dongtaiwang.com
+    fast-open: true
+    sni: www.microsoft.com
+    skip-cert-verify: true
+    up: 100 Mbps
+    down: 100 Mbps
+  - name: 节点11
+    type: hysteria2
+    server: 51.158.194.63
+    port: "32952"
+    password: dongtaiwang.com
+    fast-open: true
+    sni: www.microsoft.com
+    skip-cert-verify: true
+    up: 100 Mbps
+    down: 100 Mbps
+  - name: United States_hysteria2_01
+    type: hysteria2
+    server: 74.63.233.74
+    port: 33445
+    password: dongtaiwang.com
+    alpn:
+      - h3
+    sni: www.bing.com
+    skip-cert-verify: true
+    up: 5 Mbps
+    down: 20 Mbps
+  - name: United States_hysteria2_71
+    type: hysteria2
+    server: 109.104.152.89
+    port: 22441
+    password: dongtaiwang.com
+    alpn:
+      - h3
+    sni: www.bing.com
+    skip-cert-verify: true
+    up: 11 Mbps
+    down: 55 Mbps
+  - name: United States_hy2_0
+    type: hysteria2
+    server: 104.192.224.141
+    port: 40391
+    password: dongtaiwang.com
+    fast-open: true
+    sni: www.bing.com
+    skip-cert-verify: true
+  - name: United States_hy2_1
+    type: hysteria2
+    server: 104.192.224.140
+    port: 40391
+    password: dongtaiwang.com
+    fast-open: true
+    sni: www.bing.com
+    skip-cert-verify: true
+  - name: United States_hy2_2
+    type: hysteria2
+    server: 104.192.224.141
+    port: 40391
+    password: dongtaiwang.com
+    fast-open: true
+    sni: www.bing.com
+    skip-cert-verify: true
+  - name: United States_hy2_3
+    type: hysteria2
+    server: 104.192.224.141
+    port: 40391
+    password: dongtaiwang.com
+    fast-open: true
+    sni: www.bing.com
+    skip-cert-verify: true
+  - type: hysteria2
+    url: hysteria2://dongtaiwang.com@74.63.233.74:33445?insecure=1&sni=www.bing.com&obfs=&obfs-password=#United
+      States_hy2_0
+    protocol: hysteria2
+    originalUrl: hysteria2://dongtaiwang.com@74.63.233.74:33445?insecure=1&sni=www.bing.com&obfs=&obfs-password=#United
+      States_hy2_0
+  - type: hysteria2
+    url: hysteria2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=www.bing.com&obfs=&obfs-password=#United
+      States_hy2_7
+    protocol: hysteria2
+    originalUrl: hysteria2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=www.bing.com&obfs=&obfs-password=#United
+      States_hy2_7
+  - type: hysteria2
+    url: hysteria2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com#United
+      States_hysteria2_0
+    protocol: hysteria2
+    originalUrl: hysteria2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com#United
+      States_hysteria2_0
+  - type: hysteria2
+    url: hysteria2://dongtaiwang.com@104.192.224.140:40391?insecure=1&sni=www.bing.com#United
+      States_hysteria2_1
+    protocol: hysteria2
+    originalUrl: hysteria2://dongtaiwang.com@104.192.224.140:40391?insecure=1&sni=www.bing.com#United
+      States_hysteria2_1
+  - type: hysteria2
+    url: hysteria2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com#United
+      States_hysteria2_2
+    protocol: hysteria2
+    originalUrl: hysteria2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com#United
+      States_hysteria2_2
+  - type: hysteria2
+    url: hysteria2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com#United
+      States_hysteria2_3
+    protocol: hysteria2
+    originalUrl: hysteria2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com#United
+      States_hysteria2_3
