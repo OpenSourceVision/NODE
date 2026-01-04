@@ -1,1 +1,5 @@
-trojan://iwangjie@158.101.11.204:15805?sni=&allowInsecure=0&type=ws&host=nodes.830901.xyz&path=%2F&fp=chrome&alpn=#US_speednode_0018
+trojan://5a2c16f9@94.140.0.238:2096?sni=&allowInsecure=1&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2&fp=chrome&alpn=#AE_speednode_0001
+trojan://R8ufkVqwRZAgtwjyrA@uk-1.fishchipsexpress.com:443?sni=&allowInsecure=1&type=tcp&fp=chrome&alpn=#GB_speednode_0005
+trojan://Aimer@167.68.4.199:2053?sni=&allowInsecure=0&type=ws&host=epge.muarua.filegear-sg.me&path=%2F&fp=chrome&alpn=#US_speednode_0019
+trojan://Aimer@167.68.4.199:2053?sni=&allowInsecure=0&type=ws&host=epge.muarua.filegear-sg.me&path=%2F%3Fed%3D2560&fp=chrome&alpn=#US_speednode_0020
+trojan://5a2c16f9@135.84.73.238:2096?sni=&allowInsecure=1&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2&fp=chrome&alpn=#US_speednode_0021
