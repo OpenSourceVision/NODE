@@ -59,7 +59,7 @@ proxies:
       - h3
     recv_window_conn: 69206016
     recv-window: 276824064
-  - name: 节点5
+  - name: 节点6
     type: hysteria
     server: 98.142.247.21
     port: "39228"
@@ -74,7 +74,7 @@ proxies:
       - h3
     recv_window_conn: 69206016
     recv-window: 276824064
-  - name: 节点18
+  - name: 节点20
     type: hysteria
     server: 62.210.127.177
     port: 23880

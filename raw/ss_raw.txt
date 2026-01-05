@@ -5,47 +5,35 @@ proxies:
     port: 443
     server: 63.180.254.10
     type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: Japan_Tokyo_ss_109
-    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
-    port: 990
-    server: 103.106.228.247
-    type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Songpa-gu_ss_1010
+    name: South Korea_Seongnam-si_ss_1010
     password: qwerREWQ@@
-    port: 7747
-    server: 221.150.109.90
+    port: 22376
+    server: 125.141.31.75
     type: ss
   - cipher: aes-256-cfb
     name: Vietnam_None_ss_1017
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.154.251
+    server: 103.186.154.248
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_11129
+    name: United States_None_ss_11278
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: Japan_Tokyo_ss_11137
-    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
-    port: 990
-    server: 103.106.228.247
-    type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Songpa-gu_ss_11138
+    name: South Korea_Seongnam-si_ss_11287
     password: qwerREWQ@@
-    port: 7747
-    server: 221.150.109.90
+    port: 22376
+    server: 125.141.31.75
     type: ss
   - cipher: aes-256-cfb
-    name: Vietnam_None_ss_11145
+    name: Vietnam_None_ss_11294
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.154.251
+    server: 103.186.154.248
     type: ss
   - name: United States_ss_61
     type: ss
@@ -101,45 +89,33 @@ proxies:
     port: 443
     server: 63.180.254.10
     type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: Japan_Tokyo_ss_109
-    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
-    port: 990
-    server: 103.106.228.247
-    type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Songpa-gu_ss_1010
+    name: South Korea_Seongnam-si_ss_1010
     password: qwerREWQ@@
-    port: 7747
-    server: 221.150.109.90
+    port: 22376
+    server: 125.141.31.75
     type: ss
   - cipher: aes-256-cfb
     name: Vietnam_None_ss_1017
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.154.251
+    server: 103.186.154.248
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_11129
+    name: United States_None_ss_11278
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: Japan_Tokyo_ss_11137
-    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
-    port: 990
-    server: 103.106.228.247
-    type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Songpa-gu_ss_11138
+    name: South Korea_Seongnam-si_ss_11287
     password: qwerREWQ@@
-    port: 7747
-    server: 221.150.109.90
+    port: 22376
+    server: 125.141.31.75
     type: ss
   - cipher: aes-256-cfb
-    name: Vietnam_None_ss_11145
+    name: Vietnam_None_ss_11294
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.154.251
+    server: 103.186.154.248
     type: ss
