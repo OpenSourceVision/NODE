@@ -6,34 +6,34 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Seongnam-si_ss_1010
+    name: South Korea_Seocho_ss_109
     password: qwerREWQ@@
-    port: 22376
-    server: 125.141.31.75
+    port: 50411
+    server: 210.217.18.69
     type: ss
   - cipher: aes-256-cfb
-    name: Vietnam_None_ss_1017
+    name: Vietnam_None_ss_1014
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.154.248
+    server: 103.186.155.63
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_11278
+    name: United States_None_ss_1111
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Seongnam-si_ss_11287
+    name: South Korea_Seocho_ss_1119
     password: qwerREWQ@@
-    port: 22376
-    server: 125.141.31.75
+    port: 50411
+    server: 210.217.18.69
     type: ss
   - cipher: aes-256-cfb
-    name: Vietnam_None_ss_11294
+    name: Vietnam_None_ss_1124
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.154.248
+    server: 103.186.155.63
     type: ss
   - name: United States_ss_61
     type: ss
@@ -90,32 +90,32 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Seongnam-si_ss_1010
+    name: South Korea_Seocho_ss_109
     password: qwerREWQ@@
-    port: 22376
-    server: 125.141.31.75
+    port: 50411
+    server: 210.217.18.69
     type: ss
   - cipher: aes-256-cfb
-    name: Vietnam_None_ss_1017
+    name: Vietnam_None_ss_1014
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.154.248
+    server: 103.186.155.63
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_11278
+    name: United States_None_ss_1111
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Seongnam-si_ss_11287
+    name: South Korea_Seocho_ss_1119
     password: qwerREWQ@@
-    port: 22376
-    server: 125.141.31.75
+    port: 50411
+    server: 210.217.18.69
     type: ss
   - cipher: aes-256-cfb
-    name: Vietnam_None_ss_11294
+    name: Vietnam_None_ss_1124
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.154.248
+    server: 103.186.155.63
     type: ss

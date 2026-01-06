@@ -39,7 +39,7 @@ proxies:
       headers: {}
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Yuen Long San Hui_vmess_102
+    name: Hong Kong_Central_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -48,22 +48,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Sha Tin Wai_vmess_103
-    network: ws
-    port: "80"
-    server: hkt.gotochinatown.net
-    servername: ""
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 2d8c38cc-fc12-11ef-94aa-f23c913c8d2b
-    ws-opts:
-      headers:
-        Host: hkt.gotochinatown.net
-      path: /
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Yuen Long San Hui_vmess_1018
+    name: Hong Kong_Central_vmess_1015
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -163,7 +148,7 @@ proxies:
     uuid: 88888888-8888-8888-8888-888888888888
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Yuen Long San Hui_vmess_11279
+    name: Hong Kong_Central_vmess_1112
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -172,22 +157,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Sha Tin Wai_vmess_11280
-    network: ws
-    port: "80"
-    server: hkt.gotochinatown.net
-    servername: ""
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 2d8c38cc-fc12-11ef-94aa-f23c913c8d2b
-    ws-opts:
-      headers:
-        Host: hkt.gotochinatown.net
-      path: /
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Yuen Long San Hui_vmess_11295
+    name: Hong Kong_Central_vmess_1125
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -197,7 +167,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Yuen Long San Hui_vmess_102
+    name: Hong Kong_Central_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -206,22 +176,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Sha Tin Wai_vmess_103
-    network: ws
-    port: "80"
-    server: hkt.gotochinatown.net
-    servername: ""
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 2d8c38cc-fc12-11ef-94aa-f23c913c8d2b
-    ws-opts:
-      headers:
-        Host: hkt.gotochinatown.net
-      path: /
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Yuen Long San Hui_vmess_1018
+    name: Hong Kong_Central_vmess_1015
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -321,7 +276,7 @@ proxies:
     uuid: 88888888-8888-8888-8888-888888888888
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Yuen Long San Hui_vmess_11279
+    name: Hong Kong_Central_vmess_1112
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -330,22 +285,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Sha Tin Wai_vmess_11280
-    network: ws
-    port: "80"
-    server: hkt.gotochinatown.net
-    servername: ""
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 2d8c38cc-fc12-11ef-94aa-f23c913c8d2b
-    ws-opts:
-      headers:
-        Host: hkt.gotochinatown.net
-      path: /
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Yuen Long San Hui_vmess_11295
+    name: Hong Kong_Central_vmess_1125
     network: tcp
     port: "30807"
     server: v10.hdacd.com
