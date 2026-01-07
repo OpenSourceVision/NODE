@@ -6,16 +6,10 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Seocho_ss_109
+    name: South Korea_Songpa-gu_ss_1010
     password: qwerREWQ@@
-    port: 50411
-    server: 210.217.18.69
-    type: ss
-  - cipher: aes-256-cfb
-    name: Vietnam_None_ss_1014
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.63
+    port: 21215
+    server: 221.150.109.92
     type: ss
   - cipher: aes-256-cfb
     name: United States_None_ss_1111
@@ -24,16 +18,10 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Seocho_ss_1119
+    name: South Korea_Songpa-gu_ss_1120
     password: qwerREWQ@@
-    port: 50411
-    server: 210.217.18.69
-    type: ss
-  - cipher: aes-256-cfb
-    name: Vietnam_None_ss_1124
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.63
+    port: 21215
+    server: 221.150.109.92
     type: ss
   - name: United States_ss_61
     type: ss
@@ -90,16 +78,10 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Seocho_ss_109
+    name: South Korea_Songpa-gu_ss_1010
     password: qwerREWQ@@
-    port: 50411
-    server: 210.217.18.69
-    type: ss
-  - cipher: aes-256-cfb
-    name: Vietnam_None_ss_1014
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.63
+    port: 21215
+    server: 221.150.109.92
     type: ss
   - cipher: aes-256-cfb
     name: United States_None_ss_1111
@@ -108,14 +90,8 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Seocho_ss_1119
+    name: South Korea_Songpa-gu_ss_1120
     password: qwerREWQ@@
-    port: 50411
-    server: 210.217.18.69
-    type: ss
-  - cipher: aes-256-cfb
-    name: Vietnam_None_ss_1124
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.63
+    port: 21215
+    server: 221.150.109.92
     type: ss
