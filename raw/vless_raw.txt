@@ -1,5 +1,5 @@
 proxies:
-  - name: 节点12
+  - name: 节点11
     type: vless
     server: 2001:bc8:32d7:302::13
     uuid: 26c462ba-a90c-4814-9d7c-a629bc0bdb5c
@@ -19,28 +19,28 @@ proxies:
     port: 60011
     udp: true
     tls: true
-  - name: 节点16
+  - name: 节点15
     type: vless
     server: fan3.394615.xyz
     uuid: 8b66e552-e89d-4c4f-bb5a-e3d37bf151b8
     port: 34500
     udp: true
     tls: true
-  - name: 节点18
+  - name: 节点16
     type: vless
     server: 89.144.35.230
     uuid: 5cfc52bc-e701-4160-89df-930a0c040576
     port: 54582
     udp: true
     tls: true
-  - name: 节点19
+  - name: 节点17
     type: vless
-    server: 2001:bc8:32d7:14f::6
-    uuid: a1f699e4-d7b7-4cdc-8414-1105e08fe4c5
-    port: 60011
+    server: 2a14:7584:d097::a
+    uuid: 53d74aab-6471-4c1b-ace7-fac837d1bfbd
+    port: 11330
     udp: true
     tls: true
-  - name: 节点20
+  - name: 节点19
     type: vless
     server: 89.144.35.231
     uuid: 2460b5d1-0d74-427d-ad6c-bbe2aaab65cf
@@ -304,7 +304,35 @@ proxies:
     url: vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh7.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#None_vless_3
     protocol: vless
     originalUrl: vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh7.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#None_vless_3
-  - name: GR_speednode_0001
+  - name: CN_speednode_0001
+    server: yg2g.jiedian242.com
+    port: 29877
+    type: vless
+    uuid: 1a598715-d629-4d8c-910b-dbe5ebdc0b53
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: www.nvidia.com
+    reality-opts:
+      public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+    udp: true
+  - name: DE_speednode_0002
+    server: 31.25.88.229
+    port: 8081
+    type: vless
+    uuid: 00000000-0000-4000-8000-000000000000
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: etc.mesa.ip-ddns.com
+    network: ws
+    ws-opts:
+      path: /@Marisa_kristi
+      headers:
+        Host: etc.mesa.ip-ddns.com
+    udp: true
+  - name: GR_speednode_0006
     server: 185.234.57.207
     port: 443
     type: vless
@@ -318,241 +346,272 @@ proxies:
       public-key: Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ
       short-id: b5e0cd9ca194c0a5
     udp: true
-  - name: HK_speednode_0002
-    server: 149.104.30.91
+  - name: IR_speednode_0007
+    server: appleidcenteral.ir
+    port: 4005
+    type: vless
+    uuid: 8cf4d179-a921-49e5-934c-dcacd276c620
+    tls: false
+    skip-cert-verify: false
+    servername: appleidcenteral.ir
+    network: http
+    http-opts:
+      method: GET
+      path:
+        - /
+      headers:
+        Host:
+          - appleidcenteral.ir
+    udp: true
+  - name: JP_speednode_0010
+    server: 188.253.21.106
     port: 443
     type: vless
-    uuid: 75bc2f7a-0e6c-46ad-8639-283deaa701c3
+    uuid: 247a22e1-0795-4852-9bdd-a65ac1078034
+    flow: xtls-rprx-vision
     tls: true
-    skip-cert-verify: true
-    servername: new7370.h2333.ggff.net
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: new7370.h2333.ggff.net
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: yahoo.com
+    reality-opts:
+      public-key: 4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws
+      short-id: 73d3fec4
     udp: true
-  - name: JP_speednode_0003
-    server: 47.245.40.126
-    port: 33443
-    type: vless
-    uuid: 75bc2f7a-0e6c-46ad-8639-283deaa701c3
-    tls: true
-    skip-cert-verify: true
-    servername: new7370.h2333.ggff.net
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: new7370.h2333.ggff.net
-    udp: true
-  - name: JP_speednode_0004
-    server: 8.211.167.99
-    port: 443
-    type: vless
-    uuid: 75bc2f7a-0e6c-46ad-8639-283deaa701c3
-    tls: true
-    skip-cert-verify: true
-    servername: new7370.h2333.ggff.net
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: new7370.h2333.ggff.net
-    udp: true
-  - name: KR_speednode_0005
+  - name: KR_speednode_0012
     server: 121.170.249.21
     port: 12435
     type: vless
-    uuid: 75bc2f7a-0e6c-46ad-8639-283deaa701c3
+    uuid: f5837d40-b8ce-45ea-8b1a-dfda963cee9b
     tls: true
     skip-cert-verify: true
-    servername: new7370.h2333.ggff.net
+    servername: n151.h2333.ggff.net
     network: ws
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: new7370.h2333.ggff.net
+        Host: n151.h2333.ggff.net
     udp: true
-  - name: KR_speednode_0006
+  - name: KR_speednode_0013
     server: 211.106.184.129
     port: 11300
     type: vless
-    uuid: 75bc2f7a-0e6c-46ad-8639-283deaa701c3
+    uuid: f5837d40-b8ce-45ea-8b1a-dfda963cee9b
     tls: true
     skip-cert-verify: true
-    servername: new7370.h2333.ggff.net
+    servername: n151.h2333.ggff.net
     network: ws
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: new7370.h2333.ggff.net
+        Host: n151.h2333.ggff.net
     udp: true
-  - name: KR_speednode_0007
+  - name: KR_speednode_0014
     server: 175.197.237.36
     port: 12305
     type: vless
-    uuid: 75bc2f7a-0e6c-46ad-8639-283deaa701c3
+    uuid: f5837d40-b8ce-45ea-8b1a-dfda963cee9b
     tls: true
     skip-cert-verify: true
-    servername: new7370.h2333.ggff.net
+    servername: hhgy7370.2288888.xyz
     network: ws
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: new7370.h2333.ggff.net
+        Host: hhgy7370.2288888.xyz
     udp: true
-  - name: SG_speednode_0008
-    server: 8.223.63.150
-    port: 443
+  - name: KR_speednode_0015
+    server: 220.83.131.149
+    port: 11211
     type: vless
-    uuid: 75bc2f7a-0e6c-46ad-8639-283deaa701c3
+    uuid: f5837d40-b8ce-45ea-8b1a-dfda963cee9b
     tls: true
     skip-cert-verify: true
-    servername: new7370.h2333.ggff.net
+    servername: hhgy7370.2288888.xyz
     network: ws
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: new7370.h2333.ggff.net
+        Host: hhgy7370.2288888.xyz
     udp: true
-  - name: US_speednode_0009
-    server: 38.38.251.184
-    port: 443
+  - name: KR_speednode_0017
+    server: 221.162.183.106
+    port: 12173
     type: vless
-    uuid: 75bc2f7a-0e6c-46ad-8639-283deaa701c3
+    uuid: f5837d40-b8ce-45ea-8b1a-dfda963cee9b
     tls: true
     skip-cert-verify: true
-    servername: new7370.h2333.ggff.net
+    servername: n151.h2333.ggff.net
     network: ws
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: new7370.h2333.ggff.net
+        Host: n151.h2333.ggff.net
     udp: true
-  - name: US_speednode_0010
-    server: 154.21.89.25
-    port: 443
-    type: vless
-    uuid: 75bc2f7a-0e6c-46ad-8639-283deaa701c3
-    tls: true
-    skip-cert-verify: true
-    servername: new7370.h2333.ggff.net
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: new7370.h2333.ggff.net
-    udp: true
-  - name: US_speednode_0011
-    server: 154.26.188.178
+  - name: MD_speednode_0020
+    server: 83.166.236.201
     port: 8443
     type: vless
-    uuid: 75bc2f7a-0e6c-46ad-8639-283deaa701c3
+    uuid: 329bd550-a8f8-4157-b2df-dc4503097a27
+    flow: xtls-rprx-vision
     tls: true
-    skip-cert-verify: true
-    servername: new7370.h2333.ggff.net
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: new7370.h2333.ggff.net
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: m.vk.com
+    reality-opts:
+      public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc
+      short-id: 8f222b3475800821
     udp: true
-  - name: US_speednode_0012
-    server: 154.26.189.211
-    port: 443
-    type: vless
-    uuid: 75bc2f7a-0e6c-46ad-8639-283deaa701c3
-    tls: true
-    skip-cert-verify: true
-    servername: new7370.h2333.ggff.net
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: new7370.h2333.ggff.net
-    udp: true
-  - name: US_speednode_0013
-    server: 185.201.226.135
-    port: 443
-    type: vless
-    uuid: 75bc2f7a-0e6c-46ad-8639-283deaa701c3
-    tls: true
-    skip-cert-verify: true
-    servername: new7370.h2333.ggff.net
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: new7370.h2333.ggff.net
-    udp: true
-  - name: US_speednode_0014
-    server: 47.79.34.91
-    port: 37585
-    type: vless
-    uuid: 75bc2f7a-0e6c-46ad-8639-283deaa701c3
-    tls: true
-    skip-cert-verify: true
-    servername: new7370.h2333.ggff.net
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: new7370.h2333.ggff.net
-    udp: true
-  - name: US_speednode_0015
-    server: 47.79.94.192
-    port: 443
-    type: vless
-    uuid: 75bc2f7a-0e6c-46ad-8639-283deaa701c3
-    tls: true
-    skip-cert-verify: true
-    servername: new7370.h2333.ggff.net
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: new7370.h2333.ggff.net
-    udp: true
-  - name: US_speednode_0016
-    server: 47.79.94.145
-    port: 443
-    type: vless
-    uuid: 75bc2f7a-0e6c-46ad-8639-283deaa701c3
-    tls: true
-    skip-cert-verify: true
-    servername: new7370.h2333.ggff.net
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: new7370.h2333.ggff.net
-    udp: true
-  - name: US_speednode_0017
+  - name: US_speednode_0022
     server: 38.55.198.52
     port: 443
     type: vless
-    uuid: 75bc2f7a-0e6c-46ad-8639-283deaa701c3
+    uuid: f5837d40-b8ce-45ea-8b1a-dfda963cee9b
     tls: true
     skip-cert-verify: true
-    servername: new7370.h2333.ggff.net
+    servername: hhgy7370.2288888.xyz
     network: ws
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: new7370.h2333.ggff.net
+        Host: hhgy7370.2288888.xyz
     udp: true
-  - name: US_speednode_0018
-    server: 38.207.171.71
-    port: 51434
+  - name: US_speednode_0023
+    server: 154.26.189.211
+    port: 443
     type: vless
-    uuid: 75bc2f7a-0e6c-46ad-8639-283deaa701c3
+    uuid: f5837d40-b8ce-45ea-8b1a-dfda963cee9b
     tls: true
     skip-cert-verify: true
-    servername: new7370.h2333.ggff.net
+    servername: hhgy7370.2288888.xyz
     network: ws
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: new7370.h2333.ggff.net
+        Host: hhgy7370.2288888.xyz
+    udp: true
+  - name: US_speednode_0024
+    server: 38.55.198.158
+    port: 443
+    type: vless
+    uuid: f5837d40-b8ce-45ea-8b1a-dfda963cee9b
+    tls: true
+    skip-cert-verify: true
+    servername: hhgy7370.2288888.xyz
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: hhgy7370.2288888.xyz
+    udp: true
+  - name: US_speednode_0025
+    server: cloudflare.182682.xyz
+    port: 443
+    type: vless
+    uuid: 3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97
+    tls: true
+    skip-cert-verify: false
+    servername: l.ayovo.netlib.re
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: l.ayovo.netlib.re
+    udp: true
+  - name: US_speednode_0026
+    server: 47.79.88.131
+    port: 1030
+    type: vless
+    uuid: f5837d40-b8ce-45ea-8b1a-dfda963cee9b
+    tls: true
+    skip-cert-verify: true
+    servername: n151.h2333.ggff.net
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: n151.h2333.ggff.net
+    udp: true
+  - name: US_speednode_0027
+    server: 159.223.205.136
+    port: 42356
+    type: vless
+    uuid: 3c28c3cf-85ef-4a8a-a475-3a8585d563fe
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: dash.cloudflare.com
+    reality-opts:
+      public-key: nY642oPT9bs-EddohAqLcif8a7qaxAUwxeDD85eXNjw
+    udp: true
+  - name: US_speednode_0028
+    server: 47.79.94.145
+    port: 443
+    type: vless
+    uuid: f5837d40-b8ce-45ea-8b1a-dfda963cee9b
+    tls: true
+    skip-cert-verify: true
+    servername: hhgy7370.2288888.xyz
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: hhgy7370.2288888.xyz
+    udp: true
+  - name: US_speednode_0029
+    server: 47.79.94.192
+    port: 443
+    type: vless
+    uuid: f5837d40-b8ce-45ea-8b1a-dfda963cee9b
+    tls: true
+    skip-cert-verify: true
+    servername: n151.h2333.ggff.net
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: n151.h2333.ggff.net
+    udp: true
+  - name: US_speednode_0030
+    server: 162.159.16.63
+    port: 443
+    type: vless
+    uuid: 3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: l.ayovo.netlib.re
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: l.ayovo.netlib.re
+    udp: true
+  - name: US_speednode_0032
+    server: 159.89.87.21
+    port: 28190
+    type: vless
+    uuid: 14c80e0e-f7ce-4991-94fc-99a1db4a9b1e
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: aws.amazon.com
+    reality-opts:
+      public-key: ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno
+    udp: true
+  - name: US_speednode_0033
+    server: unamecf.xn--ghqu5fm27b67w.com
+    port: 443
+    type: vless
+    uuid: e343471a-aad3-40da-9dea-72cc8c7dce5f
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: ujp1.xn--ghqu5fm27b67w.com
+    network: ws
+    ws-opts:
+      path: /pq/jp1
+      headers:
+        Host: ujp1.xn--ghqu5fm27b67w.com
     udp: true

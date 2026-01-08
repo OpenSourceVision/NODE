@@ -23,27 +23,27 @@ proxies:
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
-  - name: Japan_Tokyo_trojan_107
-    network: tcp
-    password: BxceQaOe
-    port: 2595
-    server: 13.114.175.199
-    skip-cert-verify: true
-    sni: t.me%252Fripaojiedian
-    type: trojan
   - name: Japan_Tokyo_trojan_108
     network: tcp
-    password: 381f2e86233720eacda26d50e9aa26da
-    port: 4006
-    server: 160.16.196.59
-    skip-cert-verify: false
-    sni: www.nintendogames.net
+    password: BxceQaOe
+    port: 3194
+    server: 3.112.45.28
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
     type: trojan
   - name: Japan_Tokyo_trojan_109
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
+    port: 4006
+    server: 160.16.144.208
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_1010
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
     port: 1933
-    server: 160.16.196.59
+    server: 160.16.144.208
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
@@ -51,7 +51,7 @@ proxies:
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
     port: 3901
-    server: 160.16.196.59
+    server: 160.16.116.227
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
@@ -59,15 +59,15 @@ proxies:
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
     port: 3901
-    server: 160.16.63.16
+    server: 160.16.144.208
     skip-cert-verify: true
     sni: www.nintendogames.net
     type: trojan
-  - name: Poland_None_trojan_1013
+  - name: Hong Kong_None_trojan_1013
     network: tcp
     password: BxceQaOe
-    port: 804
-    server: 95.40.73.131
+    port: 2673
+    server: 43.199.160.78
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
     type: trojan
@@ -75,7 +75,7 @@ proxies:
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
     port: 1281
-    server: 160.16.196.59
+    server: 160.16.144.208
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
@@ -83,15 +83,15 @@ proxies:
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
     port: 1281
-    server: 160.16.63.16
+    server: 160.16.116.227
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
   - name: Hong Kong_None_trojan_1016
     network: tcp
     password: BxceQaOe
-    port: 2173
-    server: 16.163.98.169
+    port: 3127
+    server: 43.199.160.78
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
@@ -119,27 +119,27 @@ proxies:
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
-  - name: Japan_Tokyo_trojan_1117
-    network: tcp
-    password: BxceQaOe
-    port: 2595
-    server: 13.114.175.199
-    skip-cert-verify: true
-    sni: t.me%252Fripaojiedian
-    type: trojan
   - name: Japan_Tokyo_trojan_1118
     network: tcp
-    password: 381f2e86233720eacda26d50e9aa26da
-    port: 4006
-    server: 160.16.196.59
-    skip-cert-verify: false
-    sni: www.nintendogames.net
+    password: BxceQaOe
+    port: 3194
+    server: 3.112.45.28
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
     type: trojan
   - name: Japan_Tokyo_trojan_1119
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
+    port: 4006
+    server: 160.16.144.208
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_1120
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
     port: 1933
-    server: 160.16.196.59
+    server: 160.16.144.208
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
@@ -147,7 +147,7 @@ proxies:
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
     port: 3901
-    server: 160.16.196.59
+    server: 160.16.116.227
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
@@ -155,15 +155,15 @@ proxies:
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
     port: 3901
-    server: 160.16.63.16
+    server: 160.16.144.208
     skip-cert-verify: true
     sni: www.nintendogames.net
     type: trojan
-  - name: Poland_None_trojan_1123
+  - name: Hong Kong_None_trojan_1123
     network: tcp
     password: BxceQaOe
-    port: 804
-    server: 95.40.73.131
+    port: 2673
+    server: 43.199.160.78
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
     type: trojan
@@ -171,7 +171,7 @@ proxies:
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
     port: 1281
-    server: 160.16.196.59
+    server: 160.16.144.208
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
@@ -179,15 +179,15 @@ proxies:
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
     port: 1281
-    server: 160.16.63.16
+    server: 160.16.116.227
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
   - name: Hong Kong_None_trojan_1126
     network: tcp
     password: BxceQaOe
-    port: 2173
-    server: 16.163.98.169
+    port: 3127
+    server: 43.199.160.78
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
@@ -215,27 +215,27 @@ proxies:
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
-  - name: Japan_Tokyo_trojan_107
-    network: tcp
-    password: BxceQaOe
-    port: 2595
-    server: 13.114.175.199
-    skip-cert-verify: true
-    sni: t.me%252Fripaojiedian
-    type: trojan
   - name: Japan_Tokyo_trojan_108
     network: tcp
-    password: 381f2e86233720eacda26d50e9aa26da
-    port: 4006
-    server: 160.16.196.59
-    skip-cert-verify: false
-    sni: www.nintendogames.net
+    password: BxceQaOe
+    port: 3194
+    server: 3.112.45.28
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
     type: trojan
   - name: Japan_Tokyo_trojan_109
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
+    port: 4006
+    server: 160.16.144.208
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_1010
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
     port: 1933
-    server: 160.16.196.59
+    server: 160.16.144.208
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
@@ -243,7 +243,7 @@ proxies:
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
     port: 3901
-    server: 160.16.196.59
+    server: 160.16.116.227
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
@@ -251,15 +251,15 @@ proxies:
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
     port: 3901
-    server: 160.16.63.16
+    server: 160.16.144.208
     skip-cert-verify: true
     sni: www.nintendogames.net
     type: trojan
-  - name: Poland_None_trojan_1013
+  - name: Hong Kong_None_trojan_1013
     network: tcp
     password: BxceQaOe
-    port: 804
-    server: 95.40.73.131
+    port: 2673
+    server: 43.199.160.78
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
     type: trojan
@@ -267,7 +267,7 @@ proxies:
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
     port: 1281
-    server: 160.16.196.59
+    server: 160.16.144.208
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
@@ -275,15 +275,15 @@ proxies:
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
     port: 1281
-    server: 160.16.63.16
+    server: 160.16.116.227
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
   - name: Hong Kong_None_trojan_1016
     network: tcp
     password: BxceQaOe
-    port: 2173
-    server: 16.163.98.169
+    port: 3127
+    server: 43.199.160.78
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
@@ -311,27 +311,27 @@ proxies:
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
-  - name: Japan_Tokyo_trojan_1117
-    network: tcp
-    password: BxceQaOe
-    port: 2595
-    server: 13.114.175.199
-    skip-cert-verify: true
-    sni: t.me%252Fripaojiedian
-    type: trojan
   - name: Japan_Tokyo_trojan_1118
     network: tcp
-    password: 381f2e86233720eacda26d50e9aa26da
-    port: 4006
-    server: 160.16.196.59
-    skip-cert-verify: false
-    sni: www.nintendogames.net
+    password: BxceQaOe
+    port: 3194
+    server: 3.112.45.28
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
     type: trojan
   - name: Japan_Tokyo_trojan_1119
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
+    port: 4006
+    server: 160.16.144.208
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Japan_Tokyo_trojan_1120
+    network: tcp
+    password: 381f2e86233720eacda26d50e9aa26da
     port: 1933
-    server: 160.16.196.59
+    server: 160.16.144.208
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
@@ -339,7 +339,7 @@ proxies:
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
     port: 3901
-    server: 160.16.196.59
+    server: 160.16.116.227
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
@@ -347,15 +347,15 @@ proxies:
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
     port: 3901
-    server: 160.16.63.16
+    server: 160.16.144.208
     skip-cert-verify: true
     sni: www.nintendogames.net
     type: trojan
-  - name: Poland_None_trojan_1123
+  - name: Hong Kong_None_trojan_1123
     network: tcp
     password: BxceQaOe
-    port: 804
-    server: 95.40.73.131
+    port: 2673
+    server: 43.199.160.78
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
     type: trojan
@@ -363,7 +363,7 @@ proxies:
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
     port: 1281
-    server: 160.16.196.59
+    server: 160.16.144.208
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
@@ -371,15 +371,15 @@ proxies:
     network: tcp
     password: 381f2e86233720eacda26d50e9aa26da
     port: 1281
-    server: 160.16.63.16
+    server: 160.16.116.227
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
   - name: Hong Kong_None_trojan_1126
     network: tcp
     password: BxceQaOe
-    port: 2173
-    server: 16.163.98.169
+    port: 3127
+    server: 43.199.160.78
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan

@@ -1,9 +1,8 @@
-name: 🇹🇼 台湾|@stairnode
-password: test.+
-port: 30443
-server: cmhkb.ssv.vc
-skip-cert-verify: false
-tls: true
+name: TW_speednode_0021
+server: twmoon1-cdn-route.couldflare-cdn.com
+port: 1443
 type: http
-username: test
-sni: cmhkb.ssv.vc
+username: mrwdfNTD8M79LCukCieldrqZWqs=
+password: exaxgqkKkd0TAMrCxeonWg==
+tls: true
+udp: true

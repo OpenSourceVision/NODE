@@ -9,7 +9,7 @@ proxies:
     skip-cert-verify: true
     up: 100 Mbps
     down: 100 Mbps
-  - name: 节点8
+  - name: 节点7
     type: hysteria2
     server: 157.254.223.43
     port: "27921"
@@ -21,7 +21,7 @@ proxies:
     down: 100 Mbps
     ports: 28000-29000
     hop-interval: "30"
-  - name: 节点9
+  - name: 节点8
     type: hysteria2
     server: 2001:bc8:32d7:302::11
     port: "20088"
@@ -31,20 +31,20 @@ proxies:
     skip-cert-verify: true
     up: 100 Mbps
     down: 100 Mbps
-  - name: 节点10
+  - name: 节点9
     type: hysteria2
-    server: 62.210.124.146
-    port: "22000"
+    server: 51.158.194.63
+    port: "32952"
     password: dongtaiwang.com
     fast-open: true
     sni: www.microsoft.com
     skip-cert-verify: true
     up: 100 Mbps
     down: 100 Mbps
-  - name: 节点11
+  - name: 节点10
     type: hysteria2
-    server: 51.158.194.63
-    port: "32952"
+    server: 62.210.124.146
+    port: "22000"
     password: dongtaiwang.com
     fast-open: true
     sni: www.microsoft.com
