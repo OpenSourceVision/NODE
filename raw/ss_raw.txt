@@ -5,11 +5,17 @@ proxies:
     port: 443
     server: 63.180.254.10
     type: ss
+  - cipher: aes-256-cfb
+    name: South Korea_None_ss_1010
+    password: qwerREWQ@@
+    port: 5206
+    server: 27.255.82.134
+    type: ss
   - cipher: chacha20-ietf-poly1305
-    name: China_None_ss_107
-    password: sxnCPKb70DGRo62-goXFVHrjzF-5oMbD
-    port: 33007
-    server: 103.109.23.165
+    name: Malaysia_Kuala Lumpur_ss_1017
+    password: 46d46fd902d485e8
+    port: 11201
+    server: 202.122.145.125
     type: ss
   - cipher: aes-256-cfb
     name: United States_None_ss_1111
@@ -17,11 +23,17 @@ proxies:
     port: 443
     server: 63.180.254.10
     type: ss
+  - cipher: aes-256-cfb
+    name: South Korea_None_ss_1120
+    password: qwerREWQ@@
+    port: 5206
+    server: 27.255.82.134
+    type: ss
   - cipher: chacha20-ietf-poly1305
-    name: China_None_ss_1117
-    password: sxnCPKb70DGRo62-goXFVHrjzF-5oMbD
-    port: 33007
-    server: 103.109.23.165
+    name: Malaysia_Kuala Lumpur_ss_1127
+    password: 46d46fd902d485e8
+    port: 11201
+    server: 202.122.145.125
     type: ss
   - name: United States_ss_61
     type: ss
@@ -77,11 +89,17 @@ proxies:
     port: 443
     server: 63.180.254.10
     type: ss
+  - cipher: aes-256-cfb
+    name: South Korea_None_ss_1010
+    password: qwerREWQ@@
+    port: 5206
+    server: 27.255.82.134
+    type: ss
   - cipher: chacha20-ietf-poly1305
-    name: China_None_ss_107
-    password: sxnCPKb70DGRo62-goXFVHrjzF-5oMbD
-    port: 33007
-    server: 103.109.23.165
+    name: Malaysia_Kuala Lumpur_ss_1017
+    password: 46d46fd902d485e8
+    port: 11201
+    server: 202.122.145.125
     type: ss
   - cipher: aes-256-cfb
     name: United States_None_ss_1111
@@ -89,79 +107,15 @@ proxies:
     port: 443
     server: 63.180.254.10
     type: ss
+  - cipher: aes-256-cfb
+    name: South Korea_None_ss_1120
+    password: qwerREWQ@@
+    port: 5206
+    server: 27.255.82.134
+    type: ss
   - cipher: chacha20-ietf-poly1305
-    name: China_None_ss_1117
-    password: sxnCPKb70DGRo62-goXFVHrjzF-5oMbD
-    port: 33007
-    server: 103.109.23.165
-    type: ss
-  - name: FR_speednode_0003
-    server: 91.239.208.204
-    port: 17477
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: hzxQofNAcTk2xo2drzxpIE
-    udp: true
-  - name: GB_speednode_0004
-    server: 82.38.31.199
-    port: 8080
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: k1dBOmOB4oqi7Ump37a1bQ
-    udp: true
-  - name: GB_speednode_0005
-    server: 149.102.144.88
-    port: 26602
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: 91d0b4a53447dcc8
-    udp: true
-  - name: JO_speednode_0008
-    server: 91.106.109.73
+    name: Malaysia_Kuala Lumpur_ss_1127
+    password: 46d46fd902d485e8
     port: 11201
+    server: 202.122.145.125
     type: ss
-    cipher: chacha20-ietf-poly1305
-    password: be5ee3c62f0aae96
-    udp: true
-  - name: JP_speednode_0009
-    server: 178.130.46.148
-    port: 47345
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: nGSRvZ5IsYcRNDpDtNVrkV
-    udp: true
-  - name: KR_speednode_0011
-    server: 125.141.31.100
-    port: 18590
-    type: ss
-    cipher: aes-256-cfb
-    password: qwerREWQ@@
-    udp: true
-  - name: KR_speednode_0016
-    server: 121.170.203.147
-    port: 61417
-    type: ss
-    cipher: aes-256-cfb
-    password: qwerREWQ@@
-    udp: true
-  - name: KR_speednode_0018
-    server: 211.201.169.70
-    port: 19307
-    type: ss
-    cipher: aes-256-cfb
-    password: qwerREWQ@@
-    udp: true
-  - name: LU_speednode_0019
-    server: 109.61.39.150
-    port: 11201
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: 01dc0d7cbb650bc3
-    udp: true
-  - name: US_speednode_0031
-    server: 209.126.8.72
-    port: 10011
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: e8a01a3fc07cde14
-    udp: true

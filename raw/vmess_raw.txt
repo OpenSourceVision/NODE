@@ -24,7 +24,7 @@ proxies:
     ws-opts:
       path: ""
       headers: {}
-  - name: 节点18
+  - name: 节点14
     type: vmess
     server: 104.21.238.35
     uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
@@ -39,25 +39,25 @@ proxies:
         Host: ip19.9447609.xyz
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_102
+    name: Hong Kong_Kowloon_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
+  - alterId: 0
     cipher: auto
-    name: Hong Kong_Central_vmess_103
-    port: 30809
-    server: v9.hdacd.com
+    name: China_None_vmess_103
+    port: 19226
+    server: jy-hk.kunlun07dns.com
     skip-cert-verify: false
     tls: false
     type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    uuid: 48d361a8-e9a1-3c28-9b51-47775d62077e
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1017
+    name: Hong Kong_Kowloon_vmess_1018
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -65,16 +65,16 @@ proxies:
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
+  - alterId: 0
     cipher: auto
-    name: Hong Kong_Central_vmess_1018
+    name: China_None_vmess_1019
     network: tcp
-    port: "30809"
-    server: v9.hdacd.com
+    port: "19226"
+    server: jy-hk.kunlun07dns.com
     servername: ""
     tls: false
     type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    uuid: 48d361a8-e9a1-3c28-9b51-47775d62077e
   - alterId: 0
     cipher: auto
     name: Unknown_vmess_111
@@ -167,25 +167,25 @@ proxies:
     uuid: 88888888-8888-8888-8888-888888888888
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1112
+    name: Hong Kong_Kowloon_vmess_1112
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
+  - alterId: 0
     cipher: auto
-    name: Hong Kong_Central_vmess_1113
-    port: 30809
-    server: v9.hdacd.com
+    name: China_None_vmess_1113
+    port: 19226
+    server: jy-hk.kunlun07dns.com
     skip-cert-verify: false
     tls: false
     type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    uuid: 48d361a8-e9a1-3c28-9b51-47775d62077e
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1127
+    name: Hong Kong_Kowloon_vmess_1128
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -193,37 +193,37 @@ proxies:
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
+  - alterId: 0
     cipher: auto
-    name: Hong Kong_Central_vmess_1128
+    name: China_None_vmess_1129
     network: tcp
-    port: "30809"
-    server: v9.hdacd.com
+    port: "19226"
+    server: jy-hk.kunlun07dns.com
     servername: ""
     tls: false
     type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    uuid: 48d361a8-e9a1-3c28-9b51-47775d62077e
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_102
+    name: Hong Kong_Kowloon_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
+  - alterId: 0
     cipher: auto
-    name: Hong Kong_Central_vmess_103
-    port: 30809
-    server: v9.hdacd.com
+    name: China_None_vmess_103
+    port: 19226
+    server: jy-hk.kunlun07dns.com
     skip-cert-verify: false
     tls: false
     type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    uuid: 48d361a8-e9a1-3c28-9b51-47775d62077e
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1017
+    name: Hong Kong_Kowloon_vmess_1018
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -231,16 +231,16 @@ proxies:
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
+  - alterId: 0
     cipher: auto
-    name: Hong Kong_Central_vmess_1018
+    name: China_None_vmess_1019
     network: tcp
-    port: "30809"
-    server: v9.hdacd.com
+    port: "19226"
+    server: jy-hk.kunlun07dns.com
     servername: ""
     tls: false
     type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    uuid: 48d361a8-e9a1-3c28-9b51-47775d62077e
   - alterId: 0
     cipher: auto
     name: Unknown_vmess_111
@@ -333,25 +333,25 @@ proxies:
     uuid: 88888888-8888-8888-8888-888888888888
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1112
+    name: Hong Kong_Kowloon_vmess_1112
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
+  - alterId: 0
     cipher: auto
-    name: Hong Kong_Central_vmess_1113
-    port: 30809
-    server: v9.hdacd.com
+    name: China_None_vmess_1113
+    port: 19226
+    server: jy-hk.kunlun07dns.com
     skip-cert-verify: false
     tls: false
     type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    uuid: 48d361a8-e9a1-3c28-9b51-47775d62077e
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1127
+    name: Hong Kong_Kowloon_vmess_1128
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -359,13 +359,28 @@ proxies:
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
+  - alterId: 0
     cipher: auto
-    name: Hong Kong_Central_vmess_1128
+    name: China_None_vmess_1129
     network: tcp
-    port: "30809"
-    server: v9.hdacd.com
+    port: "19226"
+    server: jy-hk.kunlun07dns.com
     servername: ""
     tls: false
     type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    uuid: 48d361a8-e9a1-3c28-9b51-47775d62077e
+  - name: HK_speednode_0004
+    server: 156.245.232.15
+    port: 53947
+    type: vmess
+    uuid: 8cb243df-fa82-472c-be25-b00acd4fcd3f
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: false
+    network: http
+    http-opts:
+      method: GET
+      path:
+        - /使用此节点需要先沐浴焚香然后给群主磕800个响头(ಡωಡ)
+    udp: true

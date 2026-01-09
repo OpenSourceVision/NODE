@@ -1,5 +1,5 @@
 proxies:
-  - name: TW_speednode_0021
+  - name: TW_speednode_0013
     server: twmoon1-cdn-route.couldflare-cdn.com
     port: 1443
     type: http
