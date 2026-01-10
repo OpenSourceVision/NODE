@@ -1,4 +1,4 @@
-name: TW_speednode_0013
+name: TW_speednode_0025
 server: twmoon1-cdn-route.couldflare-cdn.com
 port: 1443
 type: http

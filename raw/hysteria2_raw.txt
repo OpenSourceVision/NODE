@@ -1,5 +1,5 @@
 proxies:
-  - name: 节点5
+  - name: 节点6
     type: hysteria2
     server: 2001:bc8:32d7:17b::8
     port: "22000"
@@ -43,11 +43,11 @@ proxies:
     down: 100 Mbps
   - name: 节点10
     type: hysteria2
-    server: 51.158.194.63
-    port: "32952"
+    server: 2a14:7584:d04a::a
+    port: "50022"
     password: dongtaiwang.com
     fast-open: true
-    sni: www.microsoft.com
+    sni: apple.com
     skip-cert-verify: true
     up: 100 Mbps
     down: 100 Mbps
