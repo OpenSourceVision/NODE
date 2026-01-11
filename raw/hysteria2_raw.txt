@@ -1,5 +1,5 @@
 proxies:
-  - name: 节点6
+  - name: 节点4
     type: hysteria2
     server: 2001:bc8:32d7:17b::8
     port: "22000"

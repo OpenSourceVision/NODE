@@ -39,7 +39,7 @@ proxies:
       headers: {}
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Mid Levels_vmess_102
+    name: Hong Kong_Tuen Mun_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -48,7 +48,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Mid Levels_vmess_1017
+    name: Hong Kong_Tuen Mun_vmess_1016
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -314,7 +314,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Mid Levels_vmess_11121
+    name: Hong Kong_Tuen Mun_vmess_11121
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -323,7 +323,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Mid Levels_vmess_11135
+    name: Hong Kong_Tuen Mun_vmess_11134
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -333,7 +333,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Mid Levels_vmess_102
+    name: Hong Kong_Tuen Mun_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -342,7 +342,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Mid Levels_vmess_1017
+    name: Hong Kong_Tuen Mun_vmess_1016
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -608,7 +608,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Mid Levels_vmess_11121
+    name: Hong Kong_Tuen Mun_vmess_11121
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -617,7 +617,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Mid Levels_vmess_11135
+    name: Hong Kong_Tuen Mun_vmess_11134
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -625,25 +625,18 @@ proxies:
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - name: DE_speednode_0004
-    server: frankfurt02.zgjok.com
-    port: 443
+  - name: KR_speednode_0012
+    server: 152.70.92.69
+    port: 80
     type: vmess
-    uuid: 90d50c62-13b4-4f9c-b5d8-0168d30b423a
+    uuid: bb9c3993-a4b9-4dad-aeb9-ac86371ae68b
     alterId: 0
     cipher: auto
-    tls: true
+    tls: false
     skip-cert-verify: true
-    servername: frankfurt02.zgjok.com
-    network: ws
-    udp: true
-  - name: US_speednode_0026
-    server: 216.167.26.220
-    port: 34128
-    type: vmess
-    uuid: 4145ec2a-bc61-4d72-bfd5-f9ffbdf66c28
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: false
+    network: http
+    http-opts:
+      method: GET
+      path:
+        - /
     udp: true

@@ -5,23 +5,17 @@ proxies:
     port: 443
     server: 63.180.254.10
     type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: Hong Kong_Hong Kong_ss_108
-    password: e611027a-7b55-4f64-b8df-258f2d7ef95c
-    port: 18005
-    server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.358.onl
+  - cipher: aes-256-cfb
+    name: South Korea_Seongbuk-gu_ss_108
+    password: qwerREWQ@@
+    port: 28860
+    server: 168.126.234.233
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_None_ss_109
-    password: qwerREWQ@@
-    port: 3733
-    server: 27.255.82.135
-    type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: Hong Kong_Hong Kong_ss_1013
-    password: e611027a-7b55-4f64-b8df-258f2d7ef95c
-    port: 18017
-    server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.358.onl
+    name: Vietnam_None_ss_1015
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.17
     type: ss
   - cipher: aes-256-cfb
     name: United States_None_ss_11120
@@ -29,23 +23,17 @@ proxies:
     port: 443
     server: 63.180.254.10
     type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: Hong Kong_Hong Kong_ss_11126
-    password: e611027a-7b55-4f64-b8df-258f2d7ef95c
-    port: 18005
-    server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.358.onl
+  - cipher: aes-256-cfb
+    name: South Korea_Seongbuk-gu_ss_11126
+    password: qwerREWQ@@
+    port: 28860
+    server: 168.126.234.233
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_None_ss_11127
-    password: qwerREWQ@@
-    port: 3733
-    server: 27.255.82.135
-    type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: Hong Kong_Hong Kong_ss_11131
-    password: e611027a-7b55-4f64-b8df-258f2d7ef95c
-    port: 18017
-    server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.358.onl
+    name: Vietnam_None_ss_11133
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.17
     type: ss
   - name: United States_ss_61
     type: ss
@@ -101,23 +89,17 @@ proxies:
     port: 443
     server: 63.180.254.10
     type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: Hong Kong_Hong Kong_ss_108
-    password: e611027a-7b55-4f64-b8df-258f2d7ef95c
-    port: 18005
-    server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.358.onl
+  - cipher: aes-256-cfb
+    name: South Korea_Seongbuk-gu_ss_108
+    password: qwerREWQ@@
+    port: 28860
+    server: 168.126.234.233
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_None_ss_109
-    password: qwerREWQ@@
-    port: 3733
-    server: 27.255.82.135
-    type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: Hong Kong_Hong Kong_ss_1013
-    password: e611027a-7b55-4f64-b8df-258f2d7ef95c
-    port: 18017
-    server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.358.onl
+    name: Vietnam_None_ss_1015
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.17
     type: ss
   - cipher: aes-256-cfb
     name: United States_None_ss_11120
@@ -125,63 +107,15 @@ proxies:
     port: 443
     server: 63.180.254.10
     type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: Hong Kong_Hong Kong_ss_11126
-    password: e611027a-7b55-4f64-b8df-258f2d7ef95c
-    port: 18005
-    server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.358.onl
+  - cipher: aes-256-cfb
+    name: South Korea_Seongbuk-gu_ss_11126
+    password: qwerREWQ@@
+    port: 28860
+    server: 168.126.234.233
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_None_ss_11127
-    password: qwerREWQ@@
-    port: 3733
-    server: 27.255.82.135
+    name: Vietnam_None_ss_11133
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.17
     type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: Hong Kong_Hong Kong_ss_11131
-    password: e611027a-7b55-4f64-b8df-258f2d7ef95c
-    port: 18017
-    server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.358.onl
-    type: ss
-  - name: AM_speednode_0001
-    server: 85.90.207.104
-    port: 18790
-    type: ss
-    cipher: rc4-md5
-    password: 6c325435b2176c2d
-    udp: true
-  - name: AM_speednode_0002
-    server: 85.90.207.104
-    port: 18794
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: e716d7bbae4bdd14
-    udp: true
-  - name: LT_speednode_0011
-    server: 45.87.175.183
-    port: 8080
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: cvII85TrW6n0OGyfpHVS1u
-    udp: true
-  - name: LU_speednode_0012
-    server: 109.61.39.150
-    port: 11201
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: 01dc0d7cbb650bc3
-    udp: true
-  - name: RU_speednode_0016
-    server: 195.133.5.38
-    port: 1012
-    type: ss
-    cipher: aes-256-gcm
-    password: 7ae4e68cf77f6089
-    udp: true
-  - name: RU_speednode_0017
-    server: 194.87.68.7
-    port: 20219
-    type: ss
-    cipher: aes-256-gcm
-    password: 83acf69edb4e5453
-    udp: true
