@@ -6,34 +6,34 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Seongbuk-gu_ss_108
+    name: South Korea_Seongbuk-gu_ss_1015
     password: qwerREWQ@@
-    port: 28860
-    server: 168.126.234.233
+    port: 51978
+    server: 168.126.234.247
     type: ss
   - cipher: aes-256-cfb
-    name: Vietnam_None_ss_1015
+    name: Vietnam_None_ss_1016
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.154.17
+    server: 103.186.155.119
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_11120
+    name: United States_None_ss_11158
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Seongbuk-gu_ss_11126
+    name: South Korea_Seongbuk-gu_ss_11171
     password: qwerREWQ@@
-    port: 28860
-    server: 168.126.234.233
+    port: 51978
+    server: 168.126.234.247
     type: ss
   - cipher: aes-256-cfb
-    name: Vietnam_None_ss_11133
+    name: Vietnam_None_ss_11172
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.154.17
+    server: 103.186.155.119
     type: ss
   - name: United States_ss_61
     type: ss
@@ -90,32 +90,32 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Seongbuk-gu_ss_108
+    name: South Korea_Seongbuk-gu_ss_1015
     password: qwerREWQ@@
-    port: 28860
-    server: 168.126.234.233
+    port: 51978
+    server: 168.126.234.247
     type: ss
   - cipher: aes-256-cfb
-    name: Vietnam_None_ss_1015
+    name: Vietnam_None_ss_1016
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.154.17
+    server: 103.186.155.119
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_11120
+    name: United States_None_ss_11158
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Seongbuk-gu_ss_11126
+    name: South Korea_Seongbuk-gu_ss_11171
     password: qwerREWQ@@
-    port: 28860
-    server: 168.126.234.233
+    port: 51978
+    server: 168.126.234.247
     type: ss
   - cipher: aes-256-cfb
-    name: Vietnam_None_ss_11133
+    name: Vietnam_None_ss_11172
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.154.17
+    server: 103.186.155.119
     type: ss
