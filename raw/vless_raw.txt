@@ -1,5 +1,5 @@
 proxies:
-  - name: 节点12
+  - name: 节点11
     type: vless
     server: 2001:bc8:32d7:302::13
     uuid: 26c462ba-a90c-4814-9d7c-a629bc0bdb5c
@@ -26,21 +26,21 @@ proxies:
     port: 34500
     udp: true
     tls: true
-  - name: 节点18
+  - name: 节点17
     type: vless
     server: 89.144.35.230
     uuid: 5cfc52bc-e701-4160-89df-930a0c040576
     port: 54582
     udp: true
     tls: true
-  - name: 节点19
+  - name: 节点18
     type: vless
     server: 2a14:7584:d097::a
     uuid: 53d74aab-6471-4c1b-ace7-fac837d1bfbd
     port: 11330
     udp: true
     tls: true
-  - name: 节点20
+  - name: 节点19
     type: vless
     server: 89.144.35.231
     uuid: 2460b5d1-0d74-427d-ad6c-bbe2aaab65cf
@@ -304,119 +304,118 @@ proxies:
     url: vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh7.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#None_vless_3
     protocol: vless
     originalUrl: vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh7.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#None_vless_3
-  - name: CY_speednode_0001
-    server: 45.12.143.84
-    port: 8443
+  - name: GB_speednode_0001
+    server: 25.129.197.138
+    port: 2053
     type: vless
-    uuid: 309fa273-6579-4cb2-9143-7cad50401eba
-    flow: xtls-rprx-vision
+    uuid: 8a07740f-b932-4372-a3a2-ed91f184cd33
     tls: true
     skip-cert-verify: false
-    client-fingerprint: chrome
-    servername: www.cloudflare.com
-    reality-opts:
-      public-key: gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY
-      short-id: 7cad5040
+    servername: KhAmeneI.DPdNs.OrG
+    network: ws
+    ws-opts:
+      path: /eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560
+      headers:
+        Host: khamenei.dpdns.org
     udp: true
-  - name: FI_speednode_0002
-    server: 138.249.117.30
-    port: 4443
+  - name: GB_speednode_0002
+    server: 25.129.197.138
+    port: 2053
     type: vless
-    uuid: d5d5b641-dd56-4f39-9754-8d3c45cc2c5e
-    flow: xtls-rprx-vision
+    uuid: 8a07740f-b932-4372-a3a2-ed91f184cd33
     tls: true
     skip-cert-verify: false
-    client-fingerprint: chrome
-    servername: github.com
-    reality-opts:
-      public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE
-      short-id: aa7e96542880027a
+    servername: KhAmeneI.DPdNs.OrG
+    network: ws
+    ws-opts:
+      path: /eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560
+      headers:
+        Host: KhAmeneI.DPdNs.OrG
+    udp: true
+  - name: GB_speednode_0003
+    server: 25.129.197.138
+    port: 2053
+    type: vless
+    uuid: 8a07740f-b932-4372-a3a2-ed91f184cd33
+    tls: true
+    skip-cert-verify: false
+    servername: KhAmeneI.DPdNs.OrG
+    network: ws
+    ws-opts:
+      path: /eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119
+      headers:
+        Host: khamenei.dpdns.org
     udp: true
   - name: GB_speednode_0004
-    server: uk1.miyazono-kaori.com
+    server: 25.129.197.138
+    port: 2053
+    type: vless
+    uuid: 8a07740f-b932-4372-a3a2-ed91f184cd33
+    tls: true
+    skip-cert-verify: false
+    servername: KhAmeneI.DPdNs.OrG
+    network: ws
+    ws-opts:
+      path: /eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119
+      headers:
+        Host: KhAmeneI.DPdNs.OrG
+    udp: true
+  - name: IT_speednode_0006
+    server: 5.39.253.14
     port: 443
     type: vless
-    uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
+    uuid: db912ae7-7c2e-4777-897c-c49201e48cb9
     flow: xtls-rprx-vision
     tls: true
     skip-cert-verify: false
     client-fingerprint: chrome
-    servername: www.bp.com
+    servername: vk.com
     reality-opts:
-      public-key: _dsOu_vxEU7pY3sIeGJxIpR0Ac2KoqIyBor2Bx0CwGA
-      short-id: d923
+      public-key: VRZ6ZwSsMA9K5f7aoJ9KvQgQ4xoSaF792mcNbeh-TQ4
+      short-id: f12d61f4
     udp: true
-  - name: GB_speednode_0005
-    server: england.torprospeed.ir
-    port: 587
+  - name: NN_speednode_0007
+    server: 161.248.63.15
+    port: 41579
     type: vless
-    uuid: 65a1e22c-d37e-4b92-b6ca-1d09dcd1d441
-    tls: true
-    skip-cert-verify: false
-    client-fingerprint: firefox
-    servername: excoino.com
-    reality-opts:
-      public-key: HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc
-      short-id: 916e8258c4a01b02
-    udp: true
-  - name: NL_speednode_0006
-    server: nl2.miyazono-kaori.com
-    port: 443
-    type: vless
-    uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    client-fingerprint: firefox
-    servername: www.philips.com
-    reality-opts:
-      public-key: Ax50I4wgBCS5ejrqH-QGRL28oyr5-ocbBw6U7rHFzXI
-      short-id: 883d8dad940eb1
-    udp: true
-  - name: RU_speednode_0007
-    server: 91.243.82.82
-    port: 443
-    type: vless
-    uuid: a91e64f0-9295-499d-bf4a-661ad99d4938
+    uuid: f64cdd9d-57c3-45b2-e999-c46006719646
     flow: xtls-rprx-vision
     tls: true
     skip-cert-verify: false
     client-fingerprint: chrome
-    servername: khabarovsk.geodema.network
+    servername: www.icloud.com
     reality-opts:
-      public-key: EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8
-      short-id: 1ed136481e0ede74
+      public-key: 3W_eKpL975AF7oI-mkgVtf2iK954luxwaT6C41re0RI
+      short-id: 2efb6c97c1
     udp: true
   - name: RU_speednode_0008
-    server: khabarovsk.geodema.network
-    port: 443
+    server: 217.16.16.251
+    port: 8443
     type: vless
-    uuid: a91e64f0-9295-499d-bf4a-661ad99d4938
+    uuid: d63129ab-04a5-4797-8a70-84f4ab610ca9
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: eh.vk.vom
+    reality-opts:
+      public-key: bPN2gQ-96uG3DZONnduotvwViMDsUsN2XZnRkzXcMxk
+      short-id: edc87d796657fbe5
+    udp: true
+  - name: SG_speednode_0010
+    server: 146.190.89.69
+    port: 25863
+    type: vless
+    uuid: 58f206da-752d-4750-a2ac-b72d0cab8032
     flow: xtls-rprx-vision
     tls: true
     skip-cert-verify: false
     client-fingerprint: chrome
-    servername: khabarovsk.geodema.network
+    servername: aws.amazon.com
     reality-opts:
-      public-key: EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8
-      short-id: 1ed136481e0ede74
+      public-key: LLou1BsPSrrNXOJOb7-YZ159F_MAdrTSmP8loWG6GhE
     udp: true
-  - name: RU_speednode_0009
-    server: 51.250.95.143
-    port: 443
-    type: vless
-    uuid: 5725a60c-34a5-476d-9ae3-9e43d945ca8f
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    client-fingerprint: chrome
-    servername: www.mobile.yandex.ru
-    reality-opts:
-      public-key: dEHsPQQSnMJiHJKnJRbbLFKQmwIemUXQsQ1zIYbLZng
-      short-id: f6
-    udp: true
-  - name: RU_speednode_0010
-    server: 158.160.135.161
+  - name: SI_speednode_0011
+    server: 45.144.52.37
     port: 443
     type: vless
     uuid: d684cb56-e4b8-4453-8a7b-a1ad8c81935a
@@ -424,90 +423,65 @@ proxies:
     tls: true
     skip-cert-verify: false
     client-fingerprint: chrome
-    servername: cdnv-img.perekrestok.ru
-    reality-opts:
-      public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    udp: true
-  - name: RU_speednode_0011
-    server: ru-msk-yan-1gbit-01.sssrvpn.pro
-    port: 443
-    type: vless
-    uuid: d684cb56-e4b8-4453-8a7b-a1ad8c81935a
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    client-fingerprint: chrome
-    servername: cdnv-img.perekrestok.ru
+    servername: fi.reality.tv123.ru
     reality-opts:
       public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
     udp: true
   - name: US_speednode_0012
-    server: us2.miyazono-kaori.com
+    server: cloudflare.182682.xyz
     port: 443
     type: vless
-    uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
-    flow: xtls-rprx-vision
+    uuid: 3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97
     tls: true
     skip-cert-verify: false
-    client-fingerprint: ios
-    servername: download-porter.hoyoverse.com
-    reality-opts:
-      public-key: _TIQSjojgpdSBoSVXuQjFSqIdPeXjQIQkM5cFSv6Gnc
-      short-id: 9613864900a8f12d
+    client-fingerprint: chrome
+    servername: l.ayovo.netlib.re
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: l.ayovo.netlib.re
     udp: true
   - name: US_speednode_0013
-    server: us1.miyazono-kaori.com
+    server: 104.18.185.26
     port: 443
     type: vless
-    uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
-    flow: xtls-rprx-vision
+    uuid: 3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97
     tls: true
     skip-cert-verify: false
-    client-fingerprint: firefox
-    servername: download-porter.hoyoverse.com
-    reality-opts:
-      public-key: 9mkPUmY5M-N81bSDf3lP9X3JnH25l4SfeUTnlwV04Eo
-      short-id: d77c4204
+    servername: l.ayovo.netlib.re
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: l.ayovo.netlib.re
     udp: true
   - name: US_speednode_0014
-    server: 139.144.199.41
-    port: 33873
+    server: 104.17.25.173
+    port: 443
     type: vless
-    uuid: ffb5a850-edbc-4831-ad0b-e29483949ea8
+    uuid: 3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: l.ayovo.netlib.re
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: l.ayovo.netlib.re
+    udp: true
+  - name: US_speednode_0015
+    server: 142.91.106.176
+    port: 443
+    type: vless
+    uuid: a11ab9c5-4155-430b-9efc-7a7122531382
     flow: xtls-rprx-vision
     tls: true
     skip-cert-verify: false
     client-fingerprint: chrome
-    servername: www.nokia.com
+    servername: japan.geodema.network
     reality-opts:
-      public-key: RV6FhlbDmMyc_qCuuTbUZt3QMUsKZU7EjyjGkYxHS34
-      short-id: de550428
-    udp: true
-  - name: US_speednode_0015
-    server: us12.miyazono-kaori.com
-    port: 443
-    type: vless
-    uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    client-fingerprint: ios
-    servername: download-porter.hoyoverse.com
-    reality-opts:
-      public-key: deEvuAAA_iJigkbck4yU_UmE8d491Dqt5V49y3n3DRw
-      short-id: 0c69e956b6
-    udp: true
-  - name: US_speednode_0016
-    server: us11.miyazono-kaori.com
-    port: 443
-    type: vless
-    uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    client-fingerprint: firefox
-    servername: download-porter.hoyoverse.com
-    reality-opts:
-      public-key: WC40e9QWe66kR6Zb1qkk9OeJBDQivKzqBczp9natHjk
-      short-id: 8b0b8e33a9ae3e
+      public-key: EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8
+      short-id: 1ed136481e0ede74
     udp: true
