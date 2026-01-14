@@ -5,59 +5,23 @@ proxies:
     port: 443
     server: 63.180.254.10
     type: ss
-  - cipher: aes-256-gcm
-    name: Hong Kong_Hong Kong_ss_103
-    password: 7e1dd4c55bf85da5
-    port: 50521
-    server: 212.192.15.59
-    type: ss
-  - cipher: aes-256-gcm
-    name: Canada_None_ss_109
-    password: 0690659746980c46
-    port: 10201
-    server: 167.17.179.197
+  - cipher: aes-256-cfb
+    name: Vietnam_None_ss_1015
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.155.123
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Uijeongbu-si_ss_1010
-    password: qwerREWQ@@
-    port: 11815
-    server: 121.170.203.148
-    type: ss
-  - cipher: aes-256-cfb
-    name: South Korea_Suwon_ss_1011
-    password: qwerREWQ@@
-    port: 13979
-    server: 221.139.79.57
-    type: ss
-  - cipher: aes-256-cfb
-    name: United States_None_ss_11366
+    name: United States_None_ss_11225
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
-  - cipher: aes-256-gcm
-    name: Hong Kong_Hong Kong_ss_11368
-    password: 7e1dd4c55bf85da5
-    port: 50521
-    server: 212.192.15.59
-    type: ss
-  - cipher: aes-256-gcm
-    name: Canada_None_ss_11373
-    password: 0690659746980c46
-    port: 10201
-    server: 167.17.179.197
-    type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Uijeongbu-si_ss_11374
-    password: qwerREWQ@@
-    port: 11815
-    server: 121.170.203.148
-    type: ss
-  - cipher: aes-256-cfb
-    name: South Korea_Suwon_ss_11375
-    password: qwerREWQ@@
-    port: 13979
-    server: 221.139.79.57
+    name: Vietnam_None_ss_11238
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.155.123
     type: ss
   - name: United States_ss_61
     type: ss
@@ -113,139 +77,75 @@ proxies:
     port: 443
     server: 63.180.254.10
     type: ss
-  - cipher: aes-256-gcm
-    name: Hong Kong_Hong Kong_ss_103
-    password: 7e1dd4c55bf85da5
-    port: 50521
-    server: 212.192.15.59
-    type: ss
-  - cipher: aes-256-gcm
-    name: Canada_None_ss_109
-    password: 0690659746980c46
-    port: 10201
-    server: 167.17.179.197
+  - cipher: aes-256-cfb
+    name: Vietnam_None_ss_1015
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.155.123
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Uijeongbu-si_ss_1010
-    password: qwerREWQ@@
-    port: 11815
-    server: 121.170.203.148
-    type: ss
-  - cipher: aes-256-cfb
-    name: South Korea_Suwon_ss_1011
-    password: qwerREWQ@@
-    port: 13979
-    server: 221.139.79.57
-    type: ss
-  - cipher: aes-256-cfb
-    name: United States_None_ss_11366
+    name: United States_None_ss_11225
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
-  - cipher: aes-256-gcm
-    name: Hong Kong_Hong Kong_ss_11368
-    password: 7e1dd4c55bf85da5
-    port: 50521
-    server: 212.192.15.59
-    type: ss
-  - cipher: aes-256-gcm
-    name: Canada_None_ss_11373
-    password: 0690659746980c46
-    port: 10201
-    server: 167.17.179.197
-    type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Uijeongbu-si_ss_11374
-    password: qwerREWQ@@
-    port: 11815
-    server: 121.170.203.148
+    name: Vietnam_None_ss_11238
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.155.123
     type: ss
-  - cipher: aes-256-cfb
-    name: South Korea_Suwon_ss_11375
-    password: qwerREWQ@@
-    port: 13979
-    server: 221.139.79.57
+  - name: CN_speednode_0003
+    server: 223.95.183.132
+    port: 47116
     type: ss
-  - name: IR_speednode_0005
-    server: 151.242.251.131
-    port: 8080
+    cipher: aes-128-gcm
+    password: b637f2e47b7827b308ebf399008075d2
+    udp: true
+  - name: KW_speednode_0021
+    server: 163.171.181.29
+    port: 11201
     type: ss
     cipher: chacha20-ietf-poly1305
-    password: QCXDxuDlTTMD7jtgHUjIoj
+    password: bddd79c7386646d6
     udp: true
-  - name: SG_speednode_0009
-    server: 68.183.227.4
-    port: 8080
+  - name: SE_speednode_0031
+    server: 121.127.46.147
+    port: 989
     type: ss
-    cipher: rc4-md5
-    password: 14fFPrbezE3HDZzsMOr6
+    cipher: aes-256-cfb
+    password: f8f7aCzcPKbsF8p3
     udp: true
-  - name: VN_speednode_0016
-    server: 103.186.154.219
+  - name: VN_speednode_0045
+    server: 103.186.154.195
     port: 38388
     type: ss
     cipher: aes-256-cfb
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     udp: true
-  - name: VN_speednode_0017
-    server: 103.186.154.47
+  - name: VN_speednode_0046
+    server: 103.186.155.29
     port: 38388
     type: ss
     cipher: aes-256-cfb
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     udp: true
-  - name: VN_speednode_0018
-    server: 103.186.155.65
+  - name: VN_speednode_0047
+    server: 103.186.155.101
     port: 38388
     type: ss
     cipher: aes-256-cfb
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     udp: true
-  - name: VN_speednode_0019
-    server: 103.186.155.142
+  - name: VN_speednode_0048
+    server: 103.186.155.55
     port: 38388
     type: ss
     cipher: aes-256-cfb
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     udp: true
-  - name: VN_speednode_0020
-    server: 103.186.155.143
-    port: 38388
-    type: ss
-    cipher: aes-256-cfb
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    udp: true
-  - name: VN_speednode_0021
-    server: 103.186.155.58
-    port: 38388
-    type: ss
-    cipher: aes-256-cfb
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    udp: true
-  - name: VN_speednode_0022
-    server: 103.186.155.78
-    port: 38388
-    type: ss
-    cipher: aes-256-cfb
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    udp: true
-  - name: VN_speednode_0023
-    server: 103.186.154.176
-    port: 38388
-    type: ss
-    cipher: aes-256-cfb
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    udp: true
-  - name: VN_speednode_0024
-    server: 103.186.154.61
-    port: 38388
-    type: ss
-    cipher: aes-256-cfb
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    udp: true
-  - name: VN_speednode_0025
-    server: 103.186.154.24
+  - name: VN_speednode_0049
+    server: 103.186.155.52
     port: 38388
     type: ss
     cipher: aes-256-cfb
