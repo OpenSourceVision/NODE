@@ -1,5 +1,5 @@
 proxies:
-  - name: 节点3
+  - name: 节点7
     type: hysteria2
     server: 2001:bc8:32d7:17b::8
     port: "22000"
@@ -9,7 +9,7 @@ proxies:
     skip-cert-verify: true
     up: 100 Mbps
     down: 100 Mbps
-  - name: 节点7
+  - name: 节点8
     type: hysteria2
     server: 2001:bc8:32d7:302::11
     port: "20088"
@@ -19,7 +19,7 @@ proxies:
     skip-cert-verify: true
     up: 100 Mbps
     down: 100 Mbps
-  - name: 节点8
+  - name: 节点9
     type: hysteria2
     server: 157.254.223.43
     port: "27921"
@@ -31,7 +31,7 @@ proxies:
     down: 100 Mbps
     ports: 28000-29000
     hop-interval: "30"
-  - name: 节点9
+  - name: 节点10
     type: hysteria2
     server: 62.210.124.146
     port: "22000"
@@ -41,7 +41,7 @@ proxies:
     skip-cert-verify: true
     up: 100 Mbps
     down: 100 Mbps
-  - name: 节点10
+  - name: 节点11
     type: hysteria2
     server: 2a14:7584:d04a::a
     port: "50022"
