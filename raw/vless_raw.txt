@@ -21,9 +21,9 @@ proxies:
     tls: true
   - name: 节点17
     type: vless
-    server: fan3.394615.xyz
-    uuid: 8b66e552-e89d-4c4f-bb5a-e3d37bf151b8
-    port: 34500
+    server: 89.144.35.230
+    uuid: 5cfc52bc-e701-4160-89df-930a0c040576
+    port: 54582
     udp: true
     tls: true
   - name: 节点18
@@ -35,9 +35,9 @@ proxies:
     tls: true
   - name: 节点19
     type: vless
-    server: 89.144.35.230
-    uuid: 5cfc52bc-e701-4160-89df-930a0c040576
-    port: 54582
+    server: fan3.394615.xyz
+    uuid: 8b66e552-e89d-4c4f-bb5a-e3d37bf151b8
+    port: 34500
     udp: true
     tls: true
   - name: 节点20

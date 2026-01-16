@@ -9,10 +9,16 @@ proxies:
     name: Hong Kong_None_ss_103
     password: asd123456
     port: 8388
-    server: 103.149.183.200
+    server: 103.149.182.79
     type: ss
   - cipher: aes-128-gcm
-    name: China_Ningbo_ss_1013
+    name: China_Ningbo_ss_1011
+    password: b637f2e47b7827b308ebf399008075d2
+    port: 26334
+    server: 223.95.183.132
+    type: ss
+  - cipher: aes-128-gcm
+    name: China_Ningbo_ss_1015
     password: b637f2e47b7827b308ebf399008075d2
     port: 25819
     server: 223.95.183.132
@@ -27,10 +33,16 @@ proxies:
     name: Hong Kong_None_ss_11227
     password: asd123456
     port: 8388
-    server: 103.149.183.200
+    server: 103.149.182.79
     type: ss
   - cipher: aes-128-gcm
-    name: China_Ningbo_ss_11237
+    name: China_Ningbo_ss_11235
+    password: b637f2e47b7827b308ebf399008075d2
+    port: 26334
+    server: 223.95.183.132
+    type: ss
+  - cipher: aes-128-gcm
+    name: China_Ningbo_ss_11239
     password: b637f2e47b7827b308ebf399008075d2
     port: 25819
     server: 223.95.183.132
@@ -93,10 +105,16 @@ proxies:
     name: Hong Kong_None_ss_103
     password: asd123456
     port: 8388
-    server: 103.149.183.200
+    server: 103.149.182.79
     type: ss
   - cipher: aes-128-gcm
-    name: China_Ningbo_ss_1013
+    name: China_Ningbo_ss_1011
+    password: b637f2e47b7827b308ebf399008075d2
+    port: 26334
+    server: 223.95.183.132
+    type: ss
+  - cipher: aes-128-gcm
+    name: China_Ningbo_ss_1015
     password: b637f2e47b7827b308ebf399008075d2
     port: 25819
     server: 223.95.183.132
@@ -111,10 +129,16 @@ proxies:
     name: Hong Kong_None_ss_11227
     password: asd123456
     port: 8388
-    server: 103.149.183.200
+    server: 103.149.182.79
     type: ss
   - cipher: aes-128-gcm
-    name: China_Ningbo_ss_11237
+    name: China_Ningbo_ss_11235
+    password: b637f2e47b7827b308ebf399008075d2
+    port: 26334
+    server: 223.95.183.132
+    type: ss
+  - cipher: aes-128-gcm
+    name: China_Ningbo_ss_11239
     password: b637f2e47b7827b308ebf399008075d2
     port: 25819
     server: 223.95.183.132
