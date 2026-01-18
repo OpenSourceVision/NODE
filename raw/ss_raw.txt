@@ -6,22 +6,10 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-gcm
-    name: Hong Kong_Hong Kong_ss_103
-    password: OWsoMhOel+7mcZ+p
+    name: Germany_None_ss_1012
+    password: d2umVadPT1m/FwIn
     port: 8388
-    server: 91.149.236.182
-    type: ss
-  - cipher: aes-128-gcm
-    name: China_Ningbo_ss_1010
-    password: b637f2e47b7827b308ebf399008075d2
-    port: 26334
-    server: 223.95.183.132
-    type: ss
-  - cipher: aes-128-gcm
-    name: China_Ningbo_ss_1014
-    password: b637f2e47b7827b308ebf399008075d2
-    port: 25819
-    server: 223.95.183.132
+    server: 194.87.10.161
     type: ss
   - cipher: aes-256-cfb
     name: United States_None_ss_11147
@@ -30,22 +18,10 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-gcm
-    name: Hong Kong_Hong Kong_ss_11149
-    password: OWsoMhOel+7mcZ+p
+    name: Germany_None_ss_11157
+    password: d2umVadPT1m/FwIn
     port: 8388
-    server: 91.149.236.182
-    type: ss
-  - cipher: aes-128-gcm
-    name: China_Ningbo_ss_11155
-    password: b637f2e47b7827b308ebf399008075d2
-    port: 26334
-    server: 223.95.183.132
-    type: ss
-  - cipher: aes-128-gcm
-    name: China_Ningbo_ss_11159
-    password: b637f2e47b7827b308ebf399008075d2
-    port: 25819
-    server: 223.95.183.132
+    server: 194.87.10.161
     type: ss
   - name: United States_ss_61
     type: ss
@@ -102,22 +78,10 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-gcm
-    name: Hong Kong_Hong Kong_ss_103
-    password: OWsoMhOel+7mcZ+p
+    name: Germany_None_ss_1012
+    password: d2umVadPT1m/FwIn
     port: 8388
-    server: 91.149.236.182
-    type: ss
-  - cipher: aes-128-gcm
-    name: China_Ningbo_ss_1010
-    password: b637f2e47b7827b308ebf399008075d2
-    port: 26334
-    server: 223.95.183.132
-    type: ss
-  - cipher: aes-128-gcm
-    name: China_Ningbo_ss_1014
-    password: b637f2e47b7827b308ebf399008075d2
-    port: 25819
-    server: 223.95.183.132
+    server: 194.87.10.161
     type: ss
   - cipher: aes-256-cfb
     name: United States_None_ss_11147
@@ -126,55 +90,8 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-gcm
-    name: Hong Kong_Hong Kong_ss_11149
-    password: OWsoMhOel+7mcZ+p
-    port: 8388
-    server: 91.149.236.182
-    type: ss
-  - cipher: aes-128-gcm
-    name: China_Ningbo_ss_11155
-    password: b637f2e47b7827b308ebf399008075d2
-    port: 26334
-    server: 223.95.183.132
-    type: ss
-  - cipher: aes-128-gcm
-    name: China_Ningbo_ss_11159
-    password: b637f2e47b7827b308ebf399008075d2
-    port: 25819
-    server: 223.95.183.132
-    type: ss
-  - name: CZ_speednode_0001
-    server: 194.87.10.161
-    port: 8388
-    type: ss
-    cipher: aes-256-gcm
+    name: Germany_None_ss_11157
     password: d2umVadPT1m/FwIn
-    udp: true
-  - name: GB_speednode_0005
-    server: 82.38.31.214
-    port: 8080
+    port: 8388
+    server: 194.87.10.161
     type: ss
-    cipher: chacha20-ietf-poly1305
-    password: k1dBOmOB4oqi7Ump37a1bQ
-    udp: true
-  - name: NL_speednode_0015
-    server: 193.29.139.177
-    port: 8080
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: oZIoA69Q8yhcQV8ka3Pa3A
-    udp: true
-  - name: RU_speednode_0019
-    server: 195.58.49.100
-    port: 30312
-    type: ss
-    cipher: aes-256-gcm
-    password: 9f3d1a6d31468599
-    udp: true
-  - name: VN_speednode_0048
-    server: 103.186.154.46
-    port: 38388
-    type: ss
-    cipher: aes-256-cfb
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    udp: true

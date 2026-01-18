@@ -1,5 +1,5 @@
 proxies:
-  - name: 节点13
+  - name: 节点12
     type: vmess
     server: 104.21.238.35
     uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
@@ -48,7 +48,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1018
+    name: Hong Kong_Central_vmess_1016
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -587,7 +587,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_11163
+    name: Hong Kong_Central_vmess_11161
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -606,7 +606,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1018
+    name: Hong Kong_Central_vmess_1016
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -1145,7 +1145,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_11163
+    name: Hong Kong_Central_vmess_11161
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -1153,14 +1153,23 @@ proxies:
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - name: GB_speednode_0004
-    server: 82.198.246.97
-    port: 180
+  - name: CN_speednode_0002
+    server: oss-4.qqa678.com
+    port: 47081
     type: vmess
-    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+    uuid: ef5a32e2-ec6f-4d8b-b084-9736f912432c
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: false
-    servername: snippets.kkii.eu.org
+    udp: true
+  - name: CN_speednode_0003
+    server: tunnel1.qqa678.com
+    port: 47081
+    type: vmess
+    uuid: ef5a32e2-ec6f-4d8b-b084-9736f912432c
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: false
     udp: true
