@@ -74,7 +74,7 @@ proxies:
       - h3
     recv_window_conn: 69206016
     recv-window: 276824064
-  - name: 节点20
+  - name: 节点19
     type: hysteria
     server: 5.83.129.90
     port: 54177

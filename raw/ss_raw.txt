@@ -6,22 +6,34 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-gcm
-    name: Germany_None_ss_1012
-    password: d2umVadPT1m/FwIn
-    port: 8388
-    server: 194.87.10.161
+    name: Canada_None_ss_109
+    password: 0690659746980c46
+    port: 20291
+    server: 167.17.179.197
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_11147
+    name: South Korea_Seongbuk-gu_ss_1010
+    password: qwerREWQ@@
+    port: 44112
+    server: 168.126.234.230
+    type: ss
+  - cipher: aes-256-cfb
+    name: United States_None_ss_1170
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-gcm
-    name: Germany_None_ss_11157
-    password: d2umVadPT1m/FwIn
-    port: 8388
-    server: 194.87.10.161
+    name: Canada_None_ss_1174
+    password: 0690659746980c46
+    port: 20291
+    server: 167.17.179.197
+    type: ss
+  - cipher: aes-256-cfb
+    name: South Korea_Seongbuk-gu_ss_1175
+    password: qwerREWQ@@
+    port: 44112
+    server: 168.126.234.230
     type: ss
   - name: United States_ss_61
     type: ss
@@ -78,20 +90,32 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-gcm
-    name: Germany_None_ss_1012
-    password: d2umVadPT1m/FwIn
-    port: 8388
-    server: 194.87.10.161
+    name: Canada_None_ss_109
+    password: 0690659746980c46
+    port: 20291
+    server: 167.17.179.197
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_11147
+    name: South Korea_Seongbuk-gu_ss_1010
+    password: qwerREWQ@@
+    port: 44112
+    server: 168.126.234.230
+    type: ss
+  - cipher: aes-256-cfb
+    name: United States_None_ss_1170
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-gcm
-    name: Germany_None_ss_11157
-    password: d2umVadPT1m/FwIn
-    port: 8388
-    server: 194.87.10.161
+    name: Canada_None_ss_1174
+    password: 0690659746980c46
+    port: 20291
+    server: 167.17.179.197
+    type: ss
+  - cipher: aes-256-cfb
+    name: South Korea_Seongbuk-gu_ss_1175
+    password: qwerREWQ@@
+    port: 44112
+    server: 168.126.234.230
     type: ss

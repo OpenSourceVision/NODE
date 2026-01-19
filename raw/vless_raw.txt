@@ -14,16 +14,16 @@ proxies:
     client-figerprint: chrome
   - name: 节点16
     type: vless
-    server: 62.210.127.177
-    uuid: a1f699e4-d7b7-4cdc-8414-1105e08fe4c5
-    port: 60011
+    server: fan3.394615.xyz
+    uuid: 8b66e552-e89d-4c4f-bb5a-e3d37bf151b8
+    port: 34500
     udp: true
     tls: true
   - name: 节点17
     type: vless
-    server: fan3.394615.xyz
-    uuid: 8b66e552-e89d-4c4f-bb5a-e3d37bf151b8
-    port: 34500
+    server: 62.210.127.177
+    uuid: a1f699e4-d7b7-4cdc-8414-1105e08fe4c5
+    port: 60011
     udp: true
     tls: true
   - name: 节点18
@@ -33,7 +33,7 @@ proxies:
     port: 54582
     udp: true
     tls: true
-  - name: 节点19
+  - name: 节点20
     type: vless
     server: 2a14:7584:d097::a
     uuid: 53d74aab-6471-4c1b-ace7-fac837d1bfbd
