@@ -1,9 +1,9 @@
-name: TW_speednode_0024
-server: twmoon1-cdn-route.couldflare-cdn.com
-port: 1443
+name: KR_speednode_0012
+server: testkr3.ssv.vc
+port: 30446
 type: http
-username: mrwdfNTD8M79LCukCieldrqZWqs=
-password: mrwdfNTD8M79LCukCieldrqZWqs=
+username: test
+password: test.+
 tls: true
 skip-cert-verify: true
 udp: true

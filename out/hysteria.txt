@@ -1,9 +1,9 @@
 hysteria://2001:bc8:32d7:17b::2:11000?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B91
-hysteria://5.83.129.153:20088?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B92
-hysteria://98.142.247.21:39228?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B93
-hysteria://5.83.129.90:54177?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B94
+hysteria://5.83.129.90:54177?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B92
+hysteria://5.83.129.153:20088?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B93
+hysteria://98.142.247.21:39228?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B94
 hysteria://89.144.35.231:18899?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=apple.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B95
-hysteria://45.150.65.154:47119?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=bing.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B920
+hysteria://45.150.65.154:47119?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=bing.com&protocol=udp&udp=true&fastopen=1#%E8%8A%82%E7%82%B922
 hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=bing.com&protocol=udp&udp=true&fastopen=1#United%20States_hy_0
 hysteria://62.210.243.131:18702?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=bing.com&protocol=udp&udp=true&fastopen=1#France_hy_1
 hysteria://109.104.152.194:58510?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=bing.com&protocol=udp&udp=true&fastopen=1#United%20States_hy_3
