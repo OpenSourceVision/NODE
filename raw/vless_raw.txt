@@ -12,7 +12,7 @@ proxies:
       public-key: pHn5CHa2P6-lNBIkTOI3zJQN19jfNFkXxGFuyefpP0M
       short-id: ""
     client-figerprint: chrome
-  - name: 节点15
+  - name: 节点16
     type: vless
     server: 62.210.127.177
     uuid: a1f699e4-d7b7-4cdc-8414-1105e08fe4c5
