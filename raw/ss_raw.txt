@@ -9,19 +9,19 @@ proxies:
     name: Vietnam_None_ss_1016
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.155.125
+    server: 103.186.155.51
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1174
+    name: United States_None_ss_1180
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: Vietnam_None_ss_1189
+    name: Vietnam_None_ss_1194
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.155.125
+    server: 103.186.155.51
     type: ss
   - name: United States_ss_61
     type: ss
@@ -81,17 +81,17 @@ proxies:
     name: Vietnam_None_ss_1016
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.155.125
+    server: 103.186.155.51
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1174
+    name: United States_None_ss_1180
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: Vietnam_None_ss_1189
+    name: Vietnam_None_ss_1194
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.155.125
+    server: 103.186.155.51
     type: ss

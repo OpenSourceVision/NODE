@@ -1,17 +1,16 @@
 proxies:
   - name: 节点13
     type: vmess
-    server: 104.21.238.35
-    uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
+    server: 2001:bc8:32d7:302::10
+    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
     alterId: 0
-    port: 2086
+    port: 44579
     cipher: auto
     udp: true
     network: ws
     ws-opts:
-      path: github.com/Alvin9999
-      headers:
-        Host: ip29.9447609.xyz
+      path: ""
+      headers: {}
   - name: 节点14
     type: vmess
     server: 104.21.238.35
@@ -24,22 +23,23 @@ proxies:
     ws-opts:
       path: github.com/Alvin9999
       headers:
-        Host: ip19.9447609.xyz
-  - name: 节点15
+        Host: ip29.9447609.xyz
+  - name: 节点16
     type: vmess
-    server: 2001:bc8:32d7:302::10
-    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+    server: 104.21.238.35
+    uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
     alterId: 0
-    port: 44579
+    port: 2086
     cipher: auto
     udp: true
     network: ws
     ws-opts:
-      path: ""
-      headers: {}
+      path: github.com/Alvin9999
+      headers:
+        Host: ip19.9447609.xyz
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Kowloon_vmess_102
+    name: Hong Kong_Yuen Long San Hui_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -48,16 +48,16 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: Hong Kong_Central_vmess_103
-    port: 52080
-    server: 61.15.60.153
+    name: Hong Kong_Hong Kong_vmess_103
+    port: 34659
+    server: 47.242.192.233
     skip-cert-verify: false
     tls: false
     type: vmess
-    uuid: bfb47846-aedb-4ea3-a81f-27895a4ec1bb
+    uuid: 8482671e-846f-45c7-aec4-531c79f775ec
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Kowloon_vmess_1017
+    name: Hong Kong_Yuen Long San Hui_vmess_1017
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -67,14 +67,14 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: Hong Kong_Central_vmess_1018
+    name: Hong Kong_Hong Kong_vmess_1018
     network: tcp
-    port: "52080"
-    server: 61.15.60.153
+    port: "34659"
+    server: 47.242.192.233
     servername: ""
     tls: false
     type: vmess
-    uuid: bfb47846-aedb-4ea3-a81f-27895a4ec1bb
+    uuid: 8482671e-846f-45c7-aec4-531c79f775ec
   - alterId: 0
     cipher: auto
     name: Unknown_vmess_111
@@ -167,7 +167,7 @@ proxies:
     uuid: 88888888-8888-8888-8888-888888888888
   - alterId: 0
     cipher: auto
-    name: India_None_vmess_1111
+    name: India_None_vmess_1134
     network: tcp
     port: "9000"
     server: id2.wpairplane.com
@@ -176,25 +176,16 @@ proxies:
     uuid: 77aad73d-03e7-441b-9bc5-98d13535ba3e
   - alterId: 0
     cipher: auto
-    name: China_None_vmess_1112
+    name: China_None_vmess_1135
     network: tcp
     port: "59003"
     server: 183.236.51.36
     tls: false
     type: vmess
     uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Central_vmess_1114
-    network: tcp
-    port: "30804"
-    server: v4.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: United Kingdom_None_vmess_1115
+    name: United Kingdom_None_vmess_1141
     network: tcp
     port: "180"
     server: 82.198.246.97
@@ -203,409 +194,290 @@ proxies:
     uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
   - alterId: 0
     cipher: auto
-    name: Unknown_vmess_1139
+    name: China_None_vmess_1147
     network: tcp
-    port: "42507"
-    server: 23.138.148.47
-    tls: false
-    type: vmess
-    uuid: 4db07b13-6524-49d2-b432-1f312c0e9c7c
-  - alterId: 0
-    cipher: auto
-    name: Thailand_Chiang Mai_vmess_1140
-    network: tcp
-    port: "8080"
-    server: m.modzard.com
-    tls: false
-    type: vmess
-    uuid: f2e17b4d-22fd-44a4-90db-40649717be8e
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Central_vmess_1141
-    network: tcp
-    port: "30836"
-    server: v36.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Central_vmess_1142
-    network: tcp
-    port: "30833"
-    server: v33.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Central_vmess_1148
-    network: tcp
-    port: "30809"
-    server: v9.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Central_vmess_1154
-    network: tcp
-    port: "30835"
-    server: v35.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: Hong Kong_Central_vmess_1157
-    network: tcp
-    port: "30812"
-    server: v12.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Central_vmess_1172
-    network: tcp
-    port: "30824"
-    server: v24.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Kowloon_vmess_1175
-    port: 30807
-    server: v10.hdacd.com
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: Hong Kong_Central_vmess_1176
-    port: 52080
-    server: 61.15.60.153
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: bfb47846-aedb-4ea3-a81f-27895a4ec1bb
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Kowloon_vmess_1190
-    network: tcp
-    port: "30807"
-    server: v10.hdacd.com
-    servername: ""
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: Hong Kong_Central_vmess_1191
-    network: tcp
-    port: "52080"
-    server: 61.15.60.153
-    servername: ""
-    tls: false
-    type: vmess
-    uuid: bfb47846-aedb-4ea3-a81f-27895a4ec1bb
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Kowloon_vmess_102
-    port: 30807
-    server: v10.hdacd.com
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: Hong Kong_Central_vmess_103
-    port: 52080
-    server: 61.15.60.153
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: bfb47846-aedb-4ea3-a81f-27895a4ec1bb
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Kowloon_vmess_1017
-    network: tcp
-    port: "30807"
-    server: v10.hdacd.com
-    servername: ""
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: Hong Kong_Central_vmess_1018
-    network: tcp
-    port: "52080"
-    server: 61.15.60.153
-    servername: ""
-    tls: false
-    type: vmess
-    uuid: bfb47846-aedb-4ea3-a81f-27895a4ec1bb
-  - alterId: 0
-    cipher: auto
-    name: Unknown_vmess_111
-    network: tcp
-    port: "80"
-    server: 127.0.0.53
-    tls: false
-    type: vmess
-    uuid: 88888888-8888-8888-8888-888888888888
-  - alterId: 0
-    cipher: auto
-    name: Unknown_vmess_112
-    network: tcp
-    port: "81"
-    server: 127.0.0.53
-    tls: false
-    type: vmess
-    uuid: 88888888-8888-8888-8888-888888888888
-  - alterId: 0
-    cipher: auto
-    name: Unknown_vmess_113
-    network: tcp
-    port: "82"
-    server: 127.0.0.53
-    tls: false
-    type: vmess
-    uuid: 88888888-8888-8888-8888-888888888888
-  - alterId: 0
-    cipher: auto
-    name: Unknown_vmess_114
-    network: tcp
-    port: "83"
-    server: 127.0.0.53
-    tls: false
-    type: vmess
-    uuid: 88888888-8888-8888-8888-888888888888
-  - alterId: 0
-    cipher: auto
-    name: Unknown_vmess_115
-    network: tcp
-    port: "84"
-    server: 127.0.0.53
-    tls: false
-    type: vmess
-    uuid: 88888888-8888-8888-8888-888888888888
-  - alterId: 0
-    cipher: auto
-    name: Unknown_vmess_116
-    network: tcp
-    port: "85"
-    server: 127.0.0.53
-    tls: false
-    type: vmess
-    uuid: 88888888-8888-8888-8888-888888888888
-  - alterId: 0
-    cipher: auto
-    name: Unknown_vmess_117
-    network: tcp
-    port: "86"
-    server: 127.0.0.53
-    tls: false
-    type: vmess
-    uuid: 88888888-8888-8888-8888-888888888888
-  - alterId: 0
-    cipher: auto
-    name: Unknown_vmess_118
-    network: tcp
-    port: "87"
-    server: 127.0.0.53
-    tls: false
-    type: vmess
-    uuid: 88888888-8888-8888-8888-888888888888
-  - alterId: 0
-    cipher: auto
-    name: Unknown_vmess_119
-    network: tcp
-    port: "88"
-    server: 127.0.0.53
-    tls: false
-    type: vmess
-    uuid: 88888888-8888-8888-8888-888888888888
-  - alterId: 0
-    cipher: auto
-    name: Unknown_vmess_1110
-    network: tcp
-    port: "89"
-    server: 127.0.0.53
-    tls: false
-    type: vmess
-    uuid: 88888888-8888-8888-8888-888888888888
-  - alterId: 0
-    cipher: auto
-    name: India_None_vmess_1111
-    network: tcp
-    port: "9000"
-    server: id2.wpairplane.com
-    tls: false
-    type: vmess
-    uuid: 77aad73d-03e7-441b-9bc5-98d13535ba3e
-  - alterId: 0
-    cipher: auto
-    name: China_None_vmess_1112
-    network: tcp
-    port: "59003"
-    server: 183.236.51.36
-    tls: false
-    type: vmess
-    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Central_vmess_1114
-    network: tcp
-    port: "30804"
-    server: v4.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: United Kingdom_None_vmess_1115
-    network: tcp
-    port: "180"
-    server: 82.198.246.97
-    tls: false
-    type: vmess
-    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-  - alterId: 0
-    cipher: auto
-    name: Unknown_vmess_1139
-    network: tcp
-    port: "42507"
-    server: 23.138.148.47
-    tls: false
-    type: vmess
-    uuid: 4db07b13-6524-49d2-b432-1f312c0e9c7c
-  - alterId: 0
-    cipher: auto
-    name: Thailand_Chiang Mai_vmess_1140
-    network: tcp
-    port: "8080"
-    server: m.modzard.com
-    tls: false
-    type: vmess
-    uuid: f2e17b4d-22fd-44a4-90db-40649717be8e
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Central_vmess_1141
-    network: tcp
-    port: "30836"
-    server: v36.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Central_vmess_1142
-    network: tcp
-    port: "30833"
-    server: v33.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Central_vmess_1148
-    network: tcp
-    port: "30809"
-    server: v9.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Central_vmess_1154
-    network: tcp
-    port: "30835"
-    server: v35.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: Hong Kong_Central_vmess_1157
-    network: tcp
-    port: "30812"
-    server: v12.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Central_vmess_1172
-    network: tcp
-    port: "30824"
-    server: v24.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Kowloon_vmess_1175
-    port: 30807
-    server: v10.hdacd.com
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: Hong Kong_Central_vmess_1176
-    port: 52080
-    server: 61.15.60.153
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: bfb47846-aedb-4ea3-a81f-27895a4ec1bb
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Kowloon_vmess_1190
-    network: tcp
-    port: "30807"
-    server: v10.hdacd.com
-    servername: ""
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: Hong Kong_Central_vmess_1191
-    network: tcp
-    port: "52080"
-    server: 61.15.60.153
-    servername: ""
-    tls: false
-    type: vmess
-    uuid: bfb47846-aedb-4ea3-a81f-27895a4ec1bb
-  - name: CN_speednode_0001
+    port: "47081"
     server: oss-4.qqa678.com
-    port: 47081
+    tls: false
     type: vmess
     uuid: 7d3b2ea8-337b-4979-948f-bc1c1e72b6d5
-    alterId: 0
+  - alterId: 0
     cipher: auto
+    name: South Korea_Seoul_vmess_1176
+    network: tcp
+    port: "80"
+    server: 152.70.92.69
     tls: false
-    skip-cert-verify: false
-    udp: true
-  - name: CN_speednode_0002
-    server: tunnel2.qqa678.com
-    port: 47081
     type: vmess
-    uuid: 940962e9-85c7-43fa-a9ca-d523b15a32a5
-    alterId: 0
+    uuid: bb9c3993-a4b9-4dad-aeb9-ac86371ae68b
+  - alterId: 2
     cipher: auto
+    name: Hong Kong_Central_vmess_1177
+    network: tcp
+    port: "30833"
+    server: v33.hdacd.com
     tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 2
+    cipher: auto
+    name: Hong Kong_Yuen Long San Hui_vmess_1181
+    port: 30807
+    server: v10.hdacd.com
     skip-cert-verify: false
-    udp: true
-  - name: TH_speednode_0018
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: Hong Kong_Hong Kong_vmess_1182
+    port: 34659
+    server: 47.242.192.233
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: 8482671e-846f-45c7-aec4-531c79f775ec
+  - alterId: 2
+    cipher: auto
+    name: Hong Kong_Yuen Long San Hui_vmess_1195
+    network: tcp
+    port: "30807"
+    server: v10.hdacd.com
+    servername: ""
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: Hong Kong_Hong Kong_vmess_1196
+    network: tcp
+    port: "34659"
+    server: 47.242.192.233
+    servername: ""
+    tls: false
+    type: vmess
+    uuid: 8482671e-846f-45c7-aec4-531c79f775ec
+  - alterId: 2
+    cipher: auto
+    name: Hong Kong_Yuen Long San Hui_vmess_102
+    port: 30807
+    server: v10.hdacd.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: Hong Kong_Hong Kong_vmess_103
+    port: 34659
+    server: 47.242.192.233
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: 8482671e-846f-45c7-aec4-531c79f775ec
+  - alterId: 2
+    cipher: auto
+    name: Hong Kong_Yuen Long San Hui_vmess_1017
+    network: tcp
+    port: "30807"
+    server: v10.hdacd.com
+    servername: ""
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: Hong Kong_Hong Kong_vmess_1018
+    network: tcp
+    port: "34659"
+    server: 47.242.192.233
+    servername: ""
+    tls: false
+    type: vmess
+    uuid: 8482671e-846f-45c7-aec4-531c79f775ec
+  - alterId: 0
+    cipher: auto
+    name: Unknown_vmess_111
+    network: tcp
+    port: "80"
+    server: 127.0.0.53
+    tls: false
+    type: vmess
+    uuid: 88888888-8888-8888-8888-888888888888
+  - alterId: 0
+    cipher: auto
+    name: Unknown_vmess_112
+    network: tcp
+    port: "81"
+    server: 127.0.0.53
+    tls: false
+    type: vmess
+    uuid: 88888888-8888-8888-8888-888888888888
+  - alterId: 0
+    cipher: auto
+    name: Unknown_vmess_113
+    network: tcp
+    port: "82"
+    server: 127.0.0.53
+    tls: false
+    type: vmess
+    uuid: 88888888-8888-8888-8888-888888888888
+  - alterId: 0
+    cipher: auto
+    name: Unknown_vmess_114
+    network: tcp
+    port: "83"
+    server: 127.0.0.53
+    tls: false
+    type: vmess
+    uuid: 88888888-8888-8888-8888-888888888888
+  - alterId: 0
+    cipher: auto
+    name: Unknown_vmess_115
+    network: tcp
+    port: "84"
+    server: 127.0.0.53
+    tls: false
+    type: vmess
+    uuid: 88888888-8888-8888-8888-888888888888
+  - alterId: 0
+    cipher: auto
+    name: Unknown_vmess_116
+    network: tcp
+    port: "85"
+    server: 127.0.0.53
+    tls: false
+    type: vmess
+    uuid: 88888888-8888-8888-8888-888888888888
+  - alterId: 0
+    cipher: auto
+    name: Unknown_vmess_117
+    network: tcp
+    port: "86"
+    server: 127.0.0.53
+    tls: false
+    type: vmess
+    uuid: 88888888-8888-8888-8888-888888888888
+  - alterId: 0
+    cipher: auto
+    name: Unknown_vmess_118
+    network: tcp
+    port: "87"
+    server: 127.0.0.53
+    tls: false
+    type: vmess
+    uuid: 88888888-8888-8888-8888-888888888888
+  - alterId: 0
+    cipher: auto
+    name: Unknown_vmess_119
+    network: tcp
+    port: "88"
+    server: 127.0.0.53
+    tls: false
+    type: vmess
+    uuid: 88888888-8888-8888-8888-888888888888
+  - alterId: 0
+    cipher: auto
+    name: Unknown_vmess_1110
+    network: tcp
+    port: "89"
+    server: 127.0.0.53
+    tls: false
+    type: vmess
+    uuid: 88888888-8888-8888-8888-888888888888
+  - alterId: 0
+    cipher: auto
+    name: India_None_vmess_1134
+    network: tcp
+    port: "9000"
+    server: id2.wpairplane.com
+    tls: false
+    type: vmess
+    uuid: 77aad73d-03e7-441b-9bc5-98d13535ba3e
+  - alterId: 0
+    cipher: auto
+    name: China_None_vmess_1135
+    network: tcp
+    port: "59003"
+    server: 183.236.51.36
+    tls: false
+    type: vmess
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  - alterId: 0
+    cipher: auto
+    name: United Kingdom_None_vmess_1141
+    network: tcp
+    port: "180"
+    server: 82.198.246.97
+    tls: false
+    type: vmess
+    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+  - alterId: 0
+    cipher: auto
+    name: China_None_vmess_1147
+    network: tcp
+    port: "47081"
+    server: oss-4.qqa678.com
+    tls: false
+    type: vmess
+    uuid: 7d3b2ea8-337b-4979-948f-bc1c1e72b6d5
+  - alterId: 0
+    cipher: auto
+    name: South Korea_Seoul_vmess_1176
+    network: tcp
+    port: "80"
+    server: 152.70.92.69
+    tls: false
+    type: vmess
+    uuid: bb9c3993-a4b9-4dad-aeb9-ac86371ae68b
+  - alterId: 2
+    cipher: auto
+    name: Hong Kong_Central_vmess_1177
+    network: tcp
+    port: "30833"
+    server: v33.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 2
+    cipher: auto
+    name: Hong Kong_Yuen Long San Hui_vmess_1181
+    port: 30807
+    server: v10.hdacd.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: Hong Kong_Hong Kong_vmess_1182
+    port: 34659
+    server: 47.242.192.233
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: 8482671e-846f-45c7-aec4-531c79f775ec
+  - alterId: 2
+    cipher: auto
+    name: Hong Kong_Yuen Long San Hui_vmess_1195
+    network: tcp
+    port: "30807"
+    server: v10.hdacd.com
+    servername: ""
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: Hong Kong_Hong Kong_vmess_1196
+    network: tcp
+    port: "34659"
+    server: 47.242.192.233
+    servername: ""
+    tls: false
+    type: vmess
+    uuid: 8482671e-846f-45c7-aec4-531c79f775ec
+  - name: TH_speednode_0035
     server: m.modzard.com
     port: 8080
     type: vmess
@@ -613,7 +485,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    skip-cert-verify: true
+    skip-cert-verify: false
     network: http
     http-opts:
       method: GET
