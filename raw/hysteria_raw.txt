@@ -59,7 +59,7 @@ proxies:
       - h3
     recv_window_conn: 57671680
     recv-window: 230686720
-  - name: 节点6
+  - name: 节点5
     type: hysteria
     server: 89.144.35.231
     port: "18899"
@@ -76,8 +76,8 @@ proxies:
     recv-window: 276824064
   - name: 节点20
     type: hysteria
-    server: 45.150.65.154
-    port: 47119
+    server: 5.83.129.90
+    port: 54177
     auth_str: dongtaiwang.com
     up: 100
     down: 100
@@ -87,10 +87,10 @@ proxies:
     skip-cert-verify: true
     alpn:
       - h3
-  - name: 节点21
+  - name: 节点22
     type: hysteria
-    server: 5.83.129.90
-    port: 54177
+    server: 45.150.65.154
+    port: 47119
     auth_str: dongtaiwang.com
     up: 100
     down: 100

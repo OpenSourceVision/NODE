@@ -1,6 +1,5 @@
-name: RU_speednode_0033
-server: 193.233.254.9
+name: US_speednode_0027
+server: 174.138.61.184
 port: 1080
 type: socks5
-username: Og@193.233.254.9
 udp: true
