@@ -6,7 +6,7 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1154
+    name: United States_None_ss_1146
     password: amazonskr05
     port: 443
     server: 63.180.254.10
@@ -66,43 +66,155 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1154
+    name: United States_None_ss_1146
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
-  - name: FR_speednode_0016
-    server: 195.154.119.77
-    port: 989
-    type: ss
-    cipher: aes-256-cfb
-    password: f8f7aCzcPKbsF8p3
-    udp: true
-  - name: FR_speednode_0017
-    server: 51.15.17.169
-    port: 989
-    type: ss
-    cipher: aes-256-cfb
-    password: f8f7aCzcPKbsF8p3
-    udp: true
-  - name: GB_speednode_0019
-    server: 82.38.31.208
-    port: 8080
+  - name: BG_speednode_0003
+    server: 94.156.170.43
+    port: 9000
     type: ss
     cipher: chacha20-ietf-poly1305
-    password: k1dBOmOB4oqi7Ump37a1bQ
+    password: yqpk58PpXYXhchltkeWrMA
     udp: true
-  - name: RU_speednode_0045
+  - name: DE_speednode_0009
+    server: 62.133.60.60
+    port: 7048
+    type: ss
+    cipher: chacha20-ietf-poly1305
+    password: TxUz18504p5egfiVecTQll
+    udp: true
+  - name: RU_speednode_0018
     server: 5.129.219.21
     port: 8080
     type: ss
     cipher: aes-128-gcm
     password: tKko+YIAuuZ3d0hsPX2+D3NqepytG1Ha0VRLwBrf0Ak=
     udp: true
-  - name: SG_speednode_0070
-    server: 84.247.147.61
-    port: 24914
+  - name: VN_speednode_0048
+    server: 103.186.154.197
+    port: 38388
     type: ss
-    cipher: chacha20-ietf-poly1305
-    password: 65e716e3d3ec1fc0
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+  - name: VN_speednode_0049
+    server: 103.186.154.194
+    port: 38388
+    type: ss
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+  - name: VN_speednode_0050
+    server: 103.186.155.229
+    port: 38388
+    type: ss
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+  - name: VN_speednode_0051
+    server: 103.186.155.24
+    port: 38388
+    type: ss
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+  - name: VN_speednode_0052
+    server: 103.186.154.43
+    port: 38388
+    type: ss
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+  - name: VN_speednode_0053
+    server: 103.186.155.226
+    port: 38388
+    type: ss
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+  - name: VN_speednode_0054
+    server: 103.186.155.85
+    port: 38388
+    type: ss
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+  - name: VN_speednode_0055
+    server: 103.186.154.218
+    port: 38388
+    type: ss
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+  - name: VN_speednode_0056
+    server: 103.186.154.235
+    port: 38388
+    type: ss
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+  - name: VN_speednode_0057
+    server: 103.186.154.62
+    port: 38388
+    type: ss
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+  - name: VN_speednode_0058
+    server: 103.186.154.249
+    port: 38388
+    type: ss
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+  - name: VN_speednode_0059
+    server: 103.186.154.237
+    port: 38388
+    type: ss
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+  - name: VN_speednode_0060
+    server: 103.186.154.213
+    port: 38388
+    type: ss
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+  - name: VN_speednode_0061
+    server: 103.186.155.215
+    port: 38388
+    type: ss
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+  - name: VN_speednode_0062
+    server: 103.186.155.220
+    port: 38388
+    type: ss
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+  - name: VN_speednode_0063
+    server: 103.186.155.60
+    port: 38388
+    type: ss
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+  - name: VN_speednode_0064
+    server: 103.186.154.226
+    port: 38388
+    type: ss
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    udp: true
+  - name: VN_speednode_0065
+    server: 103.186.155.8
+    port: 38388
+    type: ss
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     udp: true
