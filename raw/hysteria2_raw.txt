@@ -9,7 +9,7 @@ proxies:
     skip-cert-verify: true
     up: 100 Mbps
     down: 100 Mbps
-  - name: 节点6
+  - name: 节点7
     type: hysteria2
     server: 2001:bc8:32d7:302::11
     port: "20088"

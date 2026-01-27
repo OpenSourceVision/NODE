@@ -46,21 +46,6 @@ proxies:
     recv-window: 230686720
   - name: 节点4
     type: hysteria
-    server: 98.142.247.21
-    port: "39228"
-    auth_str: dongtaiwang.com
-    up: 100
-    down: 100
-    fast-open: true
-    protocol: udp
-    sni: apple.com
-    skip-cert-verify: true
-    alpn:
-      - h3
-    recv_window_conn: 69206016
-    recv-window: 276824064
-  - name: 节点7
-    type: hysteria
     server: 89.144.35.231
     port: "18899"
     auth_str: dongtaiwang.com
@@ -74,7 +59,22 @@ proxies:
       - h3
     recv_window_conn: 69206016
     recv-window: 276824064
-  - name: 节点21
+  - name: 节点6
+    type: hysteria
+    server: 98.142.247.21
+    port: "39228"
+    auth_str: dongtaiwang.com
+    up: 100
+    down: 100
+    fast-open: true
+    protocol: udp
+    sni: apple.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+    recv_window_conn: 69206016
+    recv-window: 276824064
+  - name: 节点20
     type: hysteria
     server: 5.83.129.90
     port: 54177
