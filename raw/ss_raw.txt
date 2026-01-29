@@ -5,11 +5,23 @@ proxies:
     port: 443
     server: 63.180.254.10
     type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: The Netherlands_None_ss_1015
+    password: kaQH3hGdcP80XEDI
+    port: 443
+    server: admin.c2.havij.co
+    type: ss
   - cipher: aes-256-cfb
     name: United States_None_ss_1161
     password: amazonskr05
     port: 443
     server: 63.180.254.10
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: The Netherlands_None_ss_1173
+    password: kaQH3hGdcP80XEDI
+    port: 443
+    server: admin.c2.havij.co
     type: ss
   - name: United States_ss_61
     type: ss
@@ -65,11 +77,23 @@ proxies:
     port: 443
     server: 63.180.254.10
     type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: The Netherlands_None_ss_1015
+    password: kaQH3hGdcP80XEDI
+    port: 443
+    server: admin.c2.havij.co
+    type: ss
   - cipher: aes-256-cfb
     name: United States_None_ss_1161
     password: amazonskr05
     port: 443
     server: 63.180.254.10
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: The Netherlands_None_ss_1173
+    password: kaQH3hGdcP80XEDI
+    port: 443
+    server: admin.c2.havij.co
     type: ss
   - name: CN_speednode_0006
     server: mofacpdd.til69.com

@@ -12,21 +12,21 @@ proxies:
       public-key: pHn5CHa2P6-lNBIkTOI3zJQN19jfNFkXxGFuyefpP0M
       short-id: ""
     client-figerprint: chrome
-  - name: 节点14
+  - name: 节点16
     type: vless
     server: 62.210.127.177
     uuid: a1f699e4-d7b7-4cdc-8414-1105e08fe4c5
     port: 60011
     udp: true
     tls: true
-  - name: 节点16
+  - name: 节点17
     type: vless
     server: fan3.394615.xyz
     uuid: 8b66e552-e89d-4c4f-bb5a-e3d37bf151b8
     port: 34500
     udp: true
     tls: true
-  - name: 节点17
+  - name: 节点18
     type: vless
     server: 89.144.35.230
     uuid: 5cfc52bc-e701-4160-89df-930a0c040576
@@ -40,7 +40,7 @@ proxies:
     port: 11330
     udp: true
     tls: true
-  - name: 节点21
+  - name: 节点22
     type: vless
     server: 89.144.35.231
     uuid: 2460b5d1-0d74-427d-ad6c-bbe2aaab65cf
