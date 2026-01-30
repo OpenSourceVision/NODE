@@ -12,13 +12,13 @@ proxies:
     server: admin.c2.havij.co
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1161
+    name: United States_None_ss_1149
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
   - cipher: chacha20-ietf-poly1305
-    name: The Netherlands_None_ss_1173
+    name: The Netherlands_None_ss_1163
     password: kaQH3hGdcP80XEDI
     port: 443
     server: admin.c2.havij.co
@@ -84,35 +84,28 @@ proxies:
     server: admin.c2.havij.co
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1161
+    name: United States_None_ss_1149
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
   - cipher: chacha20-ietf-poly1305
-    name: The Netherlands_None_ss_1173
+    name: The Netherlands_None_ss_1163
     password: kaQH3hGdcP80XEDI
     port: 443
     server: admin.c2.havij.co
     type: ss
-  - name: CN_speednode_0006
-    server: mofacpdd.til69.com
-    port: 39841
+  - name: SG_speednode_0014
+    server: 103.36.91.32
+    port: 8388
     type: ss
-    cipher: chacha20-ietf-poly1305
-    password: 5d68d91f-ccc5-4c00-b1f6-0d764937f4f6
+    cipher: chacha20-ietf
+    password: asd123456
     udp: true
-  - name: FR_speednode_0009
-    server: 51.15.23.63
-    port: 989
+  - name: VN_speednode_0043
+    server: 103.186.155.3
+    port: 38388
     type: ss
     cipher: aes-256-cfb
-    password: f8f7aCzcPKbsF8p3
-    udp: true
-  - name: IL_speednode_0011
-    server: 185.241.5.151
-    port: 443
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: YZfUL9ixJ_Hl86vKK41CWg
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     udp: true
