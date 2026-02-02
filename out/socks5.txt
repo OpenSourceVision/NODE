@@ -1,4 +1,4 @@
-name: US_speednode_0026
+name: US_speednode_0013
 server: 174.138.61.184
 port: 1080
 type: socks5

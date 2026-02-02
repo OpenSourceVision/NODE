@@ -6,10 +6,22 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
+    name: South Korea_Songpa-gu_ss_1016
+    password: qwerREWQ@@
+    port: 13832
+    server: 221.150.109.19
+    type: ss
+  - cipher: aes-256-cfb
     name: United States_None_ss_1148
     password: amazonskr05
     port: 443
     server: 63.180.254.10
+    type: ss
+  - cipher: aes-256-cfb
+    name: South Korea_Songpa-gu_ss_1163
+    password: qwerREWQ@@
+    port: 13832
+    server: 221.150.109.19
     type: ss
   - name: United States_ss_61
     type: ss
@@ -66,8 +78,20 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
+    name: South Korea_Songpa-gu_ss_1016
+    password: qwerREWQ@@
+    port: 13832
+    server: 221.150.109.19
+    type: ss
+  - cipher: aes-256-cfb
     name: United States_None_ss_1148
     password: amazonskr05
     port: 443
     server: 63.180.254.10
+    type: ss
+  - cipher: aes-256-cfb
+    name: South Korea_Songpa-gu_ss_1163
+    password: qwerREWQ@@
+    port: 13832
+    server: 221.150.109.19
     type: ss
