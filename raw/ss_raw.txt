@@ -6,16 +6,10 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Seocho_ss_1015
+    name: South Korea_Dongjak-gu_ss_1015
     password: qwerREWQ@@
-    port: 53532
-    server: 210.217.18.68
-    type: ss
-  - cipher: aes-256-cfb
-    name: Vietnam_None_ss_1016
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.81
+    port: 16449
+    server: 218.50.149.114
     type: ss
   - cipher: aes-256-cfb
     name: United States_None_ss_1148
@@ -24,16 +18,10 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Seocho_ss_1162
+    name: South Korea_Dongjak-gu_ss_1162
     password: qwerREWQ@@
-    port: 53532
-    server: 210.217.18.68
-    type: ss
-  - cipher: aes-256-cfb
-    name: Vietnam_None_ss_1163
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.81
+    port: 16449
+    server: 218.50.149.114
     type: ss
   - name: United States_ss_61
     type: ss
@@ -90,16 +78,10 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Seocho_ss_1015
+    name: South Korea_Dongjak-gu_ss_1015
     password: qwerREWQ@@
-    port: 53532
-    server: 210.217.18.68
-    type: ss
-  - cipher: aes-256-cfb
-    name: Vietnam_None_ss_1016
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.81
+    port: 16449
+    server: 218.50.149.114
     type: ss
   - cipher: aes-256-cfb
     name: United States_None_ss_1148
@@ -108,16 +90,10 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: South Korea_Seocho_ss_1162
+    name: South Korea_Dongjak-gu_ss_1162
     password: qwerREWQ@@
-    port: 53532
-    server: 210.217.18.68
-    type: ss
-  - cipher: aes-256-cfb
-    name: Vietnam_None_ss_1163
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.81
+    port: 16449
+    server: 218.50.149.114
     type: ss
   - name: CN_speednode_0002
     server: 183.240.138.163

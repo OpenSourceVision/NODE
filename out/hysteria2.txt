@@ -1,8 +1,8 @@
 hysteria2://dongtaiwang.com@2001:bc8:32d7:17b::8:22000?insecure=1&sni=apple.com&fastopen=1#%E8%8A%82%E7%82%B96
-hysteria2://dongtaiwang.com@157.254.223.43:27921?insecure=1&sni=apple.com&fastopen=1#%E8%8A%82%E7%82%B97
-hysteria2://alvin9999.com@157.254.223.24:30088?insecure=1&sni=apple.com&fastopen=1#%E8%8A%82%E7%82%B98
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com&fastopen=1#%E8%8A%82%E7%82%B99
-hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?insecure=1&sni=apple.com&fastopen=1#%E8%8A%82%E7%82%B910
+hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?insecure=1&sni=apple.com&fastopen=1#%E8%8A%82%E7%82%B97
+hysteria2://dongtaiwang.com@157.254.223.43:27921?insecure=1&sni=apple.com&fastopen=1#%E8%8A%82%E7%82%B98
+hysteria2://alvin9999.com@157.254.223.24:30088?insecure=1&sni=apple.com&fastopen=1#%E8%8A%82%E7%82%B99
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com&fastopen=1#%E8%8A%82%E7%82%B910
 hysteria2://dongtaiwang.com@2a14:7584:d04a::a:50022?insecure=1&sni=apple.com&fastopen=1#%E8%8A%82%E7%82%B911
 hysteria2://dongtaiwang.com@74.63.233.74:33445?insecure=1&sni=www.bing.com&fastopen=1#United%20States_hysteria2_01
 hysteria2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=www.bing.com&fastopen=1#United%20States_hysteria2_71

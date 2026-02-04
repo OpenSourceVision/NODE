@@ -1,6 +1,19 @@
 proxies:
   - name: 节点13
     type: vmess
+    server: 104.21.238.35
+    uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
+    alterId: 0
+    port: 2086
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip29.9447609.xyz
+  - name: 节点14
+    type: vmess
     server: 2001:bc8:32d7:302::10
     uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
     alterId: 0
@@ -23,23 +36,10 @@ proxies:
     ws-opts:
       path: github.com/Alvin9999
       headers:
-        Host: ip29.9447609.xyz
-  - name: 节点18
-    type: vmess
-    server: 104.21.238.35
-    uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
-    alterId: 0
-    port: 2086
-    cipher: auto
-    udp: true
-    network: ws
-    ws-opts:
-      path: github.com/Alvin9999
-      headers:
         Host: ip19.9447609.xyz
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_102
+    name: Hong Kong_Tuen Mun_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -48,7 +48,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1017
+    name: Hong Kong_Tuen Mun_vmess_1016
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -255,7 +255,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1149
+    name: Hong Kong_Tuen Mun_vmess_1149
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -264,7 +264,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1164
+    name: Hong Kong_Tuen Mun_vmess_1163
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -274,7 +274,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_102
+    name: Hong Kong_Tuen Mun_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -283,7 +283,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1017
+    name: Hong Kong_Tuen Mun_vmess_1016
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -490,7 +490,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1149
+    name: Hong Kong_Tuen Mun_vmess_1149
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -499,7 +499,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1164
+    name: Hong Kong_Tuen Mun_vmess_1163
     network: tcp
     port: "30807"
     server: v10.hdacd.com
