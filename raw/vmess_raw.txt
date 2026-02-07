@@ -1,7 +1,7 @@
 proxies:
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_102
+    name: Hong Kong_Tuen Mun_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -10,7 +10,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1015
+    name: Hong Kong_Tuen Mun_vmess_1016
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -141,7 +141,7 @@ proxies:
       path: /
   - alterId: 0
     cipher: auto
-    name: China_None_vmess_1135
+    name: China_Shenzhen_vmess_1135
     network: tcp
     port: "43528"
     server: faq1.lieerr222.cn
@@ -150,7 +150,7 @@ proxies:
     uuid: 38cba758-a831-4869-a4b5-e1410a798c16
   - alterId: 0
     cipher: auto
-    name: China_None_vmess_1140
+    name: China_Shenzhen_vmess_1140
     network: tcp
     port: "43528"
     server: faq1.lieerr222.cn
@@ -217,7 +217,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1149
+    name: Hong Kong_Tuen Mun_vmess_1149
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -226,7 +226,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1162
+    name: Hong Kong_Tuen Mun_vmess_1163
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -236,7 +236,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_102
+    name: Hong Kong_Tuen Mun_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -245,7 +245,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1015
+    name: Hong Kong_Tuen Mun_vmess_1016
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -376,7 +376,7 @@ proxies:
       path: /
   - alterId: 0
     cipher: auto
-    name: China_None_vmess_1135
+    name: China_Shenzhen_vmess_1135
     network: tcp
     port: "43528"
     server: faq1.lieerr222.cn
@@ -385,7 +385,7 @@ proxies:
     uuid: 38cba758-a831-4869-a4b5-e1410a798c16
   - alterId: 0
     cipher: auto
-    name: China_None_vmess_1140
+    name: China_Shenzhen_vmess_1140
     network: tcp
     port: "43528"
     server: faq1.lieerr222.cn
@@ -452,7 +452,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1149
+    name: Hong Kong_Tuen Mun_vmess_1149
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -461,7 +461,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1162
+    name: Hong Kong_Tuen Mun_vmess_1163
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -469,3 +469,44 @@ proxies:
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - name: CN_speednode_0007
+    server: ncgddx.gdsxrk.com
+    port: 25210
+    type: vmess
+    uuid: 623787ef-7786-4572-abf5-0180892558aa
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    udp: true
+  - name: SC_speednode_0073
+    server: 154.83.2.156
+    port: 2086
+    type: vmess
+    uuid: 92373ed1-78a8-4cbe-aa06-54af1edd0471
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: v205.19740822.xyz
+    udp: true
+  - name: US_speednode_0082
+    server: nextmi.hajmyab.ir
+    port: 2053
+    type: vmess
+    uuid: 9585636a-54bc-419a-90a1-76c5c6ec74df
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: yakxvtfbyk.hajmyab.ir
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: app.hajmyab.ir
+    udp: true

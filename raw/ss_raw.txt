@@ -6,10 +6,22 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
+    name: South Korea_Seongbuk-gu_ss_1015
+    password: qwerREWQ@@
+    port: 25879
+    server: 168.126.234.233
+    type: ss
+  - cipher: aes-256-cfb
     name: United States_None_ss_1148
     password: amazonskr05
     port: 443
     server: 63.180.254.10
+    type: ss
+  - cipher: aes-256-cfb
+    name: South Korea_Seongbuk-gu_ss_1162
+    password: qwerREWQ@@
+    port: 25879
+    server: 168.126.234.233
     type: ss
   - name: United States_ss_61
     type: ss
@@ -66,22 +78,20 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
+    name: South Korea_Seongbuk-gu_ss_1015
+    password: qwerREWQ@@
+    port: 25879
+    server: 168.126.234.233
+    type: ss
+  - cipher: aes-256-cfb
     name: United States_None_ss_1148
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
-  - name: PL_speednode_0011
-    server: 217.30.10.70
-    port: 9098
+  - cipher: aes-256-cfb
+    name: South Korea_Seongbuk-gu_ss_1162
+    password: qwerREWQ@@
+    port: 25879
+    server: 168.126.234.233
     type: ss
-    cipher: aes-256-cfb
-    password: aLpQtfEZe445QyHk
-    udp: true
-  - name: US_speednode_0032
-    server: 13.217.198.211
-    port: 443
-    type: ss
-    cipher: aes-256-cfb
-    password: amazonskr05
-    udp: true
