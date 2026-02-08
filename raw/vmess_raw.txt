@@ -1,7 +1,7 @@
 proxies:
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_102
+    name: Hong Kong_North Point_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -10,7 +10,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_1016
+    name: Hong Kong_North Point_vmess_1016
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -199,7 +199,7 @@ proxies:
       path: /
   - alterId: 2
     cipher: auto
-    name: China_None_vmess_1146
+    name: Iran_Tehran_vmess_1146
     network: tcp
     port: "30809"
     server: v9.hdacd.com
@@ -208,7 +208,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: China_None_vmess_1147
+    name: Iran_Tehran_vmess_1147
     network: tcp
     port: "30808"
     server: v8.hdacd.com
@@ -217,7 +217,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_1149
+    name: Hong Kong_North Point_vmess_1149
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -226,7 +226,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_1163
+    name: Hong Kong_North Point_vmess_1163
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -236,7 +236,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_102
+    name: Hong Kong_North Point_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -245,7 +245,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_1016
+    name: Hong Kong_North Point_vmess_1016
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -434,7 +434,7 @@ proxies:
       path: /
   - alterId: 2
     cipher: auto
-    name: China_None_vmess_1146
+    name: Iran_Tehran_vmess_1146
     network: tcp
     port: "30809"
     server: v9.hdacd.com
@@ -443,7 +443,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: China_None_vmess_1147
+    name: Iran_Tehran_vmess_1147
     network: tcp
     port: "30808"
     server: v8.hdacd.com
@@ -452,7 +452,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_1149
+    name: Hong Kong_North Point_vmess_1149
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -461,7 +461,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_1163
+    name: Hong Kong_North Point_vmess_1163
     network: tcp
     port: "30807"
     server: v10.hdacd.com
