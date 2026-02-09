@@ -8,9 +8,24 @@ proxies:
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: Japan_None_vmess_1017
+    network: ws
+    port: "443"
+    server: tokyo01.zgjok.com
+    servername: tokyo01.zgjok.com
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: e6d5d668-2091-41d9-9bff-df0a1c5107ec
+    ws-opts:
+      headers:
+        Host: tokyo01.zgjok.com
+      path: /
   - alterId: 2
     cipher: auto
-    name: Hong Kong_North Point_vmess_1016
+    name: Hong Kong_North Point_vmess_1018
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -224,9 +239,24 @@ proxies:
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: Japan_None_vmess_1164
+    network: ws
+    port: "443"
+    server: tokyo01.zgjok.com
+    servername: tokyo01.zgjok.com
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: e6d5d668-2091-41d9-9bff-df0a1c5107ec
+    ws-opts:
+      headers:
+        Host: tokyo01.zgjok.com
+      path: /
   - alterId: 2
     cipher: auto
-    name: Hong Kong_North Point_vmess_1163
+    name: Hong Kong_North Point_vmess_1165
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -243,9 +273,24 @@ proxies:
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: Japan_None_vmess_1017
+    network: ws
+    port: "443"
+    server: tokyo01.zgjok.com
+    servername: tokyo01.zgjok.com
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: e6d5d668-2091-41d9-9bff-df0a1c5107ec
+    ws-opts:
+      headers:
+        Host: tokyo01.zgjok.com
+      path: /
   - alterId: 2
     cipher: auto
-    name: Hong Kong_North Point_vmess_1016
+    name: Hong Kong_North Point_vmess_1018
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -459,9 +504,24 @@ proxies:
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: Japan_None_vmess_1164
+    network: ws
+    port: "443"
+    server: tokyo01.zgjok.com
+    servername: tokyo01.zgjok.com
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: e6d5d668-2091-41d9-9bff-df0a1c5107ec
+    ws-opts:
+      headers:
+        Host: tokyo01.zgjok.com
+      path: /
   - alterId: 2
     cipher: auto
-    name: Hong Kong_North Point_vmess_1163
+    name: Hong Kong_North Point_vmess_1165
     network: tcp
     port: "30807"
     server: v10.hdacd.com

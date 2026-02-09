@@ -6,10 +6,16 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1015
-    password: amazonskr05
-    port: 443
-    server: 13.217.198.211
+    name: South Korea_Seongbuk-gu_ss_1015
+    password: qwerREWQ@@
+    port: 4469
+    server: 168.126.234.247
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: China_None_ss_1016
+    password: 66f89621-49f0-4788-85ce-f9a62537a8e4
+    port: 32058
+    server: hk3.network-cdn-gw-yd.net
     type: ss
   - cipher: aes-256-cfb
     name: United States_None_ss_1148
@@ -18,10 +24,16 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1162
-    password: amazonskr05
-    port: 443
-    server: 13.217.198.211
+    name: South Korea_Seongbuk-gu_ss_1162
+    password: qwerREWQ@@
+    port: 4469
+    server: 168.126.234.247
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: China_None_ss_1163
+    password: 66f89621-49f0-4788-85ce-f9a62537a8e4
+    port: 32058
+    server: hk3.network-cdn-gw-yd.net
     type: ss
   - name: United States_ss_61
     type: ss
@@ -78,10 +90,16 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1015
-    password: amazonskr05
-    port: 443
-    server: 13.217.198.211
+    name: South Korea_Seongbuk-gu_ss_1015
+    password: qwerREWQ@@
+    port: 4469
+    server: 168.126.234.247
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: China_None_ss_1016
+    password: 66f89621-49f0-4788-85ce-f9a62537a8e4
+    port: 32058
+    server: hk3.network-cdn-gw-yd.net
     type: ss
   - cipher: aes-256-cfb
     name: United States_None_ss_1148
@@ -90,8 +108,14 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1162
-    password: amazonskr05
-    port: 443
-    server: 13.217.198.211
+    name: South Korea_Seongbuk-gu_ss_1162
+    password: qwerREWQ@@
+    port: 4469
+    server: 168.126.234.247
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: China_None_ss_1163
+    password: 66f89621-49f0-4788-85ce-f9a62537a8e4
+    port: 32058
+    server: hk3.network-cdn-gw-yd.net
     type: ss
