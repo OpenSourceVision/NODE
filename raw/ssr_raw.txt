@@ -1,1 +1,67 @@
-ssr://c3otY20wMi55dWV0dWpzcTAxLmNjOjQxMjE4OmF1dGhfYWVzMTI4X3NoYTE6YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6T0dkNVJ6QTIvP2dyb3VwPVUxTlNVSEp2ZG1sa1pYSSZyZW1hcmtzPThKLVBzLS00ai1LQWpmQ2ZqSWdnVkc5clpXN2x0N0xscExIbWxZanZ2SXpvcjdmbGlZM2x2b0FnYUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDNkNlpHNTZaQzloWjJkeVpXZGhkRzl5TDJsemMzVmxjeTg1TVNEb2pyZmxqNWJtbklEbWxyQlViMnRsYmcmb2Jmc3BhcmFtPWJXbGpjbTl6YjJaMExtTnZiUSZwcm90b3BhcmFtPU1UQTVORFF4TkRwcVJYRTBUbU0
+proxies:
+  - name: CN_speednode_0002
+    server: show.bilibilicloud01.com
+    port: 54102
+    type: ssr
+    cipher: chacha20-ietf
+    password: Mv4e0QHWPwdbKiCF
+    protocol: auth_aes128_sha1
+    obfs: plain
+    protocol-param: 191365:qRBEUR0NMyemzYpH
+    obfs-param: ""
+    udp: true
+  - name: CN_speednode_0003
+    server: show.bilibilicloud01.com
+    port: 54101
+    type: ssr
+    cipher: chacha20-ietf
+    password: Mv4e0QHWPwdbKiCF
+    protocol: auth_aes128_sha1
+    obfs: plain
+    protocol-param: 191365:qRBEUR0NMyemzYpH
+    obfs-param: ""
+    udp: true
+  - name: CN_speednode_0004
+    server: show.bilibilicloud01.com
+    port: 54115
+    type: ssr
+    cipher: chacha20-ietf
+    password: Mv4e0QHWPwdbKiCF
+    protocol: auth_aes128_sha1
+    obfs: plain
+    protocol-param: 191365:qRBEUR0NMyemzYpH
+    obfs-param: ""
+    udp: true
+  - name: CN_speednode_0005
+    server: show.bilibilicloud01.com
+    port: 54114
+    type: ssr
+    cipher: chacha20-ietf
+    password: Mv4e0QHWPwdbKiCF
+    protocol: auth_aes128_sha1
+    obfs: plain
+    protocol-param: 191365:qRBEUR0NMyemzYpH
+    obfs-param: ""
+    udp: true
+  - name: CN_speednode_0012
+    server: live.bilibilicloud01.com
+    port: 54112
+    type: ssr
+    cipher: chacha20-ietf
+    password: Mv4e0QHWPwdbKiCF
+    protocol: auth_aes128_sha1
+    obfs: plain
+    protocol-param: 191365:qRBEUR0NMyemzYpH
+    obfs-param: ""
+    udp: true
+  - name: CN_speednode_0013
+    server: live.bilibilicloud01.com
+    port: 53845
+    type: ssr
+    cipher: chacha20-ietf
+    password: Mv4e0QHWPwdbKiCF
+    protocol: auth_aes128_sha1
+    obfs: plain
+    protocol-param: 191365:qRBEUR0NMyemzYpH
+    obfs-param: ""
+    udp: true

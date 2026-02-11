@@ -3,47 +3,47 @@ proxies:
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
     port: 3373
-    server: 52.195.8.127
+    server: 43.207.166.42
     skip-cert-verify: true
     sni: www.nintendogames.net
     type: trojan
-  - name: Hong Kong_None_trojan_104
+  - name: Hong Kong_San Po Kong_trojan_104
     network: tcp
     password: BxceQaOe
-    port: 4183
-    server: 43.199.47.199
+    port: 443
+    server: 203.198.123.162
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
-  - name: Hong Kong_None_trojan_105
+  - name: Hong Kong_Central_trojan_105
     network: tcp
     password: BxceQaOe
-    port: 3292
-    server: 43.199.47.199
+    port: 443
+    server: 58.152.18.130
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
   - name: Japan_Tokyo_trojan_106
     network: tcp
     password: BxceQaOe
-    port: 26378
-    server: 54.249.105.25
+    port: 2762
+    server: 13.115.255.135
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
     type: trojan
   - name: Japan_Tokyo_trojan_107
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 4006
-    server: 160.16.68.250
+    port: 1933
+    server: 43.207.149.110
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
   - name: Japan_Tokyo_trojan_108
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 4006
-    server: 160.16.138.24
+    port: 1933
+    server: 160.16.72.33
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
@@ -51,503 +51,218 @@ proxies:
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
     port: 3901
-    server: 160.16.138.24
+    server: 160.16.106.99
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
   - name: Japan_Tokyo_trojan_1010
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 3901
-    server: 153.121.45.139
+    port: 544
+    server: 160.16.124.17
     skip-cert-verify: true
     sni: www.nintendogames.net
     type: trojan
-  - name: Hong Kong_None_trojan_1011
+  - name: Japan_Tokyo_trojan_1011
     network: tcp
     password: BxceQaOe
-    port: 381
-    server: 43.198.233.56
+    port: 1691
+    server: 54.150.247.142
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
     type: trojan
   - name: Japan_Tokyo_trojan_1012
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 127
-    server: 54.250.24.198
+    port: 276
+    server: 160.16.72.205
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
   - name: Japan_Tokyo_trojan_1013
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 127
-    server: 160.16.85.33
+    port: 276
+    server: 43.207.149.110
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
   - name: Hong Kong_None_trojan_1014
     network: tcp
     password: BxceQaOe
-    port: 2569
-    server: 43.199.47.199
+    port: 3159
+    server: 18.163.2.13
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
-  - name: France_None_trojan_1016
-    network: ws
-    password: iwangjie
-    port: 2053
-    server: 135.125.232.253
+  - name: Germany_Frankfurt am Main_trojan_1016
+    password: telegram-id-directvpn
+    port: 22223
+    server: 3.77.68.129
     skip-cert-verify: true
-    sni: nodes.830901.xyz
+    sni: trojan.burgerip.co.uk
     type: trojan
     udp: true
-    ws-opts:
-      headers:
-        Host: nodes.830901.xyz
-      path: /?ed=2560
-  - name: Hong Kong_Hung Hom_trojan_1017
-    password: BxceQaOe
-    port: 443
-    server: 112.120.31.36
-    skip-cert-verify: true
-    sni: t.me/ripaojiedian
-    type: trojan
-    udp: true
-  - name: Hong Kong_Hung Hom_trojan_1018
-    password: BxceQaOe
-    port: 443
-    server: 112.120.31.36
+  - name: Germany_Frankfurt am Main_trojan_1017
+    password: telegram-id-directvpn
+    port: 22223
+    server: 18.195.91.205
     skip-cert-verify: true
     type: trojan
     udp: true
-  - name: Hong Kong_Hung Hom_trojan_1019
-    password: BxceQaOe
-    port: 443
-    server: 112.120.31.36
+  - name: France_Paris_trojan_1018
+    password: telegram-id-privatevpns
+    port: 22222
+    server: 35.180.72.19
     skip-cert-verify: true
-    sni: t.me%2Fripaojiedian
+    sni: trojan.burgerip.co.uk
     type: trojan
     udp: true
-  - name: United States_None_trojan_1020
-    network: ws
-    password: Aimer
-    port: 2053
-    server: 167.68.4.199
-    skip-cert-verify: false
-    sni: epge.muarua.filegear-sg.me
+  - name: Indonesia_Jakarta_trojan_1019
+    password: M7v%w11Se*
+    port: 443
+    server: qfdfsg.wsone.icu
+    skip-cert-verify: true
+    sni: qfdfsg.wsone.icu
     type: trojan
     udp: true
-    ws-opts:
-      headers:
-        Host: epge.muarua.filegear-sg.me
-      path: /
-  - name: United States_None_trojan_1112
-    network: ws
-    password: humanity
-    port: 443
-    server: v1.dabache.top
-    skip-cert-verify: true
-    sni: www.gossipglove.com
-    type: trojan
-    ws-opts:
-      headers:
-        Host: www.gossipglove.com
-      path: "%2Fassignment%23%E2%9C%85%40AR14N24b%F0%9F%A4%96%D8%A8%D9%87%D8%AA%D8%B1\
-        %DB%8C%D9%86%2B%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1%2B%D8%B1%D9%81%D8%B\
-        9%2B%D9%85%D8%B4%DA%A9%D9%84%2B%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%2B%D8%A8%\
-        D9%87%2B%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%2F%D9%81%DB%8C%D9%84%D8%AA\
-        %D8%B1%D8%B4%DA%A9%D9%86%2B%F0%9F%A7%A0%23%DA%A9%D8%A7%D9%86%D9%81%DB%8\
-        C%DA%AF%2B%23proxy%2B%23v2ray%2B%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86\
-        %D8%AA"
-  - name: Hong Kong_Hung Hom_trojan_1113
+  - name: Taiwan_Chiayi City_trojan_1113
     network: tcp
-    password: BxceQaOe
-    port: 443
-    server: 112.120.31.36
-    skip-cert-verify: true
-    sni: t.me%2Fripaojiedian
-    type: trojan
-    udp: true
-  - name: United States_None_trojan_1114
-    network: ws
-    password: humanity
-    port: 443
-    server: v1.dabache.top
-    skip-cert-verify: true
-    sni: www.multiplydose.com
-    type: trojan
-    ws-opts:
-      headers:
-        Host: www.multiplydose.com
-      path: "%2Fassignment"
-  - name: None_None_trojan_1115
-    network: ws
-    password: humanity
-    port: 443
-    server: v3.dabache.top
-    skip-cert-verify: true
-    sni: www.gossipglove.com
-    type: trojan
-    ws-opts:
-      headers:
-        Host: www.gossipglove.com
-      path: "%2Fassignment"
-  - name: United States_San Francisco_trojan_1116
-    network: ws
-    password: humanity
-    port: 443
-    server: v3.dabache.top
-    skip-cert-verify: true
-    sni: www.multiplydose.com
-    type: trojan
-    ws-opts:
-      headers:
-        Host: www.multiplydose.com
-      path: "%2Fassignment%23%E2%9C%85%40AR14N24b%F0%9F%A4%96%D8%A8%D9%87%D8%AA%D8%B1\
-        %DB%8C%D9%86%2B%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1%2B%D8%B1%D9%81%D8%B\
-        9%2B%D9%85%D8%B4%DA%A9%D9%84%2B%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%2B%D8%A8%\
-        D9%87%2B%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%2F%D9%81%DB%8C%D9%84%D8%AA\
-        %D8%B1%D8%B4%DA%A9%D9%86%2B%F0%9F%A7%A0%23%DA%A9%D8%A7%D9%86%D9%81%DB%8\
-        C%DA%AF%2B%23proxy%2B%23v2ray%2B%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86\
-        %D8%AA"
-  - name: United States_None_trojan_1117
-    network: ws
-    password: humanity
-    port: 443
-    server: v1.dabache.top
-    skip-cert-verify: true
-    sni: www.creationlong.org
-    type: trojan
-    ws-opts:
-      headers:
-        Host: www.creationlong.org
-      path: "%2Fassignment"
-  - name: United States_San Francisco_trojan_1118
-    network: ws
-    password: humanity
-    port: 443
-    server: v3.dabache.top
-    skip-cert-verify: true
-    sni: www.gossipglove.com
-    type: trojan
-    ws-opts:
-      headers:
-        Host: www.gossipglove.com
-      path: "%2Fassignment%23%E2%9C%85%40AR14N24b%F0%9F%A4%96%D8%A8%D9%87%D8%AA%D8%B1\
-        %DB%8C%D9%86%2B%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1%2B%D8%B1%D9%81%D8%B\
-        9%2B%D9%85%D8%B4%DA%A9%D9%84%2B%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%2B%D8%A8%\
-        D9%87%2B%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%2F%D9%81%DB%8C%D9%84%D8%AA\
-        %D8%B1%D8%B4%DA%A9%D9%86%2B%F0%9F%A7%A0%23%DA%A9%D8%A7%D9%86%D9%81%DB%8\
-        C%DA%AF%2B%23proxy%2B%23v2ray%2B%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86\
-        %D8%AA"
-  - name: United Kingdom_None_trojan_1121
-    network: tcp
-    password: 27d93496-4e8a-4a1a-89ba-d3c6eab0f3dc
-    port: 41274
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: xiaozhu1.kkieo555.cn
-    type: trojan
-  - name: United Kingdom_None_trojan_1122
-    network: tcp
-    password: 27d93496-4e8a-4a1a-89ba-d3c6eab0f3dc
-    port: 41274
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: douyin.com
-    type: trojan
-  - name: United Kingdom_None_trojan_1123
-    network: tcp
-    password: feaf546b-95ef-4b98-93e6-e61392a72be0
-    port: 49213
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: xiaozhu1.kkieo555.cn
-    type: trojan
-  - name: United Kingdom_None_trojan_1124
-    network: tcp
-    password: 01b1a230-078a-45ad-8d9a-8ba7ac819681
-    port: 41274
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: xiaozhu1.kkieo555.cn
-    type: trojan
-  - name: United Kingdom_None_trojan_1125
-    network: tcp
-    password: 70af5c09-8227-49f1-a0d4-1fa7451ae352
-    port: 41274
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: xiaozhu1.kkieo555.cn
-    type: trojan
-  - name: United Kingdom_None_trojan_1126
-    network: tcp
-    password: 9b37f0c7-8673-4237-846e-eef499e2e6aa
-    port: 49213
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: xiaozhu1.kkieo555.cn
-    type: trojan
-  - name: None_None_trojan_1128
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2087
-    server: bestcdn0.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091711348.682637.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091715419.682637.xyz
-      path: "%2Fahyrtuyjykl"
-  - name: None_None_trojan_1129
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2087
-    server: bestcdn0.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091711904.682637.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091712351.682637.xyz
-      path: "%2Fahyrtuyjykl"
-  - name: United States_San Francisco_trojan_1130
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2087
-    server: bestcdn0.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091716734.682637.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091713942.682637.xyz
-      path: "%2Fahyrtuyjykl"
-  - name: None_None_trojan_1131
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2087
-    server: bestcdn0.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091711990.682637.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091713748.682637.xyz
-      path: "%2Fahyrtuyjykl"
-  - name: None_None_trojan_1132
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2096
-    server: bestcdn0.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091715507.682637.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091713485.682637.xyz
-      path: "%2Fahyrtuyjykl"
-  - name: United States_San Francisco_trojan_1133
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 8443
-    server: bestcdn0.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091719765.682637.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091711929.682637.xyz
-      path: "%2Fahyrtuyjykl"
-  - name: None_None_trojan_1134
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 8443
-    server: bestcdn0.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091711014.682637.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091714974.682637.xyz
-      path: "%2Fahyrtuyjykl"
-  - name: None_None_trojan_1135
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2053
-    server: bestcdn0.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091712706.682637.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091715099.682637.xyz
-      path: "%2Fahyrtuyjykl"
-  - name: None_None_trojan_1136
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2096
-    server: bestcdn1.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091711317.206353.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091716633.206353.xyz
-      path: "%2Fagrbniuh"
-  - name: None_None_trojan_1137
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2087
-    server: bestcdn1.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091711680.206355.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091714289.206355.xyz
-      path: "%2Fvideomuaawe"
-  - name: None_None_trojan_1138
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2083
-    server: bestcdn2.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091714560.206352.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091715692.206352.xyz
-      path: "%2Fagraeabtegrrh"
-  - name: None_None_trojan_1139
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2087
-    server: bestcdn2.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091716314.206353.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091717095.206353.xyz
-      path: "%2Fagrbniuh"
-  - name: None_None_trojan_1140
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2087
-    server: bestcdn3.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091711272.206352.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091716771.206352.xyz
-      path: "%2Fagraeabtegrrh"
-  - name: None_None_trojan_1141
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2083
-    server: bestcdn3.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091712794.206353.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091719622.206353.xyz
-      path: "%2Fagrbniuh"
-  - name: None_None_trojan_1142
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2096
-    server: bestcdn4.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091716780.206352.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091711855.206352.xyz
-      path: "%2Fagraeabtegrrh"
-  - name: None_None_trojan_1143
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 8443
-    server: bestcdn4.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091712616.206353.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091712687.206353.xyz
-      path: "%2Fagrbniuh"
-  - name: None_None_trojan_1144
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2083
-    server: bestcdn4.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091719480.206355.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091718356.206355.xyz
-      path: "%2Fvideomuaawe"
-  - name: United States_None_trojan_1145
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 8443
-    server: bestcdn5.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091718775.206352.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091714798.206352.xyz
-      path: "%2Fagraeabtegrrh"
-  - name: United States_None_trojan_1146
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2053
-    server: bestcdn5.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091718618.206353.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091713495.206353.xyz
-      path: "%2Fagrbniuh"
-  - name: None_None_trojan_1147
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 8443
-    server: bestcdn5.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091715029.206355.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091718999.206355.xyz
-      path: "%2Fvideomuaawe"
-  - name: Taiwan_Chiayi City_trojan_1148
-    network: tcp
-    password: 5d391cba-c937-48f4-8d0d-0045c1934a56
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1149
-    network: tcp
-    password: 826d33e2-ca5a-402a-ba5f-3aca73fe872e
+    password: 155bc127-485a-44b2-8e38-3fbf711a6e25
     port: 31103
     server: green2.cdntencentmusic.com
     skip-cert-verify: true
     sni: green2.cdntencentmusic.com
     type: trojan
-  - name: Hong Kong_Tsim Sha Tsui_trojan_1150
+  - name: Taiwan_Chiayi City_trojan_1114
+    network: tcp
+    password: 2c621c92-d595-45b5-ad62-2f69a3d62a54
+    port: 31103
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1115
+    network: tcp
+    password: 91cec748-2bd4-4608-89a3-09220e1599f9
+    port: 31103
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1116
+    network: tcp
+    password: 91cec748-2bd4-4608-89a3-09220e1599f9
+    port: 31102
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1117
+    network: tcp
+    password: 4755e7eb-1d68-4808-ab81-18de1e602290
+    port: 31103
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1118
+    network: tcp
+    password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4
+    port: 31103
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1119
+    network: tcp
+    password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4
+    port: 31102
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1120
+    network: tcp
+    password: 155bc127-485a-44b2-8e38-3fbf711a6e25
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1121
+    network: tcp
+    password: b17cb30b-8379-471b-861e-c5fbf218a8fd
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1122
+    network: tcp
+    password: 91cec748-2bd4-4608-89a3-09220e1599f9
+    port: 35502
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1123
+    network: tcp
+    password: d7190512-c1fa-466f-8dd5-07a736738ec0
+    port: 31103
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1124
+    network: tcp
+    password: d7190512-c1fa-466f-8dd5-07a736738ec0
+    port: 35501
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1125
+    network: tcp
+    password: 33f64b81-358b-467f-bc9f-8780090c88de
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1126
+    network: tcp
+    password: 91cec748-2bd4-4608-89a3-09220e1599f9
+    port: 35501
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1127
+    network: tcp
+    password: 91cec748-2bd4-4608-89a3-09220e1599f9
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1128
+    network: tcp
+    password: b17cb30b-8379-471b-861e-c5fbf218a8fd
+    port: 31103
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1129
+    network: tcp
+    password: 4755e7eb-1d68-4808-ab81-18de1e602290
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Hong Kong_Tsim Sha Tsui_trojan_1131
     network: tcp
     password: BxceQaOe
     port: 443
@@ -555,455 +270,7 @@ proxies:
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
-  - name: Taiwan_Chiayi City_trojan_1151
-    network: tcp
-    password: 4755e7eb-1d68-4808-ab81-18de1e602290
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1152
-    network: tcp
-    password: 63db9d3f-4149-4013-bbc8-bd7c53fd6ed5
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1153
-    network: tcp
-    password: 77361e59-013e-4ef6-9531-16f5a631a8e2
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1154
-    network: tcp
-    password: 77361e59-013e-4ef6-9531-16f5a631a8e2
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1155
-    network: tcp
-    password: 2ce584a8-9960-4e1f-a820-30e54822c839
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1156
-    network: tcp
-    password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1157
-    network: tcp
-    password: 91cec748-2bd4-4608-89a3-09220e1599f9
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1158
-    network: tcp
-    password: 33f64b81-358b-467f-bc9f-8780090c88de
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1159
-    network: tcp
-    password: 5d391cba-c937-48f4-8d0d-0045c1934a56
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1160
-    network: tcp
-    password: 7612839c-f62f-42cc-9051-8413b5a8cbcf
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1161
-    network: tcp
-    password: 7612839c-f62f-42cc-9051-8413b5a8cbcf
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1162
-    network: tcp
-    password: 2ce584a8-9960-4e1f-a820-30e54822c839
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1163
-    network: tcp
-    password: 4755e7eb-1d68-4808-ab81-18de1e602290
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1164
-    network: tcp
-    password: 77361e59-013e-4ef6-9531-16f5a631a8e2
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1165
-    network: tcp
-    password: 63db9d3f-4149-4013-bbc8-bd7c53fd6ed5
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1166
-    network: tcp
-    password: 33f64b81-358b-467f-bc9f-8780090c88de
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1167
-    network: tcp
-    password: b17cb30b-8379-471b-861e-c5fbf218a8fd
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1168
-    network: tcp
-    password: 155bc127-485a-44b2-8e38-3fbf711a6e25
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1169
-    network: tcp
-    password: 7612839c-f62f-42cc-9051-8413b5a8cbcf
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1170
-    network: tcp
-    password: b9c65989-f046-476a-b3ca-fe0549787f08
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1171
-    network: tcp
-    password: b9c65989-f046-476a-b3ca-fe0549787f08
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1172
-    network: tcp
-    password: 63db9d3f-4149-4013-bbc8-bd7c53fd6ed5
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1173
-    network: tcp
-    password: 4bed2818-3e4e-4d44-b8fb-c4b71544673a
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1174
-    network: tcp
-    password: b17cb30b-8379-471b-861e-c5fbf218a8fd
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1175
-    network: tcp
-    password: d7190512-c1fa-466f-8dd5-07a736738ec0
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1176
-    network: tcp
-    password: 91cec748-2bd4-4608-89a3-09220e1599f9
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1177
-    network: tcp
-    password: d7190512-c1fa-466f-8dd5-07a736738ec0
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1178
-    network: tcp
-    password: 7612839c-f62f-42cc-9051-8413b5a8cbcf
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1179
-    network: tcp
-    password: 77361e59-013e-4ef6-9531-16f5a631a8e2
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1180
-    network: tcp
-    password: b17cb30b-8379-471b-861e-c5fbf218a8fd
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1181
-    network: tcp
-    password: 33f64b81-358b-467f-bc9f-8780090c88de
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1182
-    network: tcp
-    password: 155bc127-485a-44b2-8e38-3fbf711a6e25
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1183
-    network: tcp
-    password: 155bc127-485a-44b2-8e38-3fbf711a6e25
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1184
-    network: tcp
-    password: 4bed2818-3e4e-4d44-b8fb-c4b71544673a
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1185
-    network: tcp
-    password: 4bed2818-3e4e-4d44-b8fb-c4b71544673a
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1186
-    network: tcp
-    password: b17cb30b-8379-471b-861e-c5fbf218a8fd
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1187
-    network: tcp
-    password: d7190512-c1fa-466f-8dd5-07a736738ec0
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1188
-    network: tcp
-    password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1189
-    network: tcp
-    password: 5d391cba-c937-48f4-8d0d-0045c1934a56
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1190
-    network: tcp
-    password: 63db9d3f-4149-4013-bbc8-bd7c53fd6ed5
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1191
-    network: tcp
-    password: 4bed2818-3e4e-4d44-b8fb-c4b71544673a
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1192
-    network: tcp
-    password: 155bc127-485a-44b2-8e38-3fbf711a6e25
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1193
-    network: tcp
-    password: 33f64b81-358b-467f-bc9f-8780090c88de
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1194
-    network: tcp
-    password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1195
-    network: tcp
-    password: 155bc127-485a-44b2-8e38-3fbf711a6e25
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1196
-    network: tcp
-    password: 2ce584a8-9960-4e1f-a820-30e54822c839
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1197
-    network: tcp
-    password: b17cb30b-8379-471b-861e-c5fbf218a8fd
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1198
-    network: tcp
-    password: 4755e7eb-1d68-4808-ab81-18de1e602290
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1199
-    network: tcp
-    password: 4755e7eb-1d68-4808-ab81-18de1e602290
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11100
-    network: tcp
-    password: 5d391cba-c937-48f4-8d0d-0045c1934a56
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11101
-    network: tcp
-    password: 91cec748-2bd4-4608-89a3-09220e1599f9
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11102
-    network: tcp
-    password: 2ce584a8-9960-4e1f-a820-30e54822c839
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11103
-    network: tcp
-    password: 91cec748-2bd4-4608-89a3-09220e1599f9
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11104
-    network: tcp
-    password: d7190512-c1fa-466f-8dd5-07a736738ec0
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11105
-    network: tcp
-    password: 33f64b81-358b-467f-bc9f-8780090c88de
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11106
-    network: tcp
-    password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Hong Kong_Tsim Sha Tsui_trojan_11107
+  - name: Hong Kong_Tsim Sha Tsui_trojan_1132
     network: tcp
     password: BxceQaOe
     port: 443
@@ -1011,7 +278,7 @@ proxies:
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
     type: trojan
-  - name: Hong Kong_Tsim Sha Tsui_trojan_11108
+  - name: Hong Kong_Tsim Sha Tsui_trojan_1133
     network: tcp
     password: BxceQaOe
     port: 443
@@ -1019,7 +286,7 @@ proxies:
     skip-cert-verify: true
     sni: 219.76.135.98
     type: trojan
-  - name: Hong Kong_Tsim Sha Tsui_trojan_11109
+  - name: Hong Kong_Tsim Sha Tsui_trojan_1134
     network: tcp
     password: BxceQaOe
     port: 443
@@ -1027,492 +294,610 @@ proxies:
     skip-cert-verify: true
     sni: t.me%25252Fripaojiedian
     type: trojan
-  - name: India_Mumbai_trojan_11114
+  - name: Taiwan_Chiayi City_trojan_1139
     network: tcp
-    password: M7v%w11Se*
-    port: 443
-    server: tttyder.wsone.icu
-    skip-cert-verify: true
-    sni: tttyder.wsone.icu
-    type: trojan
-  - name: Bahrain_None_trojan_11117
-    network: tcp
-    password: M7v%w11Se*
-    port: 443
-    server: blaab.wsone.icu
-    skip-cert-verify: true
-    sni: blaab.wsone.icu
-    type: trojan
-  - name: China_None_trojan_11118
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 56115
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11119
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59025
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11120
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59115
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11121
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59020
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11122
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 56006
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11123
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59023
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11124
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59022
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11125
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59028
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11126
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59032
-    server: eluosi.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11127
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 48111
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11128
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 48113
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11129
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59017
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11130
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59006
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11131
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59114
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11132
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59005
-    server: feilvbin.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11133
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59027
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11134
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59117
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11135
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59044
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11136
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59214
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11137
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59081
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11138
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59046
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11139
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59047
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11140
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59019
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11141
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59021
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11142
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59013
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: United Kingdom_None_trojan_11144
-    network: tcp
-    password: dab4478d-0be0-4bdc-a440-79cd262a16f6
-    port: 41273
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: douyin.com
-    type: trojan
-  - name: United Kingdom_None_trojan_11145
-    network: tcp
-    password: ee88c35b-d0b7-4335-b56f-201d52297509
-    port: 41275
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: xiaozhu1.kkieo555.cn
-    type: trojan
-  - name: United Kingdom_None_trojan_11146
-    network: tcp
-    password: dab4478d-0be0-4bdc-a440-79cd262a16f6
-    port: 41273
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: xiaozhu1.kkieo555.cn
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11147
-    network: tcp
-    password: a57838d4-ae5f-4c76-bc59-a9f5c898d974
-    port: 31101
+    password: 155bc127-485a-44b2-8e38-3fbf711a6e25
+    port: 35501
     server: green2.cdntencentmusic.com
     skip-cert-verify: true
     sni: green2.cdntencentmusic.com
     type: trojan
-  - name: Taiwan_Chiayi City_trojan_11149
+  - name: Taiwan_Chiayi City_trojan_1140
     network: tcp
-    password: 9ab2376f-b8d8-489b-947c-7afdb268d5f8
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11150
-    network: tcp
-    password: f2012247-f000-4931-b2e8-ebfca5978c3c
+    password: 63db9d3f-4149-4013-bbc8-bd7c53fd6ed5
     port: 31103
     server: green2.cdntencentmusic.com
     skip-cert-verify: true
     sni: green2.cdntencentmusic.com
     type: trojan
-  - name: Taiwan_Chiayi City_trojan_11151
+  - name: Taiwan_Chiayi City_trojan_1141
     network: tcp
-    password: 2c455b22-fde6-4fed-93da-56894a13a10c
+    password: 63db9d3f-4149-4013-bbc8-bd7c53fd6ed5
     port: 35501
     server: green2.cdntencentmusic.com
     skip-cert-verify: true
     sni: green2.cdntencentmusic.com
     type: trojan
-  - name: Taiwan_Chiayi City_trojan_11152
+  - name: Taiwan_Chiayi City_trojan_1142
     network: tcp
-    password: dbf39cc7-488b-482c-b7ba-48ca63dc46c5
+    password: 33f64b81-358b-467f-bc9f-8780090c88de
+    port: 35501
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1143
+    network: tcp
+    password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4
+    port: 35501
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: United States_San Francisco_trojan_1144
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2087
+    server: bestcdn0.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072626157.682637.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072625763.682637.xyz
+      path: "%2Fahyrtuyjykl"
+  - name: None_None_trojan_1145
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2087
+    server: bestcdn0.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072621285.682637.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072629382.682637.xyz
+      path: "%2Fahyrtuyjykl"
+  - name: United States_San Francisco_trojan_1146
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2087
+    server: bestcdn0.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072628911.682637.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072629966.682637.xyz
+      path: "%2Fahyrtuyjykl"
+  - name: None_None_trojan_1147
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2087
+    server: bestcdn0.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072626509.682637.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072624880.682637.xyz
+      path: "%2Fahyrtuyjykl"
+  - name: None_None_trojan_1148
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2096
+    server: bestcdn0.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072626709.682637.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072623462.682637.xyz
+      path: "%2Fahyrtuyjykl"
+  - name: United States_San Francisco_trojan_1149
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 8443
+    server: bestcdn0.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072628740.682637.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072629954.682637.xyz
+      path: "%2Fahyrtuyjykl"
+  - name: United States_San Francisco_trojan_1150
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 8443
+    server: bestcdn0.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072624380.682637.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072628988.682637.xyz
+      path: "%2Fahyrtuyjykl"
+  - name: United States_San Francisco_trojan_1151
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2053
+    server: bestcdn0.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072626229.682637.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072623164.682637.xyz
+      path: "%2Fahyrtuyjykl"
+  - name: None_None_trojan_1152
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2053
+    server: bestcdn1.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072625537.206352.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072627904.206352.xyz
+      path: "%2Fagraeabtegrrh"
+  - name: None_None_trojan_1153
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2096
+    server: bestcdn1.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072627877.206353.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072623964.206353.xyz
+      path: "%2Fagrbniuh"
+  - name: None_None_trojan_1154
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2087
+    server: bestcdn1.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072624502.206355.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072623993.206355.xyz
+      path: "%2Fvideomuaawe"
+  - name: None_None_trojan_1155
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2087
+    server: bestcdn1.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072628528.206356.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072623138.206356.xyz
+      path: "%2Fdmusicmuaawe"
+  - name: None_None_trojan_1156
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2083
+    server: bestcdn2.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072627267.206352.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072623769.206352.xyz
+      path: "%2Fagraeabtegrrh"
+  - name: None_None_trojan_1157
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2087
+    server: bestcdn2.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072623862.206353.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072625362.206353.xyz
+      path: "%2Fagrbniuh"
+  - name: None_None_trojan_1158
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2096
+    server: bestcdn2.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072629929.206355.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072622530.206355.xyz
+      path: "%2Fvideomuaawe"
+  - name: None_None_trojan_1159
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2096
+    server: bestcdn2.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072626187.206356.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072625689.206356.xyz
+      path: "%2Fdmusicmuaawe"
+  - name: None_None_trojan_1160
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2087
+    server: bestcdn3.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072628636.206352.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072625687.206352.xyz
+      path: "%2Fagraeabtegrrh"
+  - name: None_None_trojan_1161
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2083
+    server: bestcdn3.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072621507.206353.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072621689.206353.xyz
+      path: "%2Fagrbniuh"
+  - name: None_None_trojan_1162
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2053
+    server: bestcdn3.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072624113.206355.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072623565.206355.xyz
+      path: "%2Fvideomuaawe"
+  - name: None_None_trojan_1163
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2053
+    server: bestcdn3.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072621786.206356.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072627671.206356.xyz
+      path: "%2Fdmusicmuaawe"
+  - name: None_None_trojan_1164
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2096
+    server: bestcdn4.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072628352.206352.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072628400.206352.xyz
+      path: "%2Fagraeabtegrrh"
+  - name: None_None_trojan_1165
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 8443
+    server: bestcdn4.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072622231.206353.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072624307.206353.xyz
+      path: "%2Fagrbniuh"
+  - name: None_None_trojan_1166
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2083
+    server: bestcdn4.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072623459.206355.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072629215.206355.xyz
+      path: "%2Fvideomuaawe"
+  - name: None_None_trojan_1167
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2083
+    server: bestcdn4.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072625761.206356.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072628453.206356.xyz
+      path: "%2Fdmusicmuaawe"
+  - name: United States_None_trojan_1168
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 8443
+    server: bestcdn5.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072625014.206352.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072628132.206352.xyz
+      path: "%2Fagraeabtegrrh"
+  - name: United States_None_trojan_1169
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2053
+    server: bestcdn5.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072622347.206353.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072625920.206353.xyz
+      path: "%2Fagrbniuh"
+  - name: None_None_trojan_1170
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 8443
+    server: bestcdn5.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072622995.206355.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072623174.206355.xyz
+      path: "%2Fvideomuaawe"
+  - name: United States_None_trojan_1171
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 8443
+    server: bestcdn5.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072625115.206356.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072627051.206356.xyz
+      path: "%2Fdmusicmuaawe"
+  - name: Taiwan_Chiayi City_trojan_1174
+    network: tcp
+    password: b9c65989-f046-476a-b3ca-fe0549787f08
     port: 31101
     server: green2.cdntencentmusic.com
     skip-cert-verify: true
     sni: green2.cdntencentmusic.com
     type: trojan
-  - name: Taiwan_Chiayi City_trojan_11153
+  - name: Taiwan_Chiayi City_trojan_1175
     network: tcp
-    password: 56db783b-0fce-4ba9-999f-bbf92ae62d03
-    port: 31102
+    password: b9c65989-f046-476a-b3ca-fe0549787f08
+    port: 31103
     server: green2.cdntencentmusic.com
     skip-cert-verify: true
     sni: green2.cdntencentmusic.com
     type: trojan
-  - name: Taiwan_Chiayi City_trojan_11154
+  - name: United States_Los Angeles_trojan_1182
     network: tcp
-    password: 2c621c92-d595-45b5-ad62-2f69a3d62a54
-    port: 35502
-    server: green2.cdntencentmusic.com
+    password: hSA6YXe15O
+    port: 443
+    server: 104.11.86.252
     skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
+    sni: 104.11.86.252
     type: trojan
-  - name: Taiwan_Chiayi City_trojan_11155
+  - name: United States_Los Angeles_trojan_1183
     network: tcp
-    password: d166d761-13f5-4cc9-b98c-8c3b2341cf0d
-    port: 35501
-    server: green2.cdntencentmusic.com
+    password: hSA6YXe15O
+    port: 443
+    server: 104.11.86.252
     skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
+    sni: Telegram%20%20%20%20%20%20%20%20%20%20%20%20%2B%40WangCai2
     type: trojan
-  - name: Japan_Tokyo_trojan_11158
+  - name: United States_Los Angeles_trojan_1184
+    network: tcp
+    password: hSA6YXe15O
+    port: 443
+    server: 104.11.86.252
+    skip-cert-verify: true
+    sni: Telegram%20%2B%40WangCai2
+    type: trojan
+  - name: United States_Los Angeles_trojan_1185
+    network: tcp
+    password: hSA6YXe15O
+    port: 443
+    server: 104.11.86.252
+    skip-cert-verify: true
+    sni: Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2
+    type: trojan
+  - name: United States_Los Angeles_trojan_1186
+    network: tcp
+    password: hSA6YXe15O
+    port: 443
+    server: 104.11.86.252
+    skip-cert-verify: true
+    sni: Telegram%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%2B%40WangCai2
+    type: trojan
+  - name: Japan_Tokyo_trojan_1189
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
     port: 3373
-    server: 52.195.8.127
+    server: 43.207.166.42
     skip-cert-verify: true
     sni: www.nintendogames.net
     type: trojan
-  - name: Hong Kong_None_trojan_11159
+  - name: Hong Kong_San Po Kong_trojan_1190
     network: tcp
     password: BxceQaOe
-    port: 4183
-    server: 43.199.47.199
+    port: 443
+    server: 203.198.123.162
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
-  - name: Hong Kong_None_trojan_11160
+  - name: Hong Kong_Central_trojan_1191
     network: tcp
     password: BxceQaOe
-    port: 3292
-    server: 43.199.47.199
+    port: 443
+    server: 58.152.18.130
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
-  - name: Japan_Tokyo_trojan_11161
+  - name: Japan_Tokyo_trojan_1192
     network: tcp
     password: BxceQaOe
-    port: 26378
-    server: 54.249.105.25
+    port: 2762
+    server: 13.115.255.135
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
     type: trojan
-  - name: Japan_Tokyo_trojan_11162
+  - name: Japan_Tokyo_trojan_1193
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 4006
-    server: 160.16.68.250
+    port: 1933
+    server: 43.207.149.110
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
-  - name: Japan_Tokyo_trojan_11163
+  - name: Japan_Tokyo_trojan_1194
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 4006
-    server: 160.16.138.24
+    port: 1933
+    server: 160.16.72.33
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
-  - name: Japan_Tokyo_trojan_11164
+  - name: Japan_Tokyo_trojan_1195
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
     port: 3901
-    server: 160.16.138.24
+    server: 160.16.106.99
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
-  - name: Japan_Tokyo_trojan_11165
+  - name: Japan_Tokyo_trojan_1196
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 3901
-    server: 153.121.45.139
+    port: 544
+    server: 160.16.124.17
     skip-cert-verify: true
     sni: www.nintendogames.net
     type: trojan
-  - name: Hong Kong_None_trojan_11166
+  - name: Japan_Tokyo_trojan_1197
     network: tcp
     password: BxceQaOe
-    port: 381
-    server: 43.198.233.56
+    port: 1691
+    server: 54.150.247.142
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
     type: trojan
-  - name: Japan_Tokyo_trojan_11167
+  - name: Japan_Tokyo_trojan_1198
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 127
-    server: 54.250.24.198
+    port: 276
+    server: 160.16.72.205
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
-  - name: Japan_Tokyo_trojan_11168
+  - name: Japan_Tokyo_trojan_1199
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 127
-    server: 160.16.85.33
+    port: 276
+    server: 43.207.149.110
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
-  - name: Hong Kong_None_trojan_11169
+  - name: Hong Kong_None_trojan_11100
     network: tcp
     password: BxceQaOe
-    port: 2569
-    server: 43.199.47.199
+    port: 3159
+    server: 18.163.2.13
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
-  - name: France_None_trojan_11171
-    network: ws
-    password: iwangjie
-    port: 2053
-    server: 135.125.232.253
+  - name: Germany_Frankfurt am Main_trojan_11102
+    password: telegram-id-directvpn
+    port: 22223
+    server: 3.77.68.129
     skip-cert-verify: true
-    sni: nodes.830901.xyz
+    sni: trojan.burgerip.co.uk
     type: trojan
     udp: true
-    ws-opts:
-      headers:
-        Host: nodes.830901.xyz
-      path: /?ed=2560
-  - name: Hong Kong_Hung Hom_trojan_11172
-    password: BxceQaOe
+  - name: Germany_Frankfurt am Main_trojan_11103
+    password: telegram-id-directvpn
+    port: 22223
+    server: 18.195.91.205
+    skip-cert-verify: true
+    type: trojan
+    udp: true
+  - name: France_Paris_trojan_11104
+    password: telegram-id-privatevpns
+    port: 22222
+    server: 35.180.72.19
+    skip-cert-verify: true
+    sni: trojan.burgerip.co.uk
+    type: trojan
+    udp: true
+  - name: Indonesia_Jakarta_trojan_11105
+    password: M7v%w11Se*
     port: 443
-    server: 112.120.31.36
+    server: qfdfsg.wsone.icu
     skip-cert-verify: true
-    sni: t.me/ripaojiedian
+    sni: qfdfsg.wsone.icu
     type: trojan
     udp: true
-  - name: Hong Kong_Hung Hom_trojan_11173
-    password: BxceQaOe
-    port: 443
-    server: 112.120.31.36
-    skip-cert-verify: true
-    type: trojan
-    udp: true
-  - name: United States_None_trojan_11174
-    network: ws
-    password: Aimer
-    port: 2053
-    server: 167.68.4.199
-    skip-cert-verify: false
-    sni: epge.muarua.filegear-sg.me
-    type: trojan
-    udp: true
-    ws-opts:
-      headers:
-        Host: epge.muarua.filegear-sg.me
-      path: /
   - name: Japan_Tokyo_trojan_103
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
     port: 3373
-    server: 52.195.8.127
+    server: 43.207.166.42
     skip-cert-verify: true
     sni: www.nintendogames.net
     type: trojan
-  - name: Hong Kong_None_trojan_104
+  - name: Hong Kong_San Po Kong_trojan_104
     network: tcp
     password: BxceQaOe
-    port: 4183
-    server: 43.199.47.199
+    port: 443
+    server: 203.198.123.162
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
-  - name: Hong Kong_None_trojan_105
+  - name: Hong Kong_Central_trojan_105
     network: tcp
     password: BxceQaOe
-    port: 3292
-    server: 43.199.47.199
+    port: 443
+    server: 58.152.18.130
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
   - name: Japan_Tokyo_trojan_106
     network: tcp
     password: BxceQaOe
-    port: 26378
-    server: 54.249.105.25
+    port: 2762
+    server: 13.115.255.135
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
     type: trojan
   - name: Japan_Tokyo_trojan_107
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 4006
-    server: 160.16.68.250
+    port: 1933
+    server: 43.207.149.110
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
   - name: Japan_Tokyo_trojan_108
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 4006
-    server: 160.16.138.24
+    port: 1933
+    server: 160.16.72.33
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
@@ -1520,503 +905,218 @@ proxies:
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
     port: 3901
-    server: 160.16.138.24
+    server: 160.16.106.99
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
   - name: Japan_Tokyo_trojan_1010
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 3901
-    server: 153.121.45.139
+    port: 544
+    server: 160.16.124.17
     skip-cert-verify: true
     sni: www.nintendogames.net
     type: trojan
-  - name: Hong Kong_None_trojan_1011
+  - name: Japan_Tokyo_trojan_1011
     network: tcp
     password: BxceQaOe
-    port: 381
-    server: 43.198.233.56
+    port: 1691
+    server: 54.150.247.142
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
     type: trojan
   - name: Japan_Tokyo_trojan_1012
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 127
-    server: 54.250.24.198
+    port: 276
+    server: 160.16.72.205
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
   - name: Japan_Tokyo_trojan_1013
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 127
-    server: 160.16.85.33
+    port: 276
+    server: 43.207.149.110
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
   - name: Hong Kong_None_trojan_1014
     network: tcp
     password: BxceQaOe
-    port: 2569
-    server: 43.199.47.199
+    port: 3159
+    server: 18.163.2.13
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
-  - name: France_None_trojan_1016
-    network: ws
-    password: iwangjie
-    port: 2053
-    server: 135.125.232.253
+  - name: Germany_Frankfurt am Main_trojan_1016
+    password: telegram-id-directvpn
+    port: 22223
+    server: 3.77.68.129
     skip-cert-verify: true
-    sni: nodes.830901.xyz
+    sni: trojan.burgerip.co.uk
     type: trojan
     udp: true
-    ws-opts:
-      headers:
-        Host: nodes.830901.xyz
-      path: /?ed=2560
-  - name: Hong Kong_Hung Hom_trojan_1017
-    password: BxceQaOe
-    port: 443
-    server: 112.120.31.36
-    skip-cert-verify: true
-    sni: t.me/ripaojiedian
-    type: trojan
-    udp: true
-  - name: Hong Kong_Hung Hom_trojan_1018
-    password: BxceQaOe
-    port: 443
-    server: 112.120.31.36
+  - name: Germany_Frankfurt am Main_trojan_1017
+    password: telegram-id-directvpn
+    port: 22223
+    server: 18.195.91.205
     skip-cert-verify: true
     type: trojan
     udp: true
-  - name: Hong Kong_Hung Hom_trojan_1019
-    password: BxceQaOe
-    port: 443
-    server: 112.120.31.36
+  - name: France_Paris_trojan_1018
+    password: telegram-id-privatevpns
+    port: 22222
+    server: 35.180.72.19
     skip-cert-verify: true
-    sni: t.me%2Fripaojiedian
+    sni: trojan.burgerip.co.uk
     type: trojan
     udp: true
-  - name: United States_None_trojan_1020
-    network: ws
-    password: Aimer
-    port: 2053
-    server: 167.68.4.199
-    skip-cert-verify: false
-    sni: epge.muarua.filegear-sg.me
+  - name: Indonesia_Jakarta_trojan_1019
+    password: M7v%w11Se*
+    port: 443
+    server: qfdfsg.wsone.icu
+    skip-cert-verify: true
+    sni: qfdfsg.wsone.icu
     type: trojan
     udp: true
-    ws-opts:
-      headers:
-        Host: epge.muarua.filegear-sg.me
-      path: /
-  - name: United States_None_trojan_1112
-    network: ws
-    password: humanity
-    port: 443
-    server: v1.dabache.top
-    skip-cert-verify: true
-    sni: www.gossipglove.com
-    type: trojan
-    ws-opts:
-      headers:
-        Host: www.gossipglove.com
-      path: "%2Fassignment%23%E2%9C%85%40AR14N24b%F0%9F%A4%96%D8%A8%D9%87%D8%AA%D8%B1\
-        %DB%8C%D9%86%2B%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1%2B%D8%B1%D9%81%D8%B\
-        9%2B%D9%85%D8%B4%DA%A9%D9%84%2B%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%2B%D8%A8%\
-        D9%87%2B%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%2F%D9%81%DB%8C%D9%84%D8%AA\
-        %D8%B1%D8%B4%DA%A9%D9%86%2B%F0%9F%A7%A0%23%DA%A9%D8%A7%D9%86%D9%81%DB%8\
-        C%DA%AF%2B%23proxy%2B%23v2ray%2B%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86\
-        %D8%AA"
-  - name: Hong Kong_Hung Hom_trojan_1113
+  - name: Taiwan_Chiayi City_trojan_1113
     network: tcp
-    password: BxceQaOe
-    port: 443
-    server: 112.120.31.36
-    skip-cert-verify: true
-    sni: t.me%2Fripaojiedian
-    type: trojan
-    udp: true
-  - name: United States_None_trojan_1114
-    network: ws
-    password: humanity
-    port: 443
-    server: v1.dabache.top
-    skip-cert-verify: true
-    sni: www.multiplydose.com
-    type: trojan
-    ws-opts:
-      headers:
-        Host: www.multiplydose.com
-      path: "%2Fassignment"
-  - name: None_None_trojan_1115
-    network: ws
-    password: humanity
-    port: 443
-    server: v3.dabache.top
-    skip-cert-verify: true
-    sni: www.gossipglove.com
-    type: trojan
-    ws-opts:
-      headers:
-        Host: www.gossipglove.com
-      path: "%2Fassignment"
-  - name: United States_San Francisco_trojan_1116
-    network: ws
-    password: humanity
-    port: 443
-    server: v3.dabache.top
-    skip-cert-verify: true
-    sni: www.multiplydose.com
-    type: trojan
-    ws-opts:
-      headers:
-        Host: www.multiplydose.com
-      path: "%2Fassignment%23%E2%9C%85%40AR14N24b%F0%9F%A4%96%D8%A8%D9%87%D8%AA%D8%B1\
-        %DB%8C%D9%86%2B%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1%2B%D8%B1%D9%81%D8%B\
-        9%2B%D9%85%D8%B4%DA%A9%D9%84%2B%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%2B%D8%A8%\
-        D9%87%2B%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%2F%D9%81%DB%8C%D9%84%D8%AA\
-        %D8%B1%D8%B4%DA%A9%D9%86%2B%F0%9F%A7%A0%23%DA%A9%D8%A7%D9%86%D9%81%DB%8\
-        C%DA%AF%2B%23proxy%2B%23v2ray%2B%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86\
-        %D8%AA"
-  - name: United States_None_trojan_1117
-    network: ws
-    password: humanity
-    port: 443
-    server: v1.dabache.top
-    skip-cert-verify: true
-    sni: www.creationlong.org
-    type: trojan
-    ws-opts:
-      headers:
-        Host: www.creationlong.org
-      path: "%2Fassignment"
-  - name: United States_San Francisco_trojan_1118
-    network: ws
-    password: humanity
-    port: 443
-    server: v3.dabache.top
-    skip-cert-verify: true
-    sni: www.gossipglove.com
-    type: trojan
-    ws-opts:
-      headers:
-        Host: www.gossipglove.com
-      path: "%2Fassignment%23%E2%9C%85%40AR14N24b%F0%9F%A4%96%D8%A8%D9%87%D8%AA%D8%B1\
-        %DB%8C%D9%86%2B%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1%2B%D8%B1%D9%81%D8%B\
-        9%2B%D9%85%D8%B4%DA%A9%D9%84%2B%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%2B%D8%A8%\
-        D9%87%2B%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%2F%D9%81%DB%8C%D9%84%D8%AA\
-        %D8%B1%D8%B4%DA%A9%D9%86%2B%F0%9F%A7%A0%23%DA%A9%D8%A7%D9%86%D9%81%DB%8\
-        C%DA%AF%2B%23proxy%2B%23v2ray%2B%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86\
-        %D8%AA"
-  - name: United Kingdom_None_trojan_1121
-    network: tcp
-    password: 27d93496-4e8a-4a1a-89ba-d3c6eab0f3dc
-    port: 41274
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: xiaozhu1.kkieo555.cn
-    type: trojan
-  - name: United Kingdom_None_trojan_1122
-    network: tcp
-    password: 27d93496-4e8a-4a1a-89ba-d3c6eab0f3dc
-    port: 41274
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: douyin.com
-    type: trojan
-  - name: United Kingdom_None_trojan_1123
-    network: tcp
-    password: feaf546b-95ef-4b98-93e6-e61392a72be0
-    port: 49213
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: xiaozhu1.kkieo555.cn
-    type: trojan
-  - name: United Kingdom_None_trojan_1124
-    network: tcp
-    password: 01b1a230-078a-45ad-8d9a-8ba7ac819681
-    port: 41274
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: xiaozhu1.kkieo555.cn
-    type: trojan
-  - name: United Kingdom_None_trojan_1125
-    network: tcp
-    password: 70af5c09-8227-49f1-a0d4-1fa7451ae352
-    port: 41274
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: xiaozhu1.kkieo555.cn
-    type: trojan
-  - name: United Kingdom_None_trojan_1126
-    network: tcp
-    password: 9b37f0c7-8673-4237-846e-eef499e2e6aa
-    port: 49213
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: xiaozhu1.kkieo555.cn
-    type: trojan
-  - name: None_None_trojan_1128
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2087
-    server: bestcdn0.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091711348.682637.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091715419.682637.xyz
-      path: "%2Fahyrtuyjykl"
-  - name: None_None_trojan_1129
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2087
-    server: bestcdn0.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091711904.682637.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091712351.682637.xyz
-      path: "%2Fahyrtuyjykl"
-  - name: United States_San Francisco_trojan_1130
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2087
-    server: bestcdn0.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091716734.682637.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091713942.682637.xyz
-      path: "%2Fahyrtuyjykl"
-  - name: None_None_trojan_1131
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2087
-    server: bestcdn0.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091711990.682637.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091713748.682637.xyz
-      path: "%2Fahyrtuyjykl"
-  - name: None_None_trojan_1132
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2096
-    server: bestcdn0.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091715507.682637.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091713485.682637.xyz
-      path: "%2Fahyrtuyjykl"
-  - name: United States_San Francisco_trojan_1133
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 8443
-    server: bestcdn0.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091719765.682637.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091711929.682637.xyz
-      path: "%2Fahyrtuyjykl"
-  - name: None_None_trojan_1134
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 8443
-    server: bestcdn0.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091711014.682637.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091714974.682637.xyz
-      path: "%2Fahyrtuyjykl"
-  - name: None_None_trojan_1135
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2053
-    server: bestcdn0.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091712706.682637.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091715099.682637.xyz
-      path: "%2Fahyrtuyjykl"
-  - name: None_None_trojan_1136
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2096
-    server: bestcdn1.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091711317.206353.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091716633.206353.xyz
-      path: "%2Fagrbniuh"
-  - name: None_None_trojan_1137
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2087
-    server: bestcdn1.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091711680.206355.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091714289.206355.xyz
-      path: "%2Fvideomuaawe"
-  - name: None_None_trojan_1138
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2083
-    server: bestcdn2.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091714560.206352.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091715692.206352.xyz
-      path: "%2Fagraeabtegrrh"
-  - name: None_None_trojan_1139
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2087
-    server: bestcdn2.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091716314.206353.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091717095.206353.xyz
-      path: "%2Fagrbniuh"
-  - name: None_None_trojan_1140
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2087
-    server: bestcdn3.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091711272.206352.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091716771.206352.xyz
-      path: "%2Fagraeabtegrrh"
-  - name: None_None_trojan_1141
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2083
-    server: bestcdn3.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091712794.206353.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091719622.206353.xyz
-      path: "%2Fagrbniuh"
-  - name: None_None_trojan_1142
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2096
-    server: bestcdn4.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091716780.206352.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091711855.206352.xyz
-      path: "%2Fagraeabtegrrh"
-  - name: None_None_trojan_1143
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 8443
-    server: bestcdn4.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091712616.206353.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091712687.206353.xyz
-      path: "%2Fagrbniuh"
-  - name: None_None_trojan_1144
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2083
-    server: bestcdn4.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091719480.206355.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091718356.206355.xyz
-      path: "%2Fvideomuaawe"
-  - name: United States_None_trojan_1145
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 8443
-    server: bestcdn5.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091718775.206352.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091714798.206352.xyz
-      path: "%2Fagraeabtegrrh"
-  - name: United States_None_trojan_1146
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 2053
-    server: bestcdn5.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091718618.206353.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091713495.206353.xyz
-      path: "%2Fagrbniuh"
-  - name: None_None_trojan_1147
-    network: ws
-    password: 077da111-33ac-4453-a37d-69e7ccc647a0
-    port: 8443
-    server: bestcdn5.868863.xyz
-    skip-cert-verify: true
-    sni: 17706091715029.206355.xyz
-    type: trojan
-    ws-opts:
-      headers:
-        Host: 17706091718999.206355.xyz
-      path: "%2Fvideomuaawe"
-  - name: Taiwan_Chiayi City_trojan_1148
-    network: tcp
-    password: 5d391cba-c937-48f4-8d0d-0045c1934a56
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1149
-    network: tcp
-    password: 826d33e2-ca5a-402a-ba5f-3aca73fe872e
+    password: 155bc127-485a-44b2-8e38-3fbf711a6e25
     port: 31103
     server: green2.cdntencentmusic.com
     skip-cert-verify: true
     sni: green2.cdntencentmusic.com
     type: trojan
-  - name: Hong Kong_Tsim Sha Tsui_trojan_1150
+  - name: Taiwan_Chiayi City_trojan_1114
+    network: tcp
+    password: 2c621c92-d595-45b5-ad62-2f69a3d62a54
+    port: 31103
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1115
+    network: tcp
+    password: 91cec748-2bd4-4608-89a3-09220e1599f9
+    port: 31103
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1116
+    network: tcp
+    password: 91cec748-2bd4-4608-89a3-09220e1599f9
+    port: 31102
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1117
+    network: tcp
+    password: 4755e7eb-1d68-4808-ab81-18de1e602290
+    port: 31103
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1118
+    network: tcp
+    password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4
+    port: 31103
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1119
+    network: tcp
+    password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4
+    port: 31102
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1120
+    network: tcp
+    password: 155bc127-485a-44b2-8e38-3fbf711a6e25
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1121
+    network: tcp
+    password: b17cb30b-8379-471b-861e-c5fbf218a8fd
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1122
+    network: tcp
+    password: 91cec748-2bd4-4608-89a3-09220e1599f9
+    port: 35502
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1123
+    network: tcp
+    password: d7190512-c1fa-466f-8dd5-07a736738ec0
+    port: 31103
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1124
+    network: tcp
+    password: d7190512-c1fa-466f-8dd5-07a736738ec0
+    port: 35501
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1125
+    network: tcp
+    password: 33f64b81-358b-467f-bc9f-8780090c88de
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1126
+    network: tcp
+    password: 91cec748-2bd4-4608-89a3-09220e1599f9
+    port: 35501
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1127
+    network: tcp
+    password: 91cec748-2bd4-4608-89a3-09220e1599f9
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1128
+    network: tcp
+    password: b17cb30b-8379-471b-861e-c5fbf218a8fd
+    port: 31103
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1129
+    network: tcp
+    password: 4755e7eb-1d68-4808-ab81-18de1e602290
+    port: 31101
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Hong Kong_Tsim Sha Tsui_trojan_1131
     network: tcp
     password: BxceQaOe
     port: 443
@@ -2024,455 +1124,7 @@ proxies:
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
-  - name: Taiwan_Chiayi City_trojan_1151
-    network: tcp
-    password: 4755e7eb-1d68-4808-ab81-18de1e602290
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1152
-    network: tcp
-    password: 63db9d3f-4149-4013-bbc8-bd7c53fd6ed5
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1153
-    network: tcp
-    password: 77361e59-013e-4ef6-9531-16f5a631a8e2
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1154
-    network: tcp
-    password: 77361e59-013e-4ef6-9531-16f5a631a8e2
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1155
-    network: tcp
-    password: 2ce584a8-9960-4e1f-a820-30e54822c839
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1156
-    network: tcp
-    password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1157
-    network: tcp
-    password: 91cec748-2bd4-4608-89a3-09220e1599f9
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1158
-    network: tcp
-    password: 33f64b81-358b-467f-bc9f-8780090c88de
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1159
-    network: tcp
-    password: 5d391cba-c937-48f4-8d0d-0045c1934a56
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1160
-    network: tcp
-    password: 7612839c-f62f-42cc-9051-8413b5a8cbcf
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1161
-    network: tcp
-    password: 7612839c-f62f-42cc-9051-8413b5a8cbcf
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1162
-    network: tcp
-    password: 2ce584a8-9960-4e1f-a820-30e54822c839
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1163
-    network: tcp
-    password: 4755e7eb-1d68-4808-ab81-18de1e602290
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1164
-    network: tcp
-    password: 77361e59-013e-4ef6-9531-16f5a631a8e2
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1165
-    network: tcp
-    password: 63db9d3f-4149-4013-bbc8-bd7c53fd6ed5
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1166
-    network: tcp
-    password: 33f64b81-358b-467f-bc9f-8780090c88de
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1167
-    network: tcp
-    password: b17cb30b-8379-471b-861e-c5fbf218a8fd
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1168
-    network: tcp
-    password: 155bc127-485a-44b2-8e38-3fbf711a6e25
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1169
-    network: tcp
-    password: 7612839c-f62f-42cc-9051-8413b5a8cbcf
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1170
-    network: tcp
-    password: b9c65989-f046-476a-b3ca-fe0549787f08
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1171
-    network: tcp
-    password: b9c65989-f046-476a-b3ca-fe0549787f08
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1172
-    network: tcp
-    password: 63db9d3f-4149-4013-bbc8-bd7c53fd6ed5
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1173
-    network: tcp
-    password: 4bed2818-3e4e-4d44-b8fb-c4b71544673a
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1174
-    network: tcp
-    password: b17cb30b-8379-471b-861e-c5fbf218a8fd
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1175
-    network: tcp
-    password: d7190512-c1fa-466f-8dd5-07a736738ec0
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1176
-    network: tcp
-    password: 91cec748-2bd4-4608-89a3-09220e1599f9
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1177
-    network: tcp
-    password: d7190512-c1fa-466f-8dd5-07a736738ec0
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1178
-    network: tcp
-    password: 7612839c-f62f-42cc-9051-8413b5a8cbcf
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1179
-    network: tcp
-    password: 77361e59-013e-4ef6-9531-16f5a631a8e2
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1180
-    network: tcp
-    password: b17cb30b-8379-471b-861e-c5fbf218a8fd
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1181
-    network: tcp
-    password: 33f64b81-358b-467f-bc9f-8780090c88de
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1182
-    network: tcp
-    password: 155bc127-485a-44b2-8e38-3fbf711a6e25
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1183
-    network: tcp
-    password: 155bc127-485a-44b2-8e38-3fbf711a6e25
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1184
-    network: tcp
-    password: 4bed2818-3e4e-4d44-b8fb-c4b71544673a
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1185
-    network: tcp
-    password: 4bed2818-3e4e-4d44-b8fb-c4b71544673a
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1186
-    network: tcp
-    password: b17cb30b-8379-471b-861e-c5fbf218a8fd
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1187
-    network: tcp
-    password: d7190512-c1fa-466f-8dd5-07a736738ec0
-    port: 35501
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1188
-    network: tcp
-    password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1189
-    network: tcp
-    password: 5d391cba-c937-48f4-8d0d-0045c1934a56
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1190
-    network: tcp
-    password: 63db9d3f-4149-4013-bbc8-bd7c53fd6ed5
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1191
-    network: tcp
-    password: 4bed2818-3e4e-4d44-b8fb-c4b71544673a
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1192
-    network: tcp
-    password: 155bc127-485a-44b2-8e38-3fbf711a6e25
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1193
-    network: tcp
-    password: 33f64b81-358b-467f-bc9f-8780090c88de
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1194
-    network: tcp
-    password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1195
-    network: tcp
-    password: 155bc127-485a-44b2-8e38-3fbf711a6e25
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1196
-    network: tcp
-    password: 2ce584a8-9960-4e1f-a820-30e54822c839
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1197
-    network: tcp
-    password: b17cb30b-8379-471b-861e-c5fbf218a8fd
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1198
-    network: tcp
-    password: 4755e7eb-1d68-4808-ab81-18de1e602290
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_1199
-    network: tcp
-    password: 4755e7eb-1d68-4808-ab81-18de1e602290
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11100
-    network: tcp
-    password: 5d391cba-c937-48f4-8d0d-0045c1934a56
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11101
-    network: tcp
-    password: 91cec748-2bd4-4608-89a3-09220e1599f9
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11102
-    network: tcp
-    password: 2ce584a8-9960-4e1f-a820-30e54822c839
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11103
-    network: tcp
-    password: 91cec748-2bd4-4608-89a3-09220e1599f9
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11104
-    network: tcp
-    password: d7190512-c1fa-466f-8dd5-07a736738ec0
-    port: 31102
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11105
-    network: tcp
-    password: 33f64b81-358b-467f-bc9f-8780090c88de
-    port: 31103
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11106
-    network: tcp
-    password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4
-    port: 35502
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Hong Kong_Tsim Sha Tsui_trojan_11107
+  - name: Hong Kong_Tsim Sha Tsui_trojan_1132
     network: tcp
     password: BxceQaOe
     port: 443
@@ -2480,7 +1132,7 @@ proxies:
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
     type: trojan
-  - name: Hong Kong_Tsim Sha Tsui_trojan_11108
+  - name: Hong Kong_Tsim Sha Tsui_trojan_1133
     network: tcp
     password: BxceQaOe
     port: 443
@@ -2488,7 +1140,7 @@ proxies:
     skip-cert-verify: true
     sni: 219.76.135.98
     type: trojan
-  - name: Hong Kong_Tsim Sha Tsui_trojan_11109
+  - name: Hong Kong_Tsim Sha Tsui_trojan_1134
     network: tcp
     password: BxceQaOe
     port: 443
@@ -2496,493 +1148,593 @@ proxies:
     skip-cert-verify: true
     sni: t.me%25252Fripaojiedian
     type: trojan
-  - name: India_Mumbai_trojan_11114
+  - name: Taiwan_Chiayi City_trojan_1139
     network: tcp
-    password: M7v%w11Se*
-    port: 443
-    server: tttyder.wsone.icu
-    skip-cert-verify: true
-    sni: tttyder.wsone.icu
-    type: trojan
-  - name: Bahrain_None_trojan_11117
-    network: tcp
-    password: M7v%w11Se*
-    port: 443
-    server: blaab.wsone.icu
-    skip-cert-verify: true
-    sni: blaab.wsone.icu
-    type: trojan
-  - name: China_None_trojan_11118
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 56115
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11119
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59025
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11120
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59115
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11121
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59020
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11122
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 56006
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11123
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59023
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11124
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59022
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11125
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59028
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11126
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59032
-    server: eluosi.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11127
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 48111
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11128
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 48113
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11129
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59017
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11130
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59006
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11131
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59114
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11132
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59005
-    server: feilvbin.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11133
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59027
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11134
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59117
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11135
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59044
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11136
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59214
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11137
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59081
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11138
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59046
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11139
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59047
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11140
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59019
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11141
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59021
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: China_None_trojan_11142
-    network: tcp
-    password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-    port: 59013
-    server: ptxl01.xsaym.com
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-  - name: United Kingdom_None_trojan_11144
-    network: tcp
-    password: dab4478d-0be0-4bdc-a440-79cd262a16f6
-    port: 41273
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: douyin.com
-    type: trojan
-  - name: United Kingdom_None_trojan_11145
-    network: tcp
-    password: ee88c35b-d0b7-4335-b56f-201d52297509
-    port: 41275
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: xiaozhu1.kkieo555.cn
-    type: trojan
-  - name: United Kingdom_None_trojan_11146
-    network: tcp
-    password: dab4478d-0be0-4bdc-a440-79cd262a16f6
-    port: 41273
-    server: xiaozhu1.kkieo555.cn
-    skip-cert-verify: true
-    sni: xiaozhu1.kkieo555.cn
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11147
-    network: tcp
-    password: a57838d4-ae5f-4c76-bc59-a9f5c898d974
-    port: 31101
+    password: 155bc127-485a-44b2-8e38-3fbf711a6e25
+    port: 35501
     server: green2.cdntencentmusic.com
     skip-cert-verify: true
     sni: green2.cdntencentmusic.com
     type: trojan
-  - name: Taiwan_Chiayi City_trojan_11149
+  - name: Taiwan_Chiayi City_trojan_1140
     network: tcp
-    password: 9ab2376f-b8d8-489b-947c-7afdb268d5f8
-    port: 31101
-    server: green2.cdntencentmusic.com
-    skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
-    type: trojan
-  - name: Taiwan_Chiayi City_trojan_11150
-    network: tcp
-    password: f2012247-f000-4931-b2e8-ebfca5978c3c
+    password: 63db9d3f-4149-4013-bbc8-bd7c53fd6ed5
     port: 31103
     server: green2.cdntencentmusic.com
     skip-cert-verify: true
     sni: green2.cdntencentmusic.com
     type: trojan
-  - name: Taiwan_Chiayi City_trojan_11151
+  - name: Taiwan_Chiayi City_trojan_1141
     network: tcp
-    password: 2c455b22-fde6-4fed-93da-56894a13a10c
+    password: 63db9d3f-4149-4013-bbc8-bd7c53fd6ed5
     port: 35501
     server: green2.cdntencentmusic.com
     skip-cert-verify: true
     sni: green2.cdntencentmusic.com
     type: trojan
-  - name: Taiwan_Chiayi City_trojan_11152
+  - name: Taiwan_Chiayi City_trojan_1142
     network: tcp
-    password: dbf39cc7-488b-482c-b7ba-48ca63dc46c5
+    password: 33f64b81-358b-467f-bc9f-8780090c88de
+    port: 35501
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: Taiwan_Chiayi City_trojan_1143
+    network: tcp
+    password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4
+    port: 35501
+    server: green2.cdntencentmusic.com
+    skip-cert-verify: true
+    sni: green2.cdntencentmusic.com
+    type: trojan
+  - name: United States_San Francisco_trojan_1144
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2087
+    server: bestcdn0.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072626157.682637.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072625763.682637.xyz
+      path: "%2Fahyrtuyjykl"
+  - name: None_None_trojan_1145
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2087
+    server: bestcdn0.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072621285.682637.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072629382.682637.xyz
+      path: "%2Fahyrtuyjykl"
+  - name: United States_San Francisco_trojan_1146
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2087
+    server: bestcdn0.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072628911.682637.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072629966.682637.xyz
+      path: "%2Fahyrtuyjykl"
+  - name: None_None_trojan_1147
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2087
+    server: bestcdn0.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072626509.682637.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072624880.682637.xyz
+      path: "%2Fahyrtuyjykl"
+  - name: None_None_trojan_1148
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2096
+    server: bestcdn0.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072626709.682637.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072623462.682637.xyz
+      path: "%2Fahyrtuyjykl"
+  - name: United States_San Francisco_trojan_1149
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 8443
+    server: bestcdn0.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072628740.682637.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072629954.682637.xyz
+      path: "%2Fahyrtuyjykl"
+  - name: United States_San Francisco_trojan_1150
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 8443
+    server: bestcdn0.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072624380.682637.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072628988.682637.xyz
+      path: "%2Fahyrtuyjykl"
+  - name: United States_San Francisco_trojan_1151
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2053
+    server: bestcdn0.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072626229.682637.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072623164.682637.xyz
+      path: "%2Fahyrtuyjykl"
+  - name: None_None_trojan_1152
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2053
+    server: bestcdn1.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072625537.206352.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072627904.206352.xyz
+      path: "%2Fagraeabtegrrh"
+  - name: None_None_trojan_1153
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2096
+    server: bestcdn1.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072627877.206353.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072623964.206353.xyz
+      path: "%2Fagrbniuh"
+  - name: None_None_trojan_1154
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2087
+    server: bestcdn1.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072624502.206355.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072623993.206355.xyz
+      path: "%2Fvideomuaawe"
+  - name: None_None_trojan_1155
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2087
+    server: bestcdn1.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072628528.206356.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072623138.206356.xyz
+      path: "%2Fdmusicmuaawe"
+  - name: None_None_trojan_1156
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2083
+    server: bestcdn2.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072627267.206352.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072623769.206352.xyz
+      path: "%2Fagraeabtegrrh"
+  - name: None_None_trojan_1157
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2087
+    server: bestcdn2.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072623862.206353.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072625362.206353.xyz
+      path: "%2Fagrbniuh"
+  - name: None_None_trojan_1158
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2096
+    server: bestcdn2.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072629929.206355.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072622530.206355.xyz
+      path: "%2Fvideomuaawe"
+  - name: None_None_trojan_1159
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2096
+    server: bestcdn2.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072626187.206356.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072625689.206356.xyz
+      path: "%2Fdmusicmuaawe"
+  - name: None_None_trojan_1160
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2087
+    server: bestcdn3.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072628636.206352.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072625687.206352.xyz
+      path: "%2Fagraeabtegrrh"
+  - name: None_None_trojan_1161
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2083
+    server: bestcdn3.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072621507.206353.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072621689.206353.xyz
+      path: "%2Fagrbniuh"
+  - name: None_None_trojan_1162
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2053
+    server: bestcdn3.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072624113.206355.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072623565.206355.xyz
+      path: "%2Fvideomuaawe"
+  - name: None_None_trojan_1163
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2053
+    server: bestcdn3.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072621786.206356.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072627671.206356.xyz
+      path: "%2Fdmusicmuaawe"
+  - name: None_None_trojan_1164
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2096
+    server: bestcdn4.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072628352.206352.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072628400.206352.xyz
+      path: "%2Fagraeabtegrrh"
+  - name: None_None_trojan_1165
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 8443
+    server: bestcdn4.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072622231.206353.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072624307.206353.xyz
+      path: "%2Fagrbniuh"
+  - name: None_None_trojan_1166
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2083
+    server: bestcdn4.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072623459.206355.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072629215.206355.xyz
+      path: "%2Fvideomuaawe"
+  - name: None_None_trojan_1167
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2083
+    server: bestcdn4.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072625761.206356.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072628453.206356.xyz
+      path: "%2Fdmusicmuaawe"
+  - name: United States_None_trojan_1168
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 8443
+    server: bestcdn5.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072625014.206352.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072628132.206352.xyz
+      path: "%2Fagraeabtegrrh"
+  - name: United States_None_trojan_1169
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 2053
+    server: bestcdn5.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072622347.206353.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072625920.206353.xyz
+      path: "%2Fagrbniuh"
+  - name: None_None_trojan_1170
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 8443
+    server: bestcdn5.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072622995.206355.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072623174.206355.xyz
+      path: "%2Fvideomuaawe"
+  - name: United States_None_trojan_1171
+    network: ws
+    password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+    port: 8443
+    server: bestcdn5.868863.xyz
+    skip-cert-verify: true
+    sni: 17707072625115.206356.xyz
+    type: trojan
+    ws-opts:
+      headers:
+        Host: 17707072627051.206356.xyz
+      path: "%2Fdmusicmuaawe"
+  - name: Taiwan_Chiayi City_trojan_1174
+    network: tcp
+    password: b9c65989-f046-476a-b3ca-fe0549787f08
     port: 31101
     server: green2.cdntencentmusic.com
     skip-cert-verify: true
     sni: green2.cdntencentmusic.com
     type: trojan
-  - name: Taiwan_Chiayi City_trojan_11153
+  - name: Taiwan_Chiayi City_trojan_1175
     network: tcp
-    password: 56db783b-0fce-4ba9-999f-bbf92ae62d03
-    port: 31102
+    password: b9c65989-f046-476a-b3ca-fe0549787f08
+    port: 31103
     server: green2.cdntencentmusic.com
     skip-cert-verify: true
     sni: green2.cdntencentmusic.com
     type: trojan
-  - name: Taiwan_Chiayi City_trojan_11154
+  - name: United States_Los Angeles_trojan_1182
     network: tcp
-    password: 2c621c92-d595-45b5-ad62-2f69a3d62a54
-    port: 35502
-    server: green2.cdntencentmusic.com
+    password: hSA6YXe15O
+    port: 443
+    server: 104.11.86.252
     skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
+    sni: 104.11.86.252
     type: trojan
-  - name: Taiwan_Chiayi City_trojan_11155
+  - name: United States_Los Angeles_trojan_1183
     network: tcp
-    password: d166d761-13f5-4cc9-b98c-8c3b2341cf0d
-    port: 35501
-    server: green2.cdntencentmusic.com
+    password: hSA6YXe15O
+    port: 443
+    server: 104.11.86.252
     skip-cert-verify: true
-    sni: green2.cdntencentmusic.com
+    sni: Telegram%20%20%20%20%20%20%20%20%20%20%20%20%2B%40WangCai2
     type: trojan
-  - name: Japan_Tokyo_trojan_11158
+  - name: United States_Los Angeles_trojan_1184
+    network: tcp
+    password: hSA6YXe15O
+    port: 443
+    server: 104.11.86.252
+    skip-cert-verify: true
+    sni: Telegram%20%2B%40WangCai2
+    type: trojan
+  - name: United States_Los Angeles_trojan_1185
+    network: tcp
+    password: hSA6YXe15O
+    port: 443
+    server: 104.11.86.252
+    skip-cert-verify: true
+    sni: Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2
+    type: trojan
+  - name: United States_Los Angeles_trojan_1186
+    network: tcp
+    password: hSA6YXe15O
+    port: 443
+    server: 104.11.86.252
+    skip-cert-verify: true
+    sni: Telegram%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%2B%40WangCai2
+    type: trojan
+  - name: Japan_Tokyo_trojan_1189
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
     port: 3373
-    server: 52.195.8.127
+    server: 43.207.166.42
     skip-cert-verify: true
     sni: www.nintendogames.net
     type: trojan
-  - name: Hong Kong_None_trojan_11159
+  - name: Hong Kong_San Po Kong_trojan_1190
     network: tcp
     password: BxceQaOe
-    port: 4183
-    server: 43.199.47.199
+    port: 443
+    server: 203.198.123.162
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
-  - name: Hong Kong_None_trojan_11160
+  - name: Hong Kong_Central_trojan_1191
     network: tcp
     password: BxceQaOe
-    port: 3292
-    server: 43.199.47.199
+    port: 443
+    server: 58.152.18.130
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
-  - name: Japan_Tokyo_trojan_11161
+  - name: Japan_Tokyo_trojan_1192
     network: tcp
     password: BxceQaOe
-    port: 26378
-    server: 54.249.105.25
+    port: 2762
+    server: 13.115.255.135
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
     type: trojan
-  - name: Japan_Tokyo_trojan_11162
+  - name: Japan_Tokyo_trojan_1193
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 4006
-    server: 160.16.68.250
+    port: 1933
+    server: 43.207.149.110
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
-  - name: Japan_Tokyo_trojan_11163
+  - name: Japan_Tokyo_trojan_1194
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 4006
-    server: 160.16.138.24
+    port: 1933
+    server: 160.16.72.33
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
-  - name: Japan_Tokyo_trojan_11164
+  - name: Japan_Tokyo_trojan_1195
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
     port: 3901
-    server: 160.16.138.24
+    server: 160.16.106.99
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
-  - name: Japan_Tokyo_trojan_11165
+  - name: Japan_Tokyo_trojan_1196
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 3901
-    server: 153.121.45.139
+    port: 544
+    server: 160.16.124.17
     skip-cert-verify: true
     sni: www.nintendogames.net
     type: trojan
-  - name: Hong Kong_None_trojan_11166
+  - name: Japan_Tokyo_trojan_1197
     network: tcp
     password: BxceQaOe
-    port: 381
-    server: 43.198.233.56
+    port: 1691
+    server: 54.150.247.142
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
     type: trojan
-  - name: Japan_Tokyo_trojan_11167
+  - name: Japan_Tokyo_trojan_1198
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 127
-    server: 54.250.24.198
+    port: 276
+    server: 160.16.72.205
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
-  - name: Japan_Tokyo_trojan_11168
+  - name: Japan_Tokyo_trojan_1199
     network: tcp
     password: 5fb072e0ddd631cf66cf752b09210480
-    port: 127
-    server: 160.16.85.33
+    port: 276
+    server: 43.207.149.110
     skip-cert-verify: false
     sni: www.nintendogames.net
     type: trojan
-  - name: Hong Kong_None_trojan_11169
+  - name: Hong Kong_None_trojan_11100
     network: tcp
     password: BxceQaOe
-    port: 2569
-    server: 43.199.47.199
+    port: 3159
+    server: 18.163.2.13
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
     type: trojan
-  - name: France_None_trojan_11171
-    network: ws
-    password: iwangjie
-    port: 2053
-    server: 135.125.232.253
+  - name: Germany_Frankfurt am Main_trojan_11102
+    password: telegram-id-directvpn
+    port: 22223
+    server: 3.77.68.129
     skip-cert-verify: true
-    sni: nodes.830901.xyz
+    sni: trojan.burgerip.co.uk
     type: trojan
     udp: true
-    ws-opts:
-      headers:
-        Host: nodes.830901.xyz
-      path: /?ed=2560
-  - name: Hong Kong_Hung Hom_trojan_11172
-    password: BxceQaOe
+  - name: Germany_Frankfurt am Main_trojan_11103
+    password: telegram-id-directvpn
+    port: 22223
+    server: 18.195.91.205
+    skip-cert-verify: true
+    type: trojan
+    udp: true
+  - name: France_Paris_trojan_11104
+    password: telegram-id-privatevpns
+    port: 22222
+    server: 35.180.72.19
+    skip-cert-verify: true
+    sni: trojan.burgerip.co.uk
+    type: trojan
+    udp: true
+  - name: Indonesia_Jakarta_trojan_11105
+    password: M7v%w11Se*
     port: 443
-    server: 112.120.31.36
+    server: qfdfsg.wsone.icu
     skip-cert-verify: true
-    sni: t.me/ripaojiedian
+    sni: qfdfsg.wsone.icu
     type: trojan
     udp: true
-  - name: Hong Kong_Hung Hom_trojan_11173
-    password: BxceQaOe
-    port: 443
-    server: 112.120.31.36
-    skip-cert-verify: true
+  - name: DE_speednode_0014
+    server: 3.77.68.129
+    port: 22223
     type: trojan
-    udp: true
-  - name: United States_None_trojan_11174
-    network: ws
-    password: Aimer
-    port: 2053
-    server: 167.68.4.199
-    skip-cert-verify: false
-    sni: epge.muarua.filegear-sg.me
-    type: trojan
-    udp: true
-    ws-opts:
-      headers:
-        Host: epge.muarua.filegear-sg.me
-      path: /
-  - name: FR_speednode_0021
-    server: 135.125.232.253
-    port: 2053
-    type: trojan
-    password: iwangjie
-    sni: nodes.830901.xyz
-    skip-cert-verify: true
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: nodes.830901.xyz
-    udp: true
-  - name: HK_speednode_0030
-    server: 112.120.31.36
-    port: 443
-    type: trojan
-    password: BxceQaOe
-    sni: t.me/ripaojiedian
+    password: telegram-id-directvpn
+    sni: trojan.burgerip.co.uk
     skip-cert-verify: true
     udp: true
-  - name: HK_speednode_0031
-    server: 112.120.31.36
+  - name: DE_speednode_0016
+    server: 18.195.91.205
+    port: 22223
+    type: trojan
+    password: telegram-id-directvpn
+    skip-cert-verify: true
+    udp: true
+  - name: FR_speednode_0017
+    server: 35.180.72.19
+    port: 22222
+    type: trojan
+    password: telegram-id-privatevpns
+    sni: trojan.burgerip.co.uk
+    skip-cert-verify: true
+    udp: true
+  - name: ID_speednode_0019
+    server: qfdfsg.wsone.icu
     port: 443
     type: trojan
-    password: BxceQaOe
+    password: M7v%w11Se*
+    sni: qfdfsg.wsone.icu
     skip-cert-verify: true
-    udp: true
-  - name: HK_speednode_0034
-    server: 112.120.31.36
-    port: 443
-    type: trojan
-    password: BxceQaOe
-    sni: t.me%2Fripaojiedian
-    skip-cert-verify: true
-    udp: true
-  - name: US_speednode_0079
-    server: 167.68.4.199
-    port: 2053
-    type: trojan
-    password: Aimer
-    sni: epge.muarua.filegear-sg.me
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: epge.muarua.filegear-sg.me
     udp: true
