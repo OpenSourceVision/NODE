@@ -1,25 +1,6 @@
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#United%20States_None_ss_101
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Ny9iYjl4M1RKUTRZNVNSQS9BbDNPZHd4SWs0dWYzSmc4Tjl3RFFnK1V0bz0=@109.104.152.186:11223#United%20States_ss_61
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Mm1MdythVGd1RVVydksvSmFteHI0Q1kvUmJMQ0wvTW1mV0pRN2M2YlhlOD0=@109.104.152.186:443#United%20States_shadowtls_1
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989#MK_speednode_0024
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.85:38388#VN_speednode_0059
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.204:38388#VN_speednode_0060
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.213:38388#VN_speednode_0061
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.81:38388#VN_speednode_0062
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.79:38388#VN_speednode_0063
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.194:38388#VN_speednode_0064
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.249:38388#VN_speednode_0065
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.28:38388#VN_speednode_0066
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.57:38388#VN_speednode_0067
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.226:38388#VN_speednode_0068
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.211:38388#VN_speednode_0069
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.114:38388#VN_speednode_0070
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.181:38388#VN_speednode_0071
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.56:38388#VN_speednode_0072
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.74:38388#VN_speednode_0073
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.44:38388#VN_speednode_0074
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.226:38388#VN_speednode_0075
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.27:38388#VN_speednode_0076
 vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nX0NlbnRyYWxfdm1lc3NfMTAyIiwiYWRkIjoidjEwLmhkYWNkLmNvbSIsInBvcnQiOiIzMDgwNyIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiVW5rbm93bl92bWVzc18xMTEiLCJhZGQiOiIxMjcuMC4wLjUzIiwicG9ydCI6IjgwIiwiaWQiOiI4ODg4ODg4OC04ODg4LTg4ODgtODg4OC04ODg4ODg4ODg4ODgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiVW5rbm93bl92bWVzc18xMTIiLCJhZGQiOiIxMjcuMC4wLjUzIiwicG9ydCI6IjgxIiwiaWQiOiI4ODg4ODg4OC04ODg4LTg4ODgtODg4OC04ODg4ODg4ODg4ODgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
@@ -31,92 +12,71 @@ vmess://eyJ2IjoiMiIsInBzIjoiVW5rbm93bl92bWVzc18xMTciLCJhZGQiOiIxMjcuMC4wLjUzIiwi
 vmess://eyJ2IjoiMiIsInBzIjoiVW5rbm93bl92bWVzc18xMTgiLCJhZGQiOiIxMjcuMC4wLjUzIiwicG9ydCI6Ijg3IiwiaWQiOiI4ODg4ODg4OC04ODg4LTg4ODgtODg4OC04ODg4ODg4ODg4ODgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiVW5rbm93bl92bWVzc18xMTkiLCJhZGQiOiIxMjcuMC4wLjUzIiwicG9ydCI6Ijg4IiwiaWQiOiI4ODg4ODg4OC04ODg4LTg4ODgtODg4OC04ODg4ODg4ODg4ODgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiVW5rbm93bl92bWVzc18xMTEwIiwiYWRkIjoiMTI3LjAuMC41MyIsInBvcnQiOiI4OSIsImlkIjoiODg4ODg4ODgtODg4OC04ODg4LTg4ODgtODg4ODg4ODg4ODg4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nX0hvbmcgS29uZ192bWVzc18xMTE1IiwiYWRkIjoiNDcuMjQyLjIyNS4wIiwicG9ydCI6IjMyOTc1IiwiaWQiOiJlYmFhZDUyNS1lMmNmLTRjMTgtOGFlOS00MWFmMjlhYzRiOWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiVW5pdGVkIFN0YXRlc19Ob25lX3ZtZXNzXzExMjMiLCJhZGQiOiJuZXh0bWkuaGFqbXlhYi5pciIsInBvcnQiOiIyMDUzIiwiaWQiOiI5NTg1NjM2YS01NGJjLTQxOWEtOTBhMS03NmM1YzZlYzc0ZGYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6InRscyIsInNuaSI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSW5kaWFfTm9uZV92bWVzc18xMTI0IiwiYWRkIjoiaWQyLndwYWlycGxhbmUuY29tIiwicG9ydCI6IjkwMDAiLCJpZCI6Ijc3YWFkNzNkLTAzZTctNDQxYi05YmM1LTk4ZDEzNTM1YmEzZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiVW5pdGVkIEtpbmdkb21fTm9uZV92bWVzc18xMTI1IiwiYWRkIjoiODIuMTk4LjI0Ni45NyIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQ2hpbmFfTm9uZV92bWVzc18xMTI2IiwiYWRkIjoidjM1LmhkYWNkLmNvbSIsInBvcnQiOiIzMDgzNSIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiVW5pdGVkIEtpbmdkb21fTm9uZV92bWVzc18xMTI4IiwiYWRkIjoiZ3RtMS5rdG13YW4ubmV0IiwicG9ydCI6IjEyODgzIiwiaWQiOiIzYWM5ZDQzNi1mMjEzLTQyMWQtOTY0NC1hOTQ2ODZlZTlmYmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiVW5rbm93bl92bWVzc18xMTg0IiwiYWRkIjoiMTYwLjE5MS4yNDUuNDgiLCJwb3J0IjoiNTg2MjMiLCJpZCI6IjhkNzQ4MDNlLWFhNzQtNDdlZi1lM2FlLTIzZWVhYTk2Zjg5ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQ2hpbmFfTm9uZV92bWVzc18xMTg1IiwiYWRkIjoidjQuaGRhY2QuY29tIiwicG9ydCI6IjMwODA0IiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiQ2hpbmFfTm9uZV92bWVzc18xMTg3IiwiYWRkIjoidjI0LmhkYWNkLmNvbSIsInBvcnQiOiIzMDgyNCIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiVW5pdGVkIFN0YXRlc19Mb3MgQW5nZWxlc192bWVzc18xMTg4IiwiYWRkIjoiMTU2LjIzMy4yMzIuMTkyIiwicG9ydCI6IjI0MDA0IiwiaWQiOiI1ODJmY2IzNS0yMGEwLTQ1MmMtZTE3OS00Yzc1OWM2MmM0OTQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiQ05fc3BlZWRub2RlXzAwMDciLCJhZGQiOiIxMDMuMTgxLjE2NS4xMDQiLCJwb3J0IjoiMTY2MjYiLCJpZCI6IjIzZjRkMjUxLWQzNDYtNDNmOC1hNTlmLTVlYTQxYzQ1NGEwYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiS1Jfc3BlZWRub2RlXzAwMjMiLCJhZGQiOiI0OS4xMjguMjE5Ljc1IiwicG9ydCI6IjUyODM4IiwiaWQiOiI3N2JjMTBlMS02NWIwLTQ0M2MtOGE2ZC1lMGEwODUwNmUwNTYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
-trojan://5fb072e0ddd631cf66cf752b09210480@35.77.81.137:4486?allowInsecure=1&sni=www.nintendogames.net#Japan_Tokyo_trojan_103
-trojan://BxceQaOe@18.183.242.254:2826?allowInsecure=1&sni=t.me%2Fripaojiedian#Japan_Tokyo_trojan_104
-trojan://BxceQaOe@13.114.141.67:38301?allowInsecure=1&sni=t.me%2Fripaojiedian#Japan_Tokyo_trojan_105
-trojan://BxceQaOe@18.183.242.254:3760?allowInsecure=1&sni=t.me%252Fripaojiedian#Japan_Tokyo_trojan_106
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.150.76:3423?allowInsecure=0&sni=www.nintendogames.net#Japan_Tokyo_trojan_107
-trojan://5fb072e0ddd631cf66cf752b09210480@54.199.40.252:1933?allowInsecure=0&sni=www.nintendogames.net#Japan_Tokyo_trojan_108
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.72.205:3901?allowInsecure=0&sni=www.nintendogames.net#Japan_Tokyo_trojan_109
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.150.76:3901?allowInsecure=1&sni=www.nintendogames.net#Japan_Tokyo_trojan_1010
-trojan://BxceQaOe@18.183.242.254:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#Japan_Tokyo_trojan_1011
-trojan://5fb072e0ddd631cf66cf752b09210480@38.180.193.227:443?allowInsecure=0&sni=www.nintendogames.net#The%20Netherlands_Meppel_trojan_1012
-trojan://5fb072e0ddd631cf66cf752b09210480@38.180.193.206:443?allowInsecure=0&sni=www.nintendogames.net#The%20Netherlands_Meppel_trojan_1013
-trojan://BxceQaOe@18.183.242.254:2569?allowInsecure=1&sni=t.me%2Fripaojiedian#Japan_Tokyo_trojan_1014
-trojan://telegram-id-directvpn@3.77.68.129:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#Germany_Frankfurt%20am%20Main_trojan_1016
-trojan://telegram-id-directvpn@18.195.91.205:22223?allowInsecure=1&sni=18.195.91.205#Germany_Frankfurt%20am%20Main_trojan_1017
-trojan://telegram-id-privatevpns@35.180.72.19:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#France_Paris_trojan_1018
-trojan://M7v%w11Se*@qfdfsg.wsone.icu:443?allowInsecure=1&sni=qfdfsg.wsone.icu#Indonesia_Jakarta_trojan_1019
-trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=t.me%2Fripaojiedian#Hong%20Kong_San%20Po%20Kong_trojan_1111
-trojan://e16613ac-8514-4ede-bba3-31f16d593cbd@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1113
-trojan://e4b2b196-92cb-4977-ab48-429c533fd97c@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1114
-trojan://33b3a51e-31c2-4b67-bf27-3cd6dd6c6edb@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1116
-trojan://3f83b84d-b69a-4386-887a-ee51b1d18fe8@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1117
-trojan://bd42df14-0524-4d86-ac9f-592a93951684@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1118
-trojan://44ea2794-2072-4b49-9321-29833cb60e75@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1119
-trojan://3fcdd9b4-f5c5-4170-a5fd-97d0a4cb7e9a@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1120
-trojan://63db9d3f-4149-4013-bbc8-bd7c53fd6ed5@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1121
-trojan://86c379d8-0565-4a8b-a636-ca80bd42a131@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1122
-trojan://b9c65989-f046-476a-b3ca-fe0549787f08@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1127
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn0.868863.xyz:2087?allowInsecure=1&sni=17708034063447.682637.xyz#None_None_trojan_1129
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn0.868863.xyz:2096?allowInsecure=1&sni=17708034067916.682637.xyz#None_None_trojan_1132
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn0.868863.xyz:8443?allowInsecure=1&sni=17708034063639.682637.xyz#United%20States_San%20Francisco_trojan_1133
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn0.868863.xyz:2053?allowInsecure=1&sni=17708034067383.682637.xyz#United%20States_San%20Francisco_trojan_1135
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn1.868863.xyz:2053?allowInsecure=1&sni=17708034062791.206352.xyz#None_None_trojan_1136
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn1.868863.xyz:2096?allowInsecure=1&sni=17708034064699.206353.xyz#None_None_trojan_1137
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn1.868863.xyz:2087?allowInsecure=1&sni=17708034066660.206355.xyz#None_None_trojan_1138
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn2.868863.xyz:2083?allowInsecure=1&sni=17708034069500.206352.xyz#None_None_trojan_1140
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn2.868863.xyz:2087?allowInsecure=1&sni=17708034064668.206353.xyz#None_None_trojan_1141
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn2.868863.xyz:2096?allowInsecure=1&sni=17708034067867.206355.xyz#None_None_trojan_1142
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn3.868863.xyz:2087?allowInsecure=1&sni=17708034067070.206352.xyz#None_None_trojan_1144
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn3.868863.xyz:2083?allowInsecure=1&sni=17708034069357.206353.xyz#None_None_trojan_1145
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn3.868863.xyz:2053?allowInsecure=1&sni=17708034061076.206355.xyz#None_None_trojan_1146
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn4.868863.xyz:2096?allowInsecure=1&sni=17708034064736.206352.xyz#United%20States_None_trojan_1148
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn4.868863.xyz:8443?allowInsecure=1&sni=17708034069808.206353.xyz#None_None_trojan_1149
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn4.868863.xyz:2083?allowInsecure=1&sni=17708034069179.206355.xyz#None_None_trojan_1150
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn5.868863.xyz:8443?allowInsecure=1&sni=17708034061229.206352.xyz#None_None_trojan_1152
-trojan://3e3df21c-9db1-4df0-9c52-60684afae25f@bestcdn5.868863.xyz:2053?allowInsecure=1&sni=17708034063909.206353.xyz#United%20States_None_trojan_1153
-trojan://d1fe20fd-3cd1-4ba4-8413-1cf2ab14c179@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1156
-trojan://ee4395a5-8dff-4264-897b-20a69b6598a2@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1157
-trojan://64f12f30-4b9e-4993-9016-900b8781c98b@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1158
-trojan://63db9d3f-4149-4013-bbc8-bd7c53fd6ed5@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1159
-trojan://fd7401aa-a563-4d4d-8ad4-a8c4325aba71@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1160
-trojan://86c379d8-0565-4a8b-a636-ca80bd42a131@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1161
-trojan://80ac0a22-6a7e-417a-a6b7-ae44b2da1c3b@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1162
-trojan://ee4395a5-8dff-4264-897b-20a69b6598a2@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1163
-trojan://45fad843-ef34-4800-b838-342f42493a82@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1164
-trojan://d1fe20fd-3cd1-4ba4-8413-1cf2ab14c179@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1165
-trojan://bd42df14-0524-4d86-ac9f-592a93951684@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1166
-trojan://2cf2817d-5a08-477f-b5c8-02c10dc84c63@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1167
-trojan://15ee69de-6235-47b5-a28d-7f746424ea57@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1168
-trojan://6a97aa88-eb91-4ea5-a305-d1a4838c1875@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1169
-trojan://dc3f0636-b06d-4dd9-b30d-dc0aaa3443a7@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1170
-trojan://2cf2817d-5a08-477f-b5c8-02c10dc84c63@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1171
-trojan://91be2fb5-5543-49af-90d0-52923cceb0be@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1172
-trojan://33b3a51e-31c2-4b67-bf27-3cd6dd6c6edb@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1173
-trojan://64f12f30-4b9e-4993-9016-900b8781c98b@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1174
-trojan://3f83b84d-b69a-4386-887a-ee51b1d18fe8@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1175
-trojan://63db9d3f-4149-4013-bbc8-bd7c53fd6ed5@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1176
-trojan://63db9d3f-4149-4013-bbc8-bd7c53fd6ed5@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1177
-trojan://64f12f30-4b9e-4993-9016-900b8781c98b@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1178
-trojan://9555eeed-7c89-45e8-becf-d8beab2751cc@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1179
-trojan://45fad843-ef34-4800-b838-342f42493a82@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1180
-trojan://b9c65989-f046-476a-b3ca-fe0549787f08@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1181
-trojan://3fcdd9b4-f5c5-4170-a5fd-97d0a4cb7e9a@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1182
-trojan://d7190512-c1fa-466f-8dd5-07a736738ec0@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1183
-trojan://d7190512-c1fa-466f-8dd5-07a736738ec0@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1186
+vmess://eyJ2IjoiMiIsInBzIjoiVW5pdGVkIEtpbmdkb21fTm9uZV92bWVzc18xMTExIiwiYWRkIjoiZ3RtMS5rdG13YW4ubmV0IiwicG9ydCI6IjEyODgzIiwiaWQiOiIzYWM5ZDQzNi1mMjEzLTQyMWQtOTY0NC1hOTQ2ODZlZTlmYmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nX0hvbmcgS29uZ192bWVzc18xMTE0IiwiYWRkIjoiNDcuMjQyLjIyNS4wIiwicG9ydCI6IjMyOTc1IiwiaWQiOiJlYmFhZDUyNS1lMmNmLTRjMTgtOGFlOS00MWFmMjlhYzRiOWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiSW5kaWFfTm9uZV92bWVzc18xMTE1IiwiYWRkIjoiaWQyLndwYWlycGxhbmUuY29tIiwicG9ydCI6IjkwMDAiLCJpZCI6Ijc3YWFkNzNkLTAzZTctNDQxYi05YmM1LTk4ZDEzNTM1YmEzZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQ2hpbmFfTm9uZV92bWVzc18xMTI3IiwiYWRkIjoidjQuaGRhY2QuY29tIiwicG9ydCI6IjMwODA0IiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiVW5pdGVkIFN0YXRlc19Ob25lX3ZtZXNzXzExMjgiLCJhZGQiOiJuZXh0bWkuaGFqbXlhYi5pciIsInBvcnQiOiIyMDUzIiwiaWQiOiI5NTg1NjM2YS01NGJjLTQxOWEtOTBhMS03NmM1YzZlYzc0ZGYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6InRscyIsInNuaSI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiVW5rbm93bl92bWVzc18xMTU4IiwiYWRkIjoiMTYwLjE5MS4yNDUuNDgiLCJwb3J0IjoiNTg2MjMiLCJpZCI6IjhkNzQ4MDNlLWFhNzQtNDdlZi1lM2FlLTIzZWVhYTk2Zjg5ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nX05vbmVfdm1lc3NfMTE3MCIsImFkZCI6IjM2LjUwLjkwLjI0MSIsInBvcnQiOiI0Nzc5MCIsImlkIjoiYTg4YTcxZmEtZWQ3Yy00OGQzLTg5ZTAtNzRhMDBkNjA1ZDg4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nX05vbmVfdm1lc3NfMTE3MSIsImFkZCI6IjM2LjUwLjkwLjI0MSIsInBvcnQiOiIzNTk1MSIsImlkIjoiYTg4YTcxZmEtZWQ3Yy00OGQzLTg5ZTAtNzRhMDBkNjA1ZDg4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiQ2hpbmFfTm9uZV92bWVzc18xMTcyIiwiYWRkIjoidjM1LmhkYWNkLmNvbSIsInBvcnQiOiIzMDgzNSIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiSXJhbl9UZWhyYW5fdm1lc3NfMTE3MyIsImFkZCI6InYzNi5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MzYiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nX0hvbmcgS29uZ192bWVzc18xMTc0IiwiYWRkIjoibjE3NjEyMTQ5MDYud3BnMjcueHl6IiwicG9ydCI6IjQ0MyIsImlkIjoiYzI4YTYyNTgtN2JhYS00MGZjLThhNTEtODdmNTljODQ3Y2Q3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIifQ==
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.65.107:3373?allowInsecure=1&sni=www.nintendogames.net#Japan_None_trojan_103
+trojan://BxceQaOe@43.199.205.175:2826?allowInsecure=1&sni=t.me%2Fripaojiedian#Hong%20Kong_None_trojan_104
+trojan://BxceQaOe@13.231.159.122:2826?allowInsecure=1&sni=t.me%2Fripaojiedian#Japan_Tokyo_trojan_105
+trojan://BxceQaOe@54.248.12.71:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#Japan_Tokyo_trojan_106
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.117.182:193?allowInsecure=0&sni=www.nintendogames.net#Japan_Tokyo_trojan_107
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.105.192:400?allowInsecure=0&sni=www.nintendogames.net#Japan_Tokyo_trojan_108
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@43.207.73.82:3901?allowInsecure=0&sni=www.nintendogames.net#Japan_Tokyo_trojan_109
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.144.208:3901?allowInsecure=1&sni=www.nintendogames.net#Japan_Tokyo_trojan_1010
+trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#Poland_None_trojan_1011
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@52.194.245.221:1281?allowInsecure=0&sni=www.nintendogames.net#Japan_Tokyo_trojan_1012
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.65.107:1281?allowInsecure=0&sni=www.nintendogames.net#Japan_None_trojan_1013
+trojan://BxceQaOe@43.199.205.175:3159?allowInsecure=1&sni=t.me%2Fripaojiedian#Hong%20Kong_None_trojan_1014
+trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=t.me%2Fripaojiedian#Hong%20Kong_San%20Po%20Kong_trojan_1112
+trojan://d1fe20fd-3cd1-4ba4-8413-1cf2ab14c179@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1116
+trojan://ee4395a5-8dff-4264-897b-20a69b6598a2@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1117
+trojan://e16613ac-8514-4ede-bba3-31f16d593cbd@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1118
+trojan://e4b2b196-92cb-4977-ab48-429c533fd97c@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1119
+trojan://64f12f30-4b9e-4993-9016-900b8781c98b@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1120
+trojan://15ee69de-6235-47b5-a28d-7f746424ea57@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1121
+trojan://6a97aa88-eb91-4ea5-a305-d1a4838c1875@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1122
+trojan://dc3f0636-b06d-4dd9-b30d-dc0aaa3443a7@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1123
+trojan://91be2fb5-5543-49af-90d0-52923cceb0be@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1124
+trojan://33b3a51e-31c2-4b67-bf27-3cd6dd6c6edb@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1125
+trojan://64f12f30-4b9e-4993-9016-900b8781c98b@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1126
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn0.868863.xyz:2087?allowInsecure=1&sni=17708924956708.682637.xyz#None_None_trojan_1129
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn0.868863.xyz:2096?allowInsecure=1&sni=17708924953808.682637.xyz#None_None_trojan_1133
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn0.868863.xyz:8443?allowInsecure=1&sni=17708924958975.682637.xyz#United%20States_San%20Francisco_trojan_1134
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn0.868863.xyz:2053?allowInsecure=1&sni=17708924952883.682637.xyz#United%20States_San%20Francisco_trojan_1136
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn1.868863.xyz:2053?allowInsecure=1&sni=17708924957277.206352.xyz#None_None_trojan_1137
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn1.868863.xyz:2096?allowInsecure=1&sni=17708924957050.206353.xyz#None_None_trojan_1138
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn1.868863.xyz:2087?allowInsecure=1&sni=17708924958219.206355.xyz#None_None_trojan_1139
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn2.868863.xyz:2083?allowInsecure=1&sni=17708924957139.206352.xyz#None_None_trojan_1141
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn2.868863.xyz:2087?allowInsecure=1&sni=17708924952960.206353.xyz#None_None_trojan_1142
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn2.868863.xyz:2096?allowInsecure=1&sni=17708924952241.206355.xyz#None_None_trojan_1143
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn3.868863.xyz:2087?allowInsecure=1&sni=17708924955866.206352.xyz#None_None_trojan_1145
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn3.868863.xyz:2083?allowInsecure=1&sni=17708924956712.206353.xyz#None_None_trojan_1146
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn3.868863.xyz:2053?allowInsecure=1&sni=17708924953258.206355.xyz#None_None_trojan_1147
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn4.868863.xyz:2096?allowInsecure=1&sni=17708924952430.206352.xyz#United%20States_None_trojan_1149
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn4.868863.xyz:8443?allowInsecure=1&sni=17708924954983.206353.xyz#None_None_trojan_1150
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn4.868863.xyz:2083?allowInsecure=1&sni=17708924958085.206355.xyz#None_None_trojan_1151
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn5.868863.xyz:8443?allowInsecure=1&sni=17708924951720.206352.xyz#None_None_trojan_1153
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn5.868863.xyz:2053?allowInsecure=1&sni=17708924958661.206353.xyz#United%20States_None_trojan_1154
+trojan://6a97aa88-eb91-4ea5-a305-d1a4838c1875@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1157
+trojan://586fb4bd-5369-4c73-a3ee-e1ef5b8093c8@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1159
+trojan://e16613ac-8514-4ede-bba3-31f16d593cbd@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1160
+trojan://0bed90a0-bfc9-4e64-b7dc-165806dd4de0@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1161
+trojan://f2ea66ab-4b6f-4b0b-8d0a-a00a521a9d68@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1162
+trojan://b7103676-a866-4f33-a025-431c5a61ab05@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1163
+trojan://86c379d8-0565-4a8b-a636-ca80bd42a131@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1164
+trojan://bd42df14-0524-4d86-ac9f-592a93951684@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1165
+trojan://3f83b84d-b69a-4386-887a-ee51b1d18fe8@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1166
+trojan://f2ea66ab-4b6f-4b0b-8d0a-a00a521a9d68@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1167
+trojan://bd42df14-0524-4d86-ac9f-592a93951684@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1168
+trojan://b7103676-a866-4f33-a025-431c5a61ab05@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#Taiwan_Chiayi%20City_trojan_1169
 hysteria2://dongtaiwang.com@74.63.233.74:33445?insecure=1&sni=www.bing.com&fastopen=1#United%20States_hysteria2_01
 hysteria2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=www.bing.com&fastopen=1#United%20States_hysteria2_71
 hysteria2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com&fastopen=1#United%20States_hy2_0
@@ -131,39 +91,18 @@ vless://85beb960-236b-4634-81ce-6ad66652f928@109.104.152.101:13982?security=none
 vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh6.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#United States_vless_1
 vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh9.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#None_vless_2
 vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh7.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#None_vless_3
-vless://ed6dd416-1339-4dbe-8562-c9786d41041b@43.250.54.175:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=43.250.54.175&fp=chrome#AU_speednode_0001
-vless://95abaefc-7861-417a-81b7-166cb788ce1a@45.145.43.147:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=45.145.43.147&fp=chrome&flow=xtls-rprx-vision#DE_speednode_0015
-vless://add14a5b-f648-4423-8a1f-8b8f54c0daef@195.154.200.13:17401?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=195.154.200.13&fp=chrome#FR_speednode_0018
-vless://0e11b147-194b-443b-9eb1-dd1a20264b6b@144.24.97.225:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=144.24.97.225&fp=chrome&flow=xtls-rprx-vision#IN_speednode_0020
-vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?security=none&type=ws&alpn=h3&allowInsecure=0&sni=blog.zanbori.ir&fp=chrome#IR_speednode_0021
-vless://d33b839f-9d1d-480b-a3f8-f647af157cd7@vultr.nl1.node.stash.tg:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=vultr.nl1.node.stash.tg&fp=chrome&flow=xtls-rprx-vision#NL_speednode_0025
-vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@176.109.106.241:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=176.109.106.241&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0026
-vless://c0afdbe5-e506-4fd4-b838-6f9ee6fc3a5f@51.250.73.253:8443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=51.250.73.253&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0027
-vless://3c5c4ccc-b502-42cb-8c42-cfa714db4767@89.169.128.105:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=89.169.128.105&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0028
-vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@185.39.206.226:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=185.39.206.226&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0029
-vless://c0afdbe5-e506-4fd4-b838-6f9ee6fc3a5f@s32.buzzvpn.online:8443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=s32.buzzvpn.online&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0030
-vless://e8accc46-c511-42fb-919b-9283799a88a1@158.160.105.121:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=158.160.105.121&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0031
-vless://e8accc46-c511-42fb-919b-9283799a88a1@158.160.221.132:51102?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=158.160.221.132&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0032
-vless://c9246b70-3eca-4825-84b0-16c32e3124a7@158.160.105.121:51102?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=158.160.105.121&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0033
-vless://8ff544c5-303c-46f4-80fe-8e8e166fd981@45.139.26.213:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=45.139.26.213&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0034
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.221.143.154:443?security=none&type=ws&alpn=h3&allowInsecure=0&sni=77.221.143.154&fp=chrome#SE_speednode_0035
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.221.140.170:443?security=none&type=ws&alpn=h3&allowInsecure=0&sni=77.221.140.170&fp=chrome#SE_speednode_0036
-vless://6b05ea27-051b-450b-965b-f6c5da11a1f0@43.173.125.15:44519?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=43.173.125.15&fp=chrome#SG_speednode_0037
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.fbi.gov:2095?security=none&type=ws&alpn=h3&allowInsecure=0&sni=www.fbi.gov&fp=chrome#US_speednode_0043
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@developers.cloudflare.com:2095?security=none&type=ws&alpn=h3&allowInsecure=0&sni=developers.cloudflare.com&fp=chrome#US_speednode_0044
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.npmjs.com:2095?security=none&type=ws&alpn=h3&allowInsecure=0&sni=www.npmjs.com&fp=chrome#US_speednode_0045
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.udemy.com:2095?security=none&type=ws&alpn=h3&allowInsecure=0&sni=www.udemy.com&fp=chrome#US_speednode_0046
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?security=none&type=ws&alpn=h3&allowInsecure=0&sni=www.wto.org&fp=chrome#US_speednode_0047
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cloudflare-dns.com:2095?security=none&type=ws&alpn=h3&allowInsecure=0&sni=cloudflare-dns.com&fp=chrome#US_speednode_0048
-vless://26524cce-d514-4014-a426-365fb266a14d@bestcf.030101.xyz:2053?security=none&type=ws&alpn=h3&allowInsecure=0&sni=bestcf.030101.xyz&fp=chrome#US_speednode_0049
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.temu.com:2095?security=none&type=ws&alpn=h3&allowInsecure=0&sni=www.temu.com&fp=chrome#US_speednode_0050
-vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@45.150.174.87:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=45.150.174.87&fp=chrome&flow=xtls-rprx-vision#US_speednode_0051
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.090227.xyz:2095?security=none&type=ws&alpn=h3&allowInsecure=0&sni=cf.090227.xyz&fp=chrome#US_speednode_0052
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@ns.cloudflare.com:2095?security=none&type=ws&alpn=h3&allowInsecure=0&sni=ns.cloudflare.com&fp=chrome#US_speednode_0053
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.118:443?security=none&type=ws&alpn=h3&allowInsecure=0&sni=135.84.74.118&fp=chrome#US_speednode_0054
-vless://5566ef21-b44d-4f2f-9356-6664a7c611ee@fbi.gov:443?security=none&type=ws&alpn=h3&allowInsecure=0&sni=fbi.gov&fp=chrome#US_speednode_0055
-vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=94.131.123.167&fp=chrome&flow=xtls-rprx-vision#US_speednode_0056
-vless://5566ef21-b44d-4f2f-9356-6664a7c611ee@8.34.146.255:2083?security=none&type=ws&alpn=h3&allowInsecure=0&sni=8.34.146.255&fp=chrome#US_speednode_0057
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@de.cdn.stun.su:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=de.cdn.stun.su&fp=chrome&flow=xtls-rprx-vision#DE_speednode_0001
+vless://d607a577-978c-487a-a2ad-788e4129162a@42.2.28.64:1314?security=none&type=tcp&alpn=h3&allowInsecure=1&sni=42.2.28.64&fp=chrome&flow=xtls-rprx-vision#HK_speednode_0002
+vless://1834316d-2b59-4239-970d-c764218bcdf2@144.24.97.225:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=144.24.97.225&fp=chrome&flow=xtls-rprx-vision#IN_speednode_0003
+vless://570d1a03-6acf-40ca-819e-1049906235d9@38.207.130.145:48816?security=none&type=tcp&alpn=h3&allowInsecure=1&sni=38.207.130.145&fp=chrome&flow=xtls-rprx-vision#JP_speednode_0004
+vless://bf9931be-a7fd-46b3-9919-b858299e9f65@meow-msc.nethcloud.top:8443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=meow-msc.nethcloud.top&fp=chrome#RU_speednode_0007
+vless://11e41a32-6672-48a0-b9cb-c8694242ecff@158.160.223.36:8443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=158.160.223.36&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0008
+vless://3c5c4ccc-b502-42cb-8c42-cfa714db4767@89.169.128.105:8443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=89.169.128.105&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0009
+vless://e8accc46-c511-42fb-919b-9283799a88a1@158.160.105.121:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=158.160.105.121&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0010
+vless://8ff544c5-303c-46f4-80fe-8e8e166fd981@45.139.26.213:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=45.139.26.213&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0011
+vless://c6977f74-e620-4748-a2d3-4351a588c659@203.10.96.138:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=203.10.96.138&fp=chrome&flow=xtls-rprx-vision#US_speednode_0013
+vless://12cb9911-a48d-4147-85cc-68dd678e94c6@64.188.64.59:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=64.188.64.59&fp=chrome#US_speednode_0014
+vless://b183589d-5e32-4141-a39a-6cb747964c67@pl2.jugsenkeys4pays.su:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=pl2.jugsenkeys4pays.su&fp=chrome&flow=xtls-rprx-vision#US_speednode_0015
 hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=bing.com&protocol=udp&udp=true&fastopen=1#United%20States_hy_0
 hysteria://62.210.243.131:18702?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=bing.com&protocol=udp&udp=true&fastopen=1#France_hy_1
 hysteria://109.104.152.194:58510?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=bing.com&protocol=udp&udp=true&fastopen=1#United%20States_hy_3
@@ -171,117 +110,9 @@ hysteria://108.181.5.133:26022?peer=bing.com&auth=dongtaiwang.com&insecure=1&upm
 hysteria://62.210.243.131:18702?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#France_hysteria_1
 hysteria://62.210.243.131:18702?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#France_hysteria_2
 hysteria://109.104.152.194:58510?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#United States_hysteria_3
-name: CN_speednode_0002
-server: show.bilibilicloud01.com
-port: 54102
-type: ssr
-cipher: chacha20-ietf
-password: Mv4e0QHWPwdbKiCF
-protocol: auth_aes128_sha1
-obfs: plain
-protocol-param: 191365:qRBEUR0NMyemzYpH
-obfs-param: ""
-udp: true
-name: CN_speednode_0003
-server: show.bilibilicloud01.com
-port: 54101
-type: ssr
-cipher: chacha20-ietf
-password: Mv4e0QHWPwdbKiCF
-protocol: auth_aes128_sha1
-obfs: plain
-protocol-param: 191365:qRBEUR0NMyemzYpH
-obfs-param: ""
-udp: true
-name: CN_speednode_0004
-server: show.bilibilicloud01.com
-port: 54115
-type: ssr
-cipher: chacha20-ietf
-password: Mv4e0QHWPwdbKiCF
-protocol: auth_aes128_sha1
-obfs: plain
-protocol-param: 191365:qRBEUR0NMyemzYpH
-obfs-param: ""
-udp: true
-name: CN_speednode_0005
-server: show.bilibilicloud01.com
-port: 54114
-type: ssr
-cipher: chacha20-ietf
-password: Mv4e0QHWPwdbKiCF
-protocol: auth_aes128_sha1
-obfs: plain
-protocol-param: 191365:qRBEUR0NMyemzYpH
-obfs-param: ""
-udp: true
-name: CN_speednode_0012
-server: live.bilibilicloud01.com
-port: 54112
-type: ssr
-cipher: chacha20-ietf
-password: Mv4e0QHWPwdbKiCF
-protocol: auth_aes128_sha1
-obfs: plain
-protocol-param: 191365:qRBEUR0NMyemzYpH
-obfs-param: ""
-udp: true
-name: CN_speednode_0013
-server: live.bilibilicloud01.com
-port: 53845
-type: ssr
-cipher: chacha20-ietf
-password: Mv4e0QHWPwdbKiCF
-protocol: auth_aes128_sha1
-obfs: plain
-protocol-param: 191365:qRBEUR0NMyemzYpH
-obfs-param: ""
-udp: true
-name: CN_speednode_0006
-server: 784e93d5-tacsg0-tgp57k-ddgs.nw3hktdc1.cdnbytescm.com
-port: 3238
-type: http
-username: c870fe5a-0729-11f0-8cf9-f23c93136cb3
-password: c870fe5a-0729-11f0-8cf9-f23c93136cb3
-tls: true
-udp: true
-name: CN_speednode_0008
-server: a6237181-tacsg0-tgp57k-ddgs.h2sgdc2.cdnbytescm.com
-port: 3233
-type: http
-username: c870fe5a-0729-11f0-8cf9-f23c93136cb3
-password: c870fe5a-0729-11f0-8cf9-f23c93136cb3
-tls: true
-udp: true
-name: CN_speednode_0009
-server: 4c430458-tadeo0-tgprfk-ddgs.h2tkydc1.cdnbytescm.com
-port: 3236
-type: http
-username: c870fe5a-0729-11f0-8cf9-f23c93136cb3
-password: c870fe5a-0729-11f0-8cf9-f23c93136cb3
-tls: true
-udp: true
-name: CN_speednode_0010
-server: 0417ac91-tadeo0-tgprfk-ddgs.sgdc1.cdnbytescm.com
-port: 3253
-type: http
-username: c870fe5a-0729-11f0-8cf9-f23c93136cb3
-password: c870fe5a-0729-11f0-8cf9-f23c93136cb3
-tls: true
-udp: true
-name: CN_speednode_0011
-server: 817a738a-tadeo0-tgprfk-ddgs.h2sgdc2.cdnbytescm.com
-port: 3233
-type: http
-username: c870fe5a-0729-11f0-8cf9-f23c93136cb3
-password: c870fe5a-0729-11f0-8cf9-f23c93136cb3
-tls: true
-udp: true
-name: US_speednode_0058
-server: c1241cd5-tacsg0-tgp57k-ddgs.seadc2.cdnbytescm.com
-port: 3443
-type: http
-username: c870fe5a-0729-11f0-8cf9-f23c93136cb3
-password: c870fe5a-0729-11f0-8cf9-f23c93136cb3
-tls: true
+name: KR_speednode_0005
+server: 121.169.46.116
+port: 1090
+type: socks5
+username: Og%3D%3D
 udp: true
