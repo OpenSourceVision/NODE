@@ -1,7 +1,7 @@
 proxies:
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_102
+    name: Hong Kong_Kowloon_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -10,7 +10,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_1015
+    name: Hong Kong_Kowloon_vmess_1015
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -121,18 +121,18 @@ proxies:
       headers:
         Host: gtm1.ktmwan.net
       path: /
-  - alterId: 0
+  - alterId: 2
     cipher: auto
-    name: Hong Kong_Hong Kong_vmess_1114
+    name: China_None_vmess_1112
     network: tcp
-    port: "32975"
-    server: 47.242.225.0
+    port: "30824"
+    server: v24.hdacd.com
     tls: false
     type: vmess
-    uuid: ebaad525-e2cf-4c18-8ae9-41af29ac4b9c
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: India_None_vmess_1115
+    name: India_None_vmess_1113
     network: tcp
     port: "9000"
     server: id2.wpairplane.com
@@ -141,7 +141,7 @@ proxies:
     uuid: 77aad73d-03e7-441b-9bc5-98d13535ba3e
   - alterId: 2
     cipher: auto
-    name: China_None_vmess_1127
+    name: China_None_vmess_1114
     network: tcp
     port: "30804"
     server: v4.hdacd.com
@@ -150,30 +150,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: United States_None_vmess_1128
-    network: ws
-    port: "2053"
-    server: nextmi.hajmyab.ir
-    servername: nextmi.hajmyab.ir
-    tls: true
-    type: vmess
-    uuid: 9585636a-54bc-419a-90a1-76c5c6ec74df
-    ws-opts:
-      headers:
-        Host: app.hajmyab.ir
-      path: /
-  - alterId: 0
-    cipher: auto
-    name: Unknown_vmess_1158
-    network: tcp
-    port: "58623"
-    server: 160.191.245.48
-    tls: false
-    type: vmess
-    uuid: 8d74803e-aa74-47ef-e3ae-23eeaa96f89d
-  - alterId: 0
-    cipher: auto
-    name: Hong Kong_None_vmess_1170
+    name: Hong Kong_None_vmess_1115
     network: ws
     port: "47790"
     server: 36.50.90.241
@@ -185,55 +162,67 @@ proxies:
       headers:
         Host: sg.dalxy.eu.org
       path: /a88a71fa-ed7c-48d3-89e0-74a00d605d88-vm
-  - alterId: 0
-    cipher: auto
-    name: Hong Kong_None_vmess_1171
-    network: ws
-    port: "35951"
-    server: 36.50.90.241
-    servername: sg.dalxy.eu.org
-    tls: true
-    type: vmess
-    uuid: a88a71fa-ed7c-48d3-89e0-74a00d605d88
-    ws-opts:
-      headers:
-        Host: sg.dalxy.eu.org
-      path: /a88a71fa-ed7c-48d3-89e0-74a00d605d88-vm
   - alterId: 2
     cipher: auto
-    name: China_None_vmess_1172
+    name: China_None_vmess_1116
     network: tcp
     port: "30835"
     server: v35.hdacd.com
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: United Kingdom_None_vmess_1117
+    network: tcp
+    port: "180"
+    server: 82.198.246.97
+    tls: false
+    type: vmess
+    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+  - alterId: 0
+    cipher: auto
+    name: None_None_vmess_1147
+    network: ws
+    port: "8080"
+    server: 104.19.37.10
+    tls: false
+    type: vmess
+    uuid: 88888888-8888-8888-8888-888888888888
+    ws-opts:
+      headers:
+        Host: nasnet-571299667.rahavard365.co
+      path: /NASNET/cdn?ed=2560
   - alterId: 2
     cipher: auto
-    name: Iran_Tehran_vmess_1173
+    name: Iran_Tehran_vmess_1148
     network: tcp
-    port: "30836"
-    server: v36.hdacd.com
+    port: "30833"
+    server: v33.hdacd.com
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: Hong Kong_Hong Kong_vmess_1174
-    network: ws
-    port: "443"
-    server: n1761214906.wpg27.xyz
-    servername: n1761214906.wpg27.xyz
-    tls: true
-    type: vmess
-    uuid: c28a6258-7baa-40fc-8a51-87f59c847cd7
-    ws-opts:
-      headers:
-        Host: n1761214906.wpg27.xyz
-      path: /
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_1176
+    name: Iran_Tehran_vmess_1149
+    network: tcp
+    port: "30806"
+    server: v6.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 2
+    cipher: auto
+    name: Iran_Tehran_vmess_1150
+    network: tcp
+    port: "30809"
+    server: v9.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 2
+    cipher: auto
+    name: Hong Kong_Kowloon_vmess_1152
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -242,7 +231,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_1189
+    name: Hong Kong_Kowloon_vmess_1165
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -252,7 +241,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_102
+    name: Hong Kong_Kowloon_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -261,7 +250,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_1015
+    name: Hong Kong_Kowloon_vmess_1015
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -372,18 +361,18 @@ proxies:
       headers:
         Host: gtm1.ktmwan.net
       path: /
-  - alterId: 0
+  - alterId: 2
     cipher: auto
-    name: Hong Kong_Hong Kong_vmess_1114
+    name: China_None_vmess_1112
     network: tcp
-    port: "32975"
-    server: 47.242.225.0
+    port: "30824"
+    server: v24.hdacd.com
     tls: false
     type: vmess
-    uuid: ebaad525-e2cf-4c18-8ae9-41af29ac4b9c
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: India_None_vmess_1115
+    name: India_None_vmess_1113
     network: tcp
     port: "9000"
     server: id2.wpairplane.com
@@ -392,7 +381,7 @@ proxies:
     uuid: 77aad73d-03e7-441b-9bc5-98d13535ba3e
   - alterId: 2
     cipher: auto
-    name: China_None_vmess_1127
+    name: China_None_vmess_1114
     network: tcp
     port: "30804"
     server: v4.hdacd.com
@@ -401,30 +390,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: United States_None_vmess_1128
-    network: ws
-    port: "2053"
-    server: nextmi.hajmyab.ir
-    servername: nextmi.hajmyab.ir
-    tls: true
-    type: vmess
-    uuid: 9585636a-54bc-419a-90a1-76c5c6ec74df
-    ws-opts:
-      headers:
-        Host: app.hajmyab.ir
-      path: /
-  - alterId: 0
-    cipher: auto
-    name: Unknown_vmess_1158
-    network: tcp
-    port: "58623"
-    server: 160.191.245.48
-    tls: false
-    type: vmess
-    uuid: 8d74803e-aa74-47ef-e3ae-23eeaa96f89d
-  - alterId: 0
-    cipher: auto
-    name: Hong Kong_None_vmess_1170
+    name: Hong Kong_None_vmess_1115
     network: ws
     port: "47790"
     server: 36.50.90.241
@@ -436,55 +402,67 @@ proxies:
       headers:
         Host: sg.dalxy.eu.org
       path: /a88a71fa-ed7c-48d3-89e0-74a00d605d88-vm
-  - alterId: 0
-    cipher: auto
-    name: Hong Kong_None_vmess_1171
-    network: ws
-    port: "35951"
-    server: 36.50.90.241
-    servername: sg.dalxy.eu.org
-    tls: true
-    type: vmess
-    uuid: a88a71fa-ed7c-48d3-89e0-74a00d605d88
-    ws-opts:
-      headers:
-        Host: sg.dalxy.eu.org
-      path: /a88a71fa-ed7c-48d3-89e0-74a00d605d88-vm
   - alterId: 2
     cipher: auto
-    name: China_None_vmess_1172
+    name: China_None_vmess_1116
     network: tcp
     port: "30835"
     server: v35.hdacd.com
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: United Kingdom_None_vmess_1117
+    network: tcp
+    port: "180"
+    server: 82.198.246.97
+    tls: false
+    type: vmess
+    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+  - alterId: 0
+    cipher: auto
+    name: None_None_vmess_1147
+    network: ws
+    port: "8080"
+    server: 104.19.37.10
+    tls: false
+    type: vmess
+    uuid: 88888888-8888-8888-8888-888888888888
+    ws-opts:
+      headers:
+        Host: nasnet-571299667.rahavard365.co
+      path: /NASNET/cdn?ed=2560
   - alterId: 2
     cipher: auto
-    name: Iran_Tehran_vmess_1173
+    name: Iran_Tehran_vmess_1148
     network: tcp
-    port: "30836"
-    server: v36.hdacd.com
+    port: "30833"
+    server: v33.hdacd.com
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: Hong Kong_Hong Kong_vmess_1174
-    network: ws
-    port: "443"
-    server: n1761214906.wpg27.xyz
-    servername: n1761214906.wpg27.xyz
-    tls: true
-    type: vmess
-    uuid: c28a6258-7baa-40fc-8a51-87f59c847cd7
-    ws-opts:
-      headers:
-        Host: n1761214906.wpg27.xyz
-      path: /
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_1176
+    name: Iran_Tehran_vmess_1149
+    network: tcp
+    port: "30806"
+    server: v6.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 2
+    cipher: auto
+    name: Iran_Tehran_vmess_1150
+    network: tcp
+    port: "30809"
+    server: v9.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 2
+    cipher: auto
+    name: Hong Kong_Kowloon_vmess_1152
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -493,7 +471,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_1189
+    name: Hong Kong_Kowloon_vmess_1165
     network: tcp
     port: "30807"
     server: v10.hdacd.com
