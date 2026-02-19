@@ -5,11 +5,35 @@ proxies:
     port: 443
     server: 63.180.254.10
     type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: China_Guangzhou_ss_103
+    password: 049d354a-2cf1-4956-b6d8-d04aa4969b64
+    port: 10015
+    server: assets-cfnode67.cloudflarecdn-edge.rfsconfig.com
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: China_Guangzhou_ss_1014
+    password: 049d354a-2cf1-4956-b6d8-d04aa4969b64
+    port: 22350
+    server: assets-cfnode67.cloudflarecdn-edge.rfsconfig.com
+    type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1124
+    name: United States_None_ss_1127
     password: amazonskr05
     port: 443
     server: 63.180.254.10
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: China_Guangzhou_ss_1129
+    password: 049d354a-2cf1-4956-b6d8-d04aa4969b64
+    port: 10015
+    server: assets-cfnode67.cloudflarecdn-edge.rfsconfig.com
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: China_Guangzhou_ss_1139
+    password: 049d354a-2cf1-4956-b6d8-d04aa4969b64
+    port: 22350
+    server: assets-cfnode67.cloudflarecdn-edge.rfsconfig.com
     type: ss
   - name: United States_ss_61
     type: ss
@@ -65,9 +89,33 @@ proxies:
     port: 443
     server: 63.180.254.10
     type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: China_Guangzhou_ss_103
+    password: 049d354a-2cf1-4956-b6d8-d04aa4969b64
+    port: 10015
+    server: assets-cfnode67.cloudflarecdn-edge.rfsconfig.com
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: China_Guangzhou_ss_1014
+    password: 049d354a-2cf1-4956-b6d8-d04aa4969b64
+    port: 22350
+    server: assets-cfnode67.cloudflarecdn-edge.rfsconfig.com
+    type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1124
+    name: United States_None_ss_1127
     password: amazonskr05
     port: 443
     server: 63.180.254.10
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: China_Guangzhou_ss_1129
+    password: 049d354a-2cf1-4956-b6d8-d04aa4969b64
+    port: 10015
+    server: assets-cfnode67.cloudflarecdn-edge.rfsconfig.com
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: China_Guangzhou_ss_1139
+    password: 049d354a-2cf1-4956-b6d8-d04aa4969b64
+    port: 22350
+    server: assets-cfnode67.cloudflarecdn-edge.rfsconfig.com
     type: ss
