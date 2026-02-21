@@ -10,16 +10,16 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: China_Dongguan_vmess_103
-    port: 10001
-    server: 27.44.141.89
+    name: China_None_vmess_103
+    port: 9006
+    server: select-hk.ddnskunlun.com
     skip-cert-verify: false
     tls: false
     type: vmess
-    uuid: 0e4e55e2-eca1-48ad-8669-da0440006556
+    uuid: a8bcce43-abda-315b-8e81-e3e65bcb3d07
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_1017
+    name: Hong Kong_Tuen Mun_vmess_1018
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -29,14 +29,14 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: China_Dongguan_vmess_1018
+    name: China_None_vmess_1019
     network: tcp
-    port: "10001"
-    server: 27.44.141.89
+    port: "9006"
+    server: select-hk.ddnskunlun.com
     servername: ""
     tls: false
     type: vmess
-    uuid: 0e4e55e2-eca1-48ad-8669-da0440006556
+    uuid: a8bcce43-abda-315b-8e81-e3e65bcb3d07
   - alterId: 0
     cipher: auto
     name: Unknown_vmess_111
@@ -129,7 +129,7 @@ proxies:
     uuid: 88888888-8888-8888-8888-888888888888
   - alterId: 0
     cipher: auto
-    name: United States_None_vmess_1112
+    name: United States_None_vmess_1111
     network: ws
     port: "8443"
     server: dll.avaaaal.ir
@@ -143,377 +143,16 @@ proxies:
       path: /
   - alterId: 0
     cipher: auto
-    name: None_None_vmess_1116
-    network: ws
-    port: "80"
-    server: jnm.1x2.indevs.in
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: jnm.1x2.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1118
-    network: ws
-    port: "80"
-    server: nmki.1yy.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: nmki.1yy.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1119
-    network: ws
-    port: "443"
-    server: nmjk.1hh.ccwu.cc
-    servername: nmjk.1hh.ccwu.cc
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: nmjk.1hh.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1120
-    network: ws
-    port: "80"
-    server: bgn.1dd.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: bgn.1dd.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1122
-    network: ws
-    port: "80"
-    server: nmkiy.1x8.indevs.in
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: nmkiy.1x8.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1126
-    network: ws
-    port: "80"
-    server: bfbg.2nn.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: bfbg.2nn.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1128
-    network: ws
-    port: "80"
-    server: yyhju.1x6.indevs.in
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: yyhju.1x6.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1129
-    network: ws
-    port: "80"
-    server: mkiuy.1x9.indevs.in
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: mkiuy.1x9.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1130
-    network: ws
-    port: "80"
-    server: yyynm.2nn.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: yyynm.2nn.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 2
-    cipher: auto
-    name: China_None_vmess_1134
-    network: tcp
-    port: "30809"
-    server: v9.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1142
-    network: ws
-    port: "443"
-    server: bghy.1x9.indevs.in
-    servername: bghy.1x9.indevs.in
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: bghy.1x9.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1143
-    network: ws
-    port: "443"
-    server: nhj.1jj.ccwu.cc
-    servername: nhj.1jj.ccwu.cc
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: nhj.1jj.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1144
-    network: ws
-    port: "80"
-    server: gbnh.0nn.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: gbnh.0nn.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1145
-    network: ws
-    port: "80"
-    server: nnmj.1x5.indevs.in
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: nnmj.1x5.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1146
-    network: ws
-    port: "443"
-    server: gbnh.1oo.ccwu.cc
-    servername: gbnh.1oo.ccwu.cc
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: gbnh.1oo.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1147
-    network: ws
-    port: "443"
-    server: kklo.1yy.ccwu.cc
-    servername: kklo.1yy.ccwu.cc
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: kklo.1yy.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1148
-    network: ws
-    port: "80"
-    server: bnhhy.1ll.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: bnhhy.1ll.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1149
-    network: ws
-    port: "443"
-    server: yyhju.1x6.indevs.in
-    servername: yyhju.1x6.indevs.in
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: yyhju.1x6.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1151
-    network: ws
-    port: "443"
-    server: bnj.0nn.ccwu.cc
-    servername: bnj.0nn.ccwu.cc
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: bnj.0nn.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1152
-    network: ws
-    port: "80"
-    server: kklo.1xq.indevs.in
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: kklo.1xq.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1153
-    network: ws
-    port: "443"
-    server: bgn.1dd.ccwu.cc
-    servername: bgn.1dd.ccwu.cc
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: bgn.1dd.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1155
-    network: ws
-    port: "443"
-    server: mkjhu.2nn.ccwu.cc
-    servername: mkjhu.2nn.ccwu.cc
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: mkjhu.2nn.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1156
-    network: ws
-    port: "80"
-    server: nnmkl.2nn.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: nnmkl.2nn.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1157
-    network: ws
-    port: "80"
-    server: vfgty6.2nn.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: vfgty6.2nn.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1159
-    network: ws
-    port: "80"
-    server: mmhhj.2nn.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: mmhhj.2nn.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: India_None_vmess_1161
-    network: tcp
-    port: "9000"
-    server: id2.wpairplane.com
-    tls: false
-    type: vmess
-    uuid: 77aad73d-03e7-441b-9bc5-98d13535ba3e
-  - alterId: 2
-    cipher: auto
-    name: China_None_vmess_1163
-    network: tcp
-    port: "30835"
-    server: v35.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: United Kingdom_None_vmess_1164
+    name: United Kingdom_None_vmess_1112
     network: tcp
     port: "180"
     server: 82.198.246.97
     tls: false
     type: vmess
     uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1170
-    network: ws
-    port: "80"
-    server: m9o0.1xq.indevs.in
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: m9o0.1xq.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
   - alterId: 2
     cipher: auto
-    name: China_None_vmess_1181
+    name: China_None_vmess_1113
     network: tcp
     port: "30808"
     server: v8.hdacd.com
@@ -522,7 +161,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: China_None_vmess_1182
+    name: China_None_vmess_1116
     network: tcp
     port: "30829"
     server: v29.hdacd.com
@@ -531,56 +170,80 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: China_None_vmess_1191
+    name: China_None_vmess_1117
     network: tcp
-    port: "30833"
-    server: v33.hdacd.com
+    port: "30809"
+    server: v9.hdacd.com
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Iran_Tehran_vmess_1192
+    name: China_None_vmess_1120
     network: tcp
-    port: "30809"
-    server: 151.242.183.218
+    port: "30835"
+    server: v35.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 2
+    cipher: auto
+    name: China_None_vmess_1129
+    network: tcp
+    port: "30836"
+    server: v36.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 2
+    cipher: auto
+    name: China_None_vmess_1130
+    network: tcp
+    port: "30804"
+    server: v4.hdacd.com
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: China_Qingdao_vmess_1193
-    network: ws
-    port: "20861"
-    server: b3620512-57e1-7cf9-210c-72423b8c9bb5.yy4.ovh
+    name: Hong Kong_Hong Kong_vmess_1137
+    network: tcp
+    port: "32975"
+    server: 47.242.225.0
     tls: false
     type: vmess
-    uuid: 047b8664-9b3c-4010-baba-229cbf7fa433
+    uuid: ebaad525-e2cf-4c18-8ae9-41af29ac4b9c
+  - alterId: 0
+    cipher: auto
+    name: Hong Kong_Hong Kong_vmess_1138
+    network: ws
+    port: "443"
+    server: n1761214906.wpg27.xyz
+    servername: n1761214906.wpg27.xyz
+    tls: true
+    type: vmess
+    uuid: c28a6258-7baa-40fc-8a51-87f59c847cd7
     ws-opts:
       headers:
-        Host: tms.dingtalk.com
+        Host: n1761214906.wpg27.xyz
       path: /
-  - alterId: 2
+  - alterId: 0
     cipher: auto
-    name: China_None_vmess_11103
-    network: tcp
-    port: "30845"
-    server: v45.hdacd.com
-    tls: false
+    name: None_None_vmess_1144
+    network: ws
+    port: "2083"
+    server: hgtrojan.zabc.net
+    servername: hgtrojan.zabc.net
+    tls: true
     type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    uuid: e6395c20-4571-4b34-d6b1-55a5d36e49ea
+    ws-opts:
+      headers:
+        Host: hgtrojan.zabc.net
+      path: /e6395c20
   - alterId: 2
     cipher: auto
-    name: Iran_Tehran_vmess_11107
-    network: tcp
-    port: "30836"
-    server: 151.242.183.218
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_11112
+    name: Hong Kong_Tuen Mun_vmess_1148
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -589,16 +252,16 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: China_Dongguan_vmess_11113
-    port: 10001
-    server: 27.44.141.89
+    name: China_None_vmess_1149
+    port: 9006
+    server: select-hk.ddnskunlun.com
     skip-cert-verify: false
     tls: false
     type: vmess
-    uuid: 0e4e55e2-eca1-48ad-8669-da0440006556
+    uuid: a8bcce43-abda-315b-8e81-e3e65bcb3d07
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_11127
+    name: Hong Kong_Tuen Mun_vmess_1164
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -608,14 +271,14 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: China_Dongguan_vmess_11128
+    name: China_None_vmess_1165
     network: tcp
-    port: "10001"
-    server: 27.44.141.89
+    port: "9006"
+    server: select-hk.ddnskunlun.com
     servername: ""
     tls: false
     type: vmess
-    uuid: 0e4e55e2-eca1-48ad-8669-da0440006556
+    uuid: a8bcce43-abda-315b-8e81-e3e65bcb3d07
   - alterId: 2
     cipher: auto
     name: Hong Kong_Tuen Mun_vmess_102
@@ -627,16 +290,16 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: China_Dongguan_vmess_103
-    port: 10001
-    server: 27.44.141.89
+    name: China_None_vmess_103
+    port: 9006
+    server: select-hk.ddnskunlun.com
     skip-cert-verify: false
     tls: false
     type: vmess
-    uuid: 0e4e55e2-eca1-48ad-8669-da0440006556
+    uuid: a8bcce43-abda-315b-8e81-e3e65bcb3d07
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_1017
+    name: Hong Kong_Tuen Mun_vmess_1018
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -646,14 +309,14 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: China_Dongguan_vmess_1018
+    name: China_None_vmess_1019
     network: tcp
-    port: "10001"
-    server: 27.44.141.89
+    port: "9006"
+    server: select-hk.ddnskunlun.com
     servername: ""
     tls: false
     type: vmess
-    uuid: 0e4e55e2-eca1-48ad-8669-da0440006556
+    uuid: a8bcce43-abda-315b-8e81-e3e65bcb3d07
   - alterId: 0
     cipher: auto
     name: Unknown_vmess_111
@@ -746,7 +409,7 @@ proxies:
     uuid: 88888888-8888-8888-8888-888888888888
   - alterId: 0
     cipher: auto
-    name: United States_None_vmess_1112
+    name: United States_None_vmess_1111
     network: ws
     port: "8443"
     server: dll.avaaaal.ir
@@ -760,377 +423,16 @@ proxies:
       path: /
   - alterId: 0
     cipher: auto
-    name: None_None_vmess_1116
-    network: ws
-    port: "80"
-    server: jnm.1x2.indevs.in
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: jnm.1x2.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1118
-    network: ws
-    port: "80"
-    server: nmki.1yy.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: nmki.1yy.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1119
-    network: ws
-    port: "443"
-    server: nmjk.1hh.ccwu.cc
-    servername: nmjk.1hh.ccwu.cc
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: nmjk.1hh.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1120
-    network: ws
-    port: "80"
-    server: bgn.1dd.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: bgn.1dd.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1122
-    network: ws
-    port: "80"
-    server: nmkiy.1x8.indevs.in
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: nmkiy.1x8.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1126
-    network: ws
-    port: "80"
-    server: bfbg.2nn.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: bfbg.2nn.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1128
-    network: ws
-    port: "80"
-    server: yyhju.1x6.indevs.in
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: yyhju.1x6.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1129
-    network: ws
-    port: "80"
-    server: mkiuy.1x9.indevs.in
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: mkiuy.1x9.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1130
-    network: ws
-    port: "80"
-    server: yyynm.2nn.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: yyynm.2nn.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 2
-    cipher: auto
-    name: China_None_vmess_1134
-    network: tcp
-    port: "30809"
-    server: v9.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1142
-    network: ws
-    port: "443"
-    server: bghy.1x9.indevs.in
-    servername: bghy.1x9.indevs.in
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: bghy.1x9.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1143
-    network: ws
-    port: "443"
-    server: nhj.1jj.ccwu.cc
-    servername: nhj.1jj.ccwu.cc
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: nhj.1jj.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1144
-    network: ws
-    port: "80"
-    server: gbnh.0nn.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: gbnh.0nn.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1145
-    network: ws
-    port: "80"
-    server: nnmj.1x5.indevs.in
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: nnmj.1x5.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1146
-    network: ws
-    port: "443"
-    server: gbnh.1oo.ccwu.cc
-    servername: gbnh.1oo.ccwu.cc
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: gbnh.1oo.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1147
-    network: ws
-    port: "443"
-    server: kklo.1yy.ccwu.cc
-    servername: kklo.1yy.ccwu.cc
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: kklo.1yy.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1148
-    network: ws
-    port: "80"
-    server: bnhhy.1ll.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: bnhhy.1ll.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1149
-    network: ws
-    port: "443"
-    server: yyhju.1x6.indevs.in
-    servername: yyhju.1x6.indevs.in
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: yyhju.1x6.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1151
-    network: ws
-    port: "443"
-    server: bnj.0nn.ccwu.cc
-    servername: bnj.0nn.ccwu.cc
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: bnj.0nn.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1152
-    network: ws
-    port: "80"
-    server: kklo.1xq.indevs.in
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: kklo.1xq.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1153
-    network: ws
-    port: "443"
-    server: bgn.1dd.ccwu.cc
-    servername: bgn.1dd.ccwu.cc
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: bgn.1dd.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1155
-    network: ws
-    port: "443"
-    server: mkjhu.2nn.ccwu.cc
-    servername: mkjhu.2nn.ccwu.cc
-    tls: true
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: mkjhu.2nn.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1156
-    network: ws
-    port: "80"
-    server: nnmkl.2nn.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: nnmkl.2nn.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1157
-    network: ws
-    port: "80"
-    server: vfgty6.2nn.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: vfgty6.2nn.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: None_None_vmess_1159
-    network: ws
-    port: "80"
-    server: mmhhj.2nn.ccwu.cc
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: mmhhj.2nn.ccwu.cc
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
-  - alterId: 0
-    cipher: auto
-    name: India_None_vmess_1161
-    network: tcp
-    port: "9000"
-    server: id2.wpairplane.com
-    tls: false
-    type: vmess
-    uuid: 77aad73d-03e7-441b-9bc5-98d13535ba3e
-  - alterId: 2
-    cipher: auto
-    name: China_None_vmess_1163
-    network: tcp
-    port: "30835"
-    server: v35.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: United Kingdom_None_vmess_1164
+    name: United Kingdom_None_vmess_1112
     network: tcp
     port: "180"
     server: 82.198.246.97
     tls: false
     type: vmess
     uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-  - alterId: 0
-    cipher: auto
-    name: United States_None_vmess_1170
-    network: ws
-    port: "80"
-    server: m9o0.1xq.indevs.in
-    tls: false
-    type: vmess
-    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-    ws-opts:
-      headers:
-        Host: m9o0.1xq.indevs.in
-      path: /iSRWSKUJKNuXvVzsYHmsMrnO
   - alterId: 2
     cipher: auto
-    name: China_None_vmess_1181
+    name: China_None_vmess_1113
     network: tcp
     port: "30808"
     server: v8.hdacd.com
@@ -1139,7 +441,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: China_None_vmess_1182
+    name: China_None_vmess_1116
     network: tcp
     port: "30829"
     server: v29.hdacd.com
@@ -1148,56 +450,80 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: China_None_vmess_1191
+    name: China_None_vmess_1117
     network: tcp
-    port: "30833"
-    server: v33.hdacd.com
+    port: "30809"
+    server: v9.hdacd.com
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Iran_Tehran_vmess_1192
+    name: China_None_vmess_1120
     network: tcp
-    port: "30809"
-    server: 151.242.183.218
+    port: "30835"
+    server: v35.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 2
+    cipher: auto
+    name: China_None_vmess_1129
+    network: tcp
+    port: "30836"
+    server: v36.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 2
+    cipher: auto
+    name: China_None_vmess_1130
+    network: tcp
+    port: "30804"
+    server: v4.hdacd.com
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: China_Qingdao_vmess_1193
-    network: ws
-    port: "20861"
-    server: b3620512-57e1-7cf9-210c-72423b8c9bb5.yy4.ovh
+    name: Hong Kong_Hong Kong_vmess_1137
+    network: tcp
+    port: "32975"
+    server: 47.242.225.0
     tls: false
     type: vmess
-    uuid: 047b8664-9b3c-4010-baba-229cbf7fa433
+    uuid: ebaad525-e2cf-4c18-8ae9-41af29ac4b9c
+  - alterId: 0
+    cipher: auto
+    name: Hong Kong_Hong Kong_vmess_1138
+    network: ws
+    port: "443"
+    server: n1761214906.wpg27.xyz
+    servername: n1761214906.wpg27.xyz
+    tls: true
+    type: vmess
+    uuid: c28a6258-7baa-40fc-8a51-87f59c847cd7
     ws-opts:
       headers:
-        Host: tms.dingtalk.com
+        Host: n1761214906.wpg27.xyz
       path: /
-  - alterId: 2
+  - alterId: 0
     cipher: auto
-    name: China_None_vmess_11103
-    network: tcp
-    port: "30845"
-    server: v45.hdacd.com
-    tls: false
+    name: None_None_vmess_1144
+    network: ws
+    port: "2083"
+    server: hgtrojan.zabc.net
+    servername: hgtrojan.zabc.net
+    tls: true
     type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    uuid: e6395c20-4571-4b34-d6b1-55a5d36e49ea
+    ws-opts:
+      headers:
+        Host: hgtrojan.zabc.net
+      path: /e6395c20
   - alterId: 2
     cipher: auto
-    name: Iran_Tehran_vmess_11107
-    network: tcp
-    port: "30836"
-    server: 151.242.183.218
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_11112
+    name: Hong Kong_Tuen Mun_vmess_1148
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -1206,16 +532,16 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: China_Dongguan_vmess_11113
-    port: 10001
-    server: 27.44.141.89
+    name: China_None_vmess_1149
+    port: 9006
+    server: select-hk.ddnskunlun.com
     skip-cert-verify: false
     tls: false
     type: vmess
-    uuid: 0e4e55e2-eca1-48ad-8669-da0440006556
+    uuid: a8bcce43-abda-315b-8e81-e3e65bcb3d07
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Tuen Mun_vmess_11127
+    name: Hong Kong_Tuen Mun_vmess_1164
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -1225,11 +551,11 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: China_Dongguan_vmess_11128
+    name: China_None_vmess_1165
     network: tcp
-    port: "10001"
-    server: 27.44.141.89
+    port: "9006"
+    server: select-hk.ddnskunlun.com
     servername: ""
     tls: false
     type: vmess
-    uuid: 0e4e55e2-eca1-48ad-8669-da0440006556
+    uuid: a8bcce43-abda-315b-8e81-e3e65bcb3d07
