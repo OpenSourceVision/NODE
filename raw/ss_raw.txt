@@ -1,16 +1,4 @@
 proxies:
-  - cipher: aes-256-cfb
-    name: United States_None_ss_101
-    password: amazonskr05
-    port: 443
-    server: 63.180.254.10
-    type: ss
-  - cipher: aes-256-cfb
-    name: United States_None_ss_1147
-    password: amazonskr05
-    port: 443
-    server: 63.180.254.10
-    type: ss
   - name: United States_ss_61
     type: ss
     server: 109.104.152.186
@@ -59,15 +47,3 @@ proxies:
       host: nijigen-works.jp
       password: UcMMbVQBzIUAcdC12ju6lV9j3rjK3cAQiZoYCDk1h/g=
       version: 3
-  - cipher: aes-256-cfb
-    name: United States_None_ss_101
-    password: amazonskr05
-    port: 443
-    server: 63.180.254.10
-    type: ss
-  - cipher: aes-256-cfb
-    name: United States_None_ss_1147
-    password: amazonskr05
-    port: 443
-    server: 63.180.254.10
-    type: ss
