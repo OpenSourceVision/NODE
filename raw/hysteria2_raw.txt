@@ -89,3 +89,30 @@ proxies:
     protocol: hysteria2
     originalUrl: hysteria2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com#United
       States_hysteria2_3
+  - name: 美國_1
+    obfs: salamander
+    obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+    password: 6dfbef3b-f718-4053-806f-c9657e2fd943
+    port: 12345
+    server: us.jljd.xyz
+    skip-cert-verify: false
+    sni: us.jljd.xyz
+    type: hysteria2
+  - alpn:
+      - h3
+    name: 美国 弗吉尼亚州 阿什本
+    password: ieshare2025
+    port: 3457
+    server: 23.27.249.60
+    skip-cert-verify: true
+    sni: dash.cloudflare.com
+    type: hysteria2
+  - alpn:
+      - h3
+    name: 德国 黑森州 法兰克福 — 甲骨文云
+    password: zhangyang
+    port: 6443
+    server: 130.61.50.75
+    skip-cert-verify: true
+    sni: dash.cloudflare.com
+    type: hysteria2

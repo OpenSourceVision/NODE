@@ -47,3 +47,21 @@ proxies:
       host: nijigen-works.jp
       password: UcMMbVQBzIUAcdC12ju6lV9j3rjK3cAQiZoYCDk1h/g=
       version: 3
+  - cipher: aes-256-cfb
+    name: 未知
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.155.127
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇺🇸_US_美国_4
+    password: kaQH3hGdcP80XEDI
+    port: 443
+    server: admin.c2.havij.co
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇭🇰HK_2
+    password: dd1049c9-b242-4d1c-a598-f71d2a552ea1
+    port: 44591
+    server: 120.237.27.72
+    type: ss

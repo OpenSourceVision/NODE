@@ -8,3 +8,6 @@ hysteria2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com#Un
 hysteria2://dongtaiwang.com@104.192.224.140:40391?insecure=1&sni=www.bing.com#United States_hysteria2_1
 hysteria2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com#United States_hysteria2_2
 hysteria2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com#United States_hysteria2_3
+hysteria2://6dfbef3b-f718-4053-806f-c9657e2fd943@us.jljd.xyz:12345?insecure=0&sni=us.jljd.xyz&fastopen=1#%E7%BE%8E%E5%9C%8B_1
+hysteria2://ieshare2025@23.27.249.60:3457?insecure=1&sni=dash.cloudflare.com&fastopen=1#%E7%BE%8E%E5%9B%BD%20%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E5%B7%9E%20%E9%98%BF%E4%BB%80%E6%9C%AC
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com&fastopen=1#%E5%BE%B7%E5%9B%BD%20%E9%BB%91%E6%A3%AE%E5%B7%9E%20%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%20%E2%80%94%20%E7%94%B2%E9%AA%A8%E6%96%87%E4%BA%91
