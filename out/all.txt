@@ -12,18 +12,20 @@ vless://85beb960-236b-4634-81ce-6ad66652f928@109.104.152.101:13982?security=none
 vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh6.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#United States_vless_1
 vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh9.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#None_vless_2
 vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh7.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#None_vless_3
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@de.cdn.stun.su:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=de.cdn.stun.su&fp=chrome&flow=xtls-rprx-vision#DE_speednode_0001
-vless://d607a577-978c-487a-a2ad-788e4129162a@42.2.28.64:1314?security=none&type=tcp&alpn=h3&allowInsecure=1&sni=42.2.28.64&fp=chrome&flow=xtls-rprx-vision#HK_speednode_0002
-vless://1834316d-2b59-4239-970d-c764218bcdf2@144.24.97.225:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=144.24.97.225&fp=chrome&flow=xtls-rprx-vision#IN_speednode_0003
-vless://570d1a03-6acf-40ca-819e-1049906235d9@38.207.130.145:48816?security=none&type=tcp&alpn=h3&allowInsecure=1&sni=38.207.130.145&fp=chrome&flow=xtls-rprx-vision#JP_speednode_0004
-vless://bf9931be-a7fd-46b3-9919-b858299e9f65@meow-msc.nethcloud.top:8443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=meow-msc.nethcloud.top&fp=chrome#RU_speednode_0007
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@158.160.223.36:8443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=158.160.223.36&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0008
-vless://3c5c4ccc-b502-42cb-8c42-cfa714db4767@89.169.128.105:8443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=89.169.128.105&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0009
-vless://e8accc46-c511-42fb-919b-9283799a88a1@158.160.105.121:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=158.160.105.121&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0010
-vless://8ff544c5-303c-46f4-80fe-8e8e166fd981@45.139.26.213:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=45.139.26.213&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0011
-vless://c6977f74-e620-4748-a2d3-4351a588c659@203.10.96.138:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=203.10.96.138&fp=chrome&flow=xtls-rprx-vision#US_speednode_0013
-vless://12cb9911-a48d-4147-85cc-68dd678e94c6@64.188.64.59:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=64.188.64.59&fp=chrome#US_speednode_0014
-vless://b183589d-5e32-4141-a39a-6cb747964c67@pl2.jugsenkeys4pays.su:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=pl2.jugsenkeys4pays.su&fp=chrome&flow=xtls-rprx-vision#US_speednode_0015
+vless://bb255691-e0f9-ec71-9876-a8b9c9e9fac0@ir.grbr.private-link.lornanet.ir:3130?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=ir.grbr.private-link.lornanet.ir&fp=chrome&flow=xtls-rprx-vision#CH_speednode_0002
+vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=78.153.139.68&fp=chrome&flow=xtls-rprx-vision#FI_speednode_0003
+vless://f0b15f64-db59-438c-b1b6-f1b83db52240@217.154.194.55:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=217.154.194.55&fp=chrome&flow=xtls-rprx-vision#GB_speednode_0004
+vless://dd92c4f8-be88-4c61-84eb-d261f798071e@185.234.57.207:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=185.234.57.207&fp=chrome&flow=xtls-rprx-vision#GR_speednode_0005
+vless://b824f264-8cc3-4669-9f60-47b51ed1aa11@185.234.57.216:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=185.234.57.216&fp=chrome#GR_speednode_0006
+vless://c8f1ee8a-07bd-4f28-b542-65ef4891004d@45.248.37.51:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=45.248.37.51&fp=chrome#IN_speednode_0007
+vless://c4e055e5-c9dd-44ae-8daf-2f0f344dcbdb@103.231.75.185:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=103.231.75.185&fp=chrome#MD_speednode_0009
+vless://f078abea-a480-44c7-a785-4436c767835a@103.231.75.185:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=103.231.75.185&fp=chrome#MD_speednode_0010
+vless://e7bf2367-a233-4d37-b7ef-2c017413febe@158.160.188.11:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=158.160.188.11&fp=chrome&flow=xtls-rprx-vision#RU_speednode_0011
+vless://f557eadb-1715-4c0b-aaae-f9b9577d827d@185.156.72.124:52042?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=185.156.72.124&fp=chrome#RU_speednode_0012
+vless://95e3a7e6-ff2b-4554-b107-8ff4c58b7981@83.147.252.165:443?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=83.147.252.165&fp=chrome#SG_speednode_0013
+vless://5fad3ad2-1a94-40d0-85bb-51eb83f5c7df@109.172.55.232:13760?security=none&type=tcp&alpn=h3&allowInsecure=0&sni=109.172.55.232&fp=chrome#SI_speednode_0014
+vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?security=none&type=ws&alpn=h3&allowInsecure=0&sni=104.18.32.47&fp=chrome#US_speednode_0015
+vless://7d4a519b-d270-434e-a42d-d39624577a92@104.20.1.252:80?security=none&type=ws&alpn=h3&allowInsecure=0&sni=104.20.1.252&fp=chrome#US_speednode_0016
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Ny9iYjl4M1RKUTRZNVNSQS9BbDNPZHd4SWs0dWYzSmc4Tjl3RFFnK1V0bz0=@109.104.152.186:11223#United%20States_ss_61
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Mm1MdythVGd1RVVydksvSmFteHI0Q1kvUmJMQ0wvTW1mV0pRN2M2YlhlOD0=@109.104.152.186:443#United%20States_shadowtls_1
 hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&alpn=h3&peer=bing.com&protocol=udp&udp=true&fastopen=1#United%20States_hy_0
@@ -33,9 +35,13 @@ hysteria://108.181.5.133:26022?peer=bing.com&auth=dongtaiwang.com&insecure=1&upm
 hysteria://62.210.243.131:18702?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#France_hysteria_1
 hysteria://62.210.243.131:18702?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#France_hysteria_2
 hysteria://109.104.152.194:58510?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#United States_hysteria_3
-name: KR_speednode_0005
-server: 121.169.46.116
-port: 1090
-type: socks5
-username: Og%3D%3D
+vmess://eyJ2IjoiMiIsInBzIjoiQkdfc3BlZWRub2RlXzAwMDEiLCJhZGQiOiI4Ny4xMjAuMjE5LjEyNCIsInBvcnQiOiIyMDg2IiwiaWQiOiJlNmE4NjZjYS0xNzU2LTQ0ZWQtOTg2Ni1hOTk0OWYyYmFkMzgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
+name: KR_speednode_0008
+server: testkr3.ssv.vc
+port: 30446
+type: http
+username: test
+password: test.+
+tls: true
+skip-cert-verify: true
 udp: true
