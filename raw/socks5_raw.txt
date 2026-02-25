@@ -1,7 +1,6 @@
 proxies:
-  - name: KR_speednode_0005
+  - name: KR_speednode_0014
     server: 121.169.46.116
     port: 1090
     type: socks5
-    username: Og%3D%3D
     udp: true
