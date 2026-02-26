@@ -6,7 +6,7 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1163
+    name: United States_None_ss_1192
     password: amazonskr05
     port: 443
     server: 63.180.254.10
@@ -66,11 +66,39 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1163
+    name: United States_None_ss_1192
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
+  - name: FI_speednode_0003
+    server: 95.164.113.153
+    port: 5669
+    type: ss
+    cipher: chacha20-ietf-poly1305
+    password: cJvGkXLQg1TCouv8BmE0Xu
+    udp: true
+  - name: GB_speednode_0006
+    server: 20.108.41.100
+    port: 443
+    type: ss
+    cipher: chacha20-ietf-poly1305
+    password: kaQH3hGdcP80XEDI
+    udp: true
+  - name: RU_speednode_0014
+    server: basic-ru-0.undef.network
+    port: 43902
+    type: ss
+    cipher: chacha20-ietf-poly1305
+    password: 5kWesolQ0y0PVdIrb65LbHT2u
+    udp: true
+  - name: SG_speednode_0018
+    server: 68.183.227.4
+    port: 8080
+    type: ss
+    cipher: rc4-md5
+    password: 14fFPrbezE3HDZzsMOr6
+    udp: true
   - cipher: aes-256-cfb
     name: 未知
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
