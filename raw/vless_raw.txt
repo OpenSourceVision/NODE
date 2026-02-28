@@ -163,36 +163,35 @@ proxies:
     url: vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh7.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#None_vless_3
     protocol: vless
     originalUrl: vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh7.dtku41.xyz:443?security=tls&allowInsecure=0&flow=&type=ws&fp=chrome&pbk=&sid=&sni=lg1.freessr2.xyz&serviceName=&path=/xyakws&host=lg1.freessr2.xyz#None_vless_3
-  - name: BY_speednode_0001
-    server: by.cdn.titun.su
+  - name: AT_speednode_0001
+    server: 195.133.88.238
+    port: 61809
+    type: vless
+    uuid: 899251ca-be66-4d21-84d8-bd7fbf10150b
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: yandex.ru
+    reality-opts:
+      public-key: 0Orr9QAz2hKT1K6aKa64azrlgdh4DMkwvTRg1FacNAI
+      short-id: 741a96cc25132fe3
+    udp: true
+  - name: BG_speednode_0002
+    server: 178.239.122.108
     port: 443
     type: vless
-    uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
+    uuid: ec5796b3-678b-4b11-9c1d-a53171dfd897
     flow: xtls-rprx-vision
     tls: true
     skip-cert-verify: false
-    client-fingerprint: chrome
-    servername: by.cdn.titun.su
+    client-fingerprint: firefox
+    servername: yahoo.com
     reality-opts:
-      public-key: 0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg
-      short-id: cad317b20db4aad2
+      public-key: juH5xrivuMuDd3Qp_P-CTHfvnQIVetUgDe7XwpJvLkE
+      short-id: a56b26c2
     udp: true
-  - name: FI_speednode_0004
-    server: 78.153.139.68
-    port: 8443
-    type: vless
-    uuid: fd8972d7-cf5e-11f0-9970-45e1d80c4039
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    client-fingerprint: chrome
-    servername: images.apple.com
-    reality-opts:
-      public-key: pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4
-      short-id: 58c512b4422e2517
-    udp: true
-  - name: FR_speednode_0005
-    server: fran.scroogethebest.com
+  - name: FR_speednode_0004
+    server: 185.171.202.58
     port: 443
     type: vless
     uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
@@ -205,7 +204,20 @@ proxies:
       public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
       short-id: 4fa44664f6a566d3
     udp: true
-  - name: GB_speednode_0007
+  - name: FR_speednode_0005
+    server: 45.95.233.85
+    port: 61873
+    type: vless
+    uuid: 8b8f4dfb-cd48-4dab-bb75-b304971176cd
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: yandex.ru
+    reality-opts:
+      public-key: wEU32qHhiQq-FDYUvuEl7_HAM6r5nDh6M4F8WGnEhjE
+      short-id: 34d8e80d8fa40501
+    udp: true
+  - name: GB_speednode_0006
     server: 217.154.38.156
     port: 443
     type: vless
@@ -218,35 +230,48 @@ proxies:
       public-key: kWxGUQ6QtaU-SCCt8Ht-POUPS6Ue6w-KyHjxb1AYQ1w
       short-id: 2e0f
     udp: true
+  - name: GB_speednode_0008
+    server: 195.20.17.182
+    port: 443
+    type: vless
+    uuid: ec5796b3-678b-4b11-9c1d-a53171dfd897
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: firefox
+    servername: www.python.org
+    reality-opts:
+      public-key: 2HWC3TKZmYDORsrGqTTOITNFBp6ANhwgERK6lPcVbic
+      short-id: ecd1c97d
+    udp: true
   - name: GR_speednode_0009
-    server: 185.234.57.207
+    server: 185.234.57.216
     port: 443
     type: vless
-    uuid: dd92c4f8-be88-4c61-84eb-d261f798071e
-    flow: xtls-rprx-vision
+    uuid: b824f264-8cc3-4669-9f60-47b51ed1aa11
     tls: true
     skip-cert-verify: false
     client-fingerprint: chrome
-    servername: teamdocs.su
+    servername: yahoo.com
     reality-opts:
-      public-key: Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ
-      short-id: b5e0cd9ca194c0a5
+      public-key: 2Z2meC9rRAMD3k52ne8dh8PdfRNpOs5T9yObPyFkXyQ
+      short-id: f9fe
     udp: true
-  - name: IQ_speednode_0010
-    server: deu469.unboundworld.org
-    port: 443
+  - name: IQ_speednode_0011
+    server: 93.94.51.19
+    port: 56864
     type: vless
-    uuid: cc9f7840-757a-430b-bddc-a73478bea434
-    flow: xtls-rprx-vision
+    uuid: 87580984-c2ef-4f44-9c7e-0b216f99aa87
     tls: true
     skip-cert-verify: false
     client-fingerprint: chrome
-    servername: www.t3n.de
+    servername: yandex.ru
     reality-opts:
-      public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
+      public-key: AIt19ZFk_JxCvW7OOwUn4mhE_1alZJlNj-xnQOpPZCI
+      short-id: 2e3c82922ef98049
     udp: true
-  - name: RU_speednode_0012
-    server: 5.cdnconn.com
+  - name: LT_speednode_0012
+    server: 7.cdnconn.com
     port: 23335
     type: vless
     uuid: e384913f-8863-47b4-8858-a84b68abb4a6
@@ -257,10 +282,11 @@ proxies:
     servername: icloud.com
     reality-opts:
       public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik
+      short-id: 67b1e94e4dd1ef90
     udp: true
-  - name: RU_speednode_0013
-    server: us01-vlr01-gmn03.tcp-reset-club.net
-    port: 18443
+  - name: NL_speednode_0013
+    server: nl04-vlr01.tcp-reset-club.net
+    port: 443
     type: vless
     uuid: 1c4aceb6-bff7-4737-8c5d-43afb3dc350b
     flow: xtls-rprx-vision
@@ -270,215 +296,119 @@ proxies:
     servername: hls-svod.itunes.apple.com
     reality-opts:
       public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
-      short-id: f79448a30d
+      short-id: 86e999a2cdc2
     udp: true
-  - name: RU_speednode_0015
-    server: 51.250.4.119
+  - name: NL_speednode_0014
+    server: nl02-vlr01.tcp-reset-club.net
     port: 443
     type: vless
-    uuid: 9a599b2e-5455-44d5-9a72-5c76f28e93e3
+    uuid: 1c4aceb6-bff7-4737-8c5d-43afb3dc350b
     flow: xtls-rprx-vision
     tls: true
     skip-cert-verify: false
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    servername: hls-svod.itunes.apple.com
     reality-opts:
-      public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
-      short-id: 87cc0414902bee2d
+      public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
+      short-id: 86e999a2cdc2
     udp: true
   - name: RU_speednode_0016
-    server: 51.250.83.255
+    server: 37.139.34.237
     port: 443
     type: vless
-    uuid: 9a599b2e-5455-44d5-9a72-5c76f28e93e3
+    uuid: 8409d5d2-ae02-4027-b5a5-c3cca340ca6c
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: eh.vk.com
+    reality-opts:
+      public-key: sMMDn89-fJAD7VgeTJbdQTmyyUoyRucoMLMvVMm8hAM
+      short-id: cfdbaa7f996dd0e9
+    udp: true
+  - name: RU_speednode_0017
+    server: 5.188.143.115
+    port: 6443
+    type: vless
+    uuid: 8409d5d2-ae02-4027-b5a5-c3cca340ca6c
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: firefox
+    servername: ads.x5.ru
+    reality-opts:
+      public-key: 20kWWWp6YwJujT1penAu1FD_uvm6dcJoj2w-ZZ-JVSk
+      short-id: 9dfefbaf7319b348
+    udp: true
+  - name: RU_speednode_0018
+    server: 51.250.103.29
+    port: 443
+    type: vless
+    uuid: 4b5fdaeb-518d-4411-b668-eaf4cb757ff2
     flow: xtls-rprx-vision
     tls: true
     skip-cert-verify: false
     client-fingerprint: chrome
     servername: ads.x5.ru
     reality-opts:
-      public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
-      short-id: 65ce6cee3941af69
+      public-key: LCxSn-zcFxBKKztCytR-Wzjt3VwezZs2jN6FtZPQ3n0
     udp: true
-  - name: SC_speednode_0017
-    server: 80.253.251.122
-    port: 13686
+  - name: RU_speednode_0019
+    server: 51.250.95.176
+    port: 443
     type: vless
-    uuid: 8f09e644-7208-4f38-ac2f-db6d23cc647f
+    uuid: 72adc5b8-146a-4bfe-921b-5c9e1df016e0
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: api-maps.yandex.ru
+    reality-opts:
+      public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
+      short-id: 4b523a98e1bbd15b
+    udp: true
+  - name: RU_speednode_0020
+    server: 212.192.14.250
+    port: 64527
+    type: vless
+    uuid: b3203210-2e42-468a-ad7d-5da9b9a1bac4
     tls: true
     skip-cert-verify: false
     client-fingerprint: chrome
     servername: yandex.ru
     reality-opts:
-      public-key: E2rSTxjCs8arrVzkG0htKf5OQt6wyoIsvwnsvkmKanQ
-      short-id: fd38dd693669e822
+      public-key: wAKyTOUr89tJU2pVUVrwt0dAsxmNfRHXhPQ3IvyGshc
+      short-id: 56abcac460c7c6ca
     udp: true
-  - name: US_speednode_0019
-    server: www.fbi.gov
-    port: 2095
+  - name: SI_speednode_0021
+    server: 109.172.55.220
+    port: 58198
     type: vless
-    uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-    tls: false
+    uuid: d5d52c15-f963-42b8-971b-613fc9c5e7e3
+    tls: true
     skip-cert-verify: false
-    client-fingerprint: randomized
-    servername: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
+    client-fingerprint: chrome
+    servername: yandex.ru
+    reality-opts:
+      public-key: zVumFklIWzpvzrtnlkGG4YRqBbV-diGCouiiSeEwnEE
+      short-id: 2c8a6793b9de7014
+    udp: true
+  - name: TW_speednode_0022
+    server: 114.34.106.124
+    port: 10443
+    type: vless
+    uuid: 3e974f9e-f568-4c2a-a4db-e9b666b4ea9e
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: 63.hhhhh.eu.org
     network: ws
     ws-opts:
-      path: /
+      path: /114.34.106.124:10443
       headers:
-        Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    udp: true
-  - name: US_speednode_0020
-    server: www.npmjs.com
-    port: 2095
-    type: vless
-    uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-    tls: false
-    skip-cert-verify: false
-    client-fingerprint: randomized
-    servername: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    udp: true
-  - name: US_speednode_0021
-    server: developers.cloudflare.com
-    port: 2095
-    type: vless
-    uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-    tls: false
-    skip-cert-verify: false
-    client-fingerprint: randomized
-    servername: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    udp: true
-  - name: US_speednode_0022
-    server: www.udemy.com
-    port: 2095
-    type: vless
-    uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-    tls: false
-    skip-cert-verify: false
-    client-fingerprint: randomized
-    servername: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
+        Host: 63.hhhhh.eu.org
     udp: true
   - name: US_speednode_0024
-    server: cf.090227.xyz
-    port: 2095
-    type: vless
-    uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-    tls: false
-    skip-cert-verify: false
-    client-fingerprint: randomized
-    servername: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    udp: true
-  - name: US_speednode_0025
-    server: blog.cloudflare.com
-    port: 2095
-    type: vless
-    uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-    tls: false
-    skip-cert-verify: false
-    client-fingerprint: randomized
-    servername: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    udp: true
-  - name: US_speednode_0026
-    server: cloudflare-dns.com
-    port: 2095
-    type: vless
-    uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-    tls: false
-    skip-cert-verify: false
-    client-fingerprint: randomized
-    servername: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    udp: true
-  - name: US_speednode_0027
-    server: ns.cloudflare.com
-    port: 2095
-    type: vless
-    uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-    tls: false
-    skip-cert-verify: false
-    client-fingerprint: randomized
-    servername: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    udp: true
-  - name: US_speednode_0028
-    server: openai.com
-    port: 2095
-    type: vless
-    uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-    tls: false
-    skip-cert-verify: false
-    client-fingerprint: randomized
-    servername: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    udp: true
-  - name: US_speednode_0029
-    server: support.cloudflare.com
-    port: 2095
-    type: vless
-    uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-    tls: false
-    skip-cert-verify: false
-    client-fingerprint: randomized
-    servername: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    udp: true
-  - name: US_speednode_0030
-    server: www.epicgames.com
-    port: 2095
-    type: vless
-    uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-    tls: false
-    skip-cert-verify: false
-    client-fingerprint: randomized
-    servername: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    udp: true
-  - name: US_speednode_0031
     server: 143.20.236.51
     port: 443
     type: vless
@@ -492,77 +422,7 @@ proxies:
       public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
       short-id: c39cc7310a
     udp: true
-  - name: US_speednode_0032
-    server: zf.sg1000.eu.cc
-    port: 50000
-    type: vless
-    uuid: 7473f95b-5a12-4972-b882-9fcd41ceff72
-    tls: true
-    skip-cert-verify: false
-    client-fingerprint: chrome
-    servername: yahoo.com
-    reality-opts:
-      public-key: XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk
-      short-id: 1f7bfe
-    udp: true
-  - name: US_speednode_0033
-    server: zf.sg1000.eu.cc
-    port: 50000
-    type: vless
-    uuid: 35249ead-311e-4cb9-ab36-17406ccf6b84
-    tls: true
-    skip-cert-verify: false
-    client-fingerprint: chrome
-    servername: yahoo.com
-    reality-opts:
-      public-key: XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk
-      short-id: 1f7bfe
-    udp: true
-  - name: US_speednode_0034
-    server: www.temu.com
-    port: 2095
-    type: vless
-    uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-    tls: false
-    skip-cert-verify: false
-    client-fingerprint: randomized
-    servername: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    udp: true
-  - name: US_speednode_0035
-    server: www.shopify.com
-    port: 2095
-    type: vless
-    uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-    tls: false
-    skip-cert-verify: false
-    client-fingerprint: randomized
-    servername: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
-    udp: true
-  - name: US_speednode_0036
-    server: 3.cdnconn.com
-    port: 23335
-    type: vless
-    uuid: e384913f-8863-47b4-8858-a84b68abb4a6
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    client-fingerprint: chrome
-    servername: icloud.com
-    reality-opts:
-      public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik
-      short-id: 67b1e94e4dd1ef90
-    udp: true
-  - name: US_speednode_0037
+  - name: US_speednode_0025
     server: 66.179.82.126
     port: 443
     type: vless
@@ -575,7 +435,7 @@ proxies:
       public-key: 1xMt7stxzh55Xy31H180TZNMvRYNkhEE86StqE4CtDs
       short-id: 2f2a
     udp: true
-  - name: US_speednode_0038
+  - name: US_speednode_0026
     server: 198.62.62.248
     port: 443
     type: vless
@@ -590,18 +450,33 @@ proxies:
       headers:
         Host: tar.alabama-tigr.info
     udp: true
-  - name: US_speednode_0039
-    server: zf.sg1000.eu.cc
-    port: 50000
+  - name: US_speednode_0028
+    server: 132.226.85.167
+    port: 443
     type: vless
-    uuid: e2273e4a-ae8f-4937-baa0-a68860e22e61
+    uuid: e43dd231-7c75-4606-80ec-50fbb8335ce7
+    flow: xtls-rprx-vision
     tls: true
     skip-cert-verify: false
     client-fingerprint: chrome
-    servername: yahoo.com
+    servername: www.microsoft.com
     reality-opts:
-      public-key: XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk
-      short-id: 1f7bfe
+      public-key: 3ik9ws7ATJ5dKDY2Fofv9y7_vpFYsTqgOJRxiQKwA3A
+      short-id: 7b233a973c94ca0a
+    udp: true
+  - name: US_speednode_0029
+    server: 144.31.130.59
+    port: 23335
+    type: vless
+    uuid: e384913f-8863-47b4-8858-a84b68abb4a6
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    servername: icloud.com
+    reality-opts:
+      public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik
+      short-id: 67b1e94e4dd1ef90
     udp: true
   - client-fingerprint: chrome
     name: 🇺🇸_US_美国->🇦🇹_AT_奥地利
