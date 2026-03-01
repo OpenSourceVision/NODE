@@ -117,58 +117,9 @@ proxies:
     tls: false
     type: vmess
     uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-  - alterId: 2
-    cipher: auto
-    name: China_None_vmess_1112
-    network: tcp
-    port: "30824"
-    server: v24.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: China_None_vmess_1113
-    network: tcp
-    port: "30836"
-    server: v36.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Central_vmess_1116
-    network: ws
-    port: "80"
-    server: 8c0d4a37-tb89s0-tu0ezx-1m7l4.hkt.gotochinatown.net
-    tls: false
-    type: vmess
-    uuid: bd515574-3b10-11ee-ac14-f23c9164ca5d
-    ws-opts:
-      headers:
-        Host: broadcastlv.chat.bilibili.com
-      path: /
-  - alterId: 2
-    cipher: auto
-    name: China_None_vmess_1118
-    network: tcp
-    port: "30804"
-    server: v4.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: China_None_vmess_1148
-    network: tcp
-    port: "30835"
-    server: v35.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: None_None_vmess_1149
+    name: None_None_vmess_1115
     network: ws
     port: "80"
     server: bnhhy.1ll.ccwu.cc
@@ -179,22 +130,68 @@ proxies:
       headers:
         Host: bnhhy.1ll.ccwu.cc
       path: /iSRWSKUJKNuXvVzsYHmsMrnO
+  - alterId: 0
+    cipher: auto
+    name: None_None_vmess_1141
+    network: ws
+    port: "80"
+    server: turk1.net.net
+    tls: false
+    type: vmess
+    uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779
+    ws-opts:
+      headers:
+        Host: tr1-smart.adelping.com.
+      path: /
+  - alterId: 0
+    cipher: auto
+    name: United States_None_vmess_1145
+    network: ws
+    port: "443"
+    server: 198.12.145.199
+    servername: ous3.dean52.top
+    tls: true
+    type: vmess
+    uuid: f08369d1-5ee7-4b16-d786-30bce12fc33c
+    ws-opts:
+      headers:
+        Host: ous3.dean52.top
+      path: /f08369d1-5ee7-4b16-d786-30bce12fc33c
+  - alterId: 0
+    cipher: auto
+    name: United States_None_vmess_1146
+    network: ws
+    port: "443"
+    server: 199.34.230.199
+    servername: ous3.dean52.top
+    tls: true
+    type: vmess
+    uuid: f08369d1-5ee7-4b16-d786-30bce12fc33c
+    ws-opts:
+      headers:
+        Host: ous3.dean52.top
+      path: /f08369d1-5ee7-4b16-d786-30bce12fc33c
+  - alterId: 0
+    cipher: auto
+    name: Iran_Tehran_vmess_1147
+    network: tcp
+    port: "17229"
+    server: 151.242.183.239
+    tls: false
+    type: vmess
+    uuid: 4d178008-8f7c-4b4b-b425-87d6117f1c87
+  - alterId: 0
+    cipher: auto
+    name: Iran_Tehran_vmess_1148
+    network: tcp
+    port: "28429"
+    server: 151.242.183.239
+    tls: false
+    type: vmess
+    uuid: 4d178008-8f7c-4b4b-b425-87d6117f1c87
   - alterId: 2
     cipher: auto
     name: Hong Kong_Central_vmess_1155
-    network: ws
-    port: "80"
-    server: 317e22e6-t94cg0-tcmken-19les.hkt.gotochinatown.net
-    tls: false
-    type: vmess
-    uuid: d095ecc6-7b69-11eb-b77b-f23c913c8d2b
-    ws-opts:
-      headers:
-        Host: broadcastlv.chat.bilibili.com
-      path: /
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Central_vmess_1159
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -203,7 +200,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1172
+    name: Hong Kong_Central_vmess_1168
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -329,58 +326,9 @@ proxies:
     tls: false
     type: vmess
     uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-  - alterId: 2
-    cipher: auto
-    name: China_None_vmess_1112
-    network: tcp
-    port: "30824"
-    server: v24.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: China_None_vmess_1113
-    network: tcp
-    port: "30836"
-    server: v36.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Central_vmess_1116
-    network: ws
-    port: "80"
-    server: 8c0d4a37-tb89s0-tu0ezx-1m7l4.hkt.gotochinatown.net
-    tls: false
-    type: vmess
-    uuid: bd515574-3b10-11ee-ac14-f23c9164ca5d
-    ws-opts:
-      headers:
-        Host: broadcastlv.chat.bilibili.com
-      path: /
-  - alterId: 2
-    cipher: auto
-    name: China_None_vmess_1118
-    network: tcp
-    port: "30804"
-    server: v4.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 2
-    cipher: auto
-    name: China_None_vmess_1148
-    network: tcp
-    port: "30835"
-    server: v35.hdacd.com
-    tls: false
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 0
     cipher: auto
-    name: None_None_vmess_1149
+    name: None_None_vmess_1115
     network: ws
     port: "80"
     server: bnhhy.1ll.ccwu.cc
@@ -391,22 +339,68 @@ proxies:
       headers:
         Host: bnhhy.1ll.ccwu.cc
       path: /iSRWSKUJKNuXvVzsYHmsMrnO
+  - alterId: 0
+    cipher: auto
+    name: None_None_vmess_1141
+    network: ws
+    port: "80"
+    server: turk1.net.net
+    tls: false
+    type: vmess
+    uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779
+    ws-opts:
+      headers:
+        Host: tr1-smart.adelping.com.
+      path: /
+  - alterId: 0
+    cipher: auto
+    name: United States_None_vmess_1145
+    network: ws
+    port: "443"
+    server: 198.12.145.199
+    servername: ous3.dean52.top
+    tls: true
+    type: vmess
+    uuid: f08369d1-5ee7-4b16-d786-30bce12fc33c
+    ws-opts:
+      headers:
+        Host: ous3.dean52.top
+      path: /f08369d1-5ee7-4b16-d786-30bce12fc33c
+  - alterId: 0
+    cipher: auto
+    name: United States_None_vmess_1146
+    network: ws
+    port: "443"
+    server: 199.34.230.199
+    servername: ous3.dean52.top
+    tls: true
+    type: vmess
+    uuid: f08369d1-5ee7-4b16-d786-30bce12fc33c
+    ws-opts:
+      headers:
+        Host: ous3.dean52.top
+      path: /f08369d1-5ee7-4b16-d786-30bce12fc33c
+  - alterId: 0
+    cipher: auto
+    name: Iran_Tehran_vmess_1147
+    network: tcp
+    port: "17229"
+    server: 151.242.183.239
+    tls: false
+    type: vmess
+    uuid: 4d178008-8f7c-4b4b-b425-87d6117f1c87
+  - alterId: 0
+    cipher: auto
+    name: Iran_Tehran_vmess_1148
+    network: tcp
+    port: "28429"
+    server: 151.242.183.239
+    tls: false
+    type: vmess
+    uuid: 4d178008-8f7c-4b4b-b425-87d6117f1c87
   - alterId: 2
     cipher: auto
     name: Hong Kong_Central_vmess_1155
-    network: ws
-    port: "80"
-    server: 317e22e6-t94cg0-tcmken-19les.hkt.gotochinatown.net
-    tls: false
-    type: vmess
-    uuid: d095ecc6-7b69-11eb-b77b-f23c913c8d2b
-    ws-opts:
-      headers:
-        Host: broadcastlv.chat.bilibili.com
-      path: /
-  - alterId: 2
-    cipher: auto
-    name: Hong Kong_Central_vmess_1159
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -415,7 +409,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1172
+    name: Hong Kong_Central_vmess_1168
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -423,49 +417,6 @@ proxies:
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - name: CN_speednode_0003
-    server: v33.hdacd.com
-    port: 30833
-    type: vmess
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    alterId: 2
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: v33.hdacd.com
-    udp: true
-  - name: GB_speednode_0007
-    server: 82.198.246.97
-    port: 180
-    type: vmess
-    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    udp: true
-  - name: HK_speednode_0010
-    server: hkt.gotochinatown.net
-    port: 80
-    type: vmess
-    uuid: d095ecc6-7b69-11eb-b77b-f23c913c8d2b
-    alterId: 2
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: hkt.gotochinatown.net
-    network: ws
-    udp: true
-  - name: US_speednode_0023
-    server: 47.84.126.255
-    port: 443
-    type: vmess
-    uuid: 32285564-1664-485c-f4db-daa776321a52
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    udp: true
   - alterId: 0
     cipher: auto
     name: 🇬🇧_GB_英国->🇧🇬_BG_保加利亚
