@@ -6,7 +6,7 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1154
+    name: United States_None_ss_1172
     password: amazonskr05
     port: 443
     server: 63.180.254.10
@@ -66,7 +66,7 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1154
+    name: United States_None_ss_1172
     password: amazonskr05
     port: 443
     server: 63.180.254.10
@@ -117,19 +117,13 @@ proxies:
     name: 未知
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.154.149
+    server: 103.186.155.127
     type: ss
-  - cipher: aes-256-cfb
-    name: 🇺🇸_US_美国_3
-    password: f8f7aCzcPKbsF8p3
-    port: 989
-    server: 38.54.57.90
-    type: ss
-  - cipher: aes-256-cfb
-    name: 未知_1
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.154.78
+  - cipher: chacha20-ietf-poly1305
+    name: 🇺🇸_US_美国_4
+    password: kaQH3hGdcP80XEDI
+    port: 443
+    server: admin.c2.havij.co
     type: ss
   - cipher: chacha20-ietf-poly1305
     name: 🇭🇰HK_2
