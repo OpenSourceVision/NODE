@@ -1,0 +1,9 @@
+name: 🇺🇸 US 132 | ⬇️ 2MB/s
+password: ae74dd32-c336-4be4-9c15-f6108292b3e5
+port: 12053
+server: us1.anliangjifei.top
+skip-cert-verify: true
+sni: us1.anliangjifei.top
+tls: true
+type: anytls
+udp: false

@@ -4,12 +4,14 @@ proxies:
     password: amazonskr05
     port: 443
     server: 63.180.254.10
+    tfo: false
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1152
+    name: United States_None_ss_1121
     password: amazonskr05
     port: 443
     server: 63.180.254.10
+    tfo: false
     type: ss
   - name: United States_ss_61
     type: ss
@@ -64,55 +66,15 @@ proxies:
     password: amazonskr05
     port: 443
     server: 63.180.254.10
+    tfo: false
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1152
+    name: United States_None_ss_1121
     password: amazonskr05
     port: 443
     server: 63.180.254.10
+    tfo: false
     type: ss
-  - name: CN_speednode_0003
-    server: c.cdn-bilibili.cn
-    port: 10019
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: 4475c5fb-c4d3-444c-8822-c2e32e1c272c
-    udp: true
-  - name: CN_speednode_0004
-    server: ldu.izenny.com
-    port: 12589
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
-    udp: true
-  - name: CN_speednode_0005
-    server: ldu.izenny.com
-    port: 25612
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
-    udp: true
-  - name: CN_speednode_0006
-    server: ldu.izenny.com
-    port: 59906
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
-    udp: true
-  - name: GB_speednode_0007
-    server: admin.c1.havij.co
-    port: 443
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: 1kVr0KATIJI7mwOF
-    udp: true
-  - name: GB_speednode_0008
-    server: 82.38.31.194
-    port: 8080
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: k1dBOmOB4oqi7Ump37a1bQ
-    udp: true
   - cipher: aes-256-cfb
     name: 未知
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
@@ -125,9 +87,1169 @@ proxies:
     port: 443
     server: admin.c2.havij.co
     type: ss
-  - cipher: chacha20-ietf-poly1305
+  - cipher: none
+    name: 🇭🇰HK香港節點
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 4432
+    server: 47.240.15.210
+    type: ss
+  - cipher: none
+    name: 🇭🇰HK香港
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 8001
+    server: 47.242.145.136
+    type: ss
+  - cipher: none
+    name: 🇭🇰HK
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 22827
+    server: 5.180.98.146
+    type: ss
+  - cipher: none
+    name: 🇭🇰HK_1
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 206.237.17.226
+    type: ss
+  - cipher: none
     name: 🇭🇰HK_2
-    password: dd1049c9-b242-4d1c-a598-f71d2a552ea1
-    port: 44591
-    server: 120.237.27.72
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 149.104.25.20
+    type: ss
+  - cipher: none
+    name: 🇸🇬SG新加坡節點
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 104.43.91.69
+    type: ss
+  - cipher: none
+    name: 🇯🇵JP日本
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 38.47.52.212
+    type: ss
+  - cipher: none
+    name: 🇯🇵JP
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 141.147.185.15
+    type: ss
+  - cipher: none
+    name: 🇯🇵JP日本节点
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 193.123.161.116
+    type: ss
+  - cipher: none
+    name: 🇯🇵JP_1
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 140.238.51.35
+    type: ss
+  - cipher: none
+    name: 🇯🇵JP日本_1
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 155.248.181.189
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE德國節點
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 169.150.210.199
+    type: ss
+  - cipher: none
+    name: 🇰🇷KR韓國
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 50001
+    server: 59.24.1.109
+    type: ss
+  - cipher: none
+    name: 🇨🇳 TW台湾节点
+    password: 79960b0b-7d31-4263-8915-6511b0e137a8
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: woshinidie-et3.pages.dev
+      mode: websocket
+      path: /79960b0b-7d31-4263-8915-6511b0e137a8/?ed\=2560
+    port: 443
+    server: sub.danfeng.eu.org
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE德国
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 94.159.98.123
+    type: ss
+  - cipher: none
+    name: 🇸🇬SG新加坡
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 116.251.217.65
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE德国_1
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 94.159.110.149
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 8443
+    server: 94.159.102.107
+    type: ss
+  - cipher: none
+    name: 🇺🇸US_290
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 45.40.154.16
+    type: ss
+  - cipher: none
+    name: 🇺🇸US_27
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 198.12.144.16
+    type: ss
+  - cipher: none
+    name: 🇺🇸US_250
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 50.62.90.16
+    type: ss
+  - cipher: none
+    name: 🇺🇸US_297
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 45.40.147.16
+    type: ss
+  - cipher: none
+    name: 🇺🇸US_183
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 104.238.70.16
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_1
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 89.169.6.69
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_2
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 94.237.101.95
+    type: ss
+  - cipher: none
+    name: 🇯🇵 JP
+    password: 79960b0b-7d31-4263-8915-6511b0e137a8
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: woshinidie-et3.pages.dev
+      mode: websocket
+      path: /79960b0b-7d31-4263-8915-6511b0e137a8/?ed\=2560
+    port: 443
+    server: saas.sin.fan
+    type: ss
+  - cipher: none
+    name: 🇸🇬 SG新加坡
+    password: 79960b0b-7d31-4263-8915-6511b0e137a8
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: woshinidie-et3.pages.dev
+      mode: websocket
+      path: /79960b0b-7d31-4263-8915-6511b0e137a8/?ed\=2560
+    port: 443
+    server: cf.090227.xyz
+    type: ss
+  - cipher: none
+    name: 🇺🇸US_133
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 160.153.137.16
+    type: ss
+  - cipher: none
+    name: 🇯🇵 JP_1
+    password: 79960b0b-7d31-4263-8915-6511b0e137a8
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: woshinidie-et3.pages.dev
+      mode: websocket
+      path: /79960b0b-7d31-4263-8915-6511b0e137a8/?ed\=2560
+    port: 443
+    server: cdns.doon.eu.org
+    type: ss
+  - cipher: none
+    name: 🇺🇸US
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 170.114.45.38
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_3
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 185.186.26.101
+    type: ss
+  - cipher: none
+    name: 🇺🇸US_161
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 154.194.0.16
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_4
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 8443
+    server: 143.20.213.135
+    type: ss
+  - cipher: none
+    name: 🇭🇰 HK
+    password: 79960b0b-7d31-4263-8915-6511b0e137a8
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: woshinidie-et3.pages.dev
+      mode: websocket
+      path: /79960b0b-7d31-4263-8915-6511b0e137a8/?ed\=2560
+    port: 443
+    server: cf.008500.xyz
+    type: ss
+  - cipher: none
+    name: 🇭🇰 HK_1
+    password: 79960b0b-7d31-4263-8915-6511b0e137a8
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: woshinidie-et3.pages.dev
+      mode: websocket
+      path: /79960b0b-7d31-4263-8915-6511b0e137a8/?ed\=2560
+    port: 443
+    server: cf.zhetengsha.eu.org
+    type: ss
+  - cipher: none
+    name: 🇭🇰 HK_2
+    password: 79960b0b-7d31-4263-8915-6511b0e137a8
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: woshinidie-et3.pages.dev
+      mode: websocket
+      path: /79960b0b-7d31-4263-8915-6511b0e137a8/?ed\=2560
+    port: 443
+    server: cf.877774.xyz
+    type: ss
+  - cipher: none
+    name: 🇸🇬 SG新加坡节点
+    password: 79960b0b-7d31-4263-8915-6511b0e137a8
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: woshinidie-et3.pages.dev
+      mode: websocket
+      path: /79960b0b-7d31-4263-8915-6511b0e137a8/?ed\=2560
+    port: 443
+    server: store.ubi.com
+    type: ss
+  - cipher: none
+    name: 🇰🇷KR
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 168.107.46.1
+    type: ss
+  - cipher: none
+    name: 🇺🇸US_56
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 190.93.246.16
+    type: ss
+  - cipher: none
+    name: 🇺🇸US_252
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 50.62.88.16
+    type: ss
+  - cipher: none
+    name: 🇺🇸US_1
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 103.133.1.38
+    type: ss
+  - cipher: none
+    name: 🇺🇸US_235
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 69.84.182.16
+    type: ss
+  - cipher: none
+    name: 🇸🇬SG
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 188.166.247.45
+    type: ss
+  - cipher: none
+    name: 🇺🇸US_24
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 198.71.188.16
+    type: ss
+  - cipher: none
+    name: 🇸🇬SG_1
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 206.189.158.106
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE德国节点
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 2053
+    server: 45.14.247.168
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_5
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 135.125.191.9
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇺🇸 US美国_1
+    password: wwzVn2ZnHfqYa6l8EWh3eY
+    port: 443
+    server: switcher-nick-croquet.freesocks.work
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_6
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 94.141.123.231
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 美国_2
+    password: RFK38Cg7APneSB5cWDcpbm
+    port: 443
+    server: switcher-nick-croquet.freesocks.work
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_7
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 8443
+    server: 135.125.191.9
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_8
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 2053
+    server: 45.43.88.13
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_9
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 139.162.174.148
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_10
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 83.147.253.18
+    type: ss
+  - cipher: none
+    name: 🇳🇱NL
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 89.110.113.198
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_11
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 45.147.248.115
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_12
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 8443
+    server: 143.20.213.97
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_13
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 194.233.167.228
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_14
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 8443
+    server: 49.13.85.76
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 美国节点_3
+    password: 9tqhMdIrTkgQ46PvhyAtMH
+    port: 443
+    server: switcher-nick-croquet.freesocks.work
+    type: ss
+  - cipher: none
+    name: 🇨🇦CA加拿大節點
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 192.99.169.176
+    type: ss
+  - cipher: none
+    name: 🇳🇱NL_1
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 8443
+    server: 212.192.215.229
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_15
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 8443
+    server: 159.69.197.209
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_16
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 172.104.143.156
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_17
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 139.162.141.75
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_18
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 192.46.237.206
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_19
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 139.162.150.12
+    type: ss
+  - cipher: none
+    name: 🇭🇰HK_3
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 103.194.107.166
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_20
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 2053
+    server: 188.241.241.3
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE德國
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 139.144.77.162
+    type: ss
+  - cipher: none
+    name: 🇸🇬SG_2
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 143.42.66.91
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_21
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 78.40.216.169
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_22
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 167.235.149.67
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_23
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 139.144.181.54
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_24
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 139.144.181.138
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_25
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 172.104.250.194
+    type: ss
+  - cipher: none
+    name: 🇸🇬SG新加坡節點_1
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 124.156.202.172
+    type: ss
+  - cipher: none
+    name: 🇸🇬SG_3
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 129.226.150.167
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇺🇸 US SS-20
+    password: hbGrpfvNrJsUmKmPbR3iY2
+    port: 443
+    server: tinkered-pennies-puppies.freesocks.work
+    type: ss
+  - cipher: none
+    name: 🇻🇳VN越南
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 49678
+    server: 103.15.90.134
+    type: ss
+  - cipher: none
+    name: 🇩🇪DE_26
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 167.235.224.25
+    type: ss
+  - cipher: none
+    name: 🇭🇰HK_4
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 185.241.41.72
+    type: ss
+  - cipher: none
+    name: 🇭🇰HK_5
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 8.223.63.150
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇮🇳 印度 01
+    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
+    port: 34411
+    server: ldu.izenny.com
+    type: ss
+  - cipher: none
+    name: 🇭🇰HK_6
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 7602
+    server: 192.252.182.52
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 美国_6
+    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
+    port: 20149
+    server: ldu.izenny.com
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇨🇳 ss(广移)台湾2
+    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
+    port: 18148
+    server: ldu.izenny.com
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇨🇳 台湾 09
+    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
+    port: 43076
+    server: ldu.izenny.com
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇨🇳 中国 01
+    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
+    port: 34061
+    server: ldu.izenny.com
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 美国_7
+    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
+    port: 55936
+    server: ldu.izenny.com
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 美国_8
+    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
+    port: 46197
+    server: ldu.izenny.com
+    type: ss
+  - cipher: none
+    name: 香港節點
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 8001
+    server: 47.242.145.136
+    type: ss
+  - cipher: none
+    name: 香港
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 4432
+    server: 47.240.15.210
+    type: ss
+  - cipher: none
+    name: 日本
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 38.47.52.212
+    type: ss
+  - cipher: none
+    name: 日本節點
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 19999
+    server: 202.84.53.85
+    type: ss
+  - cipher: none
+    name: 新加坡節點
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 47.236.119.109
+    type: ss
+  - cipher: none
+    name: 香港_1
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 68.64.176.135
+    type: ss
+  - cipher: none
+    name: 🇯🇵JP_2
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 89.116.88.19
+    type: ss
+  - cipher: none
+    name: 韓國
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 12126
+    server: 116.44.53.251
+    type: ss
+  - cipher: none
+    name: 新加坡
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 34.143.159.175
+    type: ss
+  - cipher: none
+    name: 香港_2
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 8.223.63.150
+    type: ss
+  - cipher: none
+    name: 香港_3
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 149.104.25.20
+    type: ss
+  - cipher: none
+    name: 香港_4
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 22827
+    server: 5.180.98.146
+    type: ss
+  - cipher: none
+    name: 新加坡_1
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 4.194.211.60
+    type: ss
+  - cipher: none
+    name: 🇭🇰HK_7
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 103.194.107.166
+    type: ss
+  - cipher: none
+    name: 🇰🇷KR_1
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 11654
+    server: 223.222.195.84
+    type: ss
+  - cipher: none
+    name: 新加坡節點_1
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 45.77.255.153
+    type: ss
+  - cipher: none
+    name: 🇯🇵JP_3
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 12145
+    server: 202.84.53.85
+    type: ss
+  - cipher: none
+    name: 德國
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 443
+    server: 143.20.160.38
+    type: ss
+  - cipher: none
+    name: 🇯🇵JP_4
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560
+    port: 443
+    server: 115.163.106.137
+    type: ss
+  - cipher: none
+    name: 韓國_1
+    password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: ylnhh.us.ci
+      mode: websocket
+      path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560
+    port: 12312
+    server: 211.48.77.114
     type: ss
