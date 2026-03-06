@@ -1,6 +1,6 @@
 proxies:
-  - name: KR_speednode_0014
-    server: 121.169.46.116
-    port: 1090
+  - name: HK_speednode_0012
+    server: 156.254.114.47
+    port: 58367
     type: socks5
     udp: true

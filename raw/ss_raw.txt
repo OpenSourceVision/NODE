@@ -4,14 +4,12 @@ proxies:
     password: amazonskr05
     port: 443
     server: 63.180.254.10
-    tfo: false
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1121
+    name: United States_None_ss_1111
     password: amazonskr05
     port: 443
     server: 63.180.254.10
-    tfo: false
     type: ss
   - name: United States_ss_61
     type: ss
@@ -66,26 +64,138 @@ proxies:
     password: amazonskr05
     port: 443
     server: 63.180.254.10
-    tfo: false
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1121
+    name: United States_None_ss_1111
     password: amazonskr05
     port: 443
     server: 63.180.254.10
-    tfo: false
+    type: ss
+  - name: CN_speednode_0002
+    server: ldu.izenny.com
+    port: 43076
+    type: ss
+    cipher: chacha20-ietf-poly1305
+    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
+    udp: true
+  - name: CN_speednode_0003
+    server: ldu.izenny.com
+    port: 34411
+    type: ss
+    cipher: chacha20-ietf-poly1305
+    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
+    udp: true
+  - name: CN_speednode_0004
+    server: ldu.izenny.com
+    port: 20149
+    type: ss
+    cipher: chacha20-ietf-poly1305
+    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
+    udp: true
+  - name: CN_speednode_0005
+    server: ldu.izenny.com
+    port: 12589
+    type: ss
+    cipher: chacha20-ietf-poly1305
+    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
+    udp: true
+  - name: CN_speednode_0006
+    server: ldu.izenny.com
+    port: 46197
+    type: ss
+    cipher: chacha20-ietf-poly1305
+    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
+    udp: true
+  - name: CN_speednode_0007
+    server: ldu.izenny.com
+    port: 25612
+    type: ss
+    cipher: chacha20-ietf-poly1305
+    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
+    udp: true
+  - cipher: chacha20-ietf-poly1305
+    name: 🇨🇳_CN_中国->🏳️_unKnow_未知
+    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
+    port: 34061
+    server: ldu.izenny.com
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇨🇳_CN_中国->🇱🇹_LT_立陶宛
+    password: JVrsLLN1tkN8oXZO
+    port: 13223
+    server: chengbai02.ascwt179.com
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇨🇳_CN_中国->🇬🇧_GB_英国
+    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
+    port: 18148
+    server: ldu.izenny.com
     type: ss
   - cipher: aes-256-cfb
     name: 未知
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.155.127
+    server: 103.186.154.58
+    type: ss
+  - cipher: aes-256-cfb
+    name: 未知_1
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.139
+    type: ss
+  - cipher: aes-256-cfb
+    name: 未知_2
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.160
+    type: ss
+  - cipher: aes-256-cfb
+    name: 未知_3
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.188
+    type: ss
+  - cipher: aes-256-cfb
+    name: 未知_4
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.250
+    type: ss
+  - cipher: aes-256-cfb
+    name: 未知_5
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.155.53
     type: ss
   - cipher: chacha20-ietf-poly1305
-    name: 🇺🇸_US_美国_4
-    password: kaQH3hGdcP80XEDI
-    port: 443
-    server: admin.c2.havij.co
+    name: 🇨🇳_CN_中国->🇺🇸_US_美国
+    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
+    port: 55936
+    server: ldu.izenny.com
+    type: ss
+  - cipher: aes-256-gcm
+    name: 🇷🇺_RU_俄罗斯_1
+    password: 9f3d1a6d31468599
+    port: 60129
+    server: 195.58.49.100
+    type: ss
+  - cipher: aes-256-cfb
+    name: 未知_6
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.240
+    type: ss
+  - cipher: aes-256-cfb
+    name: 未知_7
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.205
+    type: ss
+  - cipher: aes-256-cfb
+    name: 未知_8
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.46
     type: ss
   - cipher: none
     name: 🇭🇰HK香港節點
