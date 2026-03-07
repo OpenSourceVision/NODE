@@ -1,6 +1,6 @@
 proxies:
-  - name: HK_speednode_0012
-    server: 156.254.114.47
-    port: 58367
+  - name: HK_speednode_0015
+    server: 13.70.6.6
+    port: 50161
     type: socks5
     udp: true
