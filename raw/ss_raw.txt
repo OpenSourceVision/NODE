@@ -6,7 +6,7 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1111
+    name: United States_None_ss_1124
     password: amazonskr05
     port: 443
     server: 63.180.254.10
@@ -66,32 +66,11 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1111
+    name: United States_None_ss_1124
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
-  - name: CN_speednode_0004
-    server: ldu.izenny.com
-    port: 34411
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
-    udp: true
-  - name: CN_speednode_0006
-    server: ldu.izenny.com
-    port: 25612
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da
-    udp: true
-  - name: RU_speednode_0031
-    server: basic-ru-0.undef.network
-    port: 43902
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: 5kWesolQ0y0PVdIrb65LbHT2u
-    udp: true
   - cipher: chacha20-ietf-poly1305
     name: 🇨🇳_CN_中国->🏳️_unKnow_未知
     password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da

@@ -1,7 +1,7 @@
 proxies:
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_102
+    name: Hong Kong_Kowloon_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -10,7 +10,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1015
+    name: Hong Kong_Kowloon_vmess_1015
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -108,9 +108,111 @@ proxies:
     tls: false
     type: vmess
     uuid: 88888888-8888-8888-8888-888888888888
+  - alterId: 0
+    cipher: auto
+    name: China_None_vmess_1111
+    network: tcp
+    port: "30812"
+    server: v12.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: United Kingdom_None_vmess_1112
+    network: tcp
+    port: "180"
+    server: 82.198.246.97
+    tls: false
+    type: vmess
+    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1112
+    name: China_None_vmess_1113
+    network: tcp
+    port: "30804"
+    server: v4.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 2
+    cipher: auto
+    name: Hong Kong_Central_vmess_1114
+    network: ws
+    port: "80"
+    server: d7d6992d-t5bb40-tdvaex-1ixuf.hkt.gotochinatown.net
+    tls: false
+    type: vmess
+    uuid: dcbaee4d-2204-11ed-b659-f23c91cfbbc9
+    ws-opts:
+      headers:
+        Host: broadcastlv.chat.bilibili.com
+      path: /
+  - alterId: 0
+    cipher: auto
+    grpc-opts:
+      grpc-service-name: "12306"
+    name: Hong Kong_Central_vmess_1115
+    network: grpc
+    port: "443"
+    server: hk02.653ebeeb-5f60-4be5-958d-7bf4839cdccd.ef6616fd-5b06-482f-9d64-183745659cbf.byteprivatelink.com
+    servername: www.12306.cn
+    tls: true
+    type: vmess
+    uuid: d5359b9e-4f4f-49e4-ab8b-f6a0d19bce28
+  - alterId: 0
+    cipher: auto
+    name: Iran_None_vmess_1116
+    network: tcp
+    port: "8443"
+    server: 31.58.223.134
+    tls: false
+    type: vmess
+    uuid: 78cdc6b7-8b14-47d6-bf09-3167bc5124fb
+  - alterId: 2
+    cipher: auto
+    name: China_None_vmess_1117
+    network: tcp
+    port: "30824"
+    server: v24.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: None_None_vmess_1119
+    network: ws
+    port: "443"
+    server: gbnh.1oo.ccwu.cc
+    servername: gbnh.1oo.ccwu.cc
+    tls: true
+    type: vmess
+    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
+    ws-opts:
+      headers:
+        Host: gbnh.1oo.ccwu.cc
+      path: /iSRWSKUJKNuXvVzsYHmsMrnO
+  - alterId: 2
+    cipher: auto
+    name: China_None_vmess_1122
+    network: tcp
+    port: "30833"
+    server: v33.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: China_None_vmess_1123
+    network: tcp
+    port: "30830"
+    server: v30.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 2
+    cipher: auto
+    name: Hong Kong_Kowloon_vmess_1125
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -119,7 +221,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1125
+    name: Hong Kong_Kowloon_vmess_1138
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -129,7 +231,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_102
+    name: Hong Kong_Kowloon_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -138,7 +240,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1015
+    name: Hong Kong_Kowloon_vmess_1015
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -236,9 +338,111 @@ proxies:
     tls: false
     type: vmess
     uuid: 88888888-8888-8888-8888-888888888888
+  - alterId: 0
+    cipher: auto
+    name: China_None_vmess_1111
+    network: tcp
+    port: "30812"
+    server: v12.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: United Kingdom_None_vmess_1112
+    network: tcp
+    port: "180"
+    server: 82.198.246.97
+    tls: false
+    type: vmess
+    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1112
+    name: China_None_vmess_1113
+    network: tcp
+    port: "30804"
+    server: v4.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 2
+    cipher: auto
+    name: Hong Kong_Central_vmess_1114
+    network: ws
+    port: "80"
+    server: d7d6992d-t5bb40-tdvaex-1ixuf.hkt.gotochinatown.net
+    tls: false
+    type: vmess
+    uuid: dcbaee4d-2204-11ed-b659-f23c91cfbbc9
+    ws-opts:
+      headers:
+        Host: broadcastlv.chat.bilibili.com
+      path: /
+  - alterId: 0
+    cipher: auto
+    grpc-opts:
+      grpc-service-name: "12306"
+    name: Hong Kong_Central_vmess_1115
+    network: grpc
+    port: "443"
+    server: hk02.653ebeeb-5f60-4be5-958d-7bf4839cdccd.ef6616fd-5b06-482f-9d64-183745659cbf.byteprivatelink.com
+    servername: www.12306.cn
+    tls: true
+    type: vmess
+    uuid: d5359b9e-4f4f-49e4-ab8b-f6a0d19bce28
+  - alterId: 0
+    cipher: auto
+    name: Iran_None_vmess_1116
+    network: tcp
+    port: "8443"
+    server: 31.58.223.134
+    tls: false
+    type: vmess
+    uuid: 78cdc6b7-8b14-47d6-bf09-3167bc5124fb
+  - alterId: 2
+    cipher: auto
+    name: China_None_vmess_1117
+    network: tcp
+    port: "30824"
+    server: v24.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: None_None_vmess_1119
+    network: ws
+    port: "443"
+    server: gbnh.1oo.ccwu.cc
+    servername: gbnh.1oo.ccwu.cc
+    tls: true
+    type: vmess
+    uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
+    ws-opts:
+      headers:
+        Host: gbnh.1oo.ccwu.cc
+      path: /iSRWSKUJKNuXvVzsYHmsMrnO
+  - alterId: 2
+    cipher: auto
+    name: China_None_vmess_1122
+    network: tcp
+    port: "30833"
+    server: v33.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 0
+    cipher: auto
+    name: China_None_vmess_1123
+    network: tcp
+    port: "30830"
+    server: v30.hdacd.com
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - alterId: 2
+    cipher: auto
+    name: Hong Kong_Kowloon_vmess_1125
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -247,7 +451,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1125
+    name: Hong Kong_Kowloon_vmess_1138
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -255,27 +459,15 @@ proxies:
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - name: CN_speednode_0005
-    server: v9.hdacd.com
-    port: 30809
+  - name: CN_speednode_0001
+    server: v36.hdacd.com
+    port: 30836
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
     alterId: 2
     cipher: auto
     tls: false
     skip-cert-verify: false
-    udp: true
-  - name: HK_speednode_0016
-    server: 47.243.95.187
-    port: 443
-    type: vmess
-    uuid: c28a6258-7baa-40fc-8a51-87f59c847cd7
-    alterId: 0
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: n1761214906.wpg27.xyz
-    network: ws
     udp: true
   - alterId: 0
     cipher: auto
