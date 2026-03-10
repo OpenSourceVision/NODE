@@ -1,41 +1,17 @@
 proxies:
-  - name: HK_speednode_0009
-    server: 6df231b9-t9zts0-tb74a6-1q9g2.hkt.cdnhuawei.com
-    port: 8443
+  - name: CN_speednode_0005
+    server: 4d2f203f-ta1og0-ta00rd-1o8ak.cm4.oshuawei.com
+    port: 27233
     type: http
-    username: 9d80dd14-ac44-11ee-a116-f23c9164ca5d
-    password: <password>
+    username: 8bb68d04-6973-11ee-b518-f23c9164ca5d
+    password: 8bb68d04-6973-11ee-b518-f23c9164ca5d
     tls: true
     udp: true
-  - name: HK_speednode_0010
-    server: 9e8b2077-t9zts0-tdq4vj-1l0qa.hkt.cdnhuawei.com
+  - name: HK_speednode_0016
+    server: 15b72b06-ta1og0-ts3rye-mrtr.hkt.cdnhuawei.com
     port: 8443
     type: http
-    username: 0720c874-35e8-11ef-aa88-f23c913c8d2b
+    username: 28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9
     password: <password>
-    tls: true
-    udp: true
-  - name: HK_speednode_0011
-    server: f868c076-t9zts0-tqx9ef-1k0yf.hkt.cdnhuawei.com
-    port: 8443
-    type: http
-    username: 9cc3c03e-21fd-11ee-a642-f23c91369f2d
-    password: <password>
-    tls: true
-    udp: true
-  - name: HK_speednode_0012
-    server: 3d60a50f-ta1og0-tkp3tl-1s09x.hkt.cdnhuawei.com
-    port: 8443
-    type: http
-    username: 62b7824e-47dc-11ef-9f2d-f23c9164ca5d
-    password: <password>
-    tls: true
-    udp: true
-  - name: US_speednode_0019
-    server: 79b073c7-tbbz40-tvb36r-1qwom.de.oshuawei.com
-    port: 443
-    type: http
-    username: 8d0ec7cc-eefa-11ee-9b59-f23c91cfbbc9
-    password: 8d0ec7cc-eefa-11ee-9b59-f23c91cfbbc9
     tls: true
     udp: true

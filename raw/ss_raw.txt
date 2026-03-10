@@ -6,7 +6,7 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1115
+    name: United States_None_ss_1126
     password: amazonskr05
     port: 443
     server: 63.180.254.10
@@ -66,17 +66,38 @@ proxies:
     server: 63.180.254.10
     type: ss
   - cipher: aes-256-cfb
-    name: United States_None_ss_1115
+    name: United States_None_ss_1126
     password: amazonskr05
     port: 443
     server: 63.180.254.10
     type: ss
-  - name: CN_speednode_0003
-    server: slur.izenny.com
-    port: 40063
+  - name: GB_speednode_0010
+    server: series-a2.samanehha.co
+    port: 443
     type: ss
     cipher: chacha20-ietf-poly1305
-    password: d3a07498-7bcf-48b0-a6ed-8dbda2451c7d
+    password: W74XFALLLuw6m5IA
+    udp: true
+  - name: GB_speednode_0011
+    server: admin.c1.webramz.co
+    port: 443
+    type: ss
+    cipher: chacha20-ietf-poly1305
+    password: W74XFALLLuw6m5IA
+    udp: true
+  - name: GB_speednode_0012
+    server: admin.c1.havij.co
+    port: 443
+    type: ss
+    cipher: chacha20-ietf-poly1305
+    password: 1kVr0KATIJI7mwOF
+    udp: true
+  - name: GB_speednode_0013
+    server: series-a1.samanehha.co
+    port: 443
+    type: ss
+    cipher: chacha20-ietf-poly1305
+    password: W74XFALLLuw6m5IA
     udp: true
   - cipher: chacha20-ietf-poly1305
     name: 🇨🇳_CN_中国->🏳️_unKnow_未知
