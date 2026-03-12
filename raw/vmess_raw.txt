@@ -1,31 +1,16 @@
 proxies:
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Kowloon_vmess_102
+    name: Hong Kong_Central_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: France_None_vmess_1015
-    network: ws
-    port: "16622"
-    server: m.cnmjin.net
-    servername: ""
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: aa0751be-6b03-49c0-97f0-9a845d8543c9
-    ws-opts:
-      headers:
-        Host: 6076cfa5b57881d4da968c78ccb3d162.mobgslb.tbcache.com
-      path: /
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Kowloon_vmess_1016
+    name: Hong Kong_Central_vmess_1014
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -192,31 +177,16 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Kowloon_vmess_1120
+    name: Hong Kong_Central_vmess_1120
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: France_None_vmess_1133
-    network: ws
-    port: "16622"
-    server: m.cnmjin.net
-    servername: ""
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: aa0751be-6b03-49c0-97f0-9a845d8543c9
-    ws-opts:
-      headers:
-        Host: 6076cfa5b57881d4da968c78ccb3d162.mobgslb.tbcache.com
-      path: /
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Kowloon_vmess_1134
+    name: Hong Kong_Central_vmess_1132
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -226,31 +196,16 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Kowloon_vmess_102
+    name: Hong Kong_Central_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: France_None_vmess_1015
-    network: ws
-    port: "16622"
-    server: m.cnmjin.net
-    servername: ""
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: aa0751be-6b03-49c0-97f0-9a845d8543c9
-    ws-opts:
-      headers:
-        Host: 6076cfa5b57881d4da968c78ccb3d162.mobgslb.tbcache.com
-      path: /
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Kowloon_vmess_1016
+    name: Hong Kong_Central_vmess_1014
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -417,31 +372,16 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Kowloon_vmess_1120
+    name: Hong Kong_Central_vmess_1120
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  - alterId: 0
-    cipher: auto
-    name: France_None_vmess_1133
-    network: ws
-    port: "16622"
-    server: m.cnmjin.net
-    servername: ""
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: aa0751be-6b03-49c0-97f0-9a845d8543c9
-    ws-opts:
-      headers:
-        Host: 6076cfa5b57881d4da968c78ccb3d162.mobgslb.tbcache.com
-      path: /
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Kowloon_vmess_1134
+    name: Hong Kong_Central_vmess_1132
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -449,131 +389,64 @@ proxies:
     tls: false
     type: vmess
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  - name: CN_speednode_0001
+    server: pub.ap20260228.com
+    port: 64021
+    type: vmess
+    uuid: a739e782-1682-38a5-9153-aad09d779ae9
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: false
+    udp: true
+  - name: CN_speednode_0002
+    server: pub.ap20260228.com
+    port: 64018
+    type: vmess
+    uuid: a739e782-1682-38a5-9153-aad09d779ae9
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: false
+    udp: true
   - name: CN_speednode_0003
-    server: a.cdn-bilibili.cn
-    port: 30003
+    server: pub.ap20260228.com
+    port: 64003
     type: vmess
-    uuid: 69de9a52-36b0-4265-a3cf-d06bcefe713d
+    uuid: a739e782-1682-38a5-9153-aad09d779ae9
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: false
     udp: true
-  - name: GB_speednode_0009
-    server: 82.198.246.97
+  - name: CN_speednode_0004
+    server: pub.ap20260228.com
+    port: 64097
+    type: vmess
+    uuid: a739e782-1682-38a5-9153-aad09d779ae9
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: false
+    udp: true
+  - alterId: 0
+    cipher: auto
+    name: 🇺🇸 US美国
     port: 180
+    server: 82.198.246.97
+    skip-cert-verify: false
+    tls: false
     type: vmess
     uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    udp: true
-  - name: GB_speednode_0014
-    server: 85.211.242.85
-    port: 12889
-    type: vmess
-    uuid: 37c67a5e-2b2a-49b2-a197-889e80b28bee
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: baidu.com
-    udp: true
   - alterId: 0
     cipher: auto
-    name: 香港02
-    port: 47081
-    server: tunnel1.qqa678.com
+    name: 🇺🇸 US美国_1
+    port: 180
+    server: 82.198.246.97
     skip-cert-verify: false
     tls: false
     type: vmess
-    uuid: 161ad227-d462-46c0-b4d2-44a6cd225f5d
-  - alterId: 0
-    cipher: auto
-    name: 香港03
-    port: 47081
-    server: tunnel2.qqa678.com
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 161ad227-d462-46c0-b4d2-44a6cd225f5d
-  - alterId: 0
-    cipher: auto
-    name: 香港04
-    port: 47081
-    server: oss-4.qqa678.com
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 161ad227-d462-46c0-b4d2-44a6cd225f5d
-  - alterId: 0
-    cipher: auto
-    name: 台湾02
-    port: 47082
-    server: tunnel1.qqa678.com
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 161ad227-d462-46c0-b4d2-44a6cd225f5d
-  - alterId: 0
-    cipher: auto
-    name: 日本03
-    port: 47083
-    server: tunnel2.qqa678.com
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 161ad227-d462-46c0-b4d2-44a6cd225f5d
-  - alterId: 0
-    cipher: auto
-    name: 日本04
-    port: 47083
-    server: oss-4.qqa678.com
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 161ad227-d462-46c0-b4d2-44a6cd225f5d
-  - alterId: 0
-    cipher: auto
-    name: 日本01
-    port: 47083
-    server: tunnel1.qqa678.com
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 161ad227-d462-46c0-b4d2-44a6cd225f5d
-  - alterId: 0
-    cipher: auto
-    name: 新加坡03
-    port: 37086
-    server: tunnel2.qqa678.com
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 161ad227-d462-46c0-b4d2-44a6cd225f5d
-  - alterId: 0
-    cipher: auto
-    name: 新加坡01
-    port: 37086
-    server: tunnel1.qqa678.com
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 161ad227-d462-46c0-b4d2-44a6cd225f5d
-  - alterId: 0
-    cipher: auto
-    name: 新加坡04
-    port: 37086
-    server: oss-4.qqa678.com
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 161ad227-d462-46c0-b4d2-44a6cd225f5d
+    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
   - alterId: 0
     cipher: auto
     name: 美国
@@ -585,27 +458,13 @@ proxies:
     uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
   - alterId: 0
     cipher: auto
-    name: 英国节点
+    name: 🇬🇧 GB英国
     port: 180
     server: 82.198.246.97
     skip-cert-verify: false
     tls: false
     type: vmess
     uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-  - alterId: 0
-    cipher: auto
-    name: 美国节点
-    network: ws
-    port: 44579
-    server: 2001:bc8:32d7:302::10
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
-    ws-opts:
-      headers:
-        Host: AZERB.NET
-      path: /
   - alterId: 0
     cipher: auto
     name: 美国_1
@@ -622,7 +481,21 @@ proxies:
       path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1
   - alterId: 0
     cipher: auto
-    name: 🇫🇷 FR
+    name: 美国_2
+    network: ws
+    port: 44579
+    server: 2001:bc8:32d7:302::11
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+    ws-opts:
+      headers:
+        Host: Azerb.NET
+      path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1?ed=2560
+  - alterId: 0
+    cipher: auto
+    name: 🇺🇸 US美国_2
     network: ws
     port: 44579
     server: 2001:bc8:32d7:302::10
@@ -632,8 +505,8 @@ proxies:
     uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
     ws-opts:
       headers:
-        Host: AZERB.NET
-      path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1
+        Host: TABRIZ.NET
+      path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1?ed=2560
   - alterId: 0
     cipher: auto
     name: 法国节点
@@ -645,104 +518,10 @@ proxies:
     type: vmess
     uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
     ws-opts:
-      headers:
-        Host: 2001:bc8:32d7:302::10
-      path: /?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN
-  - alterId: 0
-    cipher: auto
-    name: 法国节点_1
-    network: ws
-    port: 44579
-    server: 2001:bc8:32d7:302::10
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
-    ws-opts:
       path: /
   - alterId: 0
     cipher: auto
-    name: 法国节点_2
-    network: ws
-    port: 44579
-    server: 2001:bc8:32d7:302::10
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
-    ws-opts:
-      headers:
-        Host: TURK1.NET.NET
-      path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1
-  - alterId: 0
-    cipher: auto
-    name: 🇺🇸 US美国
-    network: ws
-    port: 44579
-    server: 2001:bc8:32d7:302::10
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
-    ws-opts:
-      headers:
-        Host: TABRIZ.NET
-      path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1?ed=2560
-  - alterId: 0
-    cipher: auto
-    name: 美国节点_1
-    network: ws
-    port: 44579
-    server: 2001:bc8:32d7:302::11
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
-    ws-opts:
-      headers:
-        Host: TABRIZ.NET
-      path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1?ed=2560
-  - alterId: 0
-    cipher: auto
-    name: 法国节点_3
-    network: ws
-    port: 44579
-    server: 2001:bc8:32d7:302::10
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
-    ws-opts:
-      path: /?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN
-  - alterId: 0
-    cipher: auto
-    name: 法国节点_4
-    network: ws
-    port: 44579
-    server: 2001:bc8:32d7:302::10
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
-    ws-opts:
-      headers:
-        Host: AZERB.NET
-      path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1
-  - alterId: 0
-    cipher: auto
-    name: 美国节点_2
-    network: ws
-    port: 44579
-    server: 2001:bc8:32d7:302::10
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
-    ws-opts:
-      path: /?ed=2048@V2Ray_hiddify10--https://t.me/V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--https://t.me/V2Ray_hiddify10
-  - alterId: 0
-    cipher: auto
-    name: 法国节点_5
+    name: 法国节点_1
     network: ws
     port: 44579
     server: 2001:bc8:32d7:302::10
@@ -757,7 +536,7 @@ proxies:
       path: /?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN
   - alterId: 0
     cipher: auto
-    name: 英国节点_1
+    name: 美国_3
     network: ws
     port: 44579
     server: 2001:bc8:32d7:302::10
@@ -766,10 +545,48 @@ proxies:
     type: vmess
     uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
     ws-opts:
-      path: /?ed=2048
+      path: /?ed=2048@V2Ray_hiddify10--https://t.me/V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--https://t.me/V2Ray_hiddify10
   - alterId: 0
     cipher: auto
-    name: 美国_3
+    name: 美国节点_1
+    network: ws
+    port: 44579
+    server: 2001:bc8:32d7:302::16
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+    ws-opts:
+      headers:
+        Host: AZERB.NET
+      path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1
+  - alterId: 0
+    cipher: auto
+    name: 法国
+    network: ws
+    port: 44579
+    server: 2001:bc8:32d7:302::10
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+  - alterId: 0
+    cipher: auto
+    name: 香港节点
+    network: ws
+    port: 44579
+    server: 2001:bc8:32d7:302::10
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+    ws-opts:
+      headers:
+        Host: AZERB.NET
+      path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1?ed=2560
+  - alterId: 0
+    cipher: auto
+    name: 美国节点_2
     network: ws
     port: 44579
     server: 2001:bc8:32d7:302::11
@@ -779,11 +596,11 @@ proxies:
     uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
     ws-opts:
       headers:
-        Host: Azerb.NET
+        Host: TABRIZ.NET
       path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1?ed=2560
   - alterId: 0
     cipher: auto
-    name: 法国节点_6
+    name: 美国节点_3
     network: ws
     port: 44579
     server: 2001:bc8:32d7:302::10
@@ -793,7 +610,7 @@ proxies:
     uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
     ws-opts:
       headers:
-        Host: 2001:bc8:32d7:302::10
+        Host: AZERB.NET
       path: /
   - alterId: 0
     cipher: auto
@@ -811,7 +628,21 @@ proxies:
       path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1?ed=2560
   - alterId: 0
     cipher: auto
-    name: 香港节点
+    name: 法国节点_2
+    network: ws
+    port: 44579
+    server: 2001:bc8:32d7:302::10
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+    ws-opts:
+      headers:
+        Host: 2001:bc8:32d7:302::10
+      path: /
+  - alterId: 0
+    cipher: auto
+    name: 法国节点_3
     network: ws
     port: 44579
     server: 2001:bc8:32d7:302::10
@@ -822,70 +653,10 @@ proxies:
     ws-opts:
       headers:
         Host: AZERB.NET
-      path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1?ed=2560
+      path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1
   - alterId: 0
     cipher: auto
     name: 美国节点_4
-    network: ws
-    port: 44579
-    server: 2001:bc8:32d7:302::10
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
-    ws-opts:
-      path: ?ed=2048
-  - alterId: 0
-    cipher: auto
-    name: 法国节点_7
-    network: ws
-    port: 44579
-    server: 2001:bc8:32d7:302::10
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
-    ws-opts:
-      path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1
-  - alterId: 0
-    cipher: auto
-    name: 法国
-    network: ws
-    port: 44579
-    server: 2001:bc8:32d7:302::10
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
-  - alterId: 0
-    cipher: auto
-    name: 美国节点_5
-    network: ws
-    port: 44579
-    server: 2001:bc8:32d7:302::15
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
-    ws-opts:
-      headers:
-        Host: TURK.NET
-      path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1
-  - alterId: 0
-    cipher: auto
-    name: 美国_5
-    network: ws
-    port: 44579
-    server: 2001:bc8:32d7:302::10
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
-    ws-opts:
-      path: /?ed=2048@V2Ray_hiddify10--https://t.me/V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--https://t.me/V2Ray_hiddify10
-  - alterId: 0
-    cipher: auto
-    name: 美国节点_6
     network: ws
     port: 44579
     server: 2001:bc8:32d7:302::10
@@ -899,10 +670,36 @@ proxies:
       path: /?ed=2048
   - alterId: 0
     cipher: auto
-    name: 美国节点_7
+    name: 美国节点_5
     network: ws
     port: 44579
-    server: 2001:bc8:32d7:302::16
+    server: 2001:bc8:32d7:302::10
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+    ws-opts:
+      path: /?ed=2048@V2Ray_hiddify10--https://t.me/V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--V2Ray_hiddify10--https://t.me/V2Ray_hiddify10
+  - alterId: 0
+    cipher: auto
+    name: 法国节点_4
+    network: ws
+    port: 44579
+    server: 2001:bc8:32d7:302::10
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+    ws-opts:
+      headers:
+        Host: 2001:bc8:32d7:302::10
+      path: /?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN
+  - alterId: 0
+    cipher: auto
+    name: 🇫🇷 FR
+    network: ws
+    port: 44579
+    server: 2001:bc8:32d7:302::10
     skip-cert-verify: false
     tls: false
     type: vmess
@@ -913,28 +710,118 @@ proxies:
       path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1
   - alterId: 0
     cipher: auto
-    name: 免費節點
-    port: 47084
-    server: oss-4.qqa678.com
+    name: 法国节点_5
+    network: ws
+    port: 44579
+    server: 2001:bc8:32d7:302::10
     skip-cert-verify: false
     tls: false
     type: vmess
-    uuid: 161ad227-d462-46c0-b4d2-44a6cd225f5d
+    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+    ws-opts:
+      path: /?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN
   - alterId: 0
     cipher: auto
-    name: 免費節點_1
-    port: 47084
-    server: tunnel2.qqa678.com
+    name: 法国节点_6
+    network: ws
+    port: 44579
+    server: 2001:bc8:32d7:302::10
     skip-cert-verify: false
     tls: false
     type: vmess
-    uuid: 161ad227-d462-46c0-b4d2-44a6cd225f5d
+    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+    ws-opts:
+      path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1
   - alterId: 0
     cipher: auto
-    name: 免費節點_2
-    port: 47084
-    server: tunnel1.qqa678.com
+    name: 美国节点_6
+    network: ws
+    port: 44579
+    server: 2001:bc8:32d7:302::10
     skip-cert-verify: false
     tls: false
     type: vmess
-    uuid: 161ad227-d462-46c0-b4d2-44a6cd225f5d
+    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+    ws-opts:
+      path: ?ed=2048
+  - alterId: 0
+    cipher: auto
+    name: 美国节点_7
+    network: ws
+    port: 44579
+    server: 2001:bc8:32d7:302::15
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+    ws-opts:
+      headers:
+        Host: TURK.NET
+      path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1
+  - alterId: 0
+    cipher: auto
+    name: 英国节点
+    network: ws
+    port: 44579
+    server: 2001:bc8:32d7:302::10
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+    ws-opts:
+      path: /?ed=2048
+  - alterId: 0
+    cipher: auto
+    name: 法国节点_7
+    network: ws
+    port: 44579
+    server: 2001:bc8:32d7:302::10
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+    ws-opts:
+      headers:
+        Host: TURK1.NET.NET
+      path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1
+  - alterId: 64
+    cipher: auto
+    name: 亚太地区
+    port: 34114
+    server: 103.181.164.237
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  - alterId: 0
+    cipher: auto
+    name: 🇬🇧 英国
+    port: 180
+    server: 82.198.246.97
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+  - alterId: 0
+    cipher: auto
+    name: 🇺🇸 北美地区
+    network: ws
+    port: 443
+    server: 198.62.62.199
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: f08369d1-5ee7-4b16-d786-30bce12fc33c
+    ws-opts:
+      headers:
+        Host: ous3.dean52.top
+      path: /f08369d1-5ee7-4b16-d786-30bce12fc33c
+  - alterId: 0
+    cipher: auto
+    name: 美国_6
+    port: 180
+    server: 82.198.246.97
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
