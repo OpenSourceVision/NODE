@@ -3,109 +3,97 @@ proxies:
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 921
-    server: 54.178.24.255
+    server: 54.238.23.69
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
-  - name: Poland_None_trojan_104
-    network: tcp
-    password: BxceQaOe
-    port: 5823
-    server: 95.40.5.151
-    skip-cert-verify: true
-    sni: t.me%2Fripaojiedian
-    tfo: false
-    type: trojan
-  - name: Hong Kong_Sai Wan_trojan_105
+  - name: Hong Kong_Central_trojan_104
     network: tcp
     password: BxceQaOe
     port: 443
-    server: 58.152.25.253
+    server: 119.237.128.216
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
-    tfo: false
+    type: trojan
+  - name: Japan_Tokyo_trojan_105
+    network: tcp
+    password: BxceQaOe
+    port: 6313
+    server: 13.231.91.242
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
     type: trojan
   - name: Japan_Tokyo_trojan_106
     network: tcp
     password: BxceQaOe
-    port: 3022
-    server: 54.178.24.255
+    port: 4945
+    server: 3.112.213.24
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
-    tfo: false
     type: trojan
   - name: Japan_Tokyo_trojan_107
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 34818
-    server: 153.121.45.139
+    server: 153.121.38.213
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
   - name: Japan_Tokyo_trojan_108
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 4937
-    server: 153.121.45.139
+    server: 160.16.85.33
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
   - name: Japan_Tokyo_trojan_109
     network: tcp
     password: f7dbed8b1ca85124e793ba6c0bcfd0db
     port: 3419
-    server: 153.121.45.139
+    server: 160.16.85.33
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
   - name: Japan_Tokyo_trojan_1010
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 4674
-    server: 153.121.45.139
+    server: 160.16.85.33
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
   - name: Japan_Tokyo_trojan_1011
     network: tcp
     password: BxceQaOe
-    port: 29666
-    server: 54.238.164.64
+    port: 52951
+    server: 13.231.110.103
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
-    tfo: false
     type: trojan
   - name: Japan_Tokyo_trojan_1012
     network: tcp
     password: f389ed926e512e15f382dc3804029474
-    port: 3057
-    server: 153.121.45.139
+    port: 4920
+    server: 54.238.23.69
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
   - name: Japan_Tokyo_trojan_1013
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 4920
-    server: 13.231.7.33
+    server: 54.248.177.86
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
   - name: Hong Kong_None_trojan_1014
     network: tcp
     password: BxceQaOe
-    port: 23287
-    server: 18.163.182.91
+    port: 5390
+    server: 16.163.105.149
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
-    tfo: false
     type: trojan
   - name: Hong Kong_Kai Yi Wan_trojan_1016
     password: d5fa43f9-1ace-4b8f-b865-627e67b1fe37
@@ -115,123 +103,191 @@ proxies:
     sni: jsygouer.weixin-baidu-qq.com
     type: trojan
     udp: true
-  - name: Hong Kong_Central_trojan_1117
+  - alpn:
+      - h3%2Ch2%2Chttp%2F1.1
+    name: United States_None_trojan_1113
+    network: ws
+    password: 823cbccd-3a71-4248-ac3c-3c460de1552d
+    port: 443
+    server: 172.64.53.190
+    skip-cert-verify: true
+    sni: snll667.pages.dev
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snll667.pages.dev
+      path: "%2F"
+  - alpn:
+      - h3%2Ch2%2Chttp%2F1.1
+    name: Taiwan_Yunlin_trojan_1114
+    network: ws
+    password: 823cbccd-3a71-4248-ac3c-3c460de1552d
+    port: 14147
+    server: 203.69.248.40
+    skip-cert-verify: true
+    sni: snll667.pages.dev
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snll667.pages.dev
+      path: "%2F"
+  - name: The Netherlands_Meppel_trojan_1117
     network: tcp
     password: af4b064a9c39472fb34ad8b113acdc6b
     port: 443
-    server: 183.179.43.254
+    server: 38.180.173.150
     skip-cert-verify: true
-    sni: 183.179.43.254
+    sni: 38.180.173.150
     type: trojan
-  - name: Japan_Tokyo_trojan_1121
+  - alpn:
+      - h3%2Ch2%2Chttp%2F1.1
+    name: None_None_trojan_1118
+    network: ws
+    password: 823cbccd-3a71-4248-ac3c-3c460de1552d
+    port: 443
+    server: cf.877774.xyz
+    skip-cert-verify: true
+    sni: snll667.pages.dev
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snll667.pages.dev
+      path: "%2F"
+  - alpn:
+      - h3%2Ch2%2Chttp%2F1.1
+    name: Poland_None_trojan_1119
+    network: ws
+    password: 823cbccd-3a71-4248-ac3c-3c460de1552d
+    port: 443
+    server: 95.40.61.115
+    skip-cert-verify: true
+    sni: snll667.pages.dev
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snll667.pages.dev
+      path: "%2F"
+  - name: India_Bengaluru_trojan_1128
+    network: tcp
+    password: af4b064a9c39472fb34ad8b113acdc6b
+    port: 443
+    server: 139.84.133.199
+    skip-cert-verify: true
+    sni: 139.84.133.199
+    type: trojan
+  - name: United States_New York_trojan_1129
+    network: tcp
+    password: af4b064a9c39472fb34ad8b113acdc6b
+    port: 443
+    server: 194.33.45.157
+    skip-cert-verify: true
+    sni: 194.33.45.157
+    type: trojan
+  - name: Singapore_Singapore_trojan_1130
+    network: tcp
+    password: af4b064a9c39472fb34ad8b113acdc6b
+    port: 443
+    server: 5.180.78.22
+    skip-cert-verify: true
+    sni: 5.180.78.22
+    type: trojan
+  - name: Japan_Tokyo_trojan_1133
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 921
-    server: 54.178.24.255
+    server: 54.238.23.69
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
-  - name: Poland_None_trojan_1122
-    network: tcp
-    password: BxceQaOe
-    port: 5823
-    server: 95.40.5.151
-    skip-cert-verify: true
-    sni: t.me%2Fripaojiedian
-    tfo: false
-    type: trojan
-  - name: Hong Kong_Sai Wan_trojan_1123
+  - name: Hong Kong_Central_trojan_1134
     network: tcp
     password: BxceQaOe
     port: 443
-    server: 58.152.25.253
+    server: 119.237.128.216
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
-    tfo: false
     type: trojan
-  - name: Japan_Tokyo_trojan_1124
+  - name: Japan_Tokyo_trojan_1135
     network: tcp
     password: BxceQaOe
-    port: 3022
-    server: 54.178.24.255
+    port: 6313
+    server: 13.231.91.242
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_1136
+    network: tcp
+    password: BxceQaOe
+    port: 4945
+    server: 3.112.213.24
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
-    tfo: false
     type: trojan
-  - name: Japan_Tokyo_trojan_1125
+  - name: Japan_Tokyo_trojan_1137
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 34818
-    server: 153.121.45.139
+    server: 153.121.38.213
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
-  - name: Japan_Tokyo_trojan_1126
+  - name: Japan_Tokyo_trojan_1138
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 4937
-    server: 153.121.45.139
+    server: 160.16.85.33
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
-  - name: Japan_Tokyo_trojan_1127
+  - name: Japan_Tokyo_trojan_1139
     network: tcp
     password: f7dbed8b1ca85124e793ba6c0bcfd0db
     port: 3419
-    server: 153.121.45.139
+    server: 160.16.85.33
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
-  - name: Japan_Tokyo_trojan_1128
+  - name: Japan_Tokyo_trojan_1140
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 4674
-    server: 153.121.45.139
+    server: 160.16.85.33
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
-  - name: Japan_Tokyo_trojan_1129
+  - name: Japan_Tokyo_trojan_1141
     network: tcp
     password: BxceQaOe
-    port: 29666
-    server: 54.238.164.64
+    port: 52951
+    server: 13.231.110.103
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
-    tfo: false
     type: trojan
-  - name: Japan_Tokyo_trojan_1130
-    network: tcp
-    password: f389ed926e512e15f382dc3804029474
-    port: 3057
-    server: 153.121.45.139
-    skip-cert-verify: false
-    sni: www.nintendogames.net
-    tfo: false
-    type: trojan
-  - name: Japan_Tokyo_trojan_1131
+  - name: Japan_Tokyo_trojan_1142
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 4920
-    server: 13.231.7.33
+    server: 54.238.23.69
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
-  - name: Hong Kong_None_trojan_1132
+  - name: Japan_Tokyo_trojan_1143
+    network: tcp
+    password: f389ed926e512e15f382dc3804029474
+    port: 4920
+    server: 54.248.177.86
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Hong Kong_None_trojan_1144
     network: tcp
     password: BxceQaOe
-    port: 23287
-    server: 18.163.182.91
+    port: 5390
+    server: 16.163.105.149
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
-    tfo: false
     type: trojan
-  - name: Hong Kong_Kai Yi Wan_trojan_1134
+  - name: Hong Kong_Kai Yi Wan_trojan_1146
     password: d5fa43f9-1ace-4b8f-b865-627e67b1fe37
     port: 35902
     server: sg03.stimaysmhy8.com
@@ -243,109 +299,97 @@ proxies:
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 921
-    server: 54.178.24.255
+    server: 54.238.23.69
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
-  - name: Poland_None_trojan_104
-    network: tcp
-    password: BxceQaOe
-    port: 5823
-    server: 95.40.5.151
-    skip-cert-verify: true
-    sni: t.me%2Fripaojiedian
-    tfo: false
-    type: trojan
-  - name: Hong Kong_Sai Wan_trojan_105
+  - name: Hong Kong_Central_trojan_104
     network: tcp
     password: BxceQaOe
     port: 443
-    server: 58.152.25.253
+    server: 119.237.128.216
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
-    tfo: false
+    type: trojan
+  - name: Japan_Tokyo_trojan_105
+    network: tcp
+    password: BxceQaOe
+    port: 6313
+    server: 13.231.91.242
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
     type: trojan
   - name: Japan_Tokyo_trojan_106
     network: tcp
     password: BxceQaOe
-    port: 3022
-    server: 54.178.24.255
+    port: 4945
+    server: 3.112.213.24
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
-    tfo: false
     type: trojan
   - name: Japan_Tokyo_trojan_107
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 34818
-    server: 153.121.45.139
+    server: 153.121.38.213
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
   - name: Japan_Tokyo_trojan_108
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 4937
-    server: 153.121.45.139
+    server: 160.16.85.33
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
   - name: Japan_Tokyo_trojan_109
     network: tcp
     password: f7dbed8b1ca85124e793ba6c0bcfd0db
     port: 3419
-    server: 153.121.45.139
+    server: 160.16.85.33
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
   - name: Japan_Tokyo_trojan_1010
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 4674
-    server: 153.121.45.139
+    server: 160.16.85.33
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
   - name: Japan_Tokyo_trojan_1011
     network: tcp
     password: BxceQaOe
-    port: 29666
-    server: 54.238.164.64
+    port: 52951
+    server: 13.231.110.103
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
-    tfo: false
     type: trojan
   - name: Japan_Tokyo_trojan_1012
     network: tcp
     password: f389ed926e512e15f382dc3804029474
-    port: 3057
-    server: 153.121.45.139
+    port: 4920
+    server: 54.238.23.69
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
   - name: Japan_Tokyo_trojan_1013
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 4920
-    server: 13.231.7.33
+    server: 54.248.177.86
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
   - name: Hong Kong_None_trojan_1014
     network: tcp
     password: BxceQaOe
-    port: 23287
-    server: 18.163.182.91
+    port: 5390
+    server: 16.163.105.149
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
-    tfo: false
     type: trojan
   - name: Hong Kong_Kai Yi Wan_trojan_1016
     password: d5fa43f9-1ace-4b8f-b865-627e67b1fe37
@@ -355,123 +399,191 @@ proxies:
     sni: jsygouer.weixin-baidu-qq.com
     type: trojan
     udp: true
-  - name: Hong Kong_Central_trojan_1117
+  - alpn:
+      - h3%2Ch2%2Chttp%2F1.1
+    name: United States_None_trojan_1113
+    network: ws
+    password: 823cbccd-3a71-4248-ac3c-3c460de1552d
+    port: 443
+    server: 172.64.53.190
+    skip-cert-verify: true
+    sni: snll667.pages.dev
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snll667.pages.dev
+      path: "%2F"
+  - alpn:
+      - h3%2Ch2%2Chttp%2F1.1
+    name: Taiwan_Yunlin_trojan_1114
+    network: ws
+    password: 823cbccd-3a71-4248-ac3c-3c460de1552d
+    port: 14147
+    server: 203.69.248.40
+    skip-cert-verify: true
+    sni: snll667.pages.dev
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snll667.pages.dev
+      path: "%2F"
+  - name: The Netherlands_Meppel_trojan_1117
     network: tcp
     password: af4b064a9c39472fb34ad8b113acdc6b
     port: 443
-    server: 183.179.43.254
+    server: 38.180.173.150
     skip-cert-verify: true
-    sni: 183.179.43.254
+    sni: 38.180.173.150
     type: trojan
-  - name: Japan_Tokyo_trojan_1121
+  - alpn:
+      - h3%2Ch2%2Chttp%2F1.1
+    name: None_None_trojan_1118
+    network: ws
+    password: 823cbccd-3a71-4248-ac3c-3c460de1552d
+    port: 443
+    server: cf.877774.xyz
+    skip-cert-verify: true
+    sni: snll667.pages.dev
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snll667.pages.dev
+      path: "%2F"
+  - alpn:
+      - h3%2Ch2%2Chttp%2F1.1
+    name: Poland_None_trojan_1119
+    network: ws
+    password: 823cbccd-3a71-4248-ac3c-3c460de1552d
+    port: 443
+    server: 95.40.61.115
+    skip-cert-verify: true
+    sni: snll667.pages.dev
+    type: trojan
+    ws-opts:
+      headers:
+        Host: snll667.pages.dev
+      path: "%2F"
+  - name: India_Bengaluru_trojan_1128
+    network: tcp
+    password: af4b064a9c39472fb34ad8b113acdc6b
+    port: 443
+    server: 139.84.133.199
+    skip-cert-verify: true
+    sni: 139.84.133.199
+    type: trojan
+  - name: United States_New York_trojan_1129
+    network: tcp
+    password: af4b064a9c39472fb34ad8b113acdc6b
+    port: 443
+    server: 194.33.45.157
+    skip-cert-verify: true
+    sni: 194.33.45.157
+    type: trojan
+  - name: Singapore_Singapore_trojan_1130
+    network: tcp
+    password: af4b064a9c39472fb34ad8b113acdc6b
+    port: 443
+    server: 5.180.78.22
+    skip-cert-verify: true
+    sni: 5.180.78.22
+    type: trojan
+  - name: Japan_Tokyo_trojan_1133
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 921
-    server: 54.178.24.255
+    server: 54.238.23.69
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
-  - name: Poland_None_trojan_1122
-    network: tcp
-    password: BxceQaOe
-    port: 5823
-    server: 95.40.5.151
-    skip-cert-verify: true
-    sni: t.me%2Fripaojiedian
-    tfo: false
-    type: trojan
-  - name: Hong Kong_Sai Wan_trojan_1123
+  - name: Hong Kong_Central_trojan_1134
     network: tcp
     password: BxceQaOe
     port: 443
-    server: 58.152.25.253
+    server: 119.237.128.216
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
-    tfo: false
     type: trojan
-  - name: Japan_Tokyo_trojan_1124
+  - name: Japan_Tokyo_trojan_1135
     network: tcp
     password: BxceQaOe
-    port: 3022
-    server: 54.178.24.255
+    port: 6313
+    server: 13.231.91.242
+    skip-cert-verify: true
+    sni: t.me%2Fripaojiedian
+    type: trojan
+  - name: Japan_Tokyo_trojan_1136
+    network: tcp
+    password: BxceQaOe
+    port: 4945
+    server: 3.112.213.24
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
-    tfo: false
     type: trojan
-  - name: Japan_Tokyo_trojan_1125
+  - name: Japan_Tokyo_trojan_1137
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 34818
-    server: 153.121.45.139
+    server: 153.121.38.213
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
-  - name: Japan_Tokyo_trojan_1126
+  - name: Japan_Tokyo_trojan_1138
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 4937
-    server: 153.121.45.139
+    server: 160.16.85.33
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
-  - name: Japan_Tokyo_trojan_1127
+  - name: Japan_Tokyo_trojan_1139
     network: tcp
     password: f7dbed8b1ca85124e793ba6c0bcfd0db
     port: 3419
-    server: 153.121.45.139
+    server: 160.16.85.33
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
-  - name: Japan_Tokyo_trojan_1128
+  - name: Japan_Tokyo_trojan_1140
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 4674
-    server: 153.121.45.139
+    server: 160.16.85.33
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
-  - name: Japan_Tokyo_trojan_1129
+  - name: Japan_Tokyo_trojan_1141
     network: tcp
     password: BxceQaOe
-    port: 29666
-    server: 54.238.164.64
+    port: 52951
+    server: 13.231.110.103
     skip-cert-verify: true
     sni: t.me%252Fripaojiedian
-    tfo: false
     type: trojan
-  - name: Japan_Tokyo_trojan_1130
-    network: tcp
-    password: f389ed926e512e15f382dc3804029474
-    port: 3057
-    server: 153.121.45.139
-    skip-cert-verify: false
-    sni: www.nintendogames.net
-    tfo: false
-    type: trojan
-  - name: Japan_Tokyo_trojan_1131
+  - name: Japan_Tokyo_trojan_1142
     network: tcp
     password: f389ed926e512e15f382dc3804029474
     port: 4920
-    server: 13.231.7.33
+    server: 54.238.23.69
     skip-cert-verify: false
     sni: www.nintendogames.net
-    tfo: false
     type: trojan
-  - name: Hong Kong_None_trojan_1132
+  - name: Japan_Tokyo_trojan_1143
+    network: tcp
+    password: f389ed926e512e15f382dc3804029474
+    port: 4920
+    server: 54.248.177.86
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - name: Hong Kong_None_trojan_1144
     network: tcp
     password: BxceQaOe
-    port: 23287
-    server: 18.163.182.91
+    port: 5390
+    server: 16.163.105.149
     skip-cert-verify: true
     sni: t.me%2Fripaojiedian
-    tfo: false
     type: trojan
-  - name: Hong Kong_Kai Yi Wan_trojan_1134
+  - name: Hong Kong_Kai Yi Wan_trojan_1146
     password: d5fa43f9-1ace-4b8f-b865-627e67b1fe37
     port: 35902
     server: sg03.stimaysmhy8.com
