@@ -1,7 +1,7 @@
 proxies:
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_102
+    name: Hong Kong_Tuen Mun_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -10,7 +10,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1015
+    name: Hong Kong_Tuen Mun_vmess_1015
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -268,7 +268,7 @@ proxies:
       path: /vvip
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1132
+    name: Hong Kong_Tuen Mun_vmess_1132
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -277,7 +277,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1145
+    name: Hong Kong_Tuen Mun_vmess_1145
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -287,7 +287,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_102
+    name: Hong Kong_Tuen Mun_vmess_102
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -296,7 +296,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1015
+    name: Hong Kong_Tuen Mun_vmess_1015
     network: tcp
     port: "30807"
     server: v10.hdacd.com
@@ -554,7 +554,7 @@ proxies:
       path: /vvip
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1132
+    name: Hong Kong_Tuen Mun_vmess_1132
     port: 30807
     server: v10.hdacd.com
     skip-cert-verify: false
@@ -563,7 +563,7 @@ proxies:
     uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   - alterId: 2
     cipher: auto
-    name: Hong Kong_Central_vmess_1145
+    name: Hong Kong_Tuen Mun_vmess_1145
     network: tcp
     port: "30807"
     server: v10.hdacd.com
